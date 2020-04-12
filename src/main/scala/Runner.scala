@@ -1,10 +1,19 @@
 import models.extractors.{ImdbExtractor, LaNacionExtractor}
 
-object Runner extends App {
-    val extractorLN = LaNacionExtractor()
-    val extractorIMDB = ImdbExtractor()
-    val urlLN = "https://www.lanacion.com.ar/politica/a-nid2353241"
-    val urlIMDB = "http://www.imdb.com/title/tt0111161/"
-//    extractorLN.extract(urlLN)
-    extractorIMDB.extract(urlIMDB)
+import scala.io.Source
+
+//noinspection SourceNotClosed
+object IMDBRunner extends App {
+    val extractor = ImdbExtractor()
+    val links = Source.fromFile("src/main/scala/resources/imdb-links.txt").getLines.toList
+    links.foreach(url => {
+
+    })
+}
+
+//noinspection SourceNotClosed
+object LNRunner extends App {
+    val extractor = LaNacionExtractor()
+    val links = Source.fromFile("src/main/scala/resources/la-nacion-links.txt").getLines.toList
+    links.foreach(extractor.extract)
 }

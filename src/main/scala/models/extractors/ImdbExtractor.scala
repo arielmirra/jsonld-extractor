@@ -15,6 +15,15 @@ case class ImdbExtractor() extends Extractor {
         implicit val formats: DefaultFormats.type = DefaultFormats
         val movie = movieJson.extract[Movie]
         println(movie)
-        null
+        movie
+    }
+
+    override def extract(urls: Seq[String]): Seq[JsonLD] = {
+        var jsons = Seq[JsonLD]()
+        urls.foreach(url => {
+            val newJsonLd = extract(url)
+            jsons = newJsonLd +: jsons
+        })
+        jsons
     }
 }

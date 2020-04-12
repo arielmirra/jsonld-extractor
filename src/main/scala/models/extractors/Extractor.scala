@@ -6,6 +6,7 @@ import net.liftweb.json.parse
 
 trait Extractor {
     def extract(url: String): JsonLD
+    def extract(urls: Seq[String]): Seq[JsonLD]
 }
 
 object Extractor {
