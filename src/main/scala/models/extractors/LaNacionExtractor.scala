@@ -7,7 +7,6 @@ import utils.http
 case class LaNacionExtractor() extends Extractor {
     val jsonLdSelector = "#Schema_NewsArticle"
     val articleSelector = "#cuerpo"
-    val url = "https://www.lanacion.com.ar/politica/a-nid2353241"
 
     override def extract(url: String): JsonLD = {
         val jsonLD = http.getElementContent(url, jsonLdSelector)

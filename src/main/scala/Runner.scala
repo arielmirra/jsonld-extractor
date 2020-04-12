@@ -1,7 +1,10 @@
-import models.extractors.LaNacionExtractor
+import models.extractors.{ImdbExtractor, LaNacionExtractor}
 
 object Runner extends App {
-    val extractor = LaNacionExtractor()
-    val url = "https://www.lanacion.com.ar/politica/a-nid2353241"
-    extractor.extract(url)
+    val extractorLN = LaNacionExtractor()
+    val extractorIMDB = ImdbExtractor()
+    val urlLN = "https://www.lanacion.com.ar/politica/a-nid2353241"
+    val urlIMDB = "http://www.imdb.com/title/tt0111161/"
+//    extractorLN.extract(urlLN)
+    extractorIMDB.extract(urlIMDB)
 }
