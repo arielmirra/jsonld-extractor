@@ -1,7 +1,7 @@
 package models.extractors
 
-import models.{JsonLD, NewsArticle}
-import net.liftweb.json.{DefaultFormats, parse}
+import models.{JsonLD, Movie}
+import net.liftweb.json.{DefaultFormats, parse, prettyRender}
 import utils.http
 
 case class ImdbExtractor() extends Extractor {
@@ -9,11 +9,12 @@ case class ImdbExtractor() extends Extractor {
 
     override def extract(url: String): JsonLD = {
         val jsonLD = http.getJsonLdString(url)
-        println(jsonLD)
-
+        val auxJson = parse(jsonLD)
+        val movieJson = Extractor.putId(auxJson, url)
+        println(prettyRender(movieJson))
         implicit val formats: DefaultFormats.type = DefaultFormats
-//        val newsArticle = newsJson.extract[NewsArticle]
-
+        val movie = movieJson.extract[Movie]
+        println(movie)
         null
     }
 }
