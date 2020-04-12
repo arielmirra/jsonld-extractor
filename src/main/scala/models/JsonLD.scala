@@ -18,5 +18,5 @@ case class NewsArticle(
                           author: Seq[String],
                           creator: Seq[String],
                           keywords: Seq[String],
-                          body: String
+                          articleBody: String
                       ) extends JsonLD
