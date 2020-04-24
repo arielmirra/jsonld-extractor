@@ -1,0 +1,109 @@
+{
+  "id":"  http://www.imdb.com/title/tt0062622/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0062622/",
+  "name":"2001: A Space Odyssey",
+  "image":"https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "contentRating":"G",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001158/",
+      "name":"Keir Dullea"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0516972/",
+      "name":"Gary Lockwood"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0843213/",
+      "name":"William Sylvester"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0725220/",
+      "name":"Daniel Richter"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000040/",
+    "name":"Stanley Kubrick"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000040/",
+      "name":"Stanley Kubrick"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002009/",
+      "name":"Arthur C. Clarke"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002009/",
+      "name":"Arthur C. Clarke"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0007143/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0038089/"
+    }
+  ],
+  "description":"2001: A Space Odyssey is a movie starring Keir Dullea, Gary Lockwood, and William Sylvester. After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from...",
+  "datePublished":"1968-04-11",
+  "keywords":"monolith,star child,human versus computer,number in title,computer",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":574555,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0062622/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"mmt02"
+    },
+    "dateCreated":"1999-06-03",
+    "inLanguage":"English",
+    "name":"Greatest Movie of All Time",
+    "reviewBody":"Instead of writing a paragraph, I'll give four good reasons why 2001 is  the greatest cinema experience of all time:  1) It is a visual Odyssey that could only be told on the big screen.  The special effects that won Kubrick his only Oscar are the most  stunning effects before that age of Jurassic Park and T2. They allow  Kubrick to give an accurate (or at least are the most accurate)  depiction of space travel to date. The silence that fills the space  scenes not only serves its purpose as accurate science, but also adds  to the mood of the film (to be discussed in a later point with HAL).  The fact that Kubrick shot the moon scenes before the Apollo landing is  a gutsy yet fulfilling move. Many have said that upon its original  release, it was a favorite \"trip\" movie. I can think of no other movie  that has such amazing visuals for its time and even of all time (sorry  Phantom Menace fans!)  2) Kubrick's directing style is terrific. As in all his films, Kubrick  likes to use his camera as means to delve into the psychology of his  characters and plots. His camera is not as mobile as other greats, such  as Scorsese, but instead sits and watches the narrative unfold. Faces  are the key element of a Kubrick film. Like classic movies, such as M  and Touch of Evil, Kubrick focuses on the characters' faces to give the  audience a psychological view-point. Even he uses extreme close-ups of  HAL's glowing red \"eye\" to show the coldness and determination of the  computerizd villain. I could go on, but in summation Kubrick is at the  hieght of his style.  3) HAL 9000 is one of the most villainous characters in film history. I  whole-heartedly agree with the late Gene Siskle's opinion of HAL 9000.  Most of this film takes place in space. Through the use of silence and  the darkness of space itself, a mood of isolation is created. Dave and  his crewmen are isolated between earth and jupiter, with nowhere to  escape. Combine this mood with the cold, calculated actions of HAL 9000  and you have the most fearful villain imaginable. I still, although  having see this film several times, feel my chest tighten in a  particular scene.  4) The controversial  ending of 2001 always turns people away from this film. Instead of  trying to give my opinion of the what it means and what my idea of  2001's meaning in general is, I'd like to discuss the fact that the  ending serves to leave the movie open-ended. Kubrick has stated that he  inteded to make 2001 open for discussion. He left its meaning in the  hands of the viewer. By respecting the audience's intelligence, Kubrick  allowed his movie to be the beginning, not the end, of a meaningful  discussion on man's past, present, and future. The beauty of 2001 is  that the ending need not mean anything deep, it can just be a purely  plot driven explanation and the entire movie can be viewed as an  entertaining journey through space. No other movie, save the great  Citizen Kane, leaves itself open to discussion like 2001. It is truly  meant to be a surreal journey that involves not only the eye but the  mind. Instead of waiting in long lines for the Phantom Menace, rent a  widescreen edition of 2001 and enjoy the greatest cinematic experience.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H29M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"New 70mm Trailer",
+    "embedUrl":"/video/imdb/vi2674767897",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZGJiOGEyYWQtNWYyMC00MWRiLWIzMzMtNTMxNjVlMGEwZWM3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZGJiOGEyYWQtNWYyMC00MWRiLWIzMzMtNTMxNjVlMGEwZWM3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+    "description":"Humanity finds a mysterious, obviously artificial object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.",
+    "uploadDate":"2018-04-20T21:39:40Z"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id":"  http://www.imdb.com/title/tt0172495/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0172495/",
+  "name":"Gladiator",
+  "image":"https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000128/",
+      "name":"Russell Crowe"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001618/",
+      "name":"Joaquin Phoenix"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001567/",
+      "name":"Connie Nielsen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001657/",
+      "name":"Oliver Reed"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000631/",
+    "name":"Ridley Scott"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0291905/",
+      "name":"David Franzoni"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0291905/",
+      "name":"David Franzoni"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0517589/",
+      "name":"John Logan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0629933/",
+      "name":"William Nicholson"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0040938/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0005073/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0074212/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0105108/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0335516/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0335559/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0093794/"
+    }
+  ],
+  "description":"Gladiator is a movie starring Russell Crowe, Joaquin Phoenix, and Connie Nielsen. A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+  "datePublished":"2000-05-04",
+  "keywords":"gladiator,roman empire,slavery,combat,battlefield",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":1281958,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.5"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0172495/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"copperccso"
+    },
+    "dateCreated":"2002-09-07",
+    "inLanguage":"English",
+    "name":"One of the Greatest Movies Ever",
+    "reviewBody":"I love history, and to me, Gladiator is a masterpiece. It is the most accurate picture of the Roman Empire Hollywood has ever put out.  People declare Spartacus a masterpiece, but Gladiator far outdoes Spartacus in quality.  The costuming, the acting, the screenplay, the scenery, and the fighting styles made me think that I had traveled back to 180 A.D. Russell Crowe is a true Hollywood tough guy, and he is superb in this movie. Joaquin Phoenix is outstanding as a villain, one of the best in movie history.  He played his character as if it were a psychologist's dream case. Connie Nielsen plays one of the strongest female characters that I have ever seen.  The choreographer of the action sequences was brilliant. Ridley Scott did an outstanding job in recreating the Empire, including the multitude of ethnic groups within the Empire and accurately depicting everyday life.  If you're looking for insight into what the Roman Empire was like, this is a perfect depiction."
+  },
+  "duration":"PT2H35M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Official Trailer",
+    "embedUrl":"/video/imdb/vi2628367897",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTU1NTQ0OTkyNF5BMl5BanBnXkFtZTgwMTQzMjIwMDI@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTU1NTQ0OTkyNF5BMl5BanBnXkFtZTgwMTQzMjIwMDI@._V1_.jpg",
+    "description":"When a Roman general is betrayed and his family murdered by an emperor's corrupt son, he comes to Rome as a gladiator to seek revenge.",
+    "uploadDate":"2016-09-14T02:23:14Z"
+  }
+}

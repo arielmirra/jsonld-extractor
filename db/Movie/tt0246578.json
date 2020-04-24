@@ -1,0 +1,109 @@
+{
+  "id":"  http://www.imdb.com/title/tt0246578/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0246578/",
+  "name":"Donnie Darko",
+  "image":"https://m.media-amazon.com/images/M/MV5BZjZlZDlkYTktMmU1My00ZDBiLWFlNjEtYTBhNjVhOTM4ZjJjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0350453/",
+      "name":"Jake Gyllenhaal"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0540441/",
+      "name":"Jena Malone"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001521/",
+      "name":"Mary McDonnell"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0651660/",
+      "name":"Holmes Osborne"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0446819/",
+    "name":"Richard Kelly"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0446819/",
+      "name":"Richard Kelly"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0008059/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0148520/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0064962/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0081469/"
+    }
+  ],
+  "description":"Donnie Darko is a movie starring Jake Gyllenhaal, Jena Malone, and Mary McDonnell. A troubled teenager is plagued by visions of a man in a large rabbit suit who manipulates him to commit a series of crimes, after he narrowly escapes...",
+  "datePublished":"2002-01-30",
+  "keywords":"surrealism,time travel,masturbation,schizophrenia,parallel universe",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":719434,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0246578/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"FilmOtaku"
+    },
+    "dateCreated":"2004-09-21",
+    "inLanguage":"English",
+    "name":"Not as impressive as the original",
+    "reviewBody":"*This is a review of the Directors Cut*\n\nI've already reviewed the originally released cut of 'Donnie Darko' so I am not going to review the film again. Instead, I'll comment on the differences between the two versions; unfortunately most of the differences took away from the original film, which I think is truly excellent. \n\nI traveled two hours round-trip with several friends to see the Directors Cut since it was not playing in Milwaukee at the time, and while I am glad that I saw it, I feel that the original is the superior version. There were many superfluous scenes in the new cut which did not add to the film; rather I almost felt that they made the pacing falter a bit. For example, the new scene between Donnie's parents in the café  a completely unnecessary scene which did not add anything relevant to the story. There were a handful of scenes like this, as well as some added dialogue that indeed added to the development of some characters, (Drew Barrymore's character, the teacher 'Karen' was enhanced a bit) for some it just seemed silly (One of Donnie's bus stop friends telling Cherita that he 'hopes she gets molested' turned him from just being an incidental character into being an incidental character who is a jackass.) \n\nAnother major difference between the two films was the addition of several special effects to the new cut. There were a lot of dream-like sequences (the file cabinets floating among the clouds ala Rene Magritte) and all of the stuff focusing on Donnie's eyeball, computer-ish codes, etc, that just did not work in my opinion. Also, some of the most subtle changes, soundtrack for example, were disarming. The opening song was 'The Killing Moon' by Echo and the Bunnymen in the original, which provided a great backdrop in the introduction to Donnie, his environment and his family. Kelly used 'Never Tear Us Apart' by INXS in his directors cut. Certainly, a good song, but after using a perfect song originally, it is hard to get used to an inferior replacement.\n\nWhich is how I sum up my feelings about Kelly's directors cut in general? Why mess with (near) perfection? 'Donnie Darko' is a fantastic film that was so thought-provoking it made some people run the other way. Only those who were interested in something beyond the ordinary stayed to ponder and theorize its meaning, and still are to this day. Kelly's new cut does not enhance the film, rather, it made it plodding and a little dumbed-down  two adjectives I never thought I would ascribe to this film. See the directors cut to play 'spot the new stuff', but stick with the original.\n\n--Shel",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H53M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Donnie Darko: 15th Anniversary",
+    "embedUrl":"/video/imdb/vi1835513369",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BODhiOWQ2NTItOTMxMy00NTNlLWFhOWYtMjFiNzdjYjg4NjY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BODhiOWQ2NTItOTMxMy00NTNlLWFhOWYtMjFiNzdjYjg4NjY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for Donnie Darko: 15th Anniversary",
+    "uploadDate":"2017-03-02T16:16:07Z"
+  }
+}

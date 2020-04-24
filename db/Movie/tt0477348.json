@@ -1,0 +1,125 @@
+{
+  "id":"  http://www.imdb.com/title/tt0477348/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0477348/",
+  "name":"No Country for Old Men",
+  "image":"https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000169/",
+      "name":"Tommy Lee Jones"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000849/",
+      "name":"Javier Bardem"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000982/",
+      "name":"Josh Brolin"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000437/",
+      "name":"Woody Harrelson"
+    }
+  ],
+  "director":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001053/",
+      "name":"Ethan Coen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001054/",
+      "name":"Joel Coen"
+    }
+  ],
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001054/",
+      "name":"Joel Coen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001053/",
+      "name":"Ethan Coen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0565092/",
+      "name":"Cormac McCarthy"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0179341/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0022594/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0093765/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0068186/"
+    }
+  ],
+  "description":"No Country for Old Men is a movie starring Tommy Lee Jones, Javier Bardem, and Josh Brolin. Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+  "datePublished":"2007-11-21",
+  "keywords":"sheriff,texas,desert,el paso texas,revisionist western",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":810825,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0477348/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"jp71ph"
+    },
+    "dateCreated":"2008-03-05",
+    "inLanguage":"English",
+    "name":"The Coen Brothers' masterful achievement",
+    "reviewBody":"It was not very long before I watched 'No Country for Old Men' that I watched the other remarkable film of 2007, 'There Will Be Blood.' Back then I thought that Paul Thomas Anderson has delivered the Best Picture of the year with his oil epic, but after watching the Coen brothers chilling and violent adaptation of Cormac McCarthy's 2005 novel, I knew right away that here was a film destined to be even a greater film than any I've seen this past year.\n\nIt's not easy to watch 'No Country for Old Men.' The first time I saw it, I found myself dazed enough to not be able to stand-up immediately even after the whole end credits have finished. And yet, mixed with the feeling of shock is the profound sense of wonder and awe with what I have just witnessed on the screen. It took me another viewing to fully appreciate the meaning and intention of the film, and while the experience from watching the film is not one everybody will enjoy and understand, it certainly is one of the most moving and thought-provoking movies I have ever watched. This is the kind of movie that will make you think, the kind that stays with you even after a long time has passed since you've last watched it. On the literal level, it is a simple cat-and-mouse chase thriller movie, but from within its roots lie a very profound philosophical and penetrating analysis not only of the characters and the situations involved in the story, but also of the kind of world we are living in today and the more monstrous sides of it we often choose to ignore.\n\nThe story revolves around the chase between a guy named Llewelyn Moss (Josh Brolin,) who stumbles upon a stash of money in a drug deal gone wrong in the middle of the desert and a psychopathic but surprisingly \"principled\" assassin named Anton Chigurh (Javier Bardem). The third party and the moral center of the story is the guy trying to find both the hunter and the hunted, Ed Tom Bell, the old sheriff of a peaceful, but increasingly becoming violent locality in West Texas. \n\nThe movie features the perfect mix thrill and excitement that would be expected out of a movie in this genre. The Coen brothers' direction of the particularly intense chase scenes between Chigurh and Moss are masterful, evoking emotions of suspense to the highest level and pushing the audience to the very edge of their seats. This is achieved by very careful editing and sound direction that perfectly recreates the tense atmosphere whenever a particular scene is being played out. Also remarkable is the photography (done by Roger Deakins) of vast scenes in the desert where even what the ordinary moviegoer would consider as \"empty scenes\", where no action is played out, tells a story in a visual manner, where even when there is no dialogue or action on screen, the sweeping images speak out for themselves.\n\n'No Country for Old Men' is rich in such bravura kind of film-making. The particular camera move, position and choice of background and other trivial details such as time of day, cloud cover or positioning of the props and point-of-view perspective offer the best experience for the audience, and the most effective means of story-telling for the Coen brothers. Just watch the scenes of Tommy Lee Jones as the tormented old sheriff being burdened by the challenge of something that is greater a force than himself, something that he \"does not understand,\" and you will realize what I mean. The environment and tone created by the filmmakers perfectly accentuates the performance of Jones and more importantly, the core messages of the film. This style is present throughout the film and one of the particular points that makes it more than just a chase movie.\n\nI must say that I can't help but agree to most people when they say the Javier Bardem's Anton Chigurh is the most disturbing character (and yet mesmerizing) to grace the screen since Anthony Hopkins introduced us to Hannibal Lecter in 'Silence of the Lambs.' Chigurh effectively radiates evil and embodies violence in a very intelligent and forceful manner that touches the fear in all of us. Like Lecter, he personifies evil not in the conventional and simple sense, but in way that somehow presents to us the whole magnitude and complexity of its nature. In the dialogue he speaks, a kind of thinking revealed is one that is calculating and deeply philosophical but essentially ruthless and sinister.\n\nThe film's monumental achievement is in its ability to remarkably transport us into a world where the places, emotions, fears, anxieties, choices, morals and realities of life are strikingly brought to life and presented to us in a manner where we, after the whole experience, can reflect upon and look back with careful consideration. In the end, the moviegoer is left to marvel at the beauty (and madness) of it all. Here the theme of innocence lost as it is corrupted by evil and violence is explored in the most cinematic fashion, delivered perfectly with richness of emotion and the greatest impact possible. The violence and bleakness of it all is not there to simply evoke reaction or engage the audience, it is there to tell a story and impart an experience of great magnitude and intention, to which the Coen brothers have brilliantly succeeded. All at the same time the movie is a character study on the effects of evil and innocence lost, an exploration on the themes of fate and chance, an analysis of the freedom to choose and its consequences, a reflection on evil and good as forces of society and the investigation of basic human emotions such as hope, fear, love, violence and aspiration in the face of a variety of situations.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H2M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"No Country for Old Men",
+    "embedUrl":"/video/imdb/vi145883417",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTc3ODk1NTY3NV5BMl5BanBnXkFtZTgwODE3NzIyMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTc3ODk1NTY3NV5BMl5BanBnXkFtZTgwODE3NzIyMzE@._V1_.jpg",
+    "description":"No Country for Old Men Trailer",
+    "uploadDate":"2007-11-29T10:20:42Z"
+  }
+}

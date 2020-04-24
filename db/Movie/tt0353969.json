@@ -1,0 +1,116 @@
+{
+  "id":"  http://www.imdb.com/title/tt0353969/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0353969/",
+  "name":"Salinui chueok",
+  "image":"https://m.media-amazon.com/images/M/MV5BMzhlNGJhYzUtZTNiMi00MjI0LWFjN2MtOTVlN2IxODVkZWVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0814280/",
+      "name":"Kang-ho Song"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1235292/",
+      "name":"Sang-kyung Kim"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1323287/",
+      "name":"Roe-ha Kim"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1138201/",
+      "name":"Jae-ho Song"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0094435/",
+    "name":"Bong Joon Ho"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0094435/",
+      "name":"Bong Joon Ho"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1323286/",
+      "name":"Kwang-rim Kim"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1646563/",
+      "name":"Sung-bo Shim"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0043365/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0338039/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0073647/"
+    }
+  ],
+  "description":"Salinui chueok is a movie starring Kang-ho Song, Sang-kyung Kim, and Roe-ha Kim. In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+  "datePublished":"2003-05-02",
+  "keywords":"serial killer,based on true story,false evidence,police violence,violence",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":120166,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0353969/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"WriterDave"
+    },
+    "dateCreated":"2005-07-15",
+    "inLanguage":"English",
+    "name":"The Slow Development of a Masterpiece",
+    "reviewBody":"This is probably the best crime thriller I've seen since \"Insomnia,\" and contains the most haunting climax of any serial killer flick since \"Seven.\" But like most films reaching for greatness, this is most admirable for its striking details.\n\nThe filmmakers here craft a taut, careful, and delicately strung together motion picture that relishes in its amazing development of mood, place, and character.\n\nFirst, the mood: Haunting cinematography (rain falling on a small village at night, shadows darting across a thick field of grass, figures lurking in the woods, a masterfully choreographed hot pursuit scene on foot), a poignant music score (aided by the creepy use of a Korean pop song that accompanies each murder), and no-nonsense direction (peppered with fabulous doses of comic relief--how Shakespearan!) keep the film more and more intriguing at each turn and fascinating to watch.\n\nSecond, the place: South Korea, circa the late 1980's, and apparently under some sort of militia rule. This is inspired by the true story of Korea's first publicized (and still unsolved) serial killer case. This unique time and place serves as a wonderful respite from the typical American big-city setting of so many other films of this ilk.\n\nFinally, the character development: The small details revealing the haunted souls of the detectives on the case is nothing short of brilliant. Witness the tiny executions of minutae: The cloth one rogue cop wraps around his boot so as not to leave scars when he kick-boxes suspects into submission, the harried chief of police checking his own blood pressure while trying to keep his off-the-cuff detectives in line or fighting to keep headline-starved reporters at bay, the young female officer desperately trying to showcase her abilities in crime solving between serving the chauvinistic detectives cups of fresh coffee, the outsider detective from Seoul's insistence that documents never lie (and the brutal irony at the climax that challenges his entire sense of being), and the main village detective's scathing speech on the difference between American FBI agents and Koren policemen. The beauty is in the details, and this film, like all the great ones, revels in their uncovering.\n\nOne flaw is that some might find the film a bit long in the tooth, but this is not to be missed for fans of serial killer thrillers and police procedural movies. For the Korean filmmakers, and the amazing cast...this is their master stroke.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H12M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Main trailer",
+    "embedUrl":"/video/imdb/vi1302834713",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNDA2NzUxOTI4M15BMl5BanBnXkFtZTgwOTA5MzM3MzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNDA2NzUxOTI4M15BMl5BanBnXkFtZTgwOTA5MzM3MzE@._V1_.jpg",
+    "description":"Memories of Murder(2003)",
+    "uploadDate":"2014-12-17T23:11:35Z"
+  }
+}

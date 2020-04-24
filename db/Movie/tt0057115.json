@@ -1,0 +1,112 @@
+{
+  "id":"  http://www.imdb.com/title/tt0057115/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0057115/",
+  "name":"The Great Escape",
+  "image":"https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Drama",
+    "History",
+    "Thriller",
+    "War"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000537/",
+      "name":"Steve McQueen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001258/",
+      "name":"James Garner"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000277/",
+      "name":"Richard Attenborough"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000314/",
+      "name":"Charles Bronson"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0836328/",
+    "name":"John Sturges"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0108595/",
+      "name":"Paul Brickhill"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0165412/",
+      "name":"James Clavell"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0122446/",
+      "name":"W.R. Burnett"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0258862/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0539336/"
+    }
+  ],
+  "description":"The Great Escape is a movie starring Steve McQueen, James Garner, and Richard Attenborough. Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+  "datePublished":"1963-07-04",
+  "keywords":"tunnel,escape from prison,escape,prisoner of war,nazi germany",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":214962,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0057115/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"hitchcockthelegend"
+    },
+    "dateCreated":"2008-03-04",
+    "inLanguage":"English",
+    "name":"Not just great, simply magnificent more like!",
+    "reviewBody":"\"Wait a minute, you aren't seriously suggesting that if I get thru the wire and case everything out there, and don't get picked up, to turn myself in and get thrown in the cooler for a couple of months so you can get the information you need\"\n\nSmart, witty and directed with adroit hands by John Sturges, The Great Escape is standing the test of time as a joyous multi cast family favourite. Based on the real accounts of allied soldiers escaping en mass from a German POW camp back in 1942, the film is involving from start to finish, due in the main to the wonderful array of characters on show. We follow them from the moment they arrive at the camp right through to the stunning climax, and it is with great joy I say that none of the cast lets the side down, they all do great work for the astute and undervalued Sturges. A number of great set pieces align with Elmer Bernstein's fabulous score to never let the blood settle, and in among the cheeky slices of humour is palpable tension to make this simply one of the best films of its type, in fact one of the best films ever.\n\nSturges and his writers, James Clavell & W.R. Burnett, adapt from the book written by Paul Brickhill, someone who speaks from experience having been one of the prisoners of super POW camp Stalag Luft III, which of course is what The Great Escape is born from. Sturges was fascinated by the story and after trying without fail for over a decade to get it onto the screen, he finally succeeded. The success three years earlier of his star ensemble Western, The Magnificent Seven, enabled Sturges to realise his vision, the result of which is still enthralling new generations with each passing year.\n\nThe cast is made up of notable thespians and iconic heroes. Steve McQueen (enticing the American audience in one feels), Richard Attenborough, Charles Bronson, James Donald, Donald Pleasance, James Coburn, James Garner, David McCallum, John Leyton and Gordon Jackson. Which of course is a pretty tidy roll call, but the input and impact of Hannes Messemer as the Camp Commandant, Colonel Von Luger should not be understated. His scenes have a real humanistic quality that shows a softer side of Germany to the one ruled by a certain despot (the finale here offering up the counter opposite of the war), the writers smartly, and rightly, not tarring a nation with the same old brush.\n\nA wonderful involving movie that puts characteristic heart in bed with the action and suspense laden plot. 10/10",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H52M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Great Escape",
+    "embedUrl":"/video/imdb/vi1130535193",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNmIyZWRiY2ItNWRiNi00YTdjLTk4MGUtMjAxOGNhMzFmMmMyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNmIyZWRiY2ItNWRiNi00YTdjLTk4MGUtMjAxOGNhMzFmMmMyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for The Great Escape",
+    "uploadDate":"2010-11-05T03:32:32Z"
+  }
+}

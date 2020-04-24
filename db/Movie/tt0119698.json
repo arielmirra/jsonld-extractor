@@ -1,0 +1,109 @@
+{
+  "id":"  http://www.imdb.com/title/tt0119698/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0119698/",
+  "name":"Mononoke-hime",
+  "image":"https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_.jpg",
+  "genre":[
+    "Animation",
+    "Adventure",
+    "Fantasy"
+  ],
+  "contentRating":"PG-13",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0559444/",
+      "name":"Yôji Matsuda"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0410942/",
+      "name":"Yuriko Ishida"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0849100/",
+      "name":"Yûko Tanaka"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001082/",
+      "name":"Billy Crudup"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0594503/",
+    "name":"Hayao Miyazaki"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0594503/",
+      "name":"Hayao Miyazaki"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0301274/",
+      "name":"Neil Gaiman"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0064941/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0205112/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0003850/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0048420/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0293090/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0016626/"
+    }
+  ],
+  "description":"Mononoke-hime is a movie starring Yôji Matsuda, Yuriko Ishida, and Yûko Tanaka. On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining...",
+  "datePublished":"1997-07-12",
+  "keywords":"forest,anime,human animal relationship,curse,princess",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":318939,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0119698/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"seamas"
+    },
+    "dateCreated":"1999-01-11",
+    "inLanguage":"English",
+    "name":"Stunning and sharp (in any language)",
+    "reviewBody":"I saw this film in Japan, in Japanese with no sub-titles, I don't speak a word of the language and I was still enthralled!  It is Miyazaki most visually intense (surpassing, at long last, Nausicaa) and is alive with color and movement the like not yet seen in anime.\n\nThe story is complex, and after talking with Japanese friends, it is clear that much of it went over my head (particularly that relating to specific Japanese myths), but the important elements came through. Miyazaki's long infatuation with technology verses nature and man's relation to God (or gods) weave throughout the film as does his trend for strong women characters. \n\nEven with the language barrier, the film is of such intense emotion that it caries you through to the end. The change in dynamic between the crashing fight scenes and the quiet scenes of healing by the lake is so broad and so well paced that I can't remember a film where my emotional state was so expertly varied.\n\nIf you have a chance to see this film, in any language, I recommend you do.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H14M"
+}

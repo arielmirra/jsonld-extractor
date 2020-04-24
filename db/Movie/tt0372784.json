@@ -1,0 +1,126 @@
+{
+  "id":"  http://www.imdb.com/title/tt0372784/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0372784/",
+  "name":"Batman Begins",
+  "image":"https://m.media-amazon.com/images/M/MV5BZmUwNGU2ZmItMmRiNC00MjhlLTg5YWUtODMyNzkxODYzMmZlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Adventure"
+  ],
+  "contentRating":"PG-13",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000288/",
+      "name":"Christian Bale"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000323/",
+      "name":"Michael Caine"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0913822/",
+      "name":"Ken Watanabe"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000553/",
+      "name":"Liam Neeson"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0634240/",
+    "name":"Christopher Nolan"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0004170/",
+      "name":"Bob Kane"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0333060/",
+      "name":"David S. Goyer"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0634240/",
+      "name":"Christopher Nolan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0333060/",
+      "name":"David S. Goyer"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002663/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0147954/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0038332/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0159111/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0165460/"
+    }
+  ],
+  "description":"Batman Begins is a movie starring Christian Bale, Michael Caine, and Ken Watanabe. After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+  "datePublished":"2005-06-15",
+  "keywords":"social decay,dc comics,superhero,well,deception",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":1255122,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0372784/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"streetsmarts101"
+    },
+    "dateCreated":"2005-06-06",
+    "inLanguage":"English",
+    "name":"Finally!!!",
+    "reviewBody":"I got a chance to see 'Batman Begins' just this past Friday evening. I must say that before seeing the film, I felt in my heart this is the 'Batman' film we've been waiting for. Within ten minutes into the movie, I turned to my date and said to her, \"This is it! This is the movie!\" I just can't believe that after all these years, Warner Bros. finally got it right. For me the most intriguing part of the film, apart from the great script, and great acting, was Christopher Nolan's decision to base the film in reality. Deciding that Batman could really exist in our universe and our world was a stroke of genius. Another aspect of the film that's so refreshing is that instead of the focus being on the villain, Batman is the film's star. And rightly so. It's amazing what can happen when a studio leaves a respected director, and the creative team alone, and allow them to make the best movie possible. The only two negatives that I can think of is Katie Holmes and the fight sequences. Holmes does indeed look like a teenager playing grown-up. Her performance isn't bad per SE, it's just that you really don't buy her as an Assistant D.A. As for the fight sequences, I felt the cameras angles were too tight on the action, edited too quickly, and lit too dark so that you really couldn't tell what was going on and determine who was hitting who. Maybe we can attribute this to the fact that Nolan is not an action director. Hopefully the next film will open up the fight sequences so we can actually see Batman use the martial arts skills he developed during his exile. But apart from those relatively minor quibbles, the film is excellent, and I'm definitely going back on opening day June 15th, and seeing it a second time. A third and fourth viewing is definitely not out of the question.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H20M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Batman Begins",
+    "embedUrl":"/video/imdb/vi2992219161",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMDNjZDgzMmUtYTJkNS00ZDRlLWI5ZWUtNWJiYmEwNjFjZjc4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMDNjZDgzMmUtYTJkNS00ZDRlLWI5ZWUtNWJiYmEwNjFjZjc4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for Batman Begins",
+    "uploadDate":"2012-10-31T03:04:41Z"
+  }
+}

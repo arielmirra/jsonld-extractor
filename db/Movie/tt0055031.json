@@ -1,0 +1,105 @@
+{
+  "id":"  http://www.imdb.com/title/tt0055031/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0055031/",
+  "name":"Judgment at Nuremberg",
+  "image":"https://m.media-amazon.com/images/M/MV5BZDZjMTIwZTQtNTM3OS00OTUyLWI5MTMtOTNjYWVkNzhjMWIxXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "War"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000075/",
+      "name":"Spencer Tracy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000044/",
+      "name":"Burt Lancaster"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001847/",
+      "name":"Richard Widmark"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000017/",
+      "name":"Marlene Dietrich"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0006452/",
+    "name":"Stanley Kramer"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0542631/",
+      "name":"Abby Mann"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0542631/",
+      "name":"Abby Mann"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001050/",
+      "name":"Montgomery Clift"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0160497/"
+    }
+  ],
+  "description":"Judgment at Nuremberg is a movie starring Spencer Tracy, Burt Lancaster, and Richard Widmark. In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.",
+  "datePublished":"1961-12-18",
+  "keywords":"nuremberg trials,judge,nazi,war crime,courtroom drama",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":65570,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0055031/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"gbill-74877"
+    },
+    "dateCreated":"2017-09-11",
+    "inLanguage":"English",
+    "name":"Fantastic acting, script, and direction in a thought-provoking movie",
+    "reviewBody":"Outstanding film. Star-studded with several fantastic performances. Highly emotional given the subject matter, but presented in a very intelligent, balanced way. I was struck at once by that, and by how well director Stanley Kramer gives us both sides of the argument – and avoids simply paying lip service to the defense of the German judges on trial. Maximilian Schell is brilliant as the defense attorney, well worthy of his Oscar, and is forceful and compelling in his arguments. There are also so many brilliant scenes. Spencer Tracy walking in the empty arena where the Nazi rallies were held, with Kramer focusing on the dais from which Hitler spoke. The testimony of Montgomery Clift and Judy Garland, both of whom are outstanding and should have gotten Oscars. Burt Lancaster in the role of one of the German judges, the one tortured by his complicity, knowing he and others are guilty. The devastating real film clips from the concentration camps, which are still spine tingling despite all we 'know' or have been exposed to. Marlene Dietrich as the German general's wife, haunted but expressing the German viewpoint, one time while people are singing over drinks. Her night stroll with Tracy, as she explains the words to one song, is touching. It just seemed like there was just one powerhouse scene after another, and the film did not seem long at all at three hours. Heck, you've even got Werner Klemperer and William Shatner before they would become Colonel Klink and Captain Kirk! In this film, the acting, the script, and the direction are all brilliant, and in harmony with one another.\n\nAs for the trial itself, the defense argument was along these lines: they were judges (and therefore interpreters), not makers of law. They didn't know about the atrocities in the concentration camps. At least one of them saved or helped many by staying in their roles and doing the best they could under the heavy hand of the Third Reich. They were patriots, saw improvement in the country when Hitler took power, but did not know how far he would go. If you were going to convict these judges, you would have to convict many more Germans (and where would it stop?). The Americans themselves practiced Eugenics and killed thousands and thousands of innocents at Hiroshima and Nagasaki. The one small weakness I found was that the defense never makes the simple argument that these judges were forced to do what they did, just as countless others in Germany were, and would have been imprisoned or killed themselves had they not complied. Anyone who's lived under a totalitarian regime may understand, or at least empathize.\n\nI'm not saying I bought into these arguments or that one should be an apologist to Nazis, but the fact that the film presented such a strong defense was thought provoking. How fantastic is it that Spencer Tracy plays his character the way he does – simply pursuing the facts, and in a quiet, thoughtful way. It's the best of humanity. How heartbreaking is Burt Lancaster's character, admitting they knew, admitting their guilt, knowing that what happened was horrible and that they were wrong, and yet seeking Tracy's understanding in that scene in the jail cell at the end – intellectual to intellectual - and being rebuked. Even a single life taken unjustly was wrong. Had the Axis won the war, I don't know which Americans would have been on trial for war crimes for the fire bombings of Dresden and Tokyo, or for dropping the atomic bombs, but the film makes one think, even for a war when things were seemingly as black and white as they could ever be. The particulars of this trial were fictionalized, but it's representative of what really occurred, and it transports you into events 70 years ago which seem so unreal today – and yet are so vitally important to understand, and remember.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H59M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Judgment At Nuremberg",
+    "embedUrl":"/video/imdb/vi296224025",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYjFjMGQ4MjQtYTI5YS00NjczLTliMTAtMzBjMTA0MTRkYjg1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYjFjMGQ4MjQtYTI5YS00NjczLTliMTAtMzBjMTA0MTRkYjg1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for this wartime drama",
+    "uploadDate":"2009-11-01T04:32:45Z"
+  }
+}

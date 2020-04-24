@@ -1,0 +1,96 @@
+{
+  "id":"  http://www.imdb.com/title/tt0405094/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0405094/",
+  "name":"Das Leben der Anderen",
+  "image":"https://m.media-amazon.com/images/M/MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0618057/",
+      "name":"Ulrich Mühe"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0311476/",
+      "name":"Martina Gedeck"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0462407/",
+      "name":"Sebastian Koch"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0876300/",
+      "name":"Ulrich Tukur"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0003697/",
+    "name":"Florian Henckel von Donnersmarck"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0003697/",
+      "name":"Florian Henckel von Donnersmarck"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0008261/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0051615/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0014456/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0140191/"
+    }
+  ],
+  "description":"Das Leben der Anderen is a movie starring Ulrich Mühe, Martina Gedeck, and Sebastian Koch. In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly...",
+  "datePublished":"2006-03-23",
+  "keywords":"stasi,spy,political thriller,propaganda,police",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":341943,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0405094/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"anastasia_smile"
+    },
+    "dateCreated":"2006-03-24",
+    "inLanguage":"English",
+    "name":"Intelligent and moving dealing with GDR history",
+    "reviewBody":"East Berlin, November 1984. Five years before its downfall the GDR seeks to maintain its power with the help of a merciless system of control and observation. When Oberstleutnant Anton Grubitz puts loyal Stasi-Hauptmann Gerd Wiesler on to the famous writer Georg Dreymann and his girlfriend Christa Maria Sieland who is a famous actress herself, he expects career advancement for himself. For most important politicians are responsible for this \"operative act\".\n\nWhat Wiesler did not expect: the intimate view on the world of the ones he's observing changes the snitch as well. Looking at \"the life of the others\" makes him aware of the beggarliness in his own life and enables access to a so far unknown world of love, free thinking and speaking he is hardly able to elude. But the system can't be stopped anymore and a dangerous game, which destroys the love of Christa Maria Sieland and Georg Dreymann and Wieslers present existence begins. \n\nUntil the fall of the wall each of them has paid a big price. After that a whole new world begins.\n\nMy personal opinion - though it doesn't count that much - is that this one a an absolute Must See. I can hardly remember such an intelligent and moving German movie especially not including the whole topic of GDR history and the dealing with it. I think this is the first German movie which shows this system as it used to be (which has been confirmed by several contemporary witnesses) and not turns it and its people into comedy though there have been several good ones, of course.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H17M"
+}

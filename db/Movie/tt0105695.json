@@ -1,0 +1,98 @@
+{
+  "id":"  http://www.imdb.com/title/tt0105695/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0105695/",
+  "name":"Unforgiven",
+  "image":"https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Western"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000142/",
+      "name":"Clint Eastwood"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000432/",
+      "name":"Gene Hackman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000151/",
+      "name":"Morgan Freeman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001321/",
+      "name":"Richard Harris"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000142/",
+    "name":"Clint Eastwood"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0672459/",
+      "name":"David Webb Peoples"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002663/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0010258/"
+    }
+  ],
+  "description":"Unforgiven is a movie starring Clint Eastwood, Gene Hackman, and Morgan Freeman. Retired Old West gunslinger William Munny (Clint Eastwood) reluctantly takes on one last job, with the help of his old partner Ned Logan (Morgan...",
+  "datePublished":"1992-08-07",
+  "keywords":"one last job,sadist,revenge,gun control,revisionist western",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":359120,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0105695/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"sjwest"
+    },
+    "dateCreated":"2004-11-12",
+    "inLanguage":"English",
+    "name":"'A Man With No Name' Becomes 'A Man With A Real Story'.",
+    "reviewBody":"Clint Eastwood's storytelling gives the western genre one of its most sublime story's. Gone is the trademark mysterious hero and in its place is an ex gunman who made his peace when he met his wife. Eastwood has transcended traditional entertainment to storytelling craftsmanship. He delivers rich characters with deep rooted problems inextricably linked to the villains of the story. Refusing to wither and die away, style has been perfectly adapted with age thus ensuring his maturation into a true Hollywood legend.\n\nBesides his now distinctive storytelling, there are numerous factors that make this a landmark Western. The ensemble cast could not have been stronger and there were no weak performances. The soundtrack accentuates the intended atmosphere of the director. A single detracting factor I could find only just qualifies as such. Munny's whimsical lines seemed a little contrived at times. They droned on like pale attempts to capture the Western era. But this is a consequence of the fact that they were more to do with the character of William Munny. He is after all a reformed killer with a now passive approach to people. Given this fact and also that it may have been distracting since it was so out of sync with what we are used to seeing from Eastwood, I still have to list it as a demerit on the account it slightly jerked me out of the story.\n\nHollywood producers have to satisfy audience preferences if investments are going to accrue profits. It is the nature of the beast. The action and more specifically the Western genre will stick to tried and tested formulas in order to guarantee audience acceptance. But every so often you get people who as a natural consequence of their unique character appeal are able to deliver a story that is outside these understandably restrictive boundaries. Eastwood is a cool individualist who normally plays characters who are not team players and do it their own way. His own way this time is to give the western genre a real story oozing characterization. A sort of ballad for the bad guy.\n\nThe ballads tune provides the story with a sad, introspective mood, within the opening and closing scenes. The opening scene depicts Munny in his new found life. He is cured of his wicked ways, helped by his dear, departed wife. But men are not willing to forgive or forget his monstrous deeds and in the final scenes he is who he has to be. Such is the sorrowful life of William Munny.\n\nWesterns are typified by clearly defined goodies and baddies, but this is definitely not the case here. Eastwood and Freeman play reformed killers who find circumstances drawing them once again to their evil ways. But the older and wiser men now realize the value of life and come face to face with their troubled consciences. This is unlike their naïve, young partner who is attracted to the bravado image of the killer and relishes taking a man's life. This moral issue is virtually taboo for the classic western which glamorizes the lawlessness and the hero attraction of the gunslinger. This is also why in my view no-one besides Eastwood should have handled this movie.\n\nThen we have the juiciest character of the movie superbly played by Gene Hackman worthy of the weight of every micro granule of his Oscar. He is the epitome of every hard-line lawman that ever was. The misguidance of the so called righteously empowered, swinging the hammer against evil for good. Hackman must have salivated when he read the script since there was obvious relish in his performance. All the better for the movie, and of course for Eastwood at the Oscars. By far the best performance and the others were good further underlining the talent of the man.\n\nThe antagonist of the movie is almost always the most complex and thus most interesting to analyze. His vain attempts at carpentry are his way of trying to appear to be a good man. There is purity in building ones own home and it is this wholesomeness that he wishes to capture. In that way his fellow citizens will see him as a simple man only wanting to lead a righteous life. But his inability as a carpenter is indicative of his depravity. He cannot be a good man. The source of his drive is anger and hatred. It is through this failing that we realize he cannot escape who he is.\n\nIndeed it was not only the power of the script that gave the audience a spellbinding climax, but the talents of the actors. The actors' characterizations deliver the audience a spellbinding climax. It is only through Hackman's performance that we not only acknowledge his ending as inevitable, but also as deserving. We saw him as a man who virtually thought that he was righteously empowered to rid the earth of Munny and his kind What he thought was an honorable task was one rather of abuse and suppression. He became the baddie in the eyes of the audience and it is he who the audience wants to see justice served upon. \n\nMunny was so weak throughout the movie that the eruption of his evil ways captured the interest of the audience. He transformed into the Eastwood of old  the anti hero with a far more malevolent presence. Never could we have sensed this hatred and evil that we now see in William Munny. It is now that the frivolity of his mannerisms that I touched on in the beginning adds to the story as it helps to accentuate the turn in character. He is now only a killer, in it neither for money or fame as the writer nearly finds out to his tragic detriment.\n\nThose who have only seen his Westerns of old or the 'Dirty Harry' movies may enter the cinema with expectations of such like will either be disappointed or pleasantly surprised. It is the atypical western and an unfamiliar portrayal by Eastwood. But I believe that most people will have the latter reaction. The differences are their strengths helped by the fact that it was a superbly crafted movie with a meaningful story and thought provoking lessons for our heroes and villains. Eastwood was directly suited to the roles that we identify him with, but it is exactly because of this suitability that he eases into the role of Munny. No mellowing with age, no identification with the mainstream, he has always done it his way, and he is so good that any way could be his way.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT2H10M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Official Trailer",
+    "embedUrl":"/video/imdb/vi3445406489",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZTRmNmQ1ZDQtNWJjZC00ZWFiLWE3OGEtNTQwMjVkMmRjNjYyXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZTRmNmQ1ZDQtNWJjZC00ZWFiLWE3OGEtNTQwMjVkMmRjNjYyXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+    "uploadDate":"2018-09-14T22:40:44Z"
+  }
+}

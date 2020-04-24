@@ -1,0 +1,95 @@
+{
+  "id":"  http://www.imdb.com/title/tt0076759/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0076759/",
+  "name":"Star Wars",
+  "image":"https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000434/",
+      "name":"Mark Hamill"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000148/",
+      "name":"Harrison Ford"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000402/",
+      "name":"Carrie Fisher"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000027/",
+      "name":"Alec Guinness"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000184/",
+    "name":"George Lucas"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000184/",
+      "name":"George Lucas"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0071326/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0000756/"
+    }
+  ],
+  "description":"Star Wars is a movie starring Mark Hamill, Harrison Ford, and Carrie Fisher. Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle...",
+  "datePublished":"1977-05-25",
+  "keywords":"rebellion,galactic war,space opera,princess,droid",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":1184321,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.6"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0076759/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"hmorales"
+    },
+    "dateCreated":"1998-12-03",
+    "inLanguage":"English",
+    "name":"A kid's fantasy. An Adult's memory",
+    "reviewBody":"In respect to the many kids of the seventies. I rated this movie as one of the greatest movies ever made. I was thirteen and enjoyed this fantasy getaway more than I could count. Like many other kids of the seventies you left reality before walking into the theatre and escaped into the adventure once the reels begin rolling. It provided the special effects and excitement a kid was looking for. Even today when I watch this movie on VHS I recall those times. Whenever I get the chance to watch it I feel like that eager thirteen year old over and over again. I hope the new movies will meet the same expectations of kids of  this decade and the next."
+  },
+  "duration":"PT2H1M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Original Teaser Trailer",
+    "embedUrl":"/video/imdb/vi1317709849",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTUzNDY0NjY4Nl5BMl5BanBnXkFtZTgwNjY4MTQ0NzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTUzNDY0NjY4Nl5BMl5BanBnXkFtZTgwNjY4MTQ0NzE@._V1_.jpg",
+    "description":"Watch the original teaser trailer for Star Wars.",
+    "uploadDate":"2013-10-13T13:57:04Z"
+  }
+}

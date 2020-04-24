@@ -1,0 +1,95 @@
+{
+  "id":"  http://www.imdb.com/title/tt0097165/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0097165/",
+  "name":"Dead Poets Society",
+  "image":"https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Drama"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000245/",
+      "name":"Robin Williams"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000494/",
+      "name":"Robert Sean Leonard"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000160/",
+      "name":"Ethan Hawke"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001038/",
+      "name":"Josh Charles"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001837/",
+    "name":"Peter Weir"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0776114/",
+      "name":"Tom Schulman"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0049348/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0133018/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0587257/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0067672/"
+    }
+  ],
+  "description":"Dead Poets Society is a movie starring Robin Williams, Robert Sean Leonard, and Ethan Hawke. English teacher John Keating inspires his students to look at poetry with a different perspective of authentic knowledge and feelings....",
+  "datePublished":"1989-06-09",
+  "keywords":"english teacher,professor,education,suicide,poet",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":399355,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0097165/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"fred-kolb"
+    },
+    "dateCreated":"2008-11-17",
+    "inLanguage":"English",
+    "name":"Seize the Day- One of the Greatest Movies Ever!",
+    "reviewBody":"Dead Poets Scoiety. I suppose if you were in High School sometime between 1990-2008, one of your teachers thought I'd be a good idea to watch this movie and I still remember my reaction and the ones of our fellow classmates: Yeah, probably a boring movie that will try to make the school look better and encourage us to do our homework and study for our tests. I couldn't have been more wrong. This movie definitely changed my way of thinking to a certain extent and there are very few films who have moved and touched me like this one.\n\nThe movie plays in 1959 and centers around a private academy somewhere in New England. The curriculum is extremely difficult and the teachers have no humor and are very strict. The new English teacher though, Mr John Keating (Robin Williams), who graduated from the very same school, uses unorthodox, but quite effective methods to teach the students about literature, and poetry. During their first lesson, he tells them that they can either call him Mr. Keating or \"Oh Captain, my Captain\", based on a quote by Walt Whitman. He encourages them to come out of themselves, use their energy to make their lives worth living and beautiful - Carpe Diem, Seize the Day! The plot also centers around two students: Neil (Robert Sean Leonard), who is funny and popular, but fails to gain his fathers pride, because of his wish to become an actor, and Todd (Ethan Hawke), who is very shy and unsure of himself, and is inspired by Keating to use his imagination and eventually we find out that he is very talented when it comes to poetry. After they find out about a club Keating was a member of while he was a student, the Dead Poets Society, which was forbidden by the school, they decide to reestablish it, what ultimately gets them into a lot of trouble.\n\nThere are several key factors, that make this movie as brilliant as it is. First of all there is the acting. Robin Williams, who I really like as a Comedian, really proves that he is a great actor, who can get deep into a character and play him with such passion and energy that you will forget he's an actor. Keating, whose teaching methods are indeed unusual and will probably make you laugh a couple of times, is a very interesting role, the teacher we all would have wanted, but not because he doesn't give homework or makes up very easy, open-book tests. No, because Keating shows us that we have to come out of ourselves, make the best of our lives and especially that there is a poet in everyone of us. Then there is the terribly under-appreciated Robert Sean Leonard, who also gives a very moving performance as a student, who is kept back by his father, and therefore fails to make his dreams come true. In my opinion he is very underused as an actor, and should have gotten a lot more leading roles. As for Ethan Hawke, he definitely was the best choice for the character he plays. We can literally feel his fear and shyness when he stands in front of the class and gets no word out, because he's so embarrassed.\n\nPeter Weir, who is probably most known for his recent movie \"Master and Commander\" shows what a great director he is with this film and it definitely deserved the Oscar for Best Original Screenplay, and the nominations for Best Picture, Director and Leading Actor for Robin Williams.\n\nSome of you may have heard about Roger Ebert absolutely negative review of this movie and that \"he wanted to throw up at the end of the film\". I can understand why people might not like the ending (I won't put any spoilers), but I think it just adds to the the beauty and drama of this film, a film that should definitely be on the IMDb Top 250 Movies. This is a movie, you must have seen!!",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H8M"
+}

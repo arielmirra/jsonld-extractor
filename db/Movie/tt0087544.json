@@ -1,0 +1,129 @@
+{
+  "id":"  http://www.imdb.com/title/tt0087544/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0087544/",
+  "name":"Kaze no tani no Naushika",
+  "image":"https://m.media-amazon.com/images/M/MV5BZWFkN2ZhODAtYTNkZS00Y2NjLWIzNDYtNzJjNDNlMzAyNTIyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_.jpg",
+  "genre":[
+    "Animation",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0793585/",
+      "name":"Sumi Shimamoto"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0875332/",
+      "name":"Mahito Tsujimura"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0477449/",
+      "name":"Hisako Kyôda"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0623214/",
+      "name":"Gorô Naya"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0594503/",
+    "name":"Hayao Miyazaki"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0594503/",
+      "name":"Hayao Miyazaki"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0594503/",
+      "name":"Hayao Miyazaki"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1248357/",
+      "name":"Cindy Davis"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1248358/",
+      "name":"Donald H. Hewitt"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0411872/",
+      "name":"Kazunori Itô"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0205112/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0016626/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0001105/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0063380/"
+    }
+  ],
+  "description":"Kaze no tani no Naushika is a movie starring Sumi Shimamoto, Mahito Tsujimura, and Hisako Kyôda. Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying...",
+  "datePublished":"1984-03-11",
+  "keywords":"post apocalypse,princess,giant insect,dying planet,pollution",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":138982,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0087544/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"mahlersoboes"
+    },
+    "dateCreated":"2005-05-25",
+    "inLanguage":"English",
+    "name":"A Masterpiece of Animated Cinema",
+    "reviewBody":"Director Hayao Miyazaki won a place in my heart after I saw his 2001 film Spirited Away. I'm in no position to claim to be an expert on Miyazaki (I've only seen three of his films), nor am I really a big fan of Japanese animation; but I can safely say that Nausicaä of the Valley of the Wind is one of the very best animated films I have ever seen. The beauty of the animation is stunning, with its close attention to detail--every frame is constructed as a work of art--and the story is enthralling. As with other Miyazaki films, the majority of characters are much more three-dimensional that you typically get in Western animated features, and nearly all of them aren't exactly what they seem to be.\n\nNausicaä, which is based on Miyazaki's gargantuan Manga series, is set in the distant future, after fires destroyed much of the earth. The world is being consumed by the Sea of Decay, a toxic forest that spreads through airborne spores and is protected by giant insects called ohmu. The Valley of the Wind is one of the last pure places on earth, and its Princess, Nausicaä, is a strong-willed yet free-spirited young woman seeking to solve the mystery of the Sea of Decay. A nearby nation, which claims to have harnessed the power that allowed humans to rule the earth a thousand years before, takes over after a plane carrying a mysterious living cargo crashes in the valley. What follows in the film is a struggle, not of good versus evil, but of man versus nature. The story is complex, as is its message, and Miyazaki has ingeniously spun deep complexities into the animated characters: what look like foes may not be, and what look like friends may be a bit more dangerous.\n\nThe animation is colorful, sweeping, expansive, and beautiful, as are the plot and characters. There is an immediacy to the story that makes a big emotional impact and makes us question how we handle our position in nature. As one of the characters in the film asks, have humans become but a tribe destined to be swallowed by the Sea of Decay? It is ultimately a film about compassion in the face of violence and war, which is what makes it so different from Western features.\n\nDisney's recent DVD release is excellent. The film can be watched either in the original Japanese audio or Pixar's dub with Patrick Stewart and Uma Thurman, and there are separate subtitles for each language track--a literal one (hallelujah!) for the Japanese track, and a more closed-captions style set for the English track. The film is so stunning in the Japanese that I have never considered watching the dub, though a fellow film buff has said that it is \"not so bad.\" After this film was released in the US in the 1980s in a completely mangled version called Warriors of the Wind, Miyazaki suspended all US rights of all his other films until the distributor would honor the stipulation that they be released without any editing. The fact that Disney, which is known for watering down nearly everything it touches, has done this with such a non-Western-style movie is amazing.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H57M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Miyazaki Collection Wave 2",
+    "embedUrl":"/video/imdb/vi3336503577",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BOTU2Yzk4ZGEtNzIwMi00NDU0LTk4NTMtYjcxOTNkOWE0N2NmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BOTU2Yzk4ZGEtNzIwMi00NDU0LTk4NTMtYjcxOTNkOWE0N2NmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"CT #7",
+    "uploadDate":"2008-08-04T03:33:58Z"
+  }
+}

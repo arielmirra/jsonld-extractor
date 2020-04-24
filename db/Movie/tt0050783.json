@@ -1,0 +1,126 @@
+{
+  "id":"  http://www.imdb.com/title/tt0050783/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0050783/",
+  "name":"Le notti di Cabiria",
+  "image":"https://m.media-amazon.com/images/M/MV5BOTdhNmUxZmQtNmMwNC00MzE3LWE1MTUtZDgxZTYwYjEzZjcwXkEyXkFqcGdeQXVyNTA1NjYyMDk@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0556399/",
+      "name":"Giulietta Masina"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0673749/",
+      "name":"François Périer"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0555807/",
+      "name":"Franca Marzi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0336582/",
+      "name":"Dorian Gray"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000019/",
+    "name":"Federico Fellini"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000019/",
+      "name":"Federico Fellini"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0280919/",
+      "name":"Ennio Flaiano"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0684083/",
+      "name":"Tullio Pinelli"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000019/",
+      "name":"Federico Fellini"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0280919/",
+      "name":"Ennio Flaiano"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0684083/",
+      "name":"Tullio Pinelli"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001596/",
+      "name":"Pier Paolo Pasolini"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0032861/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0037407/"
+    }
+  ],
+  "description":"Le notti di Cabiria is a movie starring Giulietta Masina, François Périer, and Franca Marzi. A waifish prostitute wanders the streets of Rome looking for true love but finds only heartbreak.",
+  "datePublished":"1957-09-13",
+  "keywords":"prostitute,rescue from drowning,italian woman,rome italy,rome",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":40820,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0050783/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"anton-6"
+    },
+    "dateCreated":"2002-02-03",
+    "inLanguage":"English",
+    "name":"No doubt about that this is one of the best films ever made!",
+    "reviewBody":"Giulietta Massina as the the prostitute is who was born to lose(but still never give up) is MASTERFUL.She creates a wonderful innocent character.Federico Fellini (her husband)is telling a very simple still complicated story and I was VERY impressed with his fantastic direction. I must say that you suffer with Cabiria, For example when she meets the movie star.A masterpiece from the start to the end and I would call it one of the best films ever made.No doubt about 5/5",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H50M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Nights of Cabiria - Restoration Trailer",
+    "embedUrl":"/video/imdb/vi1789181465",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMmJlNDAyYjYtM2MwMC00MmJjLTgyNWEtM2YwM2VjYmI2N2NlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMmJlNDAyYjYtM2MwMC00MmJjLTgyNWEtM2YwM2VjYmI2N2NlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    "description":"The new 4K restoration of Federico Fellini's NIGHTS OF CABIRIA, starring Giulietta Masina, opens April 17 at New York's Film Forum! Winner of the 1957 Academy Award for Best Foreign Language Film. rialtopictures.com",
+    "uploadDate":"2020-03-06T20:12:47Z"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id":"  http://www.imdb.com/title/tt1832382/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt1832382/",
+  "name":"Jodaeiye Nader az Simin",
+  "image":"https://m.media-amazon.com/images/M/MV5BZDRiZDY2YmEtZjMzNi00YTM4LWJkMmItYjFkNTQxMjQxNjA4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"PG-13",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm1818216/",
+      "name":"Payman Maadi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0368689/",
+      "name":"Leila Hatami"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm4299147/",
+      "name":"Sareh Bayat"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1486911/",
+      "name":"Shahab Hosseini"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm1410815/",
+    "name":"Asghar Farhadi"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm1410815/",
+      "name":"Asghar Farhadi"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0620175/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0259212/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0620176/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0108107/"
+    }
+  ],
+  "description":"Jodaeiye Nader az Simin is a movie starring Payman Maadi, Leila Hatami, and Sareh Bayat. A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and...",
+  "datePublished":"2011-03-16",
+  "keywords":"divorce,alzheimer's disease,court,marital problem,girl",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":209375,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt1832382/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Radu_A"
+    },
+    "dateCreated":"2011-02-16",
+    "inLanguage":"English",
+    "name":"The Swan Song of Iranian cinema?",
+    "reviewBody":"Asghar Farhadi's new film after the ingenious 'About Elly' is running for the Golden Bear at this year's Berlin Film Festival and, with half of the competition done and the rest of the program not looking too promising, appears to be an almost inevitable winner. Although maybe it won't for that very reason: Jahar Panahi's repeat inability to attend his jury duties because of Iran's government refusal to issue him a travel permit, a retrospective of his works including the 2006 Silver Bear-winning 'Offside', a variety of other Iranian productions and renewed demonstrations in Iran proper put the spotlight firmly on that country's elaborate, yet constrained film industry. All that buzz may outshine the film's artistic value, and prompt the jury to go for a less favored competitor. I should hope not, for Farhadi manages once again to embed lots of social criticism into a straight-laced, realistic narrative.\n\nAs in 'About Elly', the story begins rather unassumingly and takes an abrupt turn into a spiral of increasingly dramatic events: Nader and Simin are a couple about to break up over the question of moving abroad, for which they have obtained a permit after waiting for 18 months. Nader, however, has his father to take care of, who is suffering from Alzheimer's. Sirin still wants to leave, but not without her daughter (yes, pun intended) Termeh, a somewhat shy, bespectacled 11-year-old who cannot accept her parents' break-up. She therefore decides to stay with her father, which prompts Simin not to leave the country, but move to her mother. Nader is thereby forced to hire someone to take care of his dad, and a colleague of Sirin recommends the pregnant Razieh. Being deeply religious, she should not work in a single man's household, but her husband has been out of a job for a long time and is threatened with jail by his creditors. Her pregnancy and the necessity to attend to her daughter additionally stress her out. When Nader comes home one day to find his father left alone and tied to his bed, a struggle with the returning Razieh ensues, with catastrophic consequences for everyone around...\n\nThis is a much more complicated set-up than in 'About Elly', but it allows Farhadi to put a lot of additional information into his film as may be obvious to those who are just trying to follow the story (I hesitate to give examples because the film is as of yet to be released in Iran, which means an open-source comment such as this one needs to be carefully phrased). Much of the action takes place in courtrooms, where judges try to negotiate between the parties without any lawyers present. There's a lot of familiarity, and also a lot of menace, which succeeds to create the same climate of anxiety, accusation and deceit as in 'About Elly'. The realism of the narrative is embedded into a carefully planned scenography which makes almost every shot linger in the memory. And as in 'About Elly' the decisive moment, the one that solves the mystery is omitted in the picture, only to be explained verbally at the very end.\n\nWhat makes me feel even more for this film is the fact that it might be the last film of its kind from Iran for some time. Ali Samadi Ahadi, the German-Iranian director of the comedy 'Salami Aleikum' and the upcoming documentary on the July 2009 protests 'The Green Wave', wrote that the film industry has come to a virtual standstill. 'Nader and Simin' was in development at the time of the protests; since then, regulations have become far more repressive, with even established masters like Kiarostami or Makhmalbaf forced to work abroad, and others threatened with jail and work prohibitions, of whom Panahi is only the most famous example. All the more reason to give this film the credit it deserves - winning Berlin may cause Iran's bureaucrats to reconsider, for cinema is almost the last link remaining to our world. Without film, how could we understand that Iranians are a modern people with issues like our own, and not dangerous fanatics as some media and politicians would have us believe?",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H3M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"U.S. Version",
+    "embedUrl":"/video/imdb/vi2758057497",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNDMzODU0MjAyM15BMl5BanBnXkFtZTgwNjAwMDQzMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNDMzODU0MjAyM15BMl5BanBnXkFtZTgwNjAwMDQzMzE@._V1_.jpg",
+    "description":"A couple has to make a decision to leave Iran to better the life of their child or to stay and take care of a parent suffering from Alzheimers; however, the couple's marriage may end in divorce.",
+    "uploadDate":"2011-12-07T10:00:29Z"
+  }
+}

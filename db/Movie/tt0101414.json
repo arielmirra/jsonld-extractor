@@ -1,0 +1,167 @@
+{
+  "id":"  http://www.imdb.com/title/tt0101414/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0101414/",
+  "name":"Beauty and the Beast",
+  "image":"https://m.media-amazon.com/images/M/MV5BMzE5MDM1NDktY2I0OC00YWI5LTk2NzUtYjczNDczOWQxYjM0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre":[
+    "Animation",
+    "Family",
+    "Fantasy",
+    "Musical",
+    "Romance"
+  ],
+  "contentRating":"G",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0641314/",
+      "name":"Paige O'Hara"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000913/",
+      "name":"Robby Benson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0181425/",
+      "name":"Jesse Corti"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0263591/",
+      "name":"Rex Everhart"
+    }
+  ],
+  "director":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0873779/",
+      "name":"Gary Trousdale"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0936374/",
+      "name":"Kirk Wise"
+    }
+  ],
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0941314/",
+      "name":"Linda Woolverton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0152312/",
+      "name":"Brenda Chapman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0761498/",
+      "name":"Chris Sanders"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0560329/",
+      "name":"Burny Mattinson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0363125/",
+      "name":"Kevin Harkey"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0683724/",
+      "name":"Brian Pimental"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0940849/",
+      "name":"Bruce Woodside"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0710020/",
+      "name":"Joe Ranft"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0254085/",
+      "name":"Tom Ellery"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0038432/",
+      "name":"Kelly Asbury"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0501729/",
+      "name":"Robert Lence"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0207305/",
+      "name":"Jeanne-Marie Leprince de Beaumont"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm3343855/",
+      "name":"Gabrielle-Suzanne Barbot de Villeneuve"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0008970/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0133018/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0074039/"
+    }
+  ],
+  "description":"Beauty and the Beast is a movie starring Paige O'Hara, Robby Benson, and Jesse Corti. A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
+  "datePublished":"1991-11-22",
+  "keywords":"france,rose,castle,chauvinism,transformation",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":405416,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0101414/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Doylenf"
+    },
+    "dateCreated":"2002-10-03",
+    "inLanguage":"English",
+    "name":"Perfect mix of music and animation...a solid achievement...",
+    "reviewBody":"I've not seen the newly added song sequence (Human Again) featured in the latest IMAX version so my comments are based entirely on the original theatrical and VHS release.\n\nBEAUTY AND THE BEAST is Disney at its peak. From the stained glass window at the opening and the beautiful narration, the viewer is drawn into the story by the appealing music and clever lyrics (\"Belle's Song\") which gets the picture off to a bouncy start. The opening sequence showing Belle and the townspeople in song is masterfully handled and choreographed for maximum effect, setting the tone for the entire story.\n\nThe plot becomes thicker once Belle's father enters the castle grounds where the Beast resides. The castle interiors are brilliantly Baroque and the odd characters inhabiting the grounds are delightfully rendered by a perfect blending of art and voice talent. Cogsworth, Lumiere and Mrs. Potts are delightful creations, each with strong, consistent personalities. David Ogden Stiers, Jerry Orbach and Angela Lansbury cannot be praised enough for their contributions. \n\nTwo of the musical highlights are Orbach's dazzling job on \"Be My Guest\" (with French accent) and Angela's tender rendering of the title song, \"Beauty and the Beast\". Unforgettable movie moments. As Gaston, Richard White's robust baritone voice adds greatly to the effectiveness of his villainy.\n\nIt's no wonder the film was the first to receive recognition by the Academy with a Best Picture nomination. Outstanding in every department, including the end title song sung by Celine Dion and Peabo Bryson in a more \"modern\" style. \n\nAlong with SNOW WHITE and SLEEPING BEAUTY, a top-notch fairy tale with its appeal evenly divided between adults and children--as well as the child in all of us."
+  },
+  "duration":"PT1H24M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"3D Re-release Version",
+    "embedUrl":"/video/imdb/vi1040490009",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BOTA2MjU2MDkxOV5BMl5BanBnXkFtZTgwOTE2ODMzMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BOTA2MjU2MDkxOV5BMl5BanBnXkFtZTgwOTE2ODMzMzE@._V1_.jpg",
+    "description":"Belle, whose father is imprisoned by the Beast, offers herself instead and discovers her captor to be an enchanted prince.",
+    "uploadDate":"2011-11-24T12:20:54Z"
+  }
+}

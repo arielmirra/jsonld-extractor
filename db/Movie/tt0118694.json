@@ -1,0 +1,103 @@
+{
+  "id":"  http://www.imdb.com/title/tt0118694/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0118694/",
+  "name":"Faa yeung nin wa",
+  "image":"https://m.media-amazon.com/images/M/MV5BYjZjODRlMjQtMjJlYy00ZDBjLTkyYTQtZGQxZTk5NzJhYmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Romance"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0504897/",
+      "name":"Tony Chiu-Wai Leung"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001041/",
+      "name":"Maggie Cheung"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0803310/",
+      "name":"Ping Lam Siu"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0156432/",
+      "name":"Tung Cho 'Joe' Cheung"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0939182/",
+    "name":"Kar-Wai Wong"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0939182/",
+      "name":"Kar-Wai Wong"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0070147/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0074316/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0035433/"
+    }
+  ],
+  "description":"Faa yeung nin wa is a movie starring Tony Chiu-Wai Leung, Maggie Cheung, and Ping Lam Siu. Two neighbors, a woman and a man, form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep...",
+  "datePublished":"2000-09-29",
+  "keywords":"adultery,loneliness,neighbor,infidelity,hong kong",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":114926,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0118694/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Fong_Chun_Kin"
+    },
+    "dateCreated":"2003-02-24",
+    "inLanguage":"English",
+    "name":"Moody Mis-en-scene",
+    "reviewBody":"The most attractive factor that lies in this masterpiece of a film is not the beautiful lead actors. It isn't their outstanding acting and sizzling chemistry either.\n\nTo me, it is the mis-en-scene of the entire movie. The settings, the lighting, the props... all add to the mood for love between the main characters. A whiff of smoke from Chow's cigarette tells us his state of mind, the ever-changing tight-fitting cheongsams of Lizhen reflects the constraints of decision-making, the ruins of Angkor Wat ties in with the deteriorating relationship of the two leads.\n\nThe excellent use of mis-en-scene gives the film just the right amount of feel needed to flesh out the complicated nature of the characters' relationship. The film leaves the audience fruitlessly yearning for more.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H38M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"In The Mood For Love: The Criterion Collection [Blu-Ray]",
+    "embedUrl":"/video/imdb/vi2535307289",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BN2NjNjYyMzYtOGNkYy00YjRkLThiN2QtNGIyYmQyNGVlMWU1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BN2NjNjYyMzYtOGNkYy00YjRkLThiN2QtNGIyYmQyNGVlMWU1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Three Reasons Criterion Trailer for In the Mood for Love",
+    "uploadDate":"2018-03-21T17:50:54Z"
+  }
+}

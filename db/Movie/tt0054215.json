@@ -1,0 +1,101 @@
+{
+  "id":"  http://www.imdb.com/title/tt0054215/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0054215/",
+  "name":"Psycho",
+  "image":"https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000578/",
+      "name":"Anthony Perkins"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001463/",
+      "name":"Janet Leigh"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0587256/",
+      "name":"Vera Miles"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001260/",
+      "name":"John Gavin"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000033/",
+    "name":"Alfred Hitchcock"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0825010/",
+      "name":"Joseph Stefano"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0088645/",
+      "name":"Robert Bloch"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0137800/"
+    }
+  ],
+  "description":"Psycho is a movie starring Anthony Perkins, Janet Leigh, and Vera Miles. A Phoenix secretary embezzles forty thousand dollars from her employer's client, goes on the run, and checks into a remote motel run by a young man under the...",
+  "datePublished":"1960-09-08",
+  "keywords":"motel,shower,money,maniac,theft",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":571491,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.5"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0054215/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"mark-lovellsamuels"
+    },
+    "dateCreated":"2009-07-27",
+    "inLanguage":"English",
+    "name":"The Perkins Factor",
+    "reviewBody":"No matter how many times one sits through this Hitchcock classic, Anthony Perkins always manages to surprise you. It is a sensational performance - for which he didn't even get an Oscar nomination - I have no way of knowing how much preparation he dedicated to the creation of Norman Bates, maybe no more than usual, but the details of his performance are astonishing. Never a false move and if you follow the film looking into his eyes, you'll be amazed as I was. The madness and the tenderness, the danger and the cravings. A mamma's boy with hellish implications and yet we see, we feel connected to the human being, we are not horrified by him but of his circumstances. In short, we kind of understand him. That alone puts him miles and miles away from other cinematic monsters. From Richard Attenborough as the real life Christie in \"10 Rillington Place\" to the hideous, unredeemable Christian Bale in \"American Psycho\". Here Hitchcock and Herrman create an universe that Anthony Perkins inhabits with the same kind of electricity, nerve and shyness that Norman Bates projects throughout the film. Janet Leigh falls for it if not him. She, like us, sees the boy trying to escape his dutiful son's trap. He is in my list of the 10 most riveting characters ever to be captured on film.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H49M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Psycho",
+    "embedUrl":"/video/imdb/vi607099161",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZGQwMDQyZGQtMWI5ZC00ZjgyLWE3Y2MtMjZjZjQ4MDk4ZDNkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZGQwMDQyZGQtMWI5ZC00ZjgyLWE3Y2MtMjZjZjQ4MDk4ZDNkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Blu-Ray Trailer for Psycho",
+    "uploadDate":"2010-10-15T03:32:28Z"
+  }
+}

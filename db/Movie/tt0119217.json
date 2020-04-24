@@ -1,0 +1,108 @@
+{
+  "id":"  http://www.imdb.com/title/tt0119217/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0119217/",
+  "name":"Good Will Hunting",
+  "image":"https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Romance"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000245/",
+      "name":"Robin Williams"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000354/",
+      "name":"Matt Damon"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000255/",
+      "name":"Ben Affleck"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001745/",
+      "name":"Stellan Skarsgård"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001814/",
+    "name":"Gus Van Sant"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000354/",
+      "name":"Matt Damon"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000255/",
+      "name":"Ben Affleck"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0031032/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0093776/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0022594/"
+    }
+  ],
+  "description":"Good Will Hunting is a movie starring Robin Williams, Matt Damon, and Ben Affleck. Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+  "datePublished":"1998-01-09",
+  "keywords":"professor,genius,friend,mathematical genius,original story",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":817607,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0119217/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"gufando"
+    },
+    "dateCreated":"2006-03-03",
+    "inLanguage":"English",
+    "name":"Incredible, moving movie.",
+    "reviewBody":"A lot of things have been said about this fantastic movie, and I only hope to add a few more praises.\n\nThe fact that it was written by Ben and Matt was a shock to me, I did not expect any strong writing and a solid script, but boy was I wrong. The movie lasts for 2 hours, and every minute of it I couldn't even focus on anything beside the incredible world of Will Hunting.\n\nMatt plays Will Hunting, who is a brilliant young man who denies his unreal intellect. Will has had a very abusive childhood which hurt him mentally to a point where he can no longer let anyone close to him aside from his best friend who is played by Ben. That is until a professor at one of the top colleges finds Will's talent and helps him out of trouble with the law. Robin Williams later comes in as a therapist to Will, he is the only one who can really stand up to Will's intellect and manages to break the layer of distrust that Will has developed over years of solitude, and the two develop a bond beyond friendship.\n\nYes there is a girl, but this is not a romantic movie. There is more to life then what we are taught and what we have to show for it.\n\nThe writing is witty, brilliant and hilarious at times, both Matt and Robin Williams preform wonderfully from both a comedic and theatrical prospective. Matt's best work since Dogma and Williams best along side Dead Poet's Society.\n\nIf your looking for a typical Hollywood movie with a Hollywood ending, then do not bother spending two hours on this movie. This movie is ahead of it's time, and lands an easy 10 out of 10.\n\nThis one is a keeper in my movie library.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H6M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Good Will Hunting",
+    "embedUrl":"/video/imdb/vi1575984665",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNzA4ZTY4YWItY2JkMS00NjQ1LTg4MDQtM2NkNWQ2ZTU5YmYxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNzA4ZTY4YWItY2JkMS00NjQ1LTg4MDQtM2NkNWQ2ZTU5YmYxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer",
+    "uploadDate":"2011-10-26T03:24:21Z"
+  }
+}

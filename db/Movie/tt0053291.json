@@ -1,0 +1,109 @@
+{
+  "id":"  http://www.imdb.com/title/tt0053291/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0053291/",
+  "name":"Some Like It Hot",
+  "image":"https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Music",
+    "Romance"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000054/",
+      "name":"Marilyn Monroe"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000348/",
+      "name":"Tony Curtis"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000493/",
+      "name":"Jack Lemmon"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0706368/",
+      "name":"George Raft"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000697/",
+    "name":"Billy Wilder"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000697/",
+      "name":"Billy Wilder"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0224634/",
+      "name":"I.A.L. Diamond"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0858329/",
+      "name":"Robert Thoeren"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0517615/",
+      "name":"Michael Logan"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0047869/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0011112/"
+    }
+  ],
+  "description":"Some Like It Hot is a movie starring Marilyn Monroe, Tony Curtis, and Jack Lemmon. After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+  "datePublished":"1959-03-19",
+  "keywords":"sex comedy,comedy of errors,1920s,disguise,all girl band",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":232909,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0053291/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"psionicpoet"
+    },
+    "dateCreated":"2004-04-30",
+    "inLanguage":"English",
+    "name":"A gender-bending comedy ahead of its time",
+    "reviewBody":"What Jack Lemmon and Tony Curtis do in \"Some Like it Hot\" would be par for the course in modern movies  every other month, similar fish-out-of-water movies premiere with men posing as women (\"Tootsie\"), women posing as men (\"The Associate\"), black people posing as white people (\"White Chicks\"), and on and on. What makes \"Some Like it Hot\" different is two things: the strength of its comedy, and the presence of Marilyn Monroe, then at the height of stardom.\n\nLemmon and Curtis turn in admirable performances both as Joe and Jerry, and as Josephine and Daphne. Tony Curtis does Lemmon one better by creating a third identity, \"Junior\", in order to woo Sugar Kane (Monroe).\n\nTying the pair's story into the Chicago Valentine's Day Massacre, where a gang war spilled over into a parking garage, leaving a number of people lined up against the wall and shot, is a deft touch (though the serious tone of these gang sequences contrasts sharply with the bulk of the movie).\n\nThe movie does an excellent job building the far-fetched stakes of the movie ever-higher, from their finding refuge from vengeful gangs in a women's jazz band, to their showdown in the Florida hotel, to the eventual revealing of Curtis' and Lemmon's identities. The movie's surprisingly suggestive and risque content is at odds with the time frame of the movie, and even with the period of the movie's creation. The many smart double-entendres and plays on words are very well-written, and alternate between lowbrow and highbrow comedy,\n\nThe films only fault might be a couple of overlong musical numbers, performed either by the whole band or soloed by Sugar Kane. Though to be expected in a Marilyn Monroe film, these musical acts are literal \"show stoppers\" that bring the comedic momentum of the film to a screeching halt. However, it is easy to over look these minor defects in the movie as a whole, because by and large it is quite funny  no wonder it s considered a classic  and after all, \"nobody's perfect\"."
+  },
+  "duration":"PT2H1M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Some Like It Hot",
+    "embedUrl":"/video/imdb/vi2371683353",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTQyNjEzMzIzOV5BMl5BanBnXkFtZTgwNzE0MzQzMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTQyNjEzMzIzOV5BMl5BanBnXkFtZTgwNzE0MzQzMzE@._V1_.jpg",
+    "description":"Trailer for the classic comedy Some Like It Hot, starring Tony Curtis, Jack Lemmon, and Marilyn Monroe",
+    "uploadDate":"2010-03-25T13:35:16Z"
+  }
+}

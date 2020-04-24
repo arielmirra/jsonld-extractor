@@ -1,0 +1,110 @@
+{
+  "id":"  http://www.imdb.com/title/tt0052357/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0052357/",
+  "name":"Vertigo",
+  "image":"https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+  "genre":[
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000071/",
+      "name":"James Stewart"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001571/",
+      "name":"Kim Novak"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000895/",
+      "name":"Barbara Bel Geddes"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0375738/",
+      "name":"Tom Helmore"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000033/",
+    "name":"Alfred Hitchcock"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0178785/",
+      "name":"Alec Coppel"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0853138/",
+      "name":"Samuel A. Taylor"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0092267/",
+      "name":"Pierre Boileau"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0092268/",
+      "name":"Thomas Narcejac"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0027173/",
+      "name":"Maxwell Anderson"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0137799/"
+    }
+  ],
+  "description":"Vertigo is a movie starring James Stewart, Kim Novak, and Barbara Bel Geddes. A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
+  "datePublished":"1958-05-22",
+  "keywords":"romantic obsession,vertigo,1950s,acrophobia,san francisco bay",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":341857,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0052357/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"george.schmidt"
+    },
+    "dateCreated":"2003-04-23",
+    "inLanguage":"English",
+    "name":"A true Hitchcock classic; Stewart's gutsiest role",
+    "reviewBody":"VERTIGO (1958) **** James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore, Henry Jones. Alfred Hitchcock's masterpiece of suspense and romantic obsession: Stewart (in one of his best go-against-the-grain performances) stars as San Francisco cop John 'Scottie' Ferguson, whose eponymous phobia leads him to an on-the-job lethal accident. Sitting out his time off from the force he's enlisted as a private eye to watch a friend's troubled wife Madeleine Elster (the ethereal Novak), who believes she has been reincarnated. Scottie's case leads to complications including the necropheliac emotional overhaul he succombs to after Madeleine's 'suicide' and seeing her in mystery woman Judy Barton (Novak again, proving to be an accomplished actress).\n\nMore psychological underpinnings you could shake a stick at and thanks to The Master's multi-layered storyline the film never falters largely thanks to the incredibly affective cinematography by Robert Burks, the adaptation of Pieree Bouileau & Thomas Narcejaq's novel 'D'Entre les Morts' by Alec Coppel & Samuel Taylor and once again the excellent chemistry between the tormented Stewart and the bewitching Novak, proving to be one of the most passionate ill-fated couples in cinematic history. Perhaps the icing on the cake is the hauntingly evocative score by long-time collaborator Bernard Herrmann. A true American classic."
+  },
+  "duration":"PT2H8M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Vertigo",
+    "embedUrl":"/video/imdb/vi216072473",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMDZkMDVhYTMtNzZiZS00YTYwLTk5ZmEtNmJmNGVjZDg2ZWM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMDZkMDVhYTMtNzZiZS00YTYwLTk5ZmEtNmJmNGVjZDg2ZWM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Theatrical Trailer from Universal Studios Home Entertainment",
+    "uploadDate":"2008-04-11T17:40:30Z"
+  }
+}

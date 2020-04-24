@@ -1,0 +1,88 @@
+{
+  "id":"  http://www.imdb.com/title/tt0047396/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0047396/",
+  "name":"Rear Window",
+  "image":"https://m.media-amazon.com/images/M/MV5BYjJkZGVjMDMtMzNmZS00NDQ3LWE1YWEtMDlmYjExMTA4MGFkXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_.jpg",
+  "genre":[
+    "Mystery",
+    "Thriller"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000071/",
+      "name":"James Stewart"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000038/",
+      "name":"Grace Kelly"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0179819/",
+      "name":"Wendell Corey"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0728812/",
+      "name":"Thelma Ritter"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000033/",
+    "name":"Alfred Hitchcock"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0371088/",
+      "name":"John Michael Hayes"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0941280/",
+      "name":"Cornell Woolrich"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0137799/"
+    }
+  ],
+  "description":"Rear Window is a movie starring James Stewart, Grace Kelly, and Wendell Corey. A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+  "datePublished":"1954-11-15",
+  "keywords":"dog,killing a dog,neighbor,wheelchair,voyeur",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":422406,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0047396/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"FlickJunkie-2"
+    },
+    "dateCreated":"2001-04-10",
+    "inLanguage":"English",
+    "name":"Another Hitchcock masterpiece",
+    "reviewBody":"Alfred Hitchcock is considered by most to be the master of suspense.  I believe he was also a master of understanding human nature.  He intuitively understood that human beings are voyeurs by nature, not in the perverted sense, but in the curious sense.  We are a species that slows down to look at accident scenes and steals furtive glances at lovers in the park who are oblivious to everything but each other.  A major appeal of cinema and television is that they offer us an opportunity for guilt free voyeurism. When we watch a film, aren't we in essence looking through a window and watching people who behave as if they don't realize we are there?\n\nHitchcock realized this and took voyeurism to the next level, allowing us to watch a voyeur as he watched others.  While `Rear Window' as a whole is probably not quite at a level with `Vertigo' (which was far more suspenseful and mysterious with a powerful musical score) as a cinematic accomplishment, it is more seductive because it strikes closer to our human obsessions. Hitchcock's mastery is most evident in his subtle use of reaction scenes by the various characters.  We watch an event that Jeff (James Stewart) is watching and then Hitchcock immediately cuts to his reaction.  This is done repeatedly in various layers even with the other tenants as they interact with one another.  For instance, in the scene with Miss Lonelyheart (Judith Evelyn), we see her throw out the man who made a pass at her and then we see her reaction after she slams the door, followed by the reaction of Jeff and Lisa (Grace Kelly).  In another scene, Detective Doyle (Wendell Corey) sees Lisa's nightclothes and presumes she will be staying the night.  Hitchcock shows the suitcase, then Doyle's reaction, and then he goes to Jeff who points his finger at him and says `Be Careful, Tom'.  This elegant scene takes a few seconds and speaks volumes with little dialogue.  Such technique gets the viewer fully involved, because if we were there this is exactly what we would be doing, watching the unfolding events and then seeing how others around us responded.  In essence, it puts us in the room with them.\n\nHitchcock was a stickler for detail.  For instance, he aimed the open windows so they would show subtle reflections of places in the apartment we couldn't see directly.  However, there were certain details included or excluded that were inexplicable.  Would Thorwold really be scrubbing the walls with the blinds open?  Would Lisa be conspicuously waving at Jeff while Stella (Thelma Ritter) was digging up the garden?  Moreover, wouldn't Lisa have taken off her high heels before climbing a wall and then a fire escape?  This film had numerous small incongruities that are normally absent from Hitchcock films.  Though these are picayune criticisms, they are painfully obvious in the film of a director known to be a compulsive perfectionist.\n\nThe acting is superb in this film.  Jimmy Stewart is unabashedly obsessed as the lead character.  Photographers have an innate visual perceptiveness and the ability to tell a story with an image and Stewart adopts this mindset perfectly.  Grace Kelly has often been accused of being the `Ice Maiden' in her films, yet in this film she is assertive and even reckless.  Though cool at times, she is often playful and rambunctious.  I always enjoy Thelma Ritter's performances for their honesty and earthiness and this is another example of a character actor at her best.  Raymond Burr often doesn't get the recognition he deserves for this role, which is mostly shot at a distance with very few lines.  Yet, he imbues Thurwold with a looming nefariousness using predominantly physical acting.\n\nThis film was rated number 42 on AFI's top 100 of the century sandwiched between `Psycho' (#18) and `Vertigo' (#61).  I personally think more highly of `Vertigo' but it is a minor distinction, because I rated them both 10/10. `Rear Window' is a classic, a masterpiece of filmmaking technique from a director who was a true pioneer of suspense.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H52M"
+}

@@ -1,0 +1,100 @@
+{
+  "id":"  http://www.imdb.com/title/tt0050212/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0050212/",
+  "name":"The Bridge on the River Kwai",
+  "image":"https://m.media-amazon.com/images/M/MV5BMGVhNjhjODktODgxYS00MDdhLTlkZjktYTkyNzQxMTU0ZDYxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Drama",
+    "War"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000034/",
+      "name":"William Holden"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000027/",
+      "name":"Alec Guinness"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0370144/",
+      "name":"Jack Hawkins"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0370564/",
+      "name":"Sessue Hayakawa"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000180/",
+    "name":"David Lean"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0099541/",
+      "name":"Pierre Boulle"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0286025/",
+      "name":"Carl Foreman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0933858/",
+      "name":"Michael Wilson"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0103190/"
+    }
+  ],
+  "description":"The Bridge on the River Kwai is a movie starring William Holden, Alec Guinness, and Jack Hawkins. British POWs build a railway bridge across the river Kwai for their Japanese captors, oblivious of the Allies' plans to destroy it.",
+  "datePublished":"1957-10-11",
+  "keywords":"bridge,jungle,uniform,british soldier,japanese soldier",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":194772,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0050212/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"votarus4"
+    },
+    "dateCreated":"2002-09-03",
+    "inLanguage":"English",
+    "name":"KWAI -- NOW",
+    "reviewBody":"Without belittling `Kwai,' it does seem, looking backwards at David Lean's career, to be a dress rehearsal for the more operatic, tightly controlled (and better written) `Lawrence of Arabia.'  Alec Guiness's passionate, detailed performance as Colonel Nicholson, above all other factors, makes Kwai a still watchable and important experience.  The screenplay, however, divides unevenly between those who must build the Bridge and those who must destroy it.  Ebert, in his Great Movies article, correctly identifies William Holden's character in Kwai as undergoing an implausible transition from escaped POW to martini-guzzling playboy to selfless war hero. Verbatim:  `Holden's character, up until the time their guerrilla mission begins, seems fabricated; he's unconvincing playing a shirker, and his heroism at the end seems more plausible.'  That, I believe, is also Kwai's greatest weakness.  Holden's relationship with Jack Hawkins (playing a parallel role to his General Allenby in Lawrence) seems pallid next to the mighty Guiness/Hayakawa standoff  in fact, it seems to be in another movie altogether.  Also, Malcolm Arnold's score, which I loved when I was a kid, seems now jarringly inappropriate from start to finish.  I am too much influenced, I suppose, by the rock and roll jungle menace of Coppola's `Apocalypse Now.'  Lastly, it is many decades past 1957.  Images of whistling soldiers, marching proudly after months of captivity, then putting on an `entertainment' more expected in the world of Rodgers and Hammerstein, may ring very false to today's viewer.  But keep your eyes fastened tight to Alec Guiness.  Kwai is the Everest of his career, and very few actors climb that high."
+  },
+  "duration":"PT2H41M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Bridge on the River Kwai -- Trailer",
+    "embedUrl":"/video/imdb/vi1900740633",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BOTEzMTU0NTUwMl5BMl5BanBnXkFtZTgwNDM0MzczMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BOTEzMTU0NTUwMl5BMl5BanBnXkFtZTgwNDM0MzczMzE@._V1_.jpg",
+    "description":"After settling his differences with a Japanese PoW camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors - while oblivious to a plan by the Allies to destroy it.",
+    "uploadDate":"2008-11-18T17:08:15Z"
+  }
+}

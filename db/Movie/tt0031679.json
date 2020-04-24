@@ -1,0 +1,105 @@
+{
+  "id":"  http://www.imdb.com/title/tt0031679/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0031679/",
+  "name":"Mr. Smith Goes to Washington",
+  "image":"https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Drama"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000071/",
+      "name":"James Stewart"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000795/",
+      "name":"Jean Arthur"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001647/",
+      "name":"Claude Rains"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0036427/",
+      "name":"Edward Arnold"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001008/",
+    "name":"Frank Capra"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0118227/",
+      "name":"Sidney Buchman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0287931/",
+      "name":"Lewis R. Foster"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0175333/",
+      "name":"Myles Connolly"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0050868/"
+    }
+  ],
+  "description":"Mr. Smith Goes to Washington is a movie starring James Stewart, Jean Arthur, and Claude Rains. A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he...",
+  "datePublished":"1939-10-19",
+  "keywords":"u.s. senator,national film registry,afi,children,butler",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":102452,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0031679/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"audrablum"
+    },
+    "dateCreated":"2019-01-24",
+    "inLanguage":"English",
+    "name":"Age is nothing for this film, still incredible relevant",
+    "reviewBody":"This week I watched the 1939 dramedy Mr. Smith Goes to Washington. The logline reads \"A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.\" I think the best part of watching this was realizing that the battle of morality in places of power is nothing new. This particular film, although it may have had some funny moments, was definitely more drama and less comedy. As a product of Columbia Pictures, it was very professionally done. However, to me, the elements that stood out the most were the writing and acting. The writing of this film was really well thought out and was executed very well too. There seemed to be a lot of study or knowledge of politics and a lot of time spent in constructing the plot sequence the right way in order to pull this off. The acting was the next best part of this film. Obviously James Stewart is in this film, but Jean Arthur and Guy Kibbee really gave some stellar performances. Overall, I thought that this film, even given its age, is still relevant today. I enjoyed it and will be sharing it with others.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H9M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Mr. Smith Goes To Washington",
+    "embedUrl":"/video/imdb/vi1789722905",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BODk2OWM4YmQtNmU1Ny00N2ZkLThjMzctYTI0Mzc1M2UyYTUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BODk2OWM4YmQtNmU1Ny00N2ZkLThjMzctYTI0Mzc1M2UyYTUyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Home Video Trailer from Columbia Tristar",
+    "uploadDate":"2008-04-11T14:26:47Z"
+  }
+}

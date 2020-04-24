@@ -1,0 +1,104 @@
+{
+  "id":"  http://www.imdb.com/title/tt0056592/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0056592/",
+  "name":"To Kill a Mockingbird",
+  "image":"https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama"
+  ],
+  "contentRating":"Approved",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000060/",
+      "name":"Gregory Peck"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0576345/",
+      "name":"John Megna"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0653942/",
+      "name":"Frank Overton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0614677/",
+      "name":"Rosemary Murphy"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0612322/",
+    "name":"Robert Mulligan"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0497369/",
+      "name":"Harper Lee"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0285210/",
+      "name":"Horton Foote"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0110362/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0110361/"
+    }
+  ],
+  "description":"To Kill a Mockingbird is a movie starring Gregory Peck, John Megna, and Frank Overton. Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.",
+  "datePublished":"1962-12-20",
+  "keywords":"trial,lawyer,false accusation,based on novel,small town",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":284064,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0056592/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Don-102"
+    },
+    "dateCreated":"1999-03-30",
+    "inLanguage":"English",
+    "name":"Wonderful Social Classic That Echoes Issues of Its Day...",
+    "reviewBody":"TO KILL A MOCKINGBIRD is presented like a play in three acts. It is also from the children's perspective. Through the kids, we find that racism is a learned attitude or feeling. We also see a delightful coming of age drama as the young kids realize that there is no Boogeyman down the street and their father is capable of doing a lot more than they think. The great Gregory Peck plays Atticus Finch, a pillar of nobility, social conscience, and, rare for 1930's Americana, a single parent. Peck is such a strong presence, you believe everything about him. It is something you can compare to America's trust in TV anchorman Walter Cronkite. We always took his word for it.\n\nAct one puts Atticus in the background and allows the kids to flourish. Director Robert Mulligan was able to get such realistic performances from non-professional kids. They are amusing and fun to watch. The big mystery lies in the house down the street in this small Georgia town. Who is the monstrous, \"6 and a half feet big\" legend living in the end house? Some light suspense ensues, while the buildup to a stirring act two is happening. Atticus must defend an African-American man for the alleged rape of a white woman.\n\nAfter threats galore, an unshaken Peck takes to the courtroom jungle in, without a doubt, one of the top 5 court scenes in motion picture history. Brock Peters lends the film its best moments as the accused \"negro\" on trial. This man has a face chiseled with suffering and deep, deep sorrow. We know Atticus is a good man, a decent human being with a soul. He sees this in his client as well, and in a closing argument that must have roused the civil rights movement, implores the jury to vote justice. An all-male, all-white jury in the 1930's were tough listeners. Peters' breakdown on the stand is one of the most realistic, emotionally saddening moments you'll ever see, especially in Hollywood films of the 1960's. The scene when Peck leaves the courtroom is now legendary as well.\n\nAct three produces a tragic death, an unlikely hero, and the bringing together of a family. The filmmakers have such a passion for the material, they seem to handle it with gentleness. Racism is a hard-boiled subject and it is depicted and dealt with through grace and patience. TO KILL A MOCKINGBIRD poses the injustice of race relations in the 1930's as a front for the events happening in the 1960's. The film came out during turbulent times and was also an adaption of a literary classic. I am one to judge a film solely by film only. The book is a separate art form and should not be compared to the film, an art form itself. It is important, it is enlightening, and it has not aged. Watch it.\n\nRATING: 9 of 10",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H9M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"To Kill a Mockingbird: Trailer",
+    "embedUrl":"/video/imdb/vi1222941977",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BODU2MTIxNTE0NF5BMl5BanBnXkFtZTcwMjI2NzM4NA@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BODU2MTIxNTE0NF5BMl5BanBnXkFtZTcwMjI2NzM4NA@@._V1_.jpg",
+    "description":"Watch the trailer for To Kill a Mockingbird, starring Oscar winner Gregory Peck.",
+    "uploadDate":"2011-03-31T13:28:54Z"
+  }
+}

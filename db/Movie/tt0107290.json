@@ -1,0 +1,111 @@
+{
+  "id":"  http://www.imdb.com/title/tt0107290/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0107290/",
+  "name":"Jurassic Park",
+  "image":"https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "contentRating":"PG-13",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000554/",
+      "name":"Sam Neill"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000368/",
+      "name":"Laura Dern"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000156/",
+      "name":"Jeff Goldblum"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000277/",
+      "name":"Richard Attenborough"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000229/",
+    "name":"Steven Spielberg"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000341/",
+      "name":"Michael Crichton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000341/",
+      "name":"Michael Crichton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0462895/",
+      "name":"David Koepp"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0005073/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0009119/"
+    }
+  ],
+  "description":"Jurassic Park is a movie starring Sam Neill, Laura Dern, and Jeff Goldblum. A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned...",
+  "datePublished":"1993-06-11",
+  "keywords":"national film registry,dinosaur,tyrannosaurus rex,theme park,chaos theory",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":824891,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0107290/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"MrLunatic"
+    },
+    "dateCreated":"2018-07-06",
+    "inLanguage":"English",
+    "name":"Life finds a way...",
+    "reviewBody":"''Life, uh... finds a way.''\n\nOne of the best & most iconic movie quotes of all times.\n\nI don't know what can I say about this movie that hasn't been said. Really...\n\nConsidering this movie was made in 1993, visual effects are of incredible quality, as you see it better on blu-ray. When it comes to story, it's completely original, nearly flawless. I can't say too much about the acting. I believe acting is not the movie's strongest point. But still, it was enough for that movie. You don't need to be like Marlon Brando in a sci-fi movie about dinosaurs and has great visual & sound effects. The movie is very fun to watch.\n\nI also sensed a small message like, ''don't mess with nature''.\n\nBest thing about the movie (for me) was the score. Especially the ''Welcome to Jurassic Park'' scene. Of course we're talking about John Williams, the guy who wrote the theme for Star Wars, so that's not a surprise.\n\nHighly recommend it.\n\n9/10",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H7M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"3D Re-Release Version",
+    "embedUrl":"/video/imdb/vi177055257",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMjE2NzI2MTg2Ml5BMl5BanBnXkFtZTgwMzc2MzIyMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMjE2NzI2MTg2Ml5BMl5BanBnXkFtZTgwMzc2MzIyMzE@._V1_.jpg",
+    "description":"During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+    "uploadDate":"2013-03-27T12:42:02Z"
+  }
+}

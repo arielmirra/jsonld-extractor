@@ -1,0 +1,94 @@
+{
+  "id":"  http://www.imdb.com/title/tt0047478/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0047478/",
+  "name":"Shichinin no samurai",
+  "image":"https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001536/",
+      "name":"Toshirô Mifune"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0793766/",
+      "name":"Takashi Shimura"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0875477/",
+      "name":"Keiko Tsushima"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0793616/",
+      "name":"Yukiko Shimazaki"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000041/",
+    "name":"Akira Kurosawa"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000041/",
+      "name":"Akira Kurosawa"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0368074/",
+      "name":"Shinobu Hashimoto"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0644823/",
+      "name":"Hideo Oguni"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002219/"
+    }
+  ],
+  "description":"Shichinin no samurai is a movie starring Toshirô Mifune, Takashi Shimura, and Keiko Tsushima. A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+  "datePublished":"1954-04-26",
+  "keywords":"samurai,16th century,battle,japan,epic",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":300859,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.6"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0047478/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"SonOfaGunderson"
+    },
+    "dateCreated":"2001-02-03",
+    "inLanguage":"English",
+    "name":"Awesome",
+    "reviewBody":"In 1954, Kurosawa made foreign film history with Seven Samurai. Everything about this film is just absolutely terrific. The film lasts around 3 1/2 hours, and every minute of it is unbelievable filmmaking. Kurosawa's blend of stellar craft, captivating cinematography, ravishing art direction, and unforgettable characters makes this one of the most intelligent films ever made. The first hour is devoted to devoloping the many four-dimensional characters which inhabit the film throughout. When watching the film, the audiece cares for, trusts, mourns and ultimately believes every single attribute the characters have. Samurai set up the way that many action films are made today; films like Predator and Alien still work within it's boundaries. The battle scenes are terrific and the fast-paced editing is ground-breaking. If people have a problem with subtitles and long movies, then see this and your opinions will change. The sheer filmmaking of Kurosawa will not disappoint. Also see Yojimbo and High & Low.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT3H27M"
+}

@@ -1,0 +1,136 @@
+{
+  "id":"  http://www.imdb.com/title/tt3011894/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt3011894/",
+  "name":"Relatos salvajes",
+  "image":"https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0334882/",
+      "name":"Darío Grandinetti"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0555404/",
+      "name":"María Marull"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0897640/",
+      "name":"Mónica Villa"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0823435/",
+      "name":"Diego Starosta"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm1167933/",
+    "name":"Damián Szifron"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm1238855/",
+      "name":"Germán Servidio"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1167933/",
+      "name":"Damián Szifron"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0037450/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0028557/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0487834/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0006440/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0321718/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0367959/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0064529/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0157689/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0393274/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0037736/"
+    }
+  ],
+  "description":"Relatos salvajes is a movie starring Darío Grandinetti, María Marull, and Mónica Villa. Six short stories that explore the extremities of human behavior involving people in distress.",
+  "datePublished":"2014-08-21",
+  "keywords":"suicide by airplane crash,anthology film,revenge,wedding party,music critic",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":164201,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt3011894/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"sanarg"
+    },
+    "dateCreated":"2014-08-25",
+    "inLanguage":"English",
+    "name":"Clever, dark and funny",
+    "reviewBody":"The movie is actually 6 short films, all related by brutal violence motivated by different situations. Family. Society. Government. It works very well like that, lasting over 120 minutes that go by quickly. It feels very fluid. Szifrón's eye is very precise. You can tell everything was very well thought. I wouldn't say this is a philosophical film, but it is clever entertainment, that makes you think if this wild tales are actually that wild... Even though this stories are taken to the extreme, everything feels somehow possible when you look back. \n\nDarkly humorous. Watch it.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT2H2M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Tráiler [OV]",
+    "embedUrl":"/video/imdb/vi3112877081",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZTlmMDU3NWYtMGVlYS00ZDYzLWIzZjAtMWY2N2QxYTdmYTA2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZTlmMDU3NWYtMGVlYS00ZDYzLWIzZjAtMWY2N2QxYTdmYTA2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    "uploadDate":"2019-04-24T13:34:35Z"
+  }
+}

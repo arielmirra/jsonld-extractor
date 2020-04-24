@@ -1,0 +1,104 @@
+{
+  "id":"  http://www.imdb.com/title/tt0073195/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0073195/",
+  "name":"Jaws",
+  "image":"https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001702/",
+      "name":"Roy Scheider"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001727/",
+      "name":"Robert Shaw"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000377/",
+      "name":"Richard Dreyfuss"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0308882/",
+      "name":"Lorraine Gary"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000229/",
+    "name":"Steven Spielberg"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001940/",
+      "name":"Peter Benchley"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0331956/",
+      "name":"Carl Gottlieb"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001940/",
+      "name":"Peter Benchley"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0019166/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0005073/"
+    }
+  ],
+  "description":"Jaws is a movie starring Roy Scheider, Robert Shaw, and Richard Dreyfuss. When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+  "datePublished":"1975-06-20",
+  "keywords":"shark,beach,great white shark,blockbuster,fishing",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":526700,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0073195/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"G.Spider"
+    },
+    "dateCreated":"2001-03-15",
+    "inLanguage":"English",
+    "name":"A landmark film.",
+    "reviewBody":"Far from being a monster movie, this is a realistic and gritty example of a town which relies on summer trade having its beaches invaded by a dangerous shark.  There are genuinely suspenseful sequences, a first-rate soundtrack and believable people.  The character development of the three men in the boat shows there's a lot more to this film than just a rubber fin.  I'd recommend this and Jaws 2 to any fan of drama/thrillers."
+  },
+  "duration":"PT2H4M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Jaws: Blu-Ray",
+    "embedUrl":"/video/imdb/vi4242122009",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BOThlMjgxNmYtN2E2Mi00ODliLWE1M2ItYjAxN2JmYzBkZWMxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BOThlMjgxNmYtN2E2Mi00ODliLWE1M2ItYjAxN2JmYzBkZWMxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for Jaws",
+    "uploadDate":"2012-08-17T08:31:09Z"
+  }
+}

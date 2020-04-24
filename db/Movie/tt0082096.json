@@ -1,0 +1,118 @@
+{
+  "id":"  http://www.imdb.com/title/tt0082096/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0082096/",
+  "name":"Das Boot",
+  "image":"https://m.media-amazon.com/images/M/MV5BNGRmOWY0MGUtNTVhMy00NzRlLTljNDAtNTBiNTRlODgxNmY2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001638/",
+      "name":"Jürgen Prochnow"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0344963/",
+      "name":"Herbert Grönemeyer"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0921044/",
+      "name":"Klaus Wennemann"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0071059/",
+      "name":"Hubertus Bengsch"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000583/",
+    "name":"Wolfgang Petersen"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000583/",
+      "name":"Wolfgang Petersen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0118164/",
+      "name":"Lothar G. Buchheim"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0011145/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0004917/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0100358/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0059346/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0075650/"
+    }
+  ],
+  "description":"Das Boot is a movie starring Jürgen Prochnow, Herbert Grönemeyer, and Klaus Wennemann. The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+  "datePublished":"1981-09-17",
+  "keywords":"submarine movie,submarine,u boat,tension,claustrophobic setting",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":221452,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0082096/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"susy-7"
+    },
+    "dateCreated":"1999-09-08",
+    "inLanguage":"English",
+    "name":"15 years and I'm still thinking about it",
+    "reviewBody":"Das Boot is not just a great war film: it's a great film period. Maybe it is true that epic themes make the greatest novels and films.  Here is a movie that explores heroism, duty, patriotism, hope, fear and the futility of war--all grand themes--explored in the confined, and collapsing, spaces of a German u-boat.\n\nI saw this film when I was a freshman in college during a weekend that I later dubbed my \"depressing movie festival.\" (The Wall and Apocalypse Now were the other weekend \"entries.\")  Of these films, it was Das Boot that haunted me--when I laid down at night, I saw Jurgen Proctow's pained blue eyes.  When I woke in the morning, I felt as if I were escaping through the hatch of the submarine.  I could not shake the images, and now some fifteen years later, I still remember how completely meaningless the movie made everything seem, and the nihilistic message stayed with me for a long, long time.  How few films are there which affect the viewers on this level.  To say this film is \"powerful\" seems so weak a description.\n\nPart of the \"power\" of the film comes, I think, from a certain restraint in the direction.  So often, films which aspire to move the audience quickly fall into melodrama, over-acting, and overblown images.  Too much.  These often succeed in the immediate response (usually crying) but fail to impact the viewer on anything more than a surface level.  Here, it is the small moments which fill the screen.  Everywhere, all around is War, but for these men as we witness them, war does not begin with a capital \"W\".  It is reality, not a grand concept.  The director lets the story shock and horrify the audience, not by forcing it, but by letting the story just tell itself. Drama, tension and resolution occur naturally in Das Boot, which contributes to the very real impact of the film.\n\nStory is a 10, direction is a 10, acting is a 10 and the cinematography is a 10.  One of the all-time greatest films.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H29M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Das Boot: Blu-Ray",
+    "embedUrl":"/video/imdb/vi2055707673",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYzBiOWYyYmItNGYzNC00MDljLWExZDYtZDAzM2U3YTZmZDE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYzBiOWYyYmItNGYzNC00MDljLWExZDYtZDAzM2U3YTZmZDE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for Das Boot",
+    "uploadDate":"2011-06-30T03:10:55Z"
+  }
+}

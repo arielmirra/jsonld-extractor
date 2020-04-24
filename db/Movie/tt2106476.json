@@ -1,0 +1,133 @@
+{
+  "id":"  http://www.imdb.com/title/tt2106476/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt2106476/",
+  "name":"Jagten",
+  "image":"https://m.media-amazon.com/images/M/MV5BNDM2MzMwMzcxNF5BMl5BanBnXkFtZTcwNTczMDk3OA@@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0586568/",
+      "name":"Mads Mikkelsen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0488917/",
+      "name":"Thomas Bo Larsen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm5038871/",
+      "name":"Annika Wedderkopp"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm5039026/",
+      "name":"Lasse Fogelstrøm"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0899121/",
+    "name":"Thomas Vinterberg"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm2105585/",
+      "name":"Tobias Lindholm"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0899121/",
+      "name":"Thomas Vinterberg"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0035146/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0048411/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0056024/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0001935/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0004166/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0113606/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0048118/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0079546/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0136662/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0338571/"
+    }
+  ],
+  "description":"Jagten is a movie starring Mads Mikkelsen, Thomas Bo Larsen, and Annika Wedderkopp. A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news...",
+  "datePublished":"2012-10-25",
+  "keywords":"kindergarten teacher,hunt,gunshot,punched in the face,false accusation of child abuse",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":261230,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt2106476/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"fonofanatical"
+    },
+    "dateCreated":"2013-09-03",
+    "inLanguage":"English",
+    "name":"Finding His Way In The Forest",
+    "reviewBody":"Here in the small town where I reside, our local newspaper had a recent headline that a beloved teacher was suspected of improper contact with a student. The article was complete along with his picture and I felt that this teacher's life was over as he knew it whether the information was accurate or false. I felt that I would withhold judgement pending an accurate and a detailed investigation, but I know that others would not give the teacher this courtesy. Human nature is an interesting thing to observe and we often get trapped in our own snares with comments such as \"I really can't tolerate judgemental people\".\n\nRecently I saw another Danish movie \"The Hijacking\" and was so impressed with it, that I sought out this movie as it was also a highly regarded project. I'm glad I did. The movie reflected the idea of a rush to judgement and all the implications of how society reacts when information is inaccurately reinforced.\n\nThe title of the movie, \"The Hunt\" is symbolic of Lucas's hunt for justice, but also feeling like the hunted. It begins with friends at a hunting camp drinking & celebrating but this hunt is all a metaphor for Lucas's life. Perhaps it was best expressed when his son got a family heirloom hunting rifle and it was said that now he was old enough to find his way in the forest. \"The Hunt\" is really about such a journey and the forest was thick with assumptions, accusations, hatred, betrayal, and a host of other thorns, briars, branches and such things to trip up the journey. Having felt like he was being hunted through a community's narrow rifle scope of understanding, Lucas's idea of hunting is ultimately altered....and believably so.\n\nVinterberg does a masterful job of story telling and in such a way that we hear a morality tale. Yes, many times the information we are told in the news is correct. But what if it isn't? What price is paid by the victim and his/her family? If you want to watch a movie that is different from the typical Hollywood variety and gives you reason to search more deeply before believing what you see and hear, watch \"The Hunt\" and see if you would find your way through the same forest that Lucas traveled. Few of us would be able to do so....",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H55M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Theatrical Version",
+    "embedUrl":"/video/imdb/vi2244519449",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMjIxNTk2MTU1OV5BMl5BanBnXkFtZTgwMjY0MDAzMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMjIxNTk2MTU1OV5BMl5BanBnXkFtZTgwMjY0MDAzMzE@._V1_.jpg",
+    "description":"A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+    "uploadDate":"2013-04-20T09:32:18Z"
+  }
+}

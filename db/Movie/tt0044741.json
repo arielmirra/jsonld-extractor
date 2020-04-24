@@ -1,0 +1,84 @@
+{
+  "id":"  http://www.imdb.com/title/tt0044741/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0044741/",
+  "name":"Ikiru",
+  "image":"https://m.media-amazon.com/images/M/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0793766/",
+      "name":"Takashi Shimura"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0437520/",
+      "name":"Nobuo Kaneko"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0385443/",
+      "name":"Shin'ichi Himori"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0848984/",
+      "name":"Haruo Tanaka"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000041/",
+    "name":"Akira Kurosawa"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000041/",
+      "name":"Akira Kurosawa"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0368074/",
+      "name":"Shinobu Hashimoto"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0644823/",
+      "name":"Hideo Oguni"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002219/"
+    }
+  ],
+  "description":"Ikiru is a movie starring Takashi Shimura, Nobuo Kaneko, and Shin'ichi Himori. A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.",
+  "datePublished":"1952-10-09",
+  "keywords":"meaning of life,cancer,death,bureaucrat,playground",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":62934,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0044741/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Raff-3"
+    },
+    "dateCreated":"1998-12-18",
+    "inLanguage":"English",
+    "name":"Beautiful & touching, also very clever",
+    "reviewBody":"This film touched me in a way no other film has. Filmed in black and white and gorgeous, both in the visuals and in how the story unfolds. Behold the clever manner of gradually unfolding the story as people jog each other's memories at his funeral (an obligation for them, that gradually turns into a real eulogy). Everything is told in flashbacks: the mourners' memories unfold naturally, as people remember what the man did and struggle to comprehend why.\n\nThis film I would nominate for the golden five of the century!\n\nI first saw it in 1956 or so at a small theater in downtown Chicago. A second viewing, years later, confirmed my initial pleasure!"
+  },
+  "duration":"PT2H23M"
+}

@@ -1,0 +1,96 @@
+{
+  "id":"  http://www.imdb.com/title/tt0046438/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0046438/",
+  "name":"Tôkyô monogatari",
+  "image":"https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0753479/",
+      "name":"Chishû Ryû"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0383261/",
+      "name":"Chieko Higashiyama"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0945522/",
+      "name":"Sô Yamamura"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0361697/",
+      "name":"Setsuko Hara"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0654868/",
+    "name":"Yasujirô Ozu"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0633792/",
+      "name":"Kôgo Noda"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0654868/",
+      "name":"Yasujirô Ozu"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0007001/"
+    }
+  ],
+  "description":"Tôkyô monogatari is a movie starring Chishû Ryû, Chieko Higashiyama, and Sô Yamamura. An old couple visit their children and grandchildren in the city, but receive little attention.",
+  "datePublished":"1953-11-03",
+  "keywords":"estrangement,family reunion,post world war two,japanese,generation gap",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":48073,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0046438/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Cheesedemon28"
+    },
+    "dateCreated":"2004-05-08",
+    "inLanguage":"English",
+    "name":"\"Isn't Life Depressing?\"",
+    "reviewBody":"Two women are sitting on tatami mats. They are smiling and talking. One of\n\nthem says, \"Isn't life depressing?\" Wow... that pretty much says it.\n\nTokyo Story is defenitely one of the finest movies ever made. Easy. I don't care what anyone says: slow or not, this is one of Ozu's finest films. Very few movies have made my cry, but I did indeed weep at this movie. All of the acting\n\nperformances are very believeable, especially Hara's. The interesting knee- level tatami cinematography suits the film perfectly. Even the music is\n\nimpeccable. \n\nWhat really gets me with Tokyo Story is how stunningly realistic it is. From the dialogue to the story, everything feels like real life. No matter what language you speak, what culture or country you hail from, this element is universal.\n\nIt's pretty much perfect... every character is fleshed out, there are no plot holes left open... I can't find anything to complain about it! 50 years after its release and it's still very contemporary... damn.\n\n I give it **** out of ****.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H16M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Trailer [OV]",
+    "embedUrl":"/video/imdb/vi2320022553",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTIxNGEwMTctYjgwZC00ZTMyLTk4MTMtNjA5MjQwNWMxMDM2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTIxNGEwMTctYjgwZC00ZTMyLTk4MTMtNjA5MjQwNWMxMDM2XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    "uploadDate":"2019-08-16T16:03:33Z"
+  }
+}

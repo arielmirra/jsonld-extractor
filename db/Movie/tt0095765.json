@@ -1,0 +1,117 @@
+{
+  "id":"  http://www.imdb.com/title/tt0095765/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0095765/",
+  "name":"Nuovo Cinema Paradiso",
+  "image":"https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0634159/",
+      "name":"Philippe Noiret"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0134073/",
+      "name":"Enzo Cannavale"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0041066/",
+      "name":"Antonella Attili"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0199774/",
+      "name":"Isa Danieli"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0868153/",
+    "name":"Giuseppe Tornatore"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0868153/",
+      "name":"Giuseppe Tornatore"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0868153/",
+      "name":"Giuseppe Tornatore"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0660031/",
+      "name":"Vanna Paoli"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0258268/",
+      "name":"Richard Epcar"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0013358/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0042444/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0009359/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0079764/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0244624/"
+    }
+  ],
+  "description":"Nuovo Cinema Paradiso is a movie starring Philippe Noiret, Enzo Cannavale, and Antonella Attili. A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship...",
+  "datePublished":"1988-11-17",
+  "keywords":"cinema,flashback,film projectionist,coming of age,movie theatre",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":215890,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.5"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0095765/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"ali-38"
+    },
+    "dateCreated":"1998-12-21",
+    "inLanguage":"English",
+    "name":"A breath of fresh air blowing away the cobwebs of Hollywood \"blah\" films.",
+    "reviewBody":"I have seen this film at least a dozen times and each time I am carried away to a small village in Italy, where the dreams of a small boy come true and we can join his spellbinding journey.  The Italian language (it is subtitled) adds to the film's beauty and music, the characters are so real you can almost smell them.  I am absorbed into \"Paradiso\" each time I watch it, so that when it is over, I am shocked into the realisation that I haven't actually been anywhere except right there, in my theatre seat. I am not a huge \"art house\" film fan or indeed enjoy subtitled films (it is hard on the old eyes!) but \"Paradiso\" is a gem and is worth seeing again and again."
+  },
+  "duration":"PT2H35M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Cinema Paradiso",
+    "embedUrl":"/video/imdb/vi2800655897",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZDU5YmU2MjgtMGU1OS00YWE0LWE2NGEtZmVmZTM1YjQzNjY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZDU5YmU2MjgtMGU1OS00YWE0LWE2NGEtZmVmZTM1YjQzNjY2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer",
+    "uploadDate":"2011-10-26T03:13:47Z"
+  }
+}

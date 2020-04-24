@@ -1,0 +1,108 @@
+{
+  "id":"  http://www.imdb.com/title/tt0112573/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0112573/",
+  "name":"Braveheart",
+  "image":"https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000154/",
+      "name":"Mel Gibson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000521/",
+      "name":"Sophie Marceau"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001526/",
+      "name":"Patrick McGoohan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0005171/",
+      "name":"Angus Macfadyen"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000154/",
+    "name":"Mel Gibson"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0908824/",
+      "name":"Randall Wallace"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0000700/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0042559/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0078539/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0073417/"
+    }
+  ],
+  "description":"Braveheart is a movie starring Mel Gibson, Sophie Marceau, and Patrick McGoohan. When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of...",
+  "datePublished":"1995-05-24",
+  "keywords":"scotland,revolt,england,legend,idealism",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":928267,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0112573/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"ma-cortes"
+    },
+    "dateCreated":"2015-02-07",
+    "inLanguage":"English",
+    "name":"Epic recreation about a notorious Scottish hero who purposes to free his country from the tyranny of Edward I",
+    "reviewBody":"In 14th Century Scotland, when his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt and leads Scottish warriors against the cruel English tyrant , the nasty ruler Edward I (Patrick McGoohan)the Longshanks (as he was called \"The Longshanks\" -long legs- since he was uncommonly tall for a man of the time , Edward I was at least 6 feet, 2 inches) who wishes to inherit the crown of Scotland for himself , ruling Scotland with an iron fist and succeeded his effeminate homosexual son Edward II Prince Edward (he was indeed the first English prince to carry the title Prince of Wales, although he did not marry Princess Isabella until 1308, after both Wallace (1305) and Edward I (1307) had died) . As William Wallace begins his long quest to make Scotland free once and for all, along with the assistance of Robert the Bruce. There took place several battles such as Stirling , York (though the sacking of York was invented for the movie ,Wallace never got as far south as York during his invasion of northern England) and the famous Battle of Falkirk (July 22, 1298), in which the English army was personally led by King Edward I, who decisively defeated the Scots , the real-life King Edward I was a military genius who learned combat tactics while fighting the Mamelukes during the Eighth and Ninth Crusades . There also appears Robert the Bruce , though many Scots were offended by the film's portrayal of Robert the Bruce (Angus McFayden) , who is considered a National Hero of Scotland . \n\nThis epic movie contains thrills , emotion ,romance , breathtaking battles and being based on historical events . However , some reviewers often cited as the least accurate historical epic of all time and more than 90% of the movie is fiction. This is the classic story about confrontation between good guys , the Scots , versus bad guys , the Sassenachs . A simplistic and pure tale with rude stereotypes and offering a stew of Hollywood clichés , being overlong but well played and directed by Mel Gibson . Interesting script by Randall Wallace , this screen-writer had been visiting Edinburgh in 1983 to learn about his heritage when he came across a statue of William Wallace outside Edinburgh Castle; he had never heard of the 14th-century figure who shared his name but was intrigued enough by the stories told to him about \"Scotland's greatest hero\" to research the story as much as possible. The film was heavily fictitious but Gibson claimed the changes had been made for dramatic purposes , he also admitted he had always felt he was at least a decade too old to play Wallace. Impressive production design , including thousands of extras , a majority of the actors and extras in this film were actually Irish - members of the Irish Army - although they are supposed to be Scottish or English, as many as 1600 were used on a given day. The film is very crude and brutal , including bloody battles , strong tortures with disembowelment provoking brave grimace and violent scenes as when Edward I threw his son's lover out of a castle window was particularly criticized for inciting homophobia , the lover was based on Piers Gaveston, who was allegedly Edward II's lover. Colorful and glamorous cinematography by John Toll , showing marvelous outdoors , including glamorous opening shots , snowy peaks , silvery lochs , dark mists and many other things . Evocative and sensitive musical score by James Horner ; despite the film being set in Scotland, and based on the life of a Scottish folk hero, the primary instrument heard throughout the soundtrack -most notably at William's father's funeral- are the Uilleann pipes, which are a smaller traditionally Irish version of bagpipes rather than the ubiquitous Great Highland Bagpipe.\n\nThis motion picture was very well directed by Mel Gibson and he picked up two Oscars for Best Film and Best Director ; though this film has been accused of promoting Anglophobia. Mel said that was influenced by various classic and historical flicks , among the films Gibson watched in order to prepare to direct \"Braveheart\" were Polanski's \"Macbeth,\" \"Spartacus,\" \"Chimes at Midnight,\" \"Alexander Nevsky,\" \"A Man for All Seasons,\" \"The Lion in Winter,\" \"Seven Samurai,\" and \"Throne of Blood\" . Rating : Better than average. Worthwhile watching . The picture will appeal to Mel Gibson fans .",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT2H58M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Official Trailer",
+    "embedUrl":"/video/imdb/vi2874063641",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZmIyZmUwMjgtMjU4OC00MDgxLWIxZWEtODM4NjcwZTJjYTVkXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZmIyZmUwMjgtMjU4OC00MDgxLWIxZWEtODM4NjcwZTJjYTVkXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+    "uploadDate":"2018-09-20T18:51:30Z"
+  }
+}

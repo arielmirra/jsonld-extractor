@@ -1,0 +1,119 @@
+{
+  "id":"  http://www.imdb.com/title/tt0338013/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0338013/",
+  "name":"Eternal Sunshine of the Spotless Mind",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000120/",
+      "name":"Jim Carrey"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000701/",
+      "name":"Kate Winslet"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0929489/",
+      "name":"Tom Wilkinson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0004423/",
+      "name":"Gerry Robert Byrne"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0327273/",
+    "name":"Michel Gondry"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0442109/",
+      "name":"Charlie Kaufman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0327273/",
+      "name":"Michel Gondry"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1410028/",
+      "name":"Pierre Bismuth"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0442109/",
+      "name":"Charlie Kaufman"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0042399/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0017525/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0017713/"
+    }
+  ],
+  "description":"Eternal Sunshine of the Spotless Mind is a movie starring Jim Carrey, Kate Winslet, and Tom Wilkinson. When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+  "datePublished":"2004-03-19",
+  "keywords":"memory,loneliness,retrograde narrative,flashback,valentine's day",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":870341,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0338013/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Matt_Layden"
+    },
+    "dateCreated":"2005-02-13",
+    "inLanguage":"English",
+    "name":"Best Film of 2004",
+    "reviewBody":"Joel (Jim Carrey) is a rather milquetoast man who meets up with free spirit Clementine (Kate Winslet), and they become romantically involved. However, they endure a messy breakup and Clementine goes to a business called Lacuna, Inc., where she has all of her memories of Joel erased. Not wanting to be left out, Joel also goes to have his memory erased. However, soon after it begins, Joel realizes that he wants to keep the memory of Clementine, so he tries to reverse the process.\n\nWell, if you're familiar with Kaufman's work, then you know what your getting yourself into. This is just as weird if not weirder than his previous work, Being John Malkovich. I knew what I was getting myself into, but 90% of the movie I was saying to myself \"What the hell is going on?\", but in a good way. It opens with Joel calling in sick for work and going on a different train, heading for Montauk. He meets Clementine and they hit it off. Now this is about 15 minutes into the movie, then out of nowhere come the opening credit sequence. I will admit, I thought it would be different, but I'm glad that it is the way it is, the movie is 80% of the time in Joel's head.\n\nIf you think you know Carrey, think again. This movie is his best performance, better than Majestic, Truman show and all of his comedic roles (which is what I love him for). Just looking at his face from the second we see him, we feel his pain, then like that, we feel his joy, embarrassment and hate. Just awesome acting on his part, and Winslet was great as the free spirit who never seems satisfied. The supporting cast all work well in their small, yet important roles. Oscar nominations for Winslet and (crosses fingers) Carrey.\n\nBut if I were to bet any money on any Oscar nominations it would obviously be the writing, what a mess, but beautifully constructed. You think to yourself, is that scene really necessary? Then ten minutes later you think to yourself how brilliant it was, that's beautiful, crazy, give me whatever he's smoking kind of writing. Charlie Kaufman's writing is always clever, but this time he's one-upped himself by making something simultaneously bizarre and emotionally engaging. It seemed like his earlier movies were clever for the sake of cleverness, but 'Eternal Sunshine' manages to dazzle you with it's originality and it's poignancy. The fact that this movie was able to wrap such profound loss, emotional tenderness, and hope in such a self-consciously stylized package illustrates the incredible talent of the people behind it.\n\nMichel Gondry's use of vibrant coloring and quick camera movement give the film a very involving first hand feeling. The constant use of the handy cam is very all involving for the viewer, and I suppose that this is exactly what is needed in such a personal movie. His work on the dream sequences is incredible as well. He decides to use more practical effects than what we see today with computers. \n\nEternal Sunshine is a tragic, yet beautiful film that sits at the top of my list of \"Best of 2004\".",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H48M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Eternal Sunshine of the Spotless Mind",
+    "embedUrl":"/video/imdb/vi2292515097",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYTA4YjQ5ZjEtMGQ4Mi00NWExLTkxMGQtNzAwYzVmNTU1ODJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYTA4YjQ5ZjEtMGQ4Mi00NWExLTkxMGQtNzAwYzVmNTU1ODJjXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer",
+    "uploadDate":"2008-04-11T14:01:47Z"
+  }
+}

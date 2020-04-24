@@ -1,0 +1,122 @@
+{
+  "id":"  http://www.imdb.com/title/tt0113247/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0113247/",
+  "name":"La haine",
+  "image":"https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001993/",
+      "name":"Vincent Cassel"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0468003/",
+      "name":"Hubert Koundé"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0846548/",
+      "name":"Saïd Taghmaoui"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0315760/",
+      "name":"Abdel Ahmed Ghili"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0440913/",
+    "name":"Mathieu Kassovitz"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0440913/",
+      "name":"Mathieu Kassovitz"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0028557/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0018517/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0041552/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0068363/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0072659/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0056741/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0030612/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0108318/"
+    }
+  ],
+  "description":"La haine is a movie starring Vincent Cassel, Hubert Koundé, and Saïd Taghmaoui. 24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+  "datePublished":"1995-05-31",
+  "keywords":"police,arab,gun,ghetto,riot",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":139602,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0113247/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Mat the masta"
+    },
+    "dateCreated":"2002-04-10",
+    "inLanguage":"English",
+    "name":"how can you sum up a film this beautiful & slick",
+    "reviewBody":"I first saw this film in 1997, after seeing and reading reviews about it on tv and the net for a couple of years. I never thought a film could actually make you truly think about things around our world, not just how bad it can be in places like the projects set in the film. I could truly see this happening where I am from(Rochdale,Manchester,UK).\n\nThe situation set in the film is a dark and nasty one. you watch 3 friends fall apart from the aftermath of a riot in a parisian project.a friend is near-fatally injured in police custody, which sparks a chain of events, part forced onto the 3 friends, part of self-inflicted.\n\nthe acting is amazing. Vincent Cassel's performance is electrifying. his mentality is distorted with hate(hence the film name), but you truly feel he is not a bad seed. His problem is he can't see the wood for the trees, which Hubert tries to point out to him.\n\nHubert is a character who has the potential to better his life, but he is trapped in his parisian project cell. he tries to guide vinz to a healthier and more productive way of thinking about life.\n\nsaid seems to be the one who doesn't want trouble, but it is thrust upon him. he sees the relationship between hubert and vinz, his 2 best friend, deteriorate, but doesn't know who to side with, or what to do about it.\n\nMathieu Kassovitz made this film in a way that you feel for both the police and the the 3 friends. It is amazing to watch, as mathieu takes the simplest things, and makes them look classy(check out the DJ scene for a true example of what I mean). he uses black and white as to colour, and it doesn't look fake, or cheesy. in fact it enhances the film more than you could imagine. you won't sit there and wish he filmed it in colour by the end. the action, although relatively mild compared to todays film, is believable.\n\nspeaking about the end, it is one of the most simplest and powerful endings I have seen in a film yet. the soundtrack is awesome too. who would have thought french hip-hop would sound so sweet.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H38M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Bande-annonce [OV]",
+    "embedUrl":"/video/imdb/vi1231338009",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYzhmYTNlMTctZDE2Ny00OGMxLTgzNzctZDNiYzY5ODNiMjU5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYzhmYTNlMTctZDE2Ny00OGMxLTgzNzctZDNiYzY5ODNiMjU5XkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    "uploadDate":"2019-02-12T14:53:23Z"
+  }
+}

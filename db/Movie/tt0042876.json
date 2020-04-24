@@ -1,0 +1,94 @@
+{
+  "id":"  http://www.imdb.com/title/tt0042876/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0042876/",
+  "name":"Rashômon",
+  "image":"https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001536/",
+      "name":"Toshirô Mifune"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0477553/",
+      "name":"Machiko Kyô"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0605270/",
+      "name":"Masayuki Mori"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0793766/",
+      "name":"Takashi Shimura"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000041/",
+    "name":"Akira Kurosawa"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0015611/",
+      "name":"Ryûnosuke Akutagawa"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000041/",
+      "name":"Akira Kurosawa"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0368074/",
+      "name":"Shinobu Hashimoto"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0045027/"
+    }
+  ],
+  "description":"Rashômon is a movie starring Toshirô Mifune, Machiko Kyô, and Masayuki Mori. The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+  "datePublished":"1950-08-26",
+  "keywords":"unreliable narration,heavy rain,contradictory accounts,multiple perspectives,story told from different perspectives",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":143983,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0042876/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Spondonman"
+    },
+    "dateCreated":"2007-12-15",
+    "inLanguage":"English",
+    "name":"Art!",
+    "reviewBody":"This was Kurosawa's first big international hit, from then on his films would be avidly watched and (usually) feted as Art. His style was always so breathtakingly simple that you can't help but get sucked into the rainy and sunny bestial world depicted in here, with a beautiful use of the black and white nitrate film stock contrasting against a sordid storyline. I've probably seen it 10 times now over the decades and it seems to get better every time I settle down to it - it's been a continual treat.\n\nA horror story from a few days previous is recounted on a ferociously wet day: beautiful woman is (apparently) raped by animalistic bandit in front of her husband who is then (apparently) murdered. But who really did what to who and why? It's told from four viewpoints: the bandit's, the honourable woman's, the heroic dead husband's via a rather startling medium and lastly a breathless version from a timid eye-witness. The event becomes a crime scene with the beauty of forest surrounding us and splintered sunlight beaming down on us through the trees bearing mute witness to the savage few moments. It's a salutary lesson in Human Beings vs Objectivity; the psychologies of the main protagonists are laid bare, as well as the story-tellers, even to Kurosawa and the viewers themselves. Who's telling the truth/ was it a mixture of all versions/ was there another truth untold? Only you can decide!\n\nI urge all innocent bystanders who have a problem with b&w non-HD 4:3 subtitled Japanese films from 1950 to try to get over it! Because it's a riveting journey, expertly handled by probably the best film director who's ever lived, all subjective of course.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H28M"
+}

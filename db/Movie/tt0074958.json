@@ -1,0 +1,80 @@
+{
+  "id":"  http://www.imdb.com/title/tt0074958/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0074958/",
+  "name":"Network",
+  "image":"https://m.media-amazon.com/images/M/MV5BNmFiOWY3ZTktOTYwNy00ZTUzLTk0ODQtNzIxMzQ0ZDFjMTgyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001159/",
+      "name":"Faye Dunaway"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000034/",
+      "name":"William Holden"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002075/",
+      "name":"Peter Finch"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000380/",
+      "name":"Robert Duvall"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001486/",
+    "name":"Sidney Lumet"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0154665/",
+      "name":"Paddy Chayefsky"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0007143/"
+    }
+  ],
+  "description":"Network is a movie starring Faye Dunaway, William Holden, and Peter Finch. A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.",
+  "datePublished":"1976-11-27",
+  "keywords":"media,television,television network,satire,ranting",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":138566,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0074958/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Putzberger"
+    },
+    "dateCreated":"2005-12-28",
+    "inLanguage":"English",
+    "name":"We Have Seen the Future, And It Sucks",
+    "reviewBody":"This movie came out when I was nine years old, and I saw it on network TV the following year, lured by the brouhaha that surrounded the use of the \"barnyard epithet\" during prime time. I loved this movie before I understood it, and I worship it now. Like \"Elmer Gantry\" or \"1984,\" it's a work of didactic art that only fails on an imaginative level -- Sinclair Lewis couldn't grasp how debased evangelism would become, Orwell couldn't foresee the excesses of Mao or Pol Pot, and Chayevsky couldn't envision the absolute decline of television from a vast wasteland to a malevolent sewer. Fox News, reality TV, even the OJ chase, \"Network\" anticipates every vile bit of it.\n\nNow, it's ridiculously overwritten -- NO ONE is as articulate as the characters in this film, and most certainly, no one who works in television is as literate as Diana Christensen (the Faye Dunaway character). I doubt that poet laureates or even Eminem could spew as witty an aside as \"muttering mutilated Marxism.\" But damn if that isn't part of its charm. Plus, outside of Max Schumacher (William Holden), the characters are pretty much archetypes instead of real people (the Robert Duvall character might as well wear a black cape and top hat), but their two-dimensionality works as a good metaphor for Max's seduction into the \"shrieking nothingness\" or television. Plus the actors are so superb they make screeching caricatures into almost-sympathetic characters: Duvall is a credible and charismatic villain, Finch is a fine mad prophet and Faye Dunaway manages to make a shrill, manipulative, soulless neurotic so damn cute and sexy you'll want to leave your wife for her, too, just as long as she promises to keep sitting cross-legged on your desk and hitching up her skirt. (Therein lies the real eroticism, forget the intentionally mechanical, unerotic coupling later in the flick). Anyway, this is complex, high art masquerading as popular entertainment, go rent it now.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H1M"
+}

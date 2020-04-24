@@ -1,0 +1,107 @@
+{
+  "id":"  http://www.imdb.com/title/tt0071315/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0071315/",
+  "name":"Chinatown",
+  "image":"https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000197/",
+      "name":"Jack Nicholson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001159/",
+      "name":"Faye Dunaway"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001379/",
+      "name":"John Huston"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0520164/",
+      "name":"Perry Lopez"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000591/",
+    "name":"Roman Polanski"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001801/",
+      "name":"Robert Towne"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000591/",
+      "name":"Roman Polanski"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0023400/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0001235/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0044146/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0079716/"
+    }
+  ],
+  "description":"Chinatown is a movie starring Jack Nicholson, Faye Dunaway, and John Huston. A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder.",
+  "datePublished":"1974-06-20",
+  "keywords":"neo noir,corruption,private detective,adultery,femme fatale",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":280139,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0071315/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"BlackJack_B"
+    },
+    "dateCreated":"2001-11-11",
+    "inLanguage":"English",
+    "name":"Gittes gits it done.",
+    "reviewBody":"Truly deserving of its title as one of the greatest films of all time, Chinatown delivers in spades. Everything about the film shines, and it looks better now than it probably did in 1974; of course, there's a lot of junk in the theaters these days. Acting, cinematography, script, atmosphere, it's all 10s baby. The story of a struggling P.I. getting a case that has more twists and turns than a mountain road is still one of the most crafted storylines ever concocted. Jack Nicholson, Faye Dunaway, John Huston, John Hillerman, and everyone else deliver superb performances. Robert Towne's script, John A. Alonzo's camerawork, and Polanski's direction all make this a classic. You can't be a movie buff if you haven't seen this one."
+  },
+  "duration":"PT2H10M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Chinatown",
+    "embedUrl":"/video/imdb/vi1220411673",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZjY0NzViNDYtMzQ1My00NTlhLWJjYzEtNTNhNjZiZDczN2VlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZjY0NzViNDYtMzQ1My00NTlhLWJjYzEtNTNhNjZiZDczN2VlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Theatrical Trailer from Paramount",
+    "uploadDate":"2008-04-11T13:23:02Z"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id":"  http://www.imdb.com/title/tt0986264/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0986264/",
+  "name":"Taare Zameen Par",
+  "image":"https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Family"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm2594301/",
+      "name":"Darsheel Safary"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0451148/",
+      "name":"Aamir Khan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1538116/",
+      "name":"Tisca Chopra"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1479650/",
+      "name":"Vipin Sharma"
+    }
+  ],
+  "director":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0451148/",
+      "name":"Aamir Khan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1244760/",
+      "name":"Amole Gupte"
+    }
+  ],
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm1244760/",
+      "name":"Amole Gupte"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1244760/",
+      "name":"Amole Gupte"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0026618/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0173735/"
+    }
+  ],
+  "description":"Taare Zameen Par is a movie starring Darsheel Safary, Aamir Khan, and Tisca Chopra. An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem...",
+  "datePublished":"2007-12-21",
+  "keywords":"papadum,man's best friend,short haired woman,female masculine short hair,masculine female",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":155234,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0986264/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"die_Heuchler"
+    },
+    "dateCreated":"2007-12-21",
+    "inLanguage":"English",
+    "name":"Some intelligent film-making there",
+    "reviewBody":"How many times has there been a movie you could really relate to? How many times has it happened that you've seen a character on the screen that reminds of something that you've been through in your life? As I saw Ishan (Darsheel Safary) today, I felt, somewhere deep within that that's me.\n\nNotwithstanding the slight retard nature, dyslexia and bad academic performance, the character of Ishan really made me remember my childhood today. I remember I was something like him as a child.creative and imaginative. And my imagination always went unappreciated. I used to curate gibberish  just like he did. I painted, I dreamed and I fantasized about different things. So I feel writer Amol Gupte and director Aamir Khan (what a wonderful debut!) have picked an incredibly moving story. Frankly, I am not easily moved by movies. Not even the greatest tearjerkers have managed to \"move\" me, but for a moment I was stunned. Is this really happening to me? Am I trying to cry? In fact, the scene where Ram (Aamir Khan) walks into Ishan's room and discovers a score of sketches and drawings, it made me feel like somebody had in fact, opened my closet and discovered my secret childhood fantasies (Believe me, I still have them.) This movie will surely engage all those who have had similar incidents in their lives. That's for sure. I am moved. I love this film. I don't know and I don't care how this film does in the box office but let me tell you don't watch this film if you're looking for regular boy meets girl story. Don't even skip this film thinking it's children's movie  no it isn't. In fact, Taare Zameen Par is a movie potentially targeted towards parents. But if you think you too have undergone similar childhood conflicts and lived a life where the people around you refuse to appreciate your fantasies, then definitely go for it. TZP mirrors many of those people's lives that looks just plain and simple but those who compromised their dreams for the sake of the earthly existence.\n\nOkay, enough of fantasies. Technically, writer Amol Gupte delivers an A Grade script. Aamir Khan shows his talent not just as an actor but a very versatile and intelligent. Oscar Wilde, Leonardo da Vinci and Sally Gardner were hardly ever heard of in Hindi cinema before this. The writer just does not deliver a well written script but also his knowledge of research (which other filmmakers hardly ever do!) Musically, it's two-thumbs up for Shanker Ehsaan Loy. The title song is fascinating. Maa and Jame Raho combine talents in all respects- music, words and voice. The production design is superb. Not for a moment you feel anything is fake. They even managed to squeeze in some quick visual effects and animated scenes. They're there to add another dimension to great story telling. The casting is good and well justified. Little Darsheel steals the show. Tisca Chopra grabs attention.\n\nAamir Khan, however stuns the audience by appearing at almost near half of the film. That's the surprise but you don't miss Aamir in the first half because Darsheel will definitely grab your attention and Aamir gets to show some good directorial talent.\n\nAll in all, I'd say go and watch the film. I wouldn't recommend if you're addicted to Yashraj stuffs but if you really want to see some intelligent film-making, then Taare Zameen Par is a treat.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT2H45M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Like Stars On Earth",
+    "embedUrl":"/video/imdb/vi1834943001",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZjU1NThkYzgtNDFiNy00YmJjLWI4NGQtNmM2YjA3ZTRhM2VlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZjU1NThkYzgtNDFiNy00YmJjLWI4NGQtNmM2YjA3ZTRhM2VlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Home Video Trailer from Buena Vista Home Entertainment",
+    "uploadDate":"2009-10-09T12:52:43Z"
+  }
+}

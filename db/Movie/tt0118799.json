@@ -1,0 +1,105 @@
+{
+  "id":"  http://www.imdb.com/title/tt0118799/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0118799/",
+  "name":"La vita è bella",
+  "image":"https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "contentRating":"PG-13",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000905/",
+      "name":"Roberto Benigni"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000971/",
+      "name":"Nicoletta Braschi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0134493/",
+      "name":"Giorgio Cantarini"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0243842/",
+      "name":"Giustino Durano"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000905/",
+    "name":"Roberto Benigni"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0148437/",
+      "name":"Vincenzo Cerami"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000905/",
+      "name":"Roberto Benigni"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0030298/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0037028/"
+    }
+  ],
+  "description":"La vita è bella is a movie starring Roberto Benigni, Nicoletta Braschi, and Giorgio Cantarini. When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and...",
+  "datePublished":"1997-12-20",
+  "keywords":"jewish,schoolteacher,world war two,nazi occupation,tank",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":591456,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.6"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0118799/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Anonymous_Maxine"
+    },
+    "dateCreated":"2000-03-27",
+    "inLanguage":"English",
+    "name":"Funny, entertaining, and amazingly intense and dramatic.",
+    "reviewBody":"I find it sad that so many people are so narrow-minded that they will not watch a movie that is black and white or, in this case, is subtitled. I feel sorry for people who refuse to watch a movie like Life Is Beautiful just because it is a foreign film. They have no idea what a beautifully acted and directed film this is, and they'll never know what an amazing experience they are missing. \n\nLife Is Beautiful manages to walk the extremely thin line between humor, fantasy, and tragedy. Sure, the film is clearly comedic, but nevertheless it manages to very effectively communicate the tremendous losses suffered in the Nazi concentration camps and has scenes at least as intense as any scene in Schindler's List. \n\nThis is one of the best films that I have ever seen. It manages to be so encompassing that you hardly notice the subtitles are even there. I proudly cast my vote of 10.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H56M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Trailer originale italiano [OV]",
+    "embedUrl":"/video/imdb/vi2332801561",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMWZjZGZiNjktZjk4MS00ODVmLWFhNzQtMWE4MThhOWNkOGZlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMWZjZGZiNjktZjk4MS00ODVmLWFhNzQtMWE4MThhOWNkOGZlXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    "uploadDate":"2019-01-27T15:58:05Z"
+  }
+}

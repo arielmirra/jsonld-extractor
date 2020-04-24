@@ -1,0 +1,106 @@
+{
+  "id":"  http://www.imdb.com/title/tt0107048/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0107048/",
+  "name":"Groundhog Day",
+  "image":"https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000195/",
+      "name":"Bill Murray"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000510/",
+      "name":"Andie MacDowell"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0254402/",
+      "name":"Chris Elliott"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0864997/",
+      "name":"Stephen Tobolowsky"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000601/",
+    "name":"Harold Ramis"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0748035/",
+      "name":"Danny Rubin"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000601/",
+      "name":"Harold Ramis"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0748035/",
+      "name":"Danny Rubin"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0050868/"
+    }
+  ],
+  "description":"Groundhog Day is a movie starring Bill Murray, Andie MacDowell, and Chris Elliott. A weatherman finds himself inexplicably living the same day over and over again.",
+  "datePublished":"1993-02-12",
+  "keywords":"trapped in a time loop,time loop,groundhog day,suicide,weatherman",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":561229,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0107048/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Ric-7"
+    },
+    "dateCreated":"2005-08-21",
+    "inLanguage":"English",
+    "name":"Neglected Masterpiece",
+    "reviewBody":"I thought the film was terrific when I saw it in theaters twelve years ago. Recently in watching it again on cable, I was amazed at the quality of the screenplay. I didn't notice the first time. But on repeated viewings (like reliving Groundhog Day), I was impressed at the story created by the writers. This film is so much more than witty jokes and comic riffs arranged around a gimmick. It has an internal logic and consistency that is very rarely found in screenplays. No joke seemed disposable, and as you laugh your way along, the philosophy underlying the film takes over your imagination.\n\nCheck the IMDb listings for this film's awards: look at the numerous British awards for writing. And yet this film was not even nominated for an Oscar. It is so rare that a film's jokes seem just as fresh more than a decade later, but I believe that is because the theme underlying the humor will never go out of fashion.\n\nThe acting was terrific, and I now think this is Bill Murray's best work (though I didn't take it seriously when I first saw the film.) But the screenplay is the one of the finest ever written. I don't know if it's studied in film schools, but it ought to be.\n\n* * * * *\n\nON HAROLD RAMIS' DEATH: Ramis told The Associated Press in a 2009 story about the 50th anniversary of Second City. \"When you hit it right, those things last.\"\n\nI found that quote in a story on Ramis' death. The story curiously did not mention \"Groundhog Day.\" If there is any film to serve as a fitting memorial for Harold Ramis, it must be \"Groundhog Day.\" A totally perfect script, perfectly executed. He hit it right, and when will he get the recognition he deserved decades ago?",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H41M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Groundhog Day",
+    "embedUrl":"/video/imdb/vi1957600025",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZmVmMDg4NjAtZmZiYi00ZjkwLTlmZWItZjM4NGQ1MDgxOGE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZmVmMDg4NjAtZmZiYi00ZjkwLTlmZWItZjM4NGQ1MDgxOGE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for Groundhog Day",
+    "uploadDate":"2010-12-31T06:16:14Z"
+  }
+}

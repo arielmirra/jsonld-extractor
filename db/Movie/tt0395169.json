@@ -1,0 +1,118 @@
+{
+  "id":"  http://www.imdb.com/title/tt0395169/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0395169/",
+  "name":"Hotel Rwanda",
+  "image":"https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "genre":[
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "contentRating":"PG-13",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000332/",
+      "name":"Don Cheadle"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0645683/",
+      "name":"Sophie Okonedo"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001618/",
+      "name":"Joaquin Phoenix"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1796730/",
+      "name":"Xolani Mali"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0313623/",
+    "name":"Terry George"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0669311/",
+      "name":"Keir Pearson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0313623/",
+      "name":"Terry George"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0026841/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0060306/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0127643/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0049611/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0136729/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0025719/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0112971/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0173285/"
+    }
+  ],
+  "description":"Hotel Rwanda is a movie starring Don Cheadle, Sophie Okonedo, and Joaquin Phoenix. Paul Rusesabagina was a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.",
+  "datePublished":"2005-01-20",
+  "keywords":"rwanda,ethnic warfare,mass murder,hate monger,hotel",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":324549,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0395169/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Proud_Canadian"
+    },
+    "dateCreated":"2004-09-15",
+    "inLanguage":"English",
+    "name":"This year's Schindler's List",
+    "reviewBody":"I was fortunate to see it at the Toronto International Film Festival.\n\nHotel Rwanda starred Don Cheadle and was directed by Terry George. It's based on a true event, about Paul Rusesabagina, a Hutu who worked at four star hotel in Kigali. When the war broke out he thought of only saving his immediate family but as he saw what was happening he opened the hotel to Tutsi and Hutus seeking refuge from the killing. He used all the favours he had stored as manager of the hotel and basically saved over a thousand lives. This will be the next Schindler's list. When the film was over, there was a standing ovation. Don Cheadle was excellent as an ordinary man forced to do extra-ordinary things. Paul Rusesabagina and his family attended the screening and he received a five minute standing ovation. Even Michael Moore came to see this movie. I highly recommend it. 9/10.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H1M"
+}

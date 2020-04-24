@@ -1,0 +1,125 @@
+{
+  "id":"  http://www.imdb.com/title/tt2024544/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt2024544/",
+  "name":"12 Years a Slave",
+  "image":"https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_.jpg",
+  "genre":[
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0252230/",
+      "name":"Chiwetel Ejiofor"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0931324/",
+      "name":"Michael Kenneth Williams"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1055413/",
+      "name":"Michael Fassbender"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000093/",
+      "name":"Brad Pitt"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm2588606/",
+    "name":"Steve McQueen"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0725983/",
+      "name":"John Ridley"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1185849/",
+      "name":"Solomon Northup"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0021592/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0120121/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0136967/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0025101/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0197272/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0028932/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0046206/"
+    }
+  ],
+  "description":"12 Years a Slave is a movie starring Chiwetel Ejiofor, Michael Kenneth Williams, and Michael Fassbender. In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+  "datePublished":"2013-11-08",
+  "keywords":"torture,kidnapping,racism,whipping,slavery",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":610804,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt2024544/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"dvc5159"
+    },
+    "dateCreated":"2013-10-18",
+    "inLanguage":"English",
+    "name":"Roll Jordan Roll",
+    "reviewBody":"A random and encounter has led Solomon Northup from living freely in New York to being kidnapped and sold into slavery in Louisiana, getting handed over to various slave owners. There, Solomon witnesses numerous acts of cruelty that no man should ever face.\n\nAs I stared at the movie screen with full dread, I was reeling back at certain scenes I had just witnessed. There were good films and television shows about slavery before, and they had various nuances at how to tackle slavery. This film is part of said resurgence of the sub- genre, hot on the heels of \"Django Unchained\" and \"The Butler\". But while the former relinquishes on Spaghetti Western entertainment more than attempting to address the issue in a political light as the latter, Steve McQueen's \"12 Years a Slave\" shuts those two up, and perhaps the entire sub-genre, for good. I doubt any future slavery-themed film will be as harrowing as this one was.\n\nSteve McQueen is a fearless filmmaker, continuing his streak of unfiltered brutality within human depths. He frames his actors' faces in extreme close-up, the eyes staring into despair, the nostrils fuming in aggression. Naked flesh are shown not because of erotic content, but rather because of desperation and futility. Long takes and wide shots are not uncommon in his films, and here they showcase a plethora of fantastic scenes and performances that work to discomfort the viewer as much as possible. McQueen doesn't just allow the audience to tackle slavery, he guts the audience and leaves them for the consequences. This is an extremely uncomfortable film to watch. Beautifully shot locations are placeholders for unsettling sequences before and after, contemplated by Hans Zimmer's poignant and at times horrifying score. This all works to create a nightmarish time and place where hell walks on Earth.\n\nCentral to all of this is the performance of Chiwetel Ejiofor as Solomon. Ejiofor showcases that he is a natural force to be reckoned with in this film, after a decade of mostly supporting characters. He spaces out in despair as the camera lingers onto him for solid minutes, not a word spoken. Another sequence shows him mourning the death of a fellow worker, in which the singing of the surrounding group compels him and shakes him down to tears. These scenes follow earlier ones where he is a classy, free man in the upper states, mingling happily with the crowd and partaking in fanciful music sessions. It is a tour-de-force performance.\n\nA fine ensemble of established and up-and-coming actors surround Ejiofor in his limelight - Paul Dano, Paul Giammati, Alfre Woodard, Sarah Paulson, even Brad Pitt and Benedict Cumberbatch, but none so ferociously as McQueen regular Michael Fassbender as the despicable, sadistic plantation owner Edwin Epps. So excellent and terrifying is Fassbender's portrayal of such a merciless and barbaric person, that the mere sight of him will either cause audience members unfamiliar to him to flinch.\n\nI was left speechless as the credits rolled. A lesser film would have added tacked-on sentimentality/exaggeration and politically influenced claptrap. Not this one. This is a movie to watch as a reminder of how powerful the human spirit can endeavor, and how lucky all of us have grown past that dreadful time in history. The full effect of it has not been felt in movies before, until now.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H14M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"UK Trailer",
+    "embedUrl":"/video/imdb/vi302032921",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTQ4MjI1OTI2Nl5BMl5BanBnXkFtZTgwNDMwODQ3MDE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTQ4MjI1OTI2Nl5BMl5BanBnXkFtZTgwNDMwODQ3MDE@._V1_.jpg",
+    "description":"In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+    "uploadDate":"2013-12-06T15:14:46Z"
+  }
+}

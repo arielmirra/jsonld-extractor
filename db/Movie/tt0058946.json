@@ -1,0 +1,107 @@
+{
+  "id":"  http://www.imdb.com/title/tt0058946/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0058946/",
+  "name":"La battaglia di Algeri",
+  "image":"https://m.media-amazon.com/images/M/MV5BZWEzMGY4OTQtYTdmMy00M2QwLTliYTQtYWUzYzc3OTA5YzIwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "War"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0352835/",
+      "name":"Brahim Hadjadj"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0552483/",
+      "name":"Jean Martin"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0754272/",
+      "name":"Yacef Saadi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0449197/",
+      "name":"Samia Kerbash"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0690597/",
+    "name":"Gillo Pontecorvo"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0758357/",
+      "name":"Franco Solinas"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0758357/",
+      "name":"Franco Solinas"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0690597/",
+      "name":"Gillo Pontecorvo"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0136687/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0136687/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0054014/"
+    }
+  ],
+  "description":"La battaglia di Algeri is a movie starring Brahim Hadjadj, Jean Martin, and Yacef Saadi. In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.",
+  "datePublished":"1966-09-09",
+  "keywords":"battle of algiers,algeria,resistance,struggle for independence,street fighter",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":49650,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0058946/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"jdesando"
+    },
+    "dateCreated":"2004-05-13",
+    "inLanguage":"English",
+    "name":"An unforgettable study of occupation and defeat.",
+    "reviewBody":"In 1962 after more than 130 years of French colonial rule, Algeria became independent.  Gillo Pontecorvo's `Algiers' shows the decade leading to that liberation in a powerful story about Muslims asserting their rights through violence, hiding, and plotting in the Kasbah, a demiworld of narrow, winding, seemingly endless alleys that are the only protection the rebels have from the eyes of the French.  The re-release of the 1965 black and white film is a convincing story of a people who do not want to be occupied and will give their lives so their families can one day be free.\n\nThe story centers on a couple of Muslim leaders, the charismatic Col. of the French forces, and the bombings and shootouts that at one point averaged just over 4 per day. The film's sympathy is for the Muslims, but the Colonel has moments of reflection that could be sympathetic, especially with the revelation that he was a member of the resistance in WWII and may have suffered in a concentration camp. The director shows the influence of Italian neo-realists like Roberto Rossellini (`Paisan') by shooting in documentary style on location, using non-actors (except for the Colonel), and generally avoiding an agitprop angle.\n\nBut the film's sympathy in the end belongs to the occupied people.  When 3 rebel women change appearance to look French, infiltrate, and plant bombs, the irony obvious to American audiences in their current struggle is a tribute to the strength of the narration and characterization and the universal dislike of occupation and subjugation.\n\nThe torture of the Muslim prisoners is the most poignant relevance to the recent scandal in Iraq.  The Colonel's justification for the practice to gain life-saving information is classic `ends-justify-the-means' logic still being used by great nations. In fact, the Pentagon reportedly had seen this film during the first days of the second Iraq War; some say they learned nothing from the film, which is an unforgettable study of occupation and defeat."
+  },
+  "duration":"PT2H1M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Battle of Algiers",
+    "embedUrl":"/video/imdb/vi1365680665",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTQxNTQwOTMzOV5BMl5BanBnXkFtZTcwMzQxOTI5Nw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTQxNTQwOTMzOV5BMl5BanBnXkFtZTcwMzQxOTI5Nw@@._V1_.jpg",
+    "description":"THE REVOLT THAT STIRRED THE WORLD!\n\nDirector Gillo Pontecorvo's highly acclaimed masterpiece THE BATTLE OF ALGIERS is regarded as one of modern cinema's finest achievements. Now, Digitally RE-MASTERED IN HIGH DEFINITION from restored archive elements approved by the filmmakers, this all-time classic release of Â“The Battle Of AlgiersÂ” also commemorates  the 50th anniversary of Algerian independence. This new HD version includes some previously unseen footage,  making this the most complete edition ever anywhere.\n\nSPECIAL FEATURES EXCLUSIVE PRESENTATION & INTERVIEW WITH DIRECTOR KEN LOACH EXCLUSIVE PRESENTATION BY DIRECTOR PAUL GREENGRASS (Bourne films)                   THE MAKING OF THE BATTLE OF ALGIERS&#8232;An exclusive interview with Director Gillo Pontecorvo THE REAL BATTLE OF ALGIERS  Interview with Producer & protagonist SAADI YACEF, head of FLN guerrillas OUR WAR FOR FREEDOM Interview with FLN fighter ZOHRA DRIF BITAT (the Milk Bar bomber portrayed in the film) PHOTO GALLERIES From filmmakerÂ’s personal archives FILM TRAILERS, Theatrical and Argent Trailer ALSO INCLUDED A SPECIAL BOOKLET Â“ITALIANS IN ALGIERS; An essay by author-scholar David Forgacs, Professor at NYU, on the remarkable genesis of the film and how it was shaped by both the award-winning Italian filmmakers and its ex-guerrilla Algerian producer, whose memoir the film is based on.",
+    "uploadDate":"2012-06-14T05:35:35Z"
+  }
+}

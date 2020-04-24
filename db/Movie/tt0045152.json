@@ -1,0 +1,102 @@
+{
+  "id":"  http://www.imdb.com/title/tt0045152/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0045152/",
+  "name":"Singin' in the Rain",
+  "image":"https://m.media-amazon.com/images/M/MV5BMWUyNjQ5MTAtNDJhYS00MWQ0LTk2ZTAtZmE4MWNlMjMwMzg3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "contentRating":"G",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000037/",
+      "name":"Gene Kelly"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0640307/",
+      "name":"Donald O'Connor"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001666/",
+      "name":"Debbie Reynolds"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0353405/",
+      "name":"Jean Hagen"
+    }
+  ],
+  "director":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0002045/",
+      "name":"Stanley Donen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000037/",
+      "name":"Gene Kelly"
+    }
+  ],
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0173679/",
+      "name":"Betty Comden"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0337582/",
+      "name":"Adolph Green"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0007143/"
+    }
+  ],
+  "description":"Singin' in the Rain is a movie starring Gene Kelly, Donald O'Connor, and Debbie Reynolds. A silent film production company and cast make a difficult transition to sound.",
+  "datePublished":"1952-04-11",
+  "keywords":"movie studio,hollywood california,reference to moses,1920s,film history",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":208255,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0045152/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"TwoCentsFromTexas"
+    },
+    "dateCreated":"2000-04-18",
+    "inLanguage":"English",
+    "name":"Delightful!",
+    "reviewBody":"Many good things can be and have been said about this one and they're all true.  It's a great movie.  The title number gives us Don Lockwood (Kelly)...In love as no other person has ever been in love, no doubt.  He steps out the door and it's raining but he's oblivious to the rain.  Who needs an umbrella when you've got wings on your heart and on your feet? Not the incomparable Gene Kelly as he treats us to THE single finest moment in the history of cinema.  Do not miss this one."
+  },
+  "duration":"PT1H43M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Singin' in the Rain",
+    "embedUrl":"/video/imdb/vi2086470681",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMjE2Mjc0OTI3NV5BMl5BanBnXkFtZTcwNTYxMjgyMw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMjE2Mjc0OTI3NV5BMl5BanBnXkFtZTcwNTYxMjgyMw@@._V1_.jpg",
+    "description":"Trailer for the classic musical Singin' in the Rain, starring Gene Kelly, Donald O'Connor, and Debbie Reynolds.",
+    "uploadDate":"2010-03-25T13:22:33Z"
+  }
+}

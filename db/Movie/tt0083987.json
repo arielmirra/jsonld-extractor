@@ -1,0 +1,106 @@
+{
+  "id":"  http://www.imdb.com/title/tt0083987/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0083987/",
+  "name":"Gandhi",
+  "image":"https://m.media-amazon.com/images/M/MV5BMzJiZDRmOWUtYjE2MS00Mjc1LTg1ZDYtNTQxYWJkZTg1OTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+  "genre":[
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001426/",
+      "name":"Ben Kingsley"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000024/",
+      "name":"John Gielgud"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0368990/",
+      "name":"Rohini Hattangadi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0786022/",
+      "name":"Roshan Seth"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000277/",
+    "name":"Richard Attenborough"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0109300/",
+      "name":"John Briley"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0024716/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0007480/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0045569/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0014896/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0597595/"
+    }
+  ],
+  "description":"Gandhi is a movie starring Ben Kingsley, John Gielgud, and Rohini Hattangadi. The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.",
+  "datePublished":"1983-01-01",
+  "keywords":"india,independence,hindu,peace,british india",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":212710,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0083987/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"quixoboy"
+    },
+    "dateCreated":"2003-09-15",
+    "inLanguage":"English",
+    "name":"A true epic, in every sense of the word",
+    "reviewBody":"Very, VERY few films have had the distinct ability to move and inspire me to the point where the effect is almost life-altering. \"Gandhi\" - the unbelievable, first-rate biopic on the historical figure - is truly one of those films, no question whatsoever. An unsurprising sweep for the 1983 Academy Awards, this is without a doubt one of the last real \"epic\" motion pictures ever.\n\nChronicling the rich, unforgettable life of a one Mohandas K. \"Mahatma\" Gandhi - played to shocking perfection by the wonderful Sir Ben Kingsley - this is a film that I can say really, deeply affected me with its power, its scale, and of course, its timeless message of love and non-violence. As a matter of fact, ever since I first saw the film, and became much more aware of the back story, I can also say that Gandhi is now one of my biggest role models in life. I cannot fully express how much this great man's way of thinking - his words, his struggles, his accomplishments - has affected my own, for I am now a practicing pacifist. I am a firm believer in the value of non-violent protest, and have tried my best to apply that philosophy to most situations in my life. It has worked wonders for me, and has really changed how I view the world in terms of human nature and so forth. Like I said, VERY few films can do something like that to me."
+  },
+  "duration":"PT3H11M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Gandhi: Trailer",
+    "embedUrl":"/video/imdb/vi1044512793",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNjQ0OTQ4Mzc3Ml5BMl5BanBnXkFtZTgwODc5MTczMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNjQ0OTQ4Mzc3Ml5BMl5BanBnXkFtZTgwODc5MTczMzE@._V1_.jpg",
+    "description":"A biography of Mahatma Gandhi, the lawyer who became the famed leader of the Indian revolts against the British through his philosophy of non-violent protest.",
+    "uploadDate":"2008-11-14T15:07:49Z"
+  }
+}

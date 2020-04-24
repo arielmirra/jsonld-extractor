@@ -1,0 +1,118 @@
+{
+  "id":"  http://www.imdb.com/title/tt0083658/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0083658/",
+  "name":"Blade Runner",
+  "image":"https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000148/",
+      "name":"Harrison Ford"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000442/",
+      "name":"Rutger Hauer"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000707/",
+      "name":"Sean Young"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001579/",
+      "name":"Edward James Olmos"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000631/",
+    "name":"Ridley Scott"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0266684/",
+      "name":"Hampton Fancher"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0672459/",
+      "name":"David Webb Peoples"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001140/",
+      "name":"Philip K. Dick"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0042559/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0484967/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002663/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0001628/"
+    }
+  ],
+  "description":"Blade Runner is a movie starring Harrison Ford, Rutger Hauer, and Sean Young. A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+  "datePublished":"1982-06-25",
+  "keywords":"tech noir,human android relationship,cyberpunk,police detective,female android",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":664297,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0083658/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Nazi_Fighter_David"
+    },
+    "dateCreated":"2008-08-11",
+    "inLanguage":"English",
+    "name":"An incredibly beautiful-looking film as one would expect with director Ridley Scott",
+    "reviewBody":"But it's almost like an art movie, the first science-fiction art film It's a futuristic film beautifully put together It's really impeccably made by one of the great visionary directors And you really saw a future that looked very different from the future you had seen before A future that looked very believable like the visual-effects shots of the flying car going over a futuristic city The fight sequence doesn't prepare you for the traumatic emotional side that there is in the film, it leaves you sort of broken \n\nThere is a beautiful, delicate emotional great scene that I remember when I first saw the movie I'm in the theater and I'm so drawn in what Rutger Hauer's doing I'm so drawn in by what the theme of the movie has brought us to The magnificent moment where he is letting go of life And in those last moments of letting go of life he's really learned to appreciate life to the point where he spares Deckard's life, and where he's even holding a white dove because he just wants to have something that's alive in his hands It's an amazing sort of crescendo that's going and there's Rutger saying: \"I've seen things you people wouldn't believe. All these moments will be lost in time like tears in rain.\" Hauer puts all the things that are so amazing about people: sense of poetry, sense of humor, sense of sexuality, sense of the kid, sense of soul \n\nScott brought out the best qualities in his performers He coaxed and very gently manipulated performances from his actors that in some instances I think they've rarely topped You feel the story, you feel the emotions of the characters and you will be lost in the middle of this wild world, you know, it's so rich and it's painful I mean it's a very bluesy, dark story and told very compassionately \n\nThe overpopulation, the sort of crowd scenes is so rich and varied and there's such an extreme detail designing the magazine covers, designing the look of the punks, the Hare Krishnas, the biological salesman, everything is designed You have just Piccadilly Circus punks walking by You have a sense of layers in that society That is one of those things that you see again and again The city landscape with the big billboards à la Kyoto or Tokyo Scott was able to create the look based on what goes on in various cities all over the world Whether it is Tokyo, Kyoto or Beijing or Hong Kong or whatever, you're right in \"Blade Runner\" country \n\n\"Blade Runner,\" to me, embodies the elegance, the power, and the uniqueness of a film experience It's the most classical, beautiful, purest movie-making writing and then the film-making itself is The images and the sound and the music, it's pure cinema Ridley came out with an amazing, brilliantly executed future of an absolute dystopia The intensity of his perfectionism on \"Blade Runner\" made the movie This is a master at his best",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT1H57M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Blade Runner",
+    "embedUrl":"/video/imdb/vi531759385",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMjQwOTM1Mjk2OF5BMl5BanBnXkFtZTgwODc5NzY3MjI@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMjQwOTM1Mjk2OF5BMl5BanBnXkFtZTgwODc5NzY3MjI@._V1_.jpg",
+    "description":"Blade Runner Trailer",
+    "uploadDate":"2007-11-27T09:22:44Z"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id":"  http://www.imdb.com/title/tt0093779/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0093779/",
+  "name":"The Princess Bride",
+  "image":"https://m.media-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Romance"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000144/",
+      "name":"Cary Elwes"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001597/",
+      "name":"Mandy Patinkin"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000705/",
+      "name":"Robin Wright"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001697/",
+      "name":"Chris Sarandon"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001661/",
+    "name":"Rob Reiner"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001279/",
+      "name":"William Goldman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001279/",
+      "name":"William Goldman"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0043140/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0021056/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0040943/"
+    }
+  ],
+  "description":"The Princess Bride is a movie starring Cary Elwes, Mandy Patinkin, and Robin Wright. While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and...",
+  "datePublished":"1987-10-09",
+  "keywords":"true love,giant,fairy tale,pirate,princess",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":376674,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0093779/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"The_Film_Auditor"
+    },
+    "dateCreated":"2018-07-17",
+    "inLanguage":"English",
+    "name":"This film holds up after 30 years",
+    "reviewBody":"The Princess Bride has been a film that I've always wanted to watch but never got the opportunity until now (Thank you Goodwill!). After finishing the film, I can see why it's close to so many people's hearts. Throughout the film, I caught myself smiling at moments and bursting with laughter at others. It is a very easy watch. The story's pace is great, making the viewer captivated and invested in the characters throughout the entire film. This is done with the help of some fantastically choreographed sword fighting, hilarious jokes, and an array of diverse characters.\n\nEven though I enjoyed this film, there are some things I can nitpick. I noticed many continuity errors while watching the film; not that it really matters, but it was sometimes distracting me from the story. I also felt as though there were times where the plot was too convenient or over the top. This could have been intentional since most child bedtime stories are outlandish, but there were scenes such as when they break into the castle that had me scratching my head and saying what the??? There were also parts of the film where I felt as though characters knew things or had things that they probably wouldn't, like when Fizzik pulls out a random black robe from his sleeve. That was confusing, but again, I might just be missing the humor behind those parts.\n\nEven though I had some tiny issues with the film, I still had fun with this movie. There were many moments that reminded me of when my dad used to read stories of knights and pirates to me as I fell asleep. This childhood sentimentality mixed with the feelings of whimsy and familiarity while watching the film is why I think that this film was such a fun experience. I would definitely recommend this film, it might not be everyone's cup of tea, but I think most will find something fun about this story of silliness, revenge, and true love.\n\nThe Good \n* Acting\n* Hilarious/comedic timing\n* Captivating story\n\n\nThe Bad \n* Continuity errors\n* Plot holes\n* The grandpa/grandson story sometimes getting in the way\n",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT1H38M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Princess Bride: Special Edition",
+    "embedUrl":"/video/imdb/vi1571095833",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYWYwM2IwMDEtZTgxOS00N2JhLWIzMmMtOTBiZTlhZGFhZjgxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYWYwM2IwMDEtZTgxOS00N2JhLWIzMmMtOTBiZTlhZGFhZjgxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Shared: Dread Pirate and Buttercup Editions",
+    "uploadDate":"2009-10-31T06:21:29Z"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id":"  http://www.imdb.com/title/tt0043014/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0043014/",
+  "name":"Sunset Blvd.",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Film-Noir"
+  ],
+  "contentRating":"Passed",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000034/",
+      "name":"William Holden"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0841797/",
+      "name":"Gloria Swanson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002233/",
+      "name":"Erich von Stroheim"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0647970/",
+      "name":"Nancy Olson"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000697/",
+    "name":"Billy Wilder"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0102818/",
+      "name":"Charles Brackett"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000697/",
+      "name":"Billy Wilder"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0551261/",
+      "name":"D.M. Marshman Jr."
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0023400/"
+    }
+  ],
+  "description":"Sunset Blvd. is a movie starring William Holden, Gloria Swanson, and Erich von Stroheim. A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+  "datePublished":"1950-09-29",
+  "keywords":"silent film star,narrated from the grave,butler,madness,recluse",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":190533,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0043014/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"queenruejean"
+    },
+    "dateCreated":"2005-03-12",
+    "inLanguage":"English",
+    "name":"Better Late Than Never",
+    "reviewBody":"Although this movie was made 8 years before I was, I saw it for the first time yesterday and I was blown away! I have spent my life missing what has just become one of my favorite movies of all time.\n\nThe acting was superb, the storyline riveting and the characters were people you could care about. Max was my personal favorite. There was a quiet, tragic dignity to him. I expected something to be revealed about him but was not prepared for the truth.\n\nI've always liked William Holden but my experience with Gloria Swanson was limited to her brief role in \"Airport 75\". I will now look for more movies by her. What an expressive face.\n\nIt was fun to try to recognize some of the old time actors that were portraying themselves. \n\nAn all around excellent movie. One I truly regret having waited this long to see. But it is definitely a case of better late than never.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H50M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Sunset Blvd.",
+    "embedUrl":"/video/imdb/vi2388460569",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMjIwMTI5Nzc2M15BMl5BanBnXkFtZTgwODcyMDczMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMjIwMTI5Nzc2M15BMl5BanBnXkFtZTgwODcyMDczMzE@._V1_.jpg",
+    "description":"Trailer for the classic film Sunset Blvd., starring William Holden, Gloria Swanson, and Erich von Stroheim",
+    "uploadDate":"2010-03-25T13:44:13Z"
+  }
+}

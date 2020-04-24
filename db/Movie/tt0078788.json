@@ -1,0 +1,115 @@
+{
+  "id":"  http://www.imdb.com/title/tt0078788/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0078788/",
+  "name":"Apocalypse Now",
+  "image":"https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Mystery",
+    "War"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000640/",
+      "name":"Martin Sheen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000008/",
+      "name":"Marlon Brando"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000380/",
+      "name":"Robert Duvall"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002078/",
+      "name":"Frederic Forrest"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000338/",
+    "name":"Francis Ford Coppola"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0587518/",
+      "name":"John Milius"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000338/",
+      "name":"Francis Ford Coppola"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0380282/",
+      "name":"Michael Herr"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0175676/",
+      "name":"Joseph Conrad"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0044097/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0035894/"
+    }
+  ],
+  "description":"Apocalypse Now is a movie starring Martin Sheen, Marlon Brando, and Robert Duvall. A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+  "datePublished":"1979-08-15",
+  "keywords":"vietnam,jungle,vietnam war,breasts,anti war",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":578516,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0078788/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"surfisfun"
+    },
+    "dateCreated":"2018-01-03",
+    "inLanguage":"English",
+    "name":"skip Redux version, watch original first",
+    "reviewBody":"Top 20 war movie\n\nin Redux they added long scenes that changed tempo of movie. The one at the plantation didn't work well in context. What a great film!",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H27M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Apocalypse Now: Blu-ray Three-Disc Full Disclosure Edition",
+    "embedUrl":"/video/imdb/vi3543773721",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZDBmNDMwNjctODIzNS00MzgxLThhYmItNjcyNzQ0ZjI3NzE3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZDBmNDMwNjctODIzNS00MzgxLThhYmItNjcyNzQ0ZjI3NzE3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for Apocalypse Now",
+    "uploadDate":"2015-12-12T07:06:23Z"
+  }
+}

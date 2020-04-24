@@ -1,0 +1,100 @@
+{
+  "id":"  http://www.imdb.com/title/tt0120382/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0120382/",
+  "name":"The Truman Show",
+  "image":"https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000120/",
+      "name":"Jim Carrey"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000438/",
+      "name":"Ed Harris"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001473/",
+      "name":"Laura Linney"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001187/",
+      "name":"Noah Emmerich"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001837/",
+    "name":"Peter Weir"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0629272/",
+      "name":"Andrew Niccol"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0023400/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0093765/"
+    }
+  ],
+  "description":"The Truman Show is a movie starring Jim Carrey, Ed Harris, and Laura Linney. An insurance salesman discovers his whole life is actually a reality TV show.",
+  "datePublished":"1998-06-05",
+  "keywords":"hidden camera,simulated reality,fictional reality show,controlled environment,deception",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":887281,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0120382/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"drpavlovic1411"
+    },
+    "dateCreated":"2011-11-19",
+    "inLanguage":"English",
+    "name":"The most multidimensional movie ever !!!!!!",
+    "reviewBody":"It not so easy to be Jim Carrey, because nobody takes you seriously after many funny movies, even when he is ABSOLUTELY BRILLIANT. He proved himself so many times in dramas, he is so great actor.\n\nThis time, there is no grade for the script, 10 is too low, maybe 10++ would suffice. I must agree that in everything around us we can see only what we are capable to see, but this movie gives so many levels and many people would see it differently and ALL WILL BE THRILLED by this movie.\n\nPeople who are interested in the phenomenon of 'Big Brother',a kind of TV voyeurism (so present today) will see the ultimate human desire to observe somebody's life, from its beginning, and without consent of the person which is the object of that observing. There is nothing special in this man who is watched, but we like to have mirrors of our lives in other people (who knows why). \n\nOf course, the next layer is ethical: do we have the right to watch somebody's life, because we don't talk about a rat, but a human being who doesn't know that he is watched in a TV show. \n\nIf we go further, we must ask ourselves, what is real in our life? There is is always some possibility that we are observed, directed, guided, monitored..., by somebody and our life is not so authentic as we used to think.\n\nNext layer: this movie talks about freedom and personal choice. How we want to be free, no matter what are the other alternatives are. Free to love who we want, free to go, free as much as it is possible. Of course, if we want to be free, if our mind and society stop us.\n\nFINALLY... The most interesting level is the spiritual one.This is a guidebook of the spiritual path. At first, this world is so secure and predictable place. We have our little lives and we can define everything what is important for us, to have some simplification of reality, to feel safe. This kind of ordinary life is a bit boring, but we are in a herd, we are not alone in our dungeon.\n\nBut..., at some moment, this world is maybe not what we thought it is..., maybe we want more of our lives,and the world is not so simple and ordinary place. We feel that there is something BEHIND this so- called 'reality'. And we start to search, to test that reality, which gives us more and more 'magic' things as we go deeper. This is still a stage of curiosity, many people tasted this path and feeling, but at some superficial level.\n\nIf we go further, we must fight the world. All possible obstacles will arise, people and circumstances. When Truman wants to see reality what it is, to be free, all his 'friends' and the complete crew don't let him to go our the ordinary tracks. So alike the spiritual quest. \n\nThen, the moment has come, men must be separated from boys, that is, the curious people from the real seekers. The latter are ready to give even their lives, to 'waste' their time, to face their worst fears, to be 'hunted' by the society (which wants they to be 'normal' again)..., but a true spiritual person won't give up. The same as Truman ('you'l have to kill me!!!!!!!'), the quest is the real one only if we are totally determined to follow our inner feeling and to search the truth. \n\nAT LAST..., we hit the 'border' of the world, the frontiers of the reality, we get know what this world really is. We are free to talk with our 'God' (though I think it is the final trick of our ego, to bring us back to be 'normal' again and it plays so many games to pull us back, by saying that there is nothing out there, everything is the same, and it is better in realm of ILLUSION). \n\nOnly a real spiritual person will say 'thanks' for the offer, and go to freedom, no matter what it is, but it is OUR freedom, our insight, the world won't be the same anymore. \n\nIt is such a pity that this is a kind of review, that I can't make a spoiler, to give more details, to relate the scenes from the movie and my points. But when you see it, you'll know what I am talking about.\n\nAgain, you'll see what you are able to see, the movie will be deep in degree of your ability to open your mind. This scenario can't be beaten even by movies like Gandhi or Mozart, or any other. An excellent work of Andrew Niccol.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H43M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Truman Show",
+    "embedUrl":"/video/imdb/vi1878327577",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNjc5MGY5MTctNDE3OS00OWQ4LWFhYWQtNDc0NTBmYjFiNDM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNjc5MGY5MTctNDE3OS00OWQ4LWFhYWQtNDc0NTBmYjFiNDM3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Theatrical Trailer from Paramount",
+    "uploadDate":"2008-04-11T16:52:43Z"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id":"  http://www.imdb.com/title/tt0978762/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0978762/",
+  "name":"Mary and Max",
+  "image":"https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001057/",
+      "name":"Toni Collette"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000450/",
+      "name":"Philip Seymour Hoffman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0051509/",
+      "name":"Eric Bana"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0402032/",
+      "name":"Barry Humphries"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0254178/",
+    "name":"Adam Elliot"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0254178/",
+      "name":"Adam Elliot"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0112023/"
+    }
+  ],
+  "description":"Mary and Max is a movie starring Toni Collette, Philip Seymour Hoffman, and Eric Bana. A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a...",
+  "datePublished":"2009-04-09",
+  "keywords":"stop motion,black comedy,male nudity,male frontal nudity,male full frontal nudity",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":157951,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0978762/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"d-b_tas-1"
+    },
+    "dateCreated":"2009-05-26",
+    "inLanguage":"English",
+    "name":"Great Movie",
+    "reviewBody":"I thought this movie was very well made. I can relate to Max's character, as i work with people who have Asperges Syndrome. The creator showed the audience what it is really like, in society, to have a mental disability of this kind. The use of gray colour with a splash of red when showing the scenes with Max, was very effective, and give the audience the sense of what Max was feeling. I saw this movie with work colleagues who also work with children with this disorder, and we were all curious to see how this disorder would be shown. We were all very pleased. \n\nThis movie shows the audience what people with asperges syndrome go through in day to day life, and how they don't understand things that most people would. As well as how they do/do not cope with some issues.\n\nThis movie is not for children. It is quite sad, but with some really funny parts. and for those who live in Melbourne, especially, you will understand some of the references.\n\nI give this movie 10/10.\n\nAfter 5 years in the making it is definitely worth watching",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H32M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Mary and Max",
+    "embedUrl":"/video/imdb/vi784205081",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTk1NDgwMzk5NV5BMl5BanBnXkFtZTcwNjc0ODM5Mg@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTk1NDgwMzk5NV5BMl5BanBnXkFtZTcwNjc0ODM5Mg@@._V1_.jpg",
+    "description":"A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+    "uploadDate":"2009-10-27T07:37:34Z"
+  }
+}

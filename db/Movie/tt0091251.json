@@ -1,0 +1,109 @@
+{
+  "id":"  http://www.imdb.com/title/tt0091251/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0091251/",
+  "name":"Idi i smotri",
+  "image":"https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "War"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0470385/",
+      "name":"Aleksey Kravchenko"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0592500/",
+      "name":"Olga Mironova"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0490708/",
+      "name":"Liubomiras Laucevicius"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0046575/",
+      "name":"Vladas Bagdonas"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0459552/",
+    "name":"Elem Klimov"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0010696/",
+      "name":"Ales Adamovich"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0010696/",
+      "name":"Ales Adamovich"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0459552/",
+      "name":"Elem Klimov"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0114140/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0024010/"
+    }
+  ],
+  "description":"Idi i smotri is a movie starring Aleksey Kravchenko, Olga Mironova, and Liubomiras Laucevicius. After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors...",
+  "datePublished":"1985-10-17",
+  "keywords":"nazi occupied soviet union,mass murder,crime against humanity,year 1943,brutality",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":49699,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0091251/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"paulmartin177"
+    },
+    "dateCreated":"2006-05-12",
+    "inLanguage":"English",
+    "name":"I saw a film today , oh boy...",
+    "reviewBody":"I have a bad habit of reading too many reviews and comments about a film before I've seen it, mainly to get an idea about whether it's going to be worth a couple of hours of my time watching it. As a result, I am often slightly disappointed with much of what I see, as all the hype that I've read about a film kind of blows my expectations out of all proportion. I had a feeling this would be the case with Elem Klimov's 'Come and See', a film I'd read a lot about, particularly here on the IMDb. (Imagine my \"excitement\" when, having tried to see the film for nearly a year, I discovered it was to be released on DVD a week or two ago from today!) Well, I finally watched the film yesterday and... well, nothing could have prepared me for the sheer intensity and unflinching visceral horror of the atrocities that 'Come and See' invites us to... come and see. (Has anyone commented before on what a clever title that actually is...?) This is one of those films, like, say, 'Requiem For A Dream' or 'The Magdalene Sisters' (both of which, though great films, are simply not in the same league as Klimov's film), that one does not (obviously) so much enjoy as submit oneself to. By the end of such films we are left numbed and shell-shocked, wondering what we are supposed to do with the intense emotions that have been evoked within us. Yes, I felt like the ground had been pulled from beneath me; yes, what I saw in that film made my blood boil, my head hurt and my heart pound; and, yes, it showed me things I'd seen before but to a degree of intensity and detail that I had not experienced before. The point though, I guess, is that the role of cinema (and art in general) is not to offer answers or tell us what to think but to simply show us particular events and characters and allow us to come to our own decisions about what those things 'mean'. I'm rambling now, but I'll simply end by saying that 'Come and See' is, with its outstanding technical and artistic credentials aside, a film whose very title alone demands that it be seen. It is the work of a visionary, a cry of despair from the depths of hell, and an important reminder of humanity's capacity for inhumanity Go and see...",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H22M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Come and See",
+    "embedUrl":"/video/imdb/vi129958169",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMzk2ZTJiYTUtYTA0My00ZTQzLWI3ZDUtYWI1OTVjNjU4OTcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMzk2ZTJiYTUtYTA0My00ZTQzLWI3ZDUtYWI1OTVjNjU4OTcwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Home Video Trailer from Kino International",
+    "uploadDate":"2008-04-11T13:30:09Z"
+  }
+}

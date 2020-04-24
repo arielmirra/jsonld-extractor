@@ -1,0 +1,130 @@
+{
+  "id":"  http://www.imdb.com/title/tt0180093/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0180093/",
+  "name":"Requiem for a Dream",
+  "image":"https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000995/",
+      "name":"Ellen Burstyn"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001467/",
+      "name":"Jared Leto"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000124/",
+      "name":"Jennifer Connelly"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0005541/",
+      "name":"Marlon Wayans"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0004716/",
+    "name":"Darren Aronofsky"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0782968/",
+      "name":"Hubert Selby Jr."
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0782968/",
+      "name":"Hubert Selby Jr."
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0004716/",
+      "name":"Darren Aronofsky"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0014903/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0042682/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0067219/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0062935/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0024345/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0069968/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0049489/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0076907/"
+    }
+  ],
+  "description":"Requiem for a Dream is a movie starring Ellen Burstyn, Jared Leto, and Jennifer Connelly. The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+  "datePublished":"2000-11-03",
+  "keywords":"drug addiction,heroin,sex show,sex scene,addiction",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":734891,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0180093/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Brian Scott Mednick"
+    },
+    "dateCreated":"2001-02-12",
+    "inLanguage":"English",
+    "name":"\"Requiem\" Is a Heavyweight",
+    "reviewBody":"You will not so much as want to take a sip of wine after watching this mesmerizing film about the horrors of drug addiction.  I was not a fan of director Darren Aronofsky's debut film \"Pi,\" but with this movie he proves to be a filmmaker of unlimited vision and style.  Four characters in Brighton Beach, Brooklyn are all driven to despair due to their drug abuse, the saddest being Ellen Burstyn as a nice Jewish widow who unwittingly becomes addicted to prescription diet pills that help her lose weight but drag her into a world of hallucinations and paranoia.  Burstyn is superb. It is so refreshing to see such a great veteran like her in such a challenging leading role, one in which she goes through a hell worse than that in \"The Exorcist.\"\n\nBut this is a director's film if there ever was one.  Aronofsky knows how to tell a story in a way that is dazzling in its use of sound, editing, and cinematography.  The score by the Kronos Quartet and Clint Mansell is the most striking movie music I have heard in a very long time.\n\n\"Requiem for a Dream\" is not a movie for everyone.  It is the essence of independent filmmaking, a daring, engrossing, artful film that stays with you long after you leave the theater.  Hollywood bubblegum this ain't.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H42M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Requiem for a Dream",
+    "embedUrl":"/video/imdb/vi2156069145",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNzFmMzRmMjQtOGNiZS00YjdjLThhNTUtM2M1YzI0NDQ1ZTcyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNzFmMzRmMjQtOGNiZS00YjdjLThhNTUtM2M1YzI0NDQ1ZTcyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Theatrical Trailer from Artisan",
+    "uploadDate":"2008-04-11T15:51:51Z"
+  }
+}

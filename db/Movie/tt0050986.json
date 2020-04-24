@@ -1,0 +1,83 @@
+{
+  "id":"  http://www.imdb.com/title/tt0050986/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0050986/",
+  "name":"Smultronstället",
+  "image":"https://m.media-amazon.com/images/M/MV5BYzdkODZlOGItY2RjZC00Mzc5LWI5NzMtZDUyMmNhNjljOWE2XkEyXkFqcGdeQXVyOTk4MjA5NjQ@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Romance"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0803705/",
+      "name":"Victor Sjöström"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000761/",
+      "name":"Bibi Andersson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0862026/",
+      "name":"Ingrid Thulin"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0085038/",
+      "name":"Gunnar Björnstrand"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000005/",
+    "name":"Ingmar Bergman"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000005/",
+      "name":"Ingmar Bergman"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0050989/"
+    }
+  ],
+  "description":"Smultronstället is a movie starring Victor Sjöström, Bibi Andersson, and Ingrid Thulin. After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+  "datePublished":"1957-12-26",
+  "keywords":"professor,nostalgia,dream,strawberry,aging",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":89899,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0050986/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"MartinHafer"
+    },
+    "dateCreated":"2005-07-10",
+    "inLanguage":"English",
+    "name":"exceptionally well made",
+    "reviewBody":"Although I'm not the biggest Ingmar Bergman fan, I have really enjoyed some of his movies--especially the one that are not so pessimistic. Although the underlying theme of this movie is aging and impending death, the movie is NOT all pessimism. If it had been, it would have lost my interest early on. Instead, I really enjoyed the film--particularly the fine acting by Victor Sjöström as Professor Borg.\n\nThe professor is well-respected for his work as a doctor. However, despite his success in his career, he is a failure in his personal relationships. His emotional baggage over the years has prevented him from allowing himself to be close to those he truly loves. This theme mirrors one of the subplots of Through a Glass Darkly, where a father is being destroyed inside by his daughter's mental illness but he CANNOT allow himself to show his anguish--choosing instead to hide in his room with his tears. It is interesting that the same man playing Borg's son (Gunnar Björnstrand) plays the father only a few years later in Through a Glass Darkly.\n\nFortunately, unlike Through a Glass Darkly, there IS evidence that the professor is willing to change his persona, as he begins to open up more through the course of the movie. This appears to be assisted through extensive soul searching and dreams the professor has concerning his past and his own mortality--along with experiences he has during a long drive down the coast of Sweden. Because of this, even his extremely strained relationship with his son appears to hold some hope of improvement by the film's end. This hope for change lifts this movie above some Bergman films that only wallow in hopelessness.\n\nFYI--The Criterion version of this DVD is nice due to its running commentary as well as the accompanying documentary. Get this version if you have the chance.\n\nAlso FYI--After watching many Bergman films and reading about his life, I detect quite a bit of autobiography in this film and his own stuggles with intimacy.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H31M"
+}

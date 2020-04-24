@@ -1,0 +1,95 @@
+{
+  "id":"  http://www.imdb.com/title/tt0036868/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0036868/",
+  "name":"The Best Years of Our Lives",
+  "image":"https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "contentRating":"Approved",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001485/",
+      "name":"Myrna Loy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000763/",
+      "name":"Dana Andrews"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0545298/",
+      "name":"Fredric March"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0942863/",
+      "name":"Teresa Wright"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0943758/",
+    "name":"William Wyler"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0792845/",
+      "name":"Robert E. Sherwood"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0437969/",
+      "name":"MacKinlay Kantor"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0016710/"
+    }
+  ],
+  "description":"The Best Years of Our Lives is a movie starring Myrna Loy, Dana Andrews, and Fredric March. Three World War II veterans return home to small-town America to discover that they and their families have been irreparably changed.",
+  "datePublished":"1947-05-29",
+  "keywords":"readjusting to civilian life,world war two veteran,homecoming soldier,u.s. military,pharmacy",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":55296,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0036868/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"ottoblom"
+    },
+    "dateCreated":"2004-10-10",
+    "inLanguage":"English",
+    "name":"Dana Andrews",
+    "reviewBody":"I saw the movie again recently. I always love it. It's touching, has great music, scope and complexity. The film is alive in its human details. But what especially stood out to me this time was how amazing Dana Andrew's performance is. His wife has cheated on him, he's suffering post-war trauma, and can't find a job--but he's still charming and funny. Even though his opinion of himself is pretty low, he keeps going ahead. I love how self-denigrating the character is, how he suspects he's pretty worthless, while his parents, friends and Peggy (but not his wife) see him as extraordinary. And Andrews does it all while being understated and real. Yeah, Dana!"
+  },
+  "duration":"PT2H50M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Best Years of Our Lives",
+    "embedUrl":"/video/imdb/vi730792217",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNzJkNDkyNjMtNThhYS00ZjQwLWExYjctMTllMGM4NGIwOGM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNzJkNDkyNjMtNThhYS00ZjQwLWExYjctMTllMGM4NGIwOGM5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Home Video Trailer from HBO Home Video",
+    "uploadDate":"2008-04-11T16:31:50Z"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id":"  http://www.imdb.com/title/tt0091763/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0091763/",
+  "name":"Platoon",
+  "image":"https://m.media-amazon.com/images/M/MV5BM2Y1NTQyNWYtNDViNy00ZWRhLTk3MTMtOTI3ZGQ5MDFiNWM4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "War"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000221/",
+      "name":"Charlie Sheen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000297/",
+      "name":"Tom Berenger"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000353/",
+      "name":"Willem Dafoe"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0202966/",
+      "name":"Keith David"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000231/",
+    "name":"Oliver Stone"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000231/",
+      "name":"Oliver Stone"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0056805/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0779514/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0043707/"
+    }
+  ],
+  "description":"Platoon is a movie starring Charlie Sheen, Tom Berenger, and Willem Dafoe. A young soldier in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.",
+  "datePublished":"1987-02-06",
+  "keywords":"vietnam war,gore,combat fatigue,gunfire,automatic weapon",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":367191,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0091763/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Lt_Coffey_182"
+    },
+    "dateCreated":"2006-01-23",
+    "inLanguage":"English",
+    "name":"Shows the harsh realities of war very effectively",
+    "reviewBody":"The Vietnam War has been one of the controversial wars in history and was an unpleasant experience for everyone involved. Oliver Stone harnessed these experiences to make Platoon; a film where he could illustrate to everyone what Vietnam was like from his perspective.\n\nIn my opinion, this is the best war movie ever made. The sheer horror of war is captured so well in everyway. The fear of death, compatriots dying, divisions in the platoon, guilt of killing; it's all there and Stone doesn't try to disguise it. Platoon is very honestly written and it is this honesty that makes the film so great. Platoon isn't an anti war movie and it certainly does not glorify war in anyway, it is simply how war is in its entirety. There are some shocking scenes such as the one in the Vietnamese village but there are also more light hearted moments such as where the troops on Dafoe's side are partying and having a good time. On base camp, there is great contrast with the mood but on the forest, it is just fear, aggression and blood, nothing else.\n\nTaylor's (Charlie Sheen) story is very good as he experiencing war at the same time of the audience. Before the war, he was a rich kid who loved his grandma and it is how war changes him that is truly fascinating. The character story that always receives most praise however is that between Barnes (Tom Berenger) and Elias (Willem Dafoe) is very compelling and leads to some great scenes with them and carves an interesting divide within the camp. This film is big on character and explores many relationships but (take note Jarhead) doesn't sacrifice any action time for these scenes. Stone struck a perfect balance between action and story.\n\nActing from everyone involved is very good. Sheen as the naïve newcomer is very good and after this, should have done much better for himself than he did. Dafoe and Berenger, once again steal the attention off the lead. Their extreme contrasting personalities is brilliantly done and raises the standard of the film. Berenger is truly terrifying, he didn't hold back in this one. Dafoe is much more sympathetic and will speak his mind to anyone. Johnny Depp makes one of his early film appearances with a small, yet memorable role. The way Sheen is wearing Depp's bandana after Lerner (Depp) gets taken by the chopper is discretely done but touching.\n\nPlatoon is the best war movie there's ever been. Stone wrote and directed this film with such passion that it couldn't be anything but good. A great mix of characters, a great cast and such well crafted action scenes are all what you need for an exceptional war movie and they're all here. The film ends perfectly as we are given a chance to reflect and take it in before the credits start rolling. Stone, who often misses the point with his films, hit the nail on the head with this one.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT2H",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Platoon: Blu-ray Release",
+    "embedUrl":"/video/imdb/vi212245529",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMDAxOWViMmYtMmI2ZC00YTA0LWIxMzAtNjBmMjgzMTAxN2ViXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMDAxOWViMmYtMmI2ZC00YTA0LWIxMzAtNjBmMjgzMTAxN2ViXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"30 second Trailer",
+    "uploadDate":"2011-06-16T03:26:42Z"
+  }
+}

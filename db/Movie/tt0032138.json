@@ -1,0 +1,213 @@
+{
+  "id":"  http://www.imdb.com/title/tt0032138/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0032138/",
+  "name":"The Wizard of Oz",
+  "image":"https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Musical"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000023/",
+      "name":"Judy Garland"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0604656/",
+      "name":"Frank Morgan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001961/",
+      "name":"Ray Bolger"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0481618/",
+      "name":"Bert Lahr"
+    }
+  ],
+  "director":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0281808/",
+      "name":"Victor Fleming"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002030/",
+      "name":"George Cukor"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0503777/",
+      "name":"Mervyn LeRoy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0851537/",
+      "name":"Norman Taurog"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0861703/",
+      "name":"Richard Thorpe"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0896542/",
+      "name":"King Vidor"
+    }
+  ],
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0486538/",
+      "name":"Noel Langley"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0753249/",
+      "name":"Florence Ryerson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0941138/",
+      "name":"Edgar Allan Woolf"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0486538/",
+      "name":"Noel Langley"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000875/",
+      "name":"L. Frank Baum"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0006085/",
+      "name":"Arthur Freed"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0106505/",
+      "name":"Irving Brecher"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0134284/",
+      "name":"William H. Cannon"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0276252/",
+      "name":"Herbert Fields"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0355095/",
+      "name":"Jack Haley"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0361971/",
+      "name":"E.Y. Harburg"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0388755/",
+      "name":"Samuel Hoffenstein"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0481618/",
+      "name":"Bert Lahr"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0536941/",
+      "name":"John Lee Mahin"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0542534/",
+      "name":"Herman J. Mankiewicz"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0591774/",
+      "name":"Jack Mintz"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0621790/",
+      "name":"Ogden Nash"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0685265/",
+      "name":"Robert Pirosh"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0780833/",
+      "name":"George Seaton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0799015/",
+      "name":"Sid Silvers"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0007143/"
+    }
+  ],
+  "description":"The Wizard of Oz is a movie starring Judy Garland, Frank Morgan, and Ray Bolger. Dorothy Gale is swept away from a farm in Kansas to a magical land of Oz in a tornado and embarks on a quest with her new friends to see the Wizard who...",
+  "datePublished":"1939-08-15",
+  "keywords":"witch,wizard of oz,evil witch,wizard,tornado",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":362631,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0032138/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"DonFL"
+    },
+    "dateCreated":"2003-08-11",
+    "inLanguage":"English",
+    "name":"A Wiz of a film, if ever a Wiz there was",
+    "reviewBody":"The NBC Peacock began unfolding its wings.  \"The following program is brought to you in living color--with portions in black & white--on NBC.\" That exclusive intro began my exposure to color television at Grandma's in 1968.  When Dorothy stepped out into Technicolor, I'll bet my eyes just popped.\n\nThis is the Movie of All Time, folks--a status achieved during its long run as a huge annual TV event during that classic era whose programs now show up on TV Land network.  In the 1970s, Peter Marshall once read the answer on Hollywood Squares as to the program seen more times by more people than anything else ever shown on television.  It was \"Oz.\"  Likewise, no movie has the hold on popular culture that this one does.  What lion character ever since (i.e., Snagglepuss) hasn't been an impersonation of Bert Lahr going, \"Put 'em up, put 'em uuuuup!\"\n\nFew musicals offer an equal combination of lovable music and engaging story. Perhaps \"The Sound of Music.\"  Hard to think of many Hollywood musicals where the story gets as serious as it does here when the Witch informs Dorothy that, \"The last to go will see the first three go before her...and her mangy little dog too!\"  Yikes!  In contrast, even the best of other Hollywood musicals seem to serve up fluffy, forgettable story lines that are mere backdrop to the song numbers that typically put the plot on hold.\n\nI can't say that \"Oz\" doesn't have technical flaws or story element inconsistencies.  It's just that the astonishing production values all around so overwhelm the shortcomings.  The tornado sequence is a 1939 special effects tour de force--incredible.  And the Nutcracker-quality musical score offers songs tastefully interwoven with the action.  Certain numbers like \"Merry Old Land of Oz,\" I never get tired off, though I like each of the songs.\n\nOz should be viewed in the lightness of spirit that it deserves.  I mean look, we have Frank Morgan as the Emerald City gatekeeper, then seconds later as the cabbie with the Horse of a Different Color, then the Wizard's palace guard, and then the voice of fire-and-smoke Wizard of Oz who bellows, \"Step forward, Tin Man!\"  What other film could put an actor go through 4 quick-changes within 10 minutes to such an endearing result?  \"Oz\" is as magic as those sparkling ruby shoes.\n\nThe early Technicolor process utilized triple nitrate negative strips--separately recording each primary color in light.  This was done due to the lack of a suitable \"color film\" in 1939.  That would quickly change--but films from years following suffered from hues that faded with the years, even original negatives.  Because \"Oz\" was actually filmed on a black-and-white base film, the negatives never faded.  So now we have home videos/DVDs of breathtaking color quality.  Now, the tinted filters in the cameras that separated the colors onto the negative strips meant that intense illumination was required, rendering the filming experience miserably hot for the actors involved, especially Lahr.  But they all hold up amazingly well.\n\n\"Oz\" has a valuable message.  As the pop group America once said, \"No, Oz never did give nothin' to the Tin Man....that he didn't, didn't already have.\"  If we have truly search, we can find within us--or create through trial, like the Lion's courage--what we think we most lack.  The Wizard (like the Lord) helps those who find help within themselves.\n\nI feel sorry for the Almira Gulches who can't treasure this film experience. They need to visit the Emerald City to get their own ticking Testimonials and find their hearts.\n\nDidn't bring your broomsticks with you?  Well, I'm afraid you'll have to walk."
+  },
+  "duration":"PT1H42M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Wizard of Oz: 75th Anniversary",
+    "embedUrl":"/video/imdb/vi2210441241",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BOWIxZDgyMTgtYWQ0Ny00Y2Y3LTkwMzEtOTY2MTM3ODY0YzkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BOWIxZDgyMTgtYWQ0Ny00Y2Y3LTkwMzEtOTY2MTM3ODY0YzkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer 2 for The Wizard of Oz",
+    "uploadDate":"2013-11-07T08:35:15Z"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "id":"  http://www.imdb.com/title/tt0317248/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0317248/",
+  "name":"Cidade de Deus",
+  "image":"https://m.media-amazon.com/images/M/MV5BNDJiNTEwMjMtOGQ1ZC00OTczLWFjZjctZWQ0MGJjZmFkMjcwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm1179105/",
+      "name":"Alexandre Rodrigues"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1129884/",
+      "name":"Leandro Firmino"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0618690/",
+      "name":"Matheus Nachtergaele"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1249574/",
+      "name":"Phellipe Haagensen"
+    }
+  ],
+  "director":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0576987/",
+      "name":"Fernando Meirelles"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0526199/",
+      "name":"Kátia Lund"
+    }
+  ],
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0513130/",
+      "name":"Paulo Lins"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1130251/",
+      "name":"Bráulio Mantovani"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0069394/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0061824/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0026273/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0069352/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0024845/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0047476/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0052101/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0087755/"
+    }
+  ],
+  "description":"Cidade de Deus is a movie starring Alexandre Rodrigues, Leandro Firmino, and Matheus Nachtergaele. In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+  "datePublished":"2002-08-30",
+  "keywords":"photographer,slum,gang,brazil,favela",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":674692,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.6"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0317248/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"siriver"
+    },
+    "dateCreated":"2004-04-26",
+    "inLanguage":"English",
+    "name":"Tall and Tan and Young and Packing",
+    "reviewBody":"'What are you doing, you're just a kid?' \"I steal, I kill, I carry a gun, how can I be just a kid? I am a man.\"\n\nMany who visit Brazil the first time, tend to view Brazilians as lacking serious ambition. They seem to party the night away, and appear to seldom work. The old joke about Brazilians is that they have breakfast at 2:00 in the afternoon.\n\nBut such a narrow view does not take into account the fact that while we in America work to live, sweating away for pennies which the government steals at every turn, they in Brazil Live to Live. It is a different kind of living, a life that sambas with the vibrance of the swaying palm and the bounding drum. A life that understands that we are only on this earth for a cup of cafezinho, and we should have fun while we can before the end comes, but quick.\n\nBut as the City of God also shows us, Brazilian life is often nasty, brutish and short. A certain degree of anarchy overshadows all the denizens of the film. But Director Fernando Meirelles takes a situation lacking definite boundaries and clear authority, and creates a framework, a structure, that of Gang Rule. The gang-members are not seasoned, old-time criminals like Fredo Corleone or even Tony Montana. Instead, they are a bunch of sweet-faced kids. No one is older than 25, partly because of choice, but mainly because no one lives past this age.\n\nOn the surface, in this context, City of God is a coming of age story of two young people, a sort of Brazilian \"Angels With Dirty Faces.' One character escapes from the City of God, while the other succumbs to it.\n\nBut when one scratches beneath, one finds the film a comment on the morally bankrupt City of God in Rio De Janeiro, and a mirror on Brazil itself. Far away from the party hopping, Travel and Leisure postcard perfect white beaches, is another world, one of marauding bands of displaced children.\n\nThe most surprising thing about City of God is its references to American films. Most Brazilian films, as the films of all countries do, owe allegiance to their own particular cultural situation. Brazil owes a cultural debt to Europe (Portugal, Germany, Italy) and Africa. However, the United States has a far more distant cultural relationship to Brazil. That is where City of God triumphs to me an American film goer. It uses the chapter format made famous in Pulp Fiction and more recently, Kill Bill. It uses the familial structure present in Goodfellas. It uses the 'white-suit cool' present in Miami Vice and the Bacardi and cola ads from the preview before this very movie.\n\nThe fact that City of God can be subtitled Grand Theft Auto: Sao Paolo, is not a surprise nor a mistake. The film is built like a video game in its use of random acts of violence. But the fluid perfect camera work and editing give way to a film with enormous contradictions. Contradictions as large and as vast as the noble country itself.\n\nStylistically, the camera work does not conform to its premise as a gangster film. A gangster film never looked this good. It is as if the camera is released in the wide open beaches, and kicked around like one of Ronaldinho's headers. It starts on the sand and moves steadily across. It picks up on the story but then heads into the sun. It then leaves us, the film-viewer, with the most indelible image in years as we see Sonia Braga (A world icon and sex symbol of Brazil)'s niece, sitting on the sun-drenched coast putting her arm around another young boy. The innocence conveyed in this scene is something to behold. It literally takes your breath away.\n\nYou see the slamming of different, competing themes. You see the subtlety and tranquility of the beach, smashed into scenes of battered youths dying on city streets. You see a wealth of hypnotic ambiguous images pulled together, much like the very Culture of Brazil itself."
+  },
+  "duration":"PT2H10M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"City of God: Blu-Ray",
+    "embedUrl":"/video/imdb/vi1783208985",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNTQzY2M4ZTctZWRjZS00NzlmLWI4YzgtMDUzZGU5YjlmYzkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNTQzY2M4ZTctZWRjZS00NzlmLWI4YzgtMDUzZGU5YjlmYzkxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for City Of God",
+    "uploadDate":"2011-09-23T03:10:20Z"
+  }
+}

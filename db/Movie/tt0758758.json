@@ -1,0 +1,113 @@
+{
+  "id":"  http://www.imdb.com/title/tt0758758/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0758758/",
+  "name":"Into the Wild",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0386472/",
+      "name":"Emile Hirsch"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000681/",
+      "name":"Vince Vaughn"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001416/",
+      "name":"Catherine Keener"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001315/",
+      "name":"Marcia Gay Harden"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000576/",
+    "name":"Sean Penn"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000576/",
+      "name":"Sean Penn"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1040556/",
+      "name":"Jon Krakauer"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0179341/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0079747/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0177217/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0120121/"
+    }
+  ],
+  "description":"Into the Wild is a movie starring Emile Hirsch, Vince Vaughn, and Catherine Keener. After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings...",
+  "datePublished":"2007-09-28",
+  "keywords":"wilderness,alaska,journey,following a dream,self discovery",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":548361,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0758758/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"jaredmobarak"
+    },
+    "dateCreated":"2007-09-16",
+    "inLanguage":"English",
+    "name":"TIFF07, review 3: Facing the blind deaf stone aloneInto the Wild",
+    "reviewBody":"Sean Penn's new movie Into the Wild arrives on the wave of a well-regarded novel about a college graduate who decides that the anger and violence in civilized society is too much to handle and commences a journey through nature in order to truly live life as it was meant to be. This film is a wonderful glimpse into the life of a kid, wise beyond his years, and the bonds that he creates with people along the way. A victim of excess in wealth and a shortage of love, Christopher McCandless hid inside his mind behind knowledge and philosophy, building up his intellectual strength, as well as the physical, in order to complete his trek, ultimately leading him to Alaska. Penn never falls into the trap of showing too much heartbreak on the side of McCandless's parents, because he doesn't want the audience to second-guess the decision he made. There is no debate to be had here, our protagonist has no alternative but to get out and live off the land. Only being completely self-sufficient can he grasp a meaning for his life and one day perhaps go back with that knowledge fully learned.\n\nEmile Hirsch is absolutely brilliant with his good-natured attitude and affable charm. His character believes that human contact is not necessary for happiness and never seeks out relationships. However, his character is so likable that they find him and latch on, not to change his mind, but to experience his level of being and hopefully learn something from him and help enlarge his vocabulary on life. The people he meets help him to fully grasp the decision of life in the wild and be able to survive it. Never coming off condescendingly to those he crosses paths with, Hirsch always holds a smile on his face. One scene, where he meets up with a couple of people from Europe, proves how contagious a clear outlook on life without the troubles of societal restraints can be. These three kids have a blast, if only for a few minuteswith Hirsch being chased by the police for rafting with no licenseand it makes one wonder if maybe we all should take a journey into nature and feel the freedom and full warmth of heart that a lack of stress to succeed in the business world can give.\n\nAll the supporting players are magnificent at helping show the side to McCandless that Penn needs on display to succeed. Hal Holbrook, Brian Dierker, and Catherine Keener are by far the best of these side characters with Vince Vaughn and Kirsten Stewart adding some charm too. Dierker, Keener, and Stewart play hippie, flower-child type roles and allow Hirsch to show off how modest and unselfish he is. This is the family he deserved to have from birth and he is the son they wished their lives had earned them. At their best, all four together give some of the most emotionally charged moments in the film. Holbrook, on-the-other-hand, helps give insight into the philosophy that Hirsch needs to live with in order to survive the loneliness, looking him in the face, to come in Alaska. It is truly fascinating to see how every person adds something to his overall experience and to the tools he needs.\n\nHirsch deserves a lot of credit because he truly outshines the film itself with his dedication and sacrifice to the role. The length of time needed to allow him the ability to lose the weight necessary for a main plot point in the movie is crazy. If the time wasn't that long and Hirsch did it all rapidly, I'm even more impressed. With all that, there are many instances free of dialogue that he needs to carry with body language and actions alone. True, much of this is enhanced by a wonderful soundtrack from Eddie Vedder, but evenso it is a remarkable performance. Kudos to Sean Penn for a gorgeous filming job also. He captures the countryside with grace, while infusing many moments of visual style by slow-motioning glimpses, knowing when to show the family left behind, utilizing informative and essential voice-over, and even breaking the fourth wall. When Hirsch first looks into the camera, at the audience, it does not seem unnatural in the slightest, but instead an amazing link for the viewers to take a look into his soul like those that crossed his path have. McCandless is so pure that it almost feels like glimpsing the calm protectiveness of God.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H28M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Into The Wild",
+    "embedUrl":"/video/imdb/vi1051656473",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTViZjU2OTUtOWQwNS00NGY3LTljMjMtZjZjZDgxYmE1MGFmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTViZjU2OTUtOWQwNS00NGY3LTljMjMtZjZjZDgxYmE1MGFmXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Home Video Trailer from Paramount Vantage",
+    "uploadDate":"2008-04-11T14:34:53Z"
+  }
+}

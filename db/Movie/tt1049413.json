@@ -1,0 +1,128 @@
+{
+  "id":"  http://www.imdb.com/title/tt1049413/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt1049413/",
+  "name":"Up",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_.jpg",
+  "genre":[
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000799/",
+      "name":"Edward Asner"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm2973712/",
+      "name":"Jordan Nagai"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001652/",
+      "name":"John Ratzenberger"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001626/",
+      "name":"Christopher Plummer"
+    }
+  ],
+  "director":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0230032/",
+      "name":"Pete Docter"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0677037/",
+      "name":"Bob Peterson"
+    }
+  ],
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0230032/",
+      "name":"Pete Docter"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0677037/",
+      "name":"Bob Peterson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0565336/",
+      "name":"Tom McCarthy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0677037/",
+      "name":"Bob Peterson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0230032/",
+      "name":"Pete Docter"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0017902/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0008970/"
+    }
+  ],
+  "description":"Up is a movie starring Edward Asner, Jordan Nagai, and John Ratzenberger. 78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+  "datePublished":"2009-05-28",
+  "keywords":"child in jeopardy,heartfelt,original story,balloon,south america",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":894207,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt1049413/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"steve-bailey-1"
+    },
+    "dateCreated":"2009-05-27",
+    "inLanguage":"English",
+    "name":"Drag me to heaven",
+    "reviewBody":"UP, Pixar's latest animated feature, is just delightful. But how do you go about extolling the movie's virtues without giving away its surprises? Like the kid at the beginning of the movie, you don't try to conquer the immovable force; you work around it.\n\nThe one clue I can give away – because it's the movie's heavily hyped premise – is that Carl Fredrickson, a gruffy old widower (voiced with gruffy old charm by Ed Asner), miraculously inflates enough balloons to use his house as an aircraft. Soon, he finds himself reluctantly sharing his ride with a short-attention-spanned kid named Russell.\n\nI'll also mention a couple of other items that can gauge your potential interest in the movie. One is a gag that is a take-off on a famous painting – perhaps too inside of an inside joke, but typical of Pixar's cheery attempts to appeal to viewers of all ages.\n\nAlso, part of the plot involves Carl's long-held wish to meet a Lindbergh-type adventurer named Charles Muntz (Christopher Plummer!). This is another in-joke that's even vaguer than the first one. Cartoon historians know that Walt Disney started in the cartoon biz by creating Oswald the Rabbit for producer Charles Mintz, who then greedily stole the rights to Disney's creation. This gives you a pretty good idea where the ostensible hero Muntz stands in the scheme of things.\n\nBeyond that, I can only offer you some enticing clues about the characters. There's a dog who's the leader of his pack and in menacing beyond measure, until he opens his mouth and gets one of the movie's biggest laughs. There's a huge, awkward bird that is a big laugh-getter at first. Then she becomes a real enough character that – at least in the audience I was in – when she's injured, she elicits screams of fright worthy of Bambi's late mother.\n\nThere's surprising, heartfelt emotion, vivid imagery (you can almost touch the landscapes and skies), and a music score by Michael Giacchino that's practically a character in the movie – particularly in a thoughtful montage that takes Carl from childhood to widowhood.\n\nThere aren't many (or at least not enough) live-action movies that are engrossing as this cartoon. Pixar Studios has gotten to be one of those movie icons that shouldn't even have to deliver a premise to get funded anymore. The moneymen should just shut up, hand over the money, and trust they'll get a product that will appeal to everyone.\n\nUP is only the second Pixar feature to get a PG rating, only for mildly intense imagery and action – nothing off-color in the least. Again, if you can handle \"Bambi,\" this film should be a breeze.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H36M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"UP Â– UK Trailer",
+    "embedUrl":"/video/imdb/vi2557280793",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMjE4NTQ0MTM3M15BMl5BanBnXkFtZTgwMDY1NDgyMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMjE4NTQ0MTM3M15BMl5BanBnXkFtZTgwMDY1NDgyMzE@._V1_.jpg",
+    "description":"UP Â– UK Trailer",
+    "uploadDate":"2009-10-01T02:58:50Z"
+  }
+}

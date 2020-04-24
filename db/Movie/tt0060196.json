@@ -1,0 +1,125 @@
+{
+  "id":"  http://www.imdb.com/title/tt0060196/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0060196/",
+  "name":"Il buono, il brutto, il cattivo",
+  "image":"https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_.jpg",
+  "genre":"Western",
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000142/",
+      "name":"Clint Eastwood"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0908919/",
+      "name":"Eli Wallach"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001812/",
+      "name":"Lee Van Cleef"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0321294/",
+      "name":"Aldo Giuffrè"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001466/",
+    "name":"Sergio Leone"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0898812/",
+      "name":"Luciano Vincenzoni"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001466/",
+      "name":"Sergio Leone"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0408488/",
+      "name":"Agenore Incrocci"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0769249/",
+      "name":"Furio Scarpelli"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0898812/",
+      "name":"Luciano Vincenzoni"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001466/",
+      "name":"Sergio Leone"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0013844/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0046114/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002257/"
+    }
+  ],
+  "description":"Il buono, il brutto, il cattivo is a movie starring Clint Eastwood, Eli Wallach, and Lee Van Cleef. A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote...",
+  "datePublished":"1966-12-23",
+  "keywords":"spaghetti western,new mexico territory,sonora mexico,arizona desert,arizona",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":658287,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.8"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0060196/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"steven-f-freeman"
+    },
+    "dateCreated":"2007-12-26",
+    "inLanguage":"English",
+    "name":"Primal honesty and morality",
+    "reviewBody":"After many years of barely watching any movies, I treated myself to several classics recently. And this was the best.\n\nThat I so enjoyed this movie so much came as a shock to me. I literally never before have been able to even sit through a western, which (in my admittedly limited experience) was schlock action starring John Wayne as the taciturn all-American good guy being tough and beating up the outlaws. Watching GBU, I was enthralled for the entire three hours. Twice. And if I had time, I would have watched it a third time. \n\nThe setting is typically western: a dry, dusty panorama in which men barely co-exist with each other; few wasted words; and lots of action, horses, and gunfighting in a wild west barely governed by incipient institutions of law & order  all shrouded within a morality play of good vs. bad. But what I liked so much is exactly what I hate about John Wayne westerns  the seriousness and honesty with which moral context is considered. In Hollywood, good vs. bad is as thoughtlessly superscripted as the protagonists' white and black hats. In GBU every remnant of moralizing has been ruthlessly cut.\n\nGood, Bad, and Ugly are personified in the form of three characters: Bad (\"Sentenza\") is the easiest to understand. He is *very* bad, perhaps not so different from other villains, but much more sharply developed; murderous, sadistic, traitorous, and remorseless. Good (\"Blondie\") and Ugly (\"Tuco\") are more puzzling, but their labels are the key to the movie. Both Blondie and Tuco are outlaws and killers with only the barest hint of morality, but they're not evil in the same way that Sentenza is. Tuco is demonstrative, emotional, loud, wild, and unpredictable; but driven by survival rather than satanic urges. Blondie is cool, calm, rational and controlled  in many ways similar to Sentenza  but whereas Sentenza tortures, maims, kills, and lies for the hell of it, even apparently enjoys it, Blondie simply goes about his business coolly, and shows several poignant hints of empathy, decency, and a sense of justice.\n\nGBU takes place during the Civil War and strips away the high-level political struggle of history books, leaving us with the soldier's vantage point of brutality, pointless death, and some individual decency. The politics are indecipherable from this vantage point. GBU hits this point home when our protagonists wind up in a prison camp because the oncoming gray cavalry uniforms turn out to be dust-covered blue. Later, they encounter an army fighting over a worthless bridge, suffering countless pointless deaths and casualties. Because Leone has so rigorously excised traditional off-the-shelf morality, the few instances of humanity are remarkably poignant. One such instance is when Blondie shares his coat and cigar with a dying soldier; another is when prisoners are forced  by Sentenza's orders  to play music to cover up the screams of the tortured. Sentenza apparently enjoyed the irony of beautiful sounds used for such ends; the musicians are, of course, pained by it.\n\nThat was one of many extraordinarily striking scenes. The honesty of the moral context was what I liked best about the film, but I liked everything else too. Indeed the same primal, ruthless honesty that characterizes the character development pervades the film. The music is unlike anything I'd ever heard  it's an audible version of the arid west and the tensions and lawlessness that characterize the film. Underlying the entire score is one instantly memorable theme starting off with what sounds like a screaming hyena. The story took place in New Mexico, and even though it was filmed in Spain, it really does look like New Mexico; and just as in life in the American west, the wide, breathtaking panorama tends to subordinates dialog. Indeed, it is several minutes into the film before even one word is spoken.\n\nThe plot was extremely clever  and never predictable. High level suspense is maintained for the full three hours. It was hard to imagine how it could unfold  three uncompromising outlaws in search of one buried treasure; cooperation was not in their nature, but nothing was ever done out of character. Any Western cliché that you can think of is either given a unique twist or destroyed by masterful storytelling. For example there is an utterly irreverent scene in which Tuco meets his brother, a sincere Priest, and turns platitudes upside down. The brother begins with the standard rebuke of the criminal's behavior, but Tuco punches back and says, \"Where we come from there were only two ways out. You lacked the courage to do what I've done.\" The movie is also irreverently funny: For example, Twice Tuco gained the upper hand on Blondie and said:\n\n\"There are two kinds of spurs(?), my friend. Those that come in by the door, and (crosses himself) those that come in by the window.\"\n\n\"There are two kinds of people in the world, my friend. Those who have a rope around their neck and those who have the job of cutting.\" Later Blondie gained the advantage of Tuco and observed: \n\n\"You see in this world there's two kinds of people my friend - those with loaded guns, and those who dig. You dig.\" In addition to all these specific attributes, a unique and strikingly cool style infuses the entire film: long scenes of tense silences  never for an instant boring; and telling, startling close-ups and transitions. Most noteworthy was the film's climax. As the protagonists stand there with their fingers on their holsters, waiting for the first person to go for their gun(s), the transitions start out slowly, and speed up as the tension increases. As I write this, I wish I had my own copy of the film, just so I could see this scene again.\n\nNot just a great western, but easily one of the best movies of *any* kind ever made.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H58M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Good, the Bad and the Ugly",
+    "embedUrl":"/video/imdb/vi2789278233",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYzMzMDAxZDAtYTBkNy00NjMwLWIyYzctODA1YzE0MzUwMTI4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYzMzMDAxZDAtYTBkNy00NjMwLWIyYzctODA1YzE0MzUwMTI4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for this Clint Eastwood classic",
+    "uploadDate":"2009-10-09T14:09:19Z"
+  }
+}

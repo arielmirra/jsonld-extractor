@@ -1,0 +1,117 @@
+{
+  "id":"  http://www.imdb.com/title/tt0092005/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0092005/",
+  "name":"Stand by Me",
+  "image":"https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Drama"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000696/",
+      "name":"Wil Wheaton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000203/",
+      "name":"River Phoenix"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000397/",
+      "name":"Corey Feldman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0005278/",
+      "name":"Jerry O'Connell"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001661/",
+    "name":"Rob Reiner"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000175/",
+      "name":"Stephen King"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0317279/",
+      "name":"Raynold Gideon"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0262595/",
+      "name":"Bruce A. Evans"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0050868/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0015549/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0043140/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0065319/"
+    }
+  ],
+  "description":"Stand by Me is a movie starring Wil Wheaton, River Phoenix, and Corey Feldman. After the death of one of his friends, a writer recounts a boyhood journey with his friends to find the body of a missing boy.",
+  "datePublished":"1986-11-04",
+  "keywords":"friendship,childhood,walking on train tracks,summertime,treehouse",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":348590,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0092005/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"estebangonzalez10"
+    },
+    "dateCreated":"2015-09-08",
+    "inLanguage":"English",
+    "name":"When it comes to coming of age films it is the best",
+    "reviewBody":"\"It happens sometimes. Friends come in and out of our lives, like busboys in a restaurant.\"\n\nStand By Me is Rob Reiner's love letter to friendship and nostalgic memories. It's ironic that Reiner's film looks at the past with such high regards because we can do the same with his filmography. His best films were all made in the 80's (and we can squeeze Misery and A Few Good Men into that list as well although they came out in 1990 and 1992 respectively), and despite not having directed many great films over the past few decades we can still look back at his early films and appreciate his classics. Stand By Me reminds us all of our early childhood and the friendships we made. It doesn't matter what decade we grew up in, we all cherish special memories of adventures we shared with our friends and how they helped shape us. That is what is so universal and appealing about Reiner's film; even though we may never have grown up in a small town or had similar outdoor adventures it still recalls us back to a time where we were discovering new things about the world and standing up for our friends when they were in trouble or running with them when we got caught playing in our neighbor's yards. Stand By Me focuses on these memories and it's not just about the adventure in itself but the bond these friends shared together. It's probably the go to movie when we are comparing or referencing other coming of age films, and in my opinion one of the best ever made considering how much I appreciate the genre. I'm sure the film itself was a life changing experience for many who grew up watching it and dreaming of having similar adventures with their friends.\n\nBased on Stephen King's short story, \"The Body,\" the screenplay for the film was adapted by Raynold Gideon and Bruce Evans. It takes place in 1959 and centers on four 12 year old friends from Castelrock, Oregon who overhear a conversation about the location of the body of a dead boy who had been missing for several days. The news about the disappearance of this boy had spread all over town, so these kids decide to embark on an adventure through the woods and bring back the missing body so they can be received as heroes. Since the journey would take more than a full day, they plan to tell their parents that they are staying at each other's home. Gordie (Will Wheaton) had recently lost his older brother (played by John Cusack in the flashback scenes) a few months prior to this in a car accident so he knew his mourning parents wouldn't even mind him being gone for a few days. His best friend, Chris (River Phoenix), came from a troublesome family and despite knowing he'd get into trouble if they'd discover his lie he didn't think it would be any different if he stayed with his drunk father. Teddy (Corey Feldman) still has the scars from the abuse he suffered from his mentally unstable father, and currently lives with his mother. Vern (Jerry O'Connell), the clown of the group who isn't taken very seriously is the one who came up with the idea of looking for the body, but he also is the first to back down when it comes to it. The four finally decide to go ahead with their plan and begin their adventure, which will eventually shape who they are. The story is narrated by the grown up version of Gordie (played by Richard Dreyfuss) somewhere around 1985.\n\nThe strong performances in this film are one of the reasons why it continues to work today. River Phoenix was such a natural and is so charismatic that he steals every scene he's in. The chemistry he shares with Wheaton's character is strong and it reminds us all of that best friend we had in our childhood. Corey Feldman must have had the best agent because he starred in some of the best films that were released in the 80's (Gremlins, The Goonies, The Burbs, and The Lost Boys). Jerry O'Connell is probably the one that has undergone the greatest physical transformation, but he was perfect for the role of Vern and he reminded us of that friend who always seemed to be the butt of every joke. These four young actors carry the film and despite not having the most exciting of adventures, the way the story is told is what makes it such a fascinating one. There are small moments like the one where they gather around the camp fire to listen to Gordie's story, or when they are crossing the pond and discover its full of leeches, that stand out. The film is told through Gordie's recollection of these events and each scene feels like an authentic memory someone would have of such a life changing experience. The 50's soundtrack also plays a key role in the film since it adds to the overall sense of nostalgia. Reiner's film reminds me how much I actually have enjoyed Stephen King's non-horror stories (this along with Shawshank Redemption and The Green Mile are my favorite film adaptations of his work). Since its 1986 release, all the coming of age films that have followed it seem to heavily borrow from it. Stand By Me is the measuring stick for films in this genre.\n\nhttp://estebueno10.blogspot.com/",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H29M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Stand By Me",
+    "embedUrl":"/video/imdb/vi2284829721",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNzY1NmQ5YWUtMmU2OC00MzQ0LWE4YmYtYTFmNWM2ZmUxYWY3XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNzY1NmQ5YWUtMmU2OC00MzQ0LWE4YmYtYTFmNWM2ZmUxYWY3XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+    "description":"Official Trailer",
+    "uploadDate":"2019-06-29T17:16:55Z"
+  }
+}

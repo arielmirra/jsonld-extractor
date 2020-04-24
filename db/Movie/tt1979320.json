@@ -1,0 +1,116 @@
+{
+  "id":"  http://www.imdb.com/title/tt1979320/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt1979320/",
+  "name":"Rush",
+  "image":"https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0117709/",
+      "name":"Daniel Brühl"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1165110/",
+      "name":"Chris Hemsworth"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1312575/",
+      "name":"Olivia Wilde"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0487884/",
+      "name":"Alexandra Maria Lara"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000165/",
+    "name":"Ron Howard"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0604948/",
+      "name":"Peter Morgan"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0234935/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0285648/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0003687/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0103733/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0057311/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0105115/"
+    }
+  ],
+  "description":"Rush is a movie starring Daniel Brühl, Chris Hemsworth, and Olivia Wilde. The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+  "datePublished":"2013-09-12",
+  "keywords":"formula 1,rivalry,1970s,racecar driver,playboy",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":414039,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt1979320/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"ishan_vadera"
+    },
+    "dateCreated":"2013-09-09",
+    "inLanguage":"English",
+    "name":"Surprisingly Great movie!!",
+    "reviewBody":"RUSH is such an enthralling movie!! Amazing direction by Ron Howard, strong performances by Chris Hemsworth and Daniel Bruhl (he exactly sounded like Niki Lauda). Hanz Zimmer is the man for scoring this movie. The movie is not about the sport, it's about the hateful and envious relationship between two rivals the whole world knows about. I did not expect this movie to surprise me so much as it did, the drama was invigorating and exciting at the same time. It was such an honor to meet Niki Lauda who flew himself specially from Monza, Italy for the premier at TIFF. Such an amazing night.\n\nThe movie is based on the rivalry of Britain's McLaren F1 driver James Hunt and Austrian driver Niki Lauda who represented Ferrari at the time. Great men!",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H3M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"UK Trailer",
+    "embedUrl":"/video/imdb/vi1998301465",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTUyNzA0MzkyNl5BMl5BanBnXkFtZTgwODQxNjAzMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTUyNzA0MzkyNl5BMl5BanBnXkFtZTgwODQxNjAzMzE@._V1_.jpg",
+    "description":"From Ron Howard comes an exhilarating true story of two legendary rivals James Hunt and Niki Lauda, starring Chris Hemsworth.",
+    "uploadDate":"2013-08-24T11:38:49Z"
+  }
+}

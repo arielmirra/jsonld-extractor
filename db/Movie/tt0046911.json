@@ -1,0 +1,127 @@
+{
+  "id":"  http://www.imdb.com/title/tt0046911/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0046911/",
+  "name":"Les diaboliques",
+  "image":"https://m.media-amazon.com/images/M/MV5BZDVlZDdjNDktN2M4ZC00NjdkLThiMDctM2FiZWNlYjIzNDExXkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0797531/",
+      "name":"Simone Signoret"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0167243/",
+      "name":"Véra Clouzot"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0582890/",
+      "name":"Paul Meurisse"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0889024/",
+      "name":"Charles Vanel"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0167241/",
+    "name":"Henri-Georges Clouzot"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0092267/",
+      "name":"Pierre Boileau"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0092268/",
+      "name":"Thomas Narcejac"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0167241/",
+      "name":"Henri-Georges Clouzot"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0350823/",
+      "name":"Jérôme Géronimi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0557510/",
+      "name":"René Masson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0340190/",
+      "name":"Frédéric Grendel"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0010228/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0132005/"
+    }
+  ],
+  "description":"Les diaboliques is a movie starring Simone Signoret, Véra Clouzot, and Paul Meurisse. The wife and mistress of a loathed school principal hatch a plan to murder him while having the perfect alibi. They carry out the plan...but then...",
+  "datePublished":"1955-01-29",
+  "keywords":"drowning in a bathtub,boarding school,disappearance of a dead body,surprise ending,teacher",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":59263,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0046911/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"mantone"
+    },
+    "dateCreated":"1998-12-18",
+    "inLanguage":"English",
+    "name":"Hold your breath suspense",
+    "reviewBody":"Les Diaboliques is one of the tightest, pure suspense movies I have ever seen.  The story starts out slowly, but as it moves on, peculiar things start to happen.    This movie keeps you guessing in such a way, you are riveted to your seat, hoping for a quick resolution to the suspense.  Yet, as the story unfolds, the suspense deepens.  The final scene of the movie had me sitting back holding my breath.\n\nThis movie does not offer cheap, pop out and scare you tactics. Rather, it makes the viewer expect things to happen that don't.  You wait on the edge of your seat for the quick jump out and scare you event to take place, but instead, it sneaks up from behind you.  What an effect!\n\nLes Diaboliques is a classic film that delivers the complete suspense package.  It's not surprising that many suspense movies of the modern era have tried to copy the plot.  This movie is well worth renting in a video store, if you can find it.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H57M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Diabolique: The Criterion Collection",
+    "embedUrl":"/video/imdb/vi3508320281",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYmY1NWFmOWMtZDgzNy00Y2MzLThlYjQtNWI5OWE0ZTJlODUwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYmY1NWFmOWMtZDgzNy00Y2MzLThlYjQtNWI5OWE0ZTJlODUwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Three Reasons Criterion Trailer for Diabolique",
+    "uploadDate":"2018-03-21T17:26:03Z"
+  }
+}

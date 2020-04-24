@@ -1,0 +1,96 @@
+{
+  "id":"  http://www.imdb.com/title/tt0053198/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0053198/",
+  "name":"Les quatre cents coups",
+  "image":"https://m.media-amazon.com/images/M/MV5BYmU3ZTk0NzgtZWIxNy00YzRkLWFkOTctMDNmMDA1MjYyYjI5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0529543/",
+      "name":"Jean-Pierre Léaud"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0753716/",
+      "name":"Albert Rémy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0561158/",
+      "name":"Claire Maurier"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0213948/",
+      "name":"Guy Decomble"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000076/",
+    "name":"François Truffaut"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000076/",
+      "name":"François Truffaut"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0610115/",
+      "name":"Marcel Moussy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000076/",
+      "name":"François Truffaut"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0610115/",
+      "name":"Marcel Moussy"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0106723/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0030789/"
+    }
+  ],
+  "description":"Les quatre cents coups is a movie starring Jean-Pierre Léaud, Albert Rémy, and Claire Maurier. A young boy, left without attention, delves into a life of petty crime.",
+  "datePublished":"1959-06-03",
+  "keywords":"dysfunctional family,school,coming of age,teenager,teenage boy",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":98558,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0053198/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Camera-Obscura"
+    },
+    "dateCreated":"2006-11-18",
+    "inLanguage":"English",
+    "name":"Truffaut's powerful and moving look at adolescence",
+    "reviewBody":"THE FOUR HUNDRED BLOWS (François Truffaut - France 1959).\n\nTwelve-year-old Antoine Doinel (Jean-Pierre Léaud) has troubles at home and at school. Ignored and neglected by his parents, his relationship with his mother is further strained when he discovers that she has taken a secret lover. Added to this, his school teachers have written him off as a trouble maker and, with luck seemingly never on his side, it is Antoine who ends up getting the blame for bad behaviour. Finding refuge only in his love of cinema, Antoine soon finds it necessary to break free and discover what the world can offer outside the confines of everyday life. \n\nI have always struggled with the labeling of this film as one of the pivotal entrances in the \"Nouvelle Vague\". Since Jean-Luc Godard's \"Au Bout de Soufflé\", who uses a completely different approach to film-making, with his restless jump-cutting and endless references to pop culture, Truffaut presents his case clear cut, as realistic as possible. But this was something completely different from the way American films portrayed juvenile delinquency so far. No iconic trouble makers like James Dean or Marlon Brando, just a realistic portrait of a twelve-year old boy sliding into isolation. The very idea alone was something novel, seldom depicted in a way like this. \n\nMuch of the praise must go to Jean-Pierre Léaud, who never even seems to be acting. His every movement, thought, expression come across as completely natural. Truly, one of the most remarkable performances of such a young actor I've ever seen. Watching this over 40 years after it was made, it all looks deceptively simple, with Truffaut's perfect integration of music and image, location shooting on the streets of Paris and the naturalistic performances. Truffaut used many innovations but they are not easily noticeable as in Godard's work. This was for instance the first French film to be shot in widescreen (aspect ratio 2.35:1), which required much planning on Truffaut's part, with some surprising results. In many scenes we don't see the other person Antoine is talking to, which gives the viewer the illusion as if Antoine is almost talking directly to the camera. Jean-Pierre Léaud would continue his role as Antoine in four more films by Truffaut, \"Love at Twenty\" (1962), \"Stolen Kisses\" (1968), \"Bed and Board\" (1970) and \"Love on the Run\" (1979).\n\nCamera Obscura --- 9/10"
+  },
+  "duration":"PT1H39M"
+}

@@ -1,0 +1,109 @@
+{
+  "id":"  http://www.imdb.com/title/tt0119488/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0119488/",
+  "name":"L.A. Confidential",
+  "image":"https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000228/",
+      "name":"Kevin Spacey"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000128/",
+      "name":"Russell Crowe"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001602/",
+      "name":"Guy Pearce"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000107/",
+      "name":"Kim Basinger"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000436/",
+    "name":"Curtis Hanson"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0255278/",
+      "name":"James Ellroy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001338/",
+      "name":"Brian Helgeland"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000436/",
+      "name":"Curtis Hanson"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0021592/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0089381/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002663/"
+    }
+  ],
+  "description":"L.A. Confidential is a movie starring Kevin Spacey, Russell Crowe, and Guy Pearce. As corruption grows in 1950s Los Angeles, three policemen -- one strait-laced, one brutal, and one sleazy -- investigate a series of murders with...",
+  "datePublished":"1997-09-19",
+  "keywords":"corruption,murder,call girl,neo noir,arizona",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":513116,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0119488/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"bob the moo"
+    },
+    "dateCreated":"2003-11-23",
+    "inLanguage":"English",
+    "name":"Simply a wonderful film that respects it's audience",
+    "reviewBody":"In the gritty LA of the 1950's, stardom is the boom industry and all is about appearance and visual image.  However under the surface drug use is rife, prostitution is rampant and the police officers are violent thugs.  In the middle of this are three officers with different aims.  Ed Exley is an ambitious young officer who will do anything to climb the ranks, Bud White is a muscle man and gets the job done while Jack Vincennes is only concerned with celebrity busts and getting his face in the paper.  When the three come together on a coffee shop killing that brings in elements of cases they are following they solve it together.  However each has suspicions that something is not right.\n\nI'm sorry to say that I didn't pick up on this at the cinema and it wasn't until the Oscars brought it to my attention that I first saw it.  Since then I have seen it several times and have enjoyed it every time.  The plot is slightly complex (although maybe not by the genre's standards) and it isn't simplified for the audiences sake  it respects the audience enough to trust us to keep up with it's pace.  The film is split into three strands dictated by the characters, they are not quite distinct but are mostly intertwined the whole way through  coming together in the final hour to great effect.\n\nThe pace of the telling is great; it has moments of drama, of tension and great action.  Hanson has done a great job with the direction, he has a great sense of place and time to his 50's Hollywood  whether it be the stars' lives or the black suburbs  but he directs each scene with a sense of tension and urgency that the material deserves.  The final twist is OK if not great but it is more the telling of the story that is enjoyable, not just the denouncement.\n\nThe casting did a great job of getting growth names and established qualities but no one huge star who could dominate the film.  It is the Australian stars that stand out here.  Pearce is excellent with a subtly changing character but it is Crowe that sticks in the memory with a very strong character and a performance to match.  Spacey is as quality as he ever is (or at least, was for a few years either side of this film) and the support cast is as good with De Vito, Basinger, Cromwell, Rifkin, Strathairn and Guilfoyle.\n\nThere is nothing I really dislike about this film.  The longer than average running time is not a problem as it easily fills it without dragging at any point.  The film oozes class and has a great tough plot from Ellroy where nothing is as simple as right/wrong and everything comes together at the end.  A real classy film with brains and brawn which continues to be one of my favourites of recent years."
+  },
+  "duration":"PT2H18M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"L.A. Confidential",
+    "embedUrl":"/video/imdb/vi1124073497",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BN2VlMDk1OTQtODY4Ny00ZGMzLWI4MWUtZWMwOTBmZjE2YTdhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BN2VlMDk1OTQtODY4Ny00ZGMzLWI4MWUtZWMwOTBmZjE2YTdhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for L.A. Confidential",
+    "uploadDate":"2008-09-24T03:29:24Z"
+  }
+}

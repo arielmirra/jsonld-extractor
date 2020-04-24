@@ -1,0 +1,100 @@
+{
+  "id":"  http://www.imdb.com/title/tt0046912/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0046912/",
+  "name":"Dial M for Murder",
+  "image":"https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Thriller"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001537/",
+      "name":"Ray Milland"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000038/",
+      "name":"Grace Kelly"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0191950/",
+      "name":"Robert Cummings"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002369/",
+      "name":"John Williams"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000033/",
+    "name":"Alfred Hitchcock"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0461425/",
+      "name":"Frederick Knott"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0461425/",
+      "name":"Frederick Knott"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002663/"
+    }
+  ],
+  "description":"Dial M for Murder is a movie starring Ray Milland, Grace Kelly, and Robert Cummings. A tennis player tries to arrange his wife's murder after learning of her affair.",
+  "datePublished":"1954-05-29",
+  "keywords":"blackmail,murder,tennis player,love letter,key",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":148940,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0046912/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Spondonman"
+    },
+    "dateCreated":"2013-01-21",
+    "inLanguage":"English",
+    "name":"Excellent",
+    "reviewBody":"What gets me about this film every time I see it is just how simple it is. The witty urbanity of the dialogue goes without saying (hem), the acting is stagily impeccable, and the direction by Hitchcock is limited by the small sets but masterful for all that.\n\nCold Ray Milland plans and sets up the murder of his demure but faithless wife Grace Kelly by a virtual stranger who is urged on by the stick of exposure of his misdeeds and the carrot of GBP1,000 in used notes. Of course all of his convoluted plans go horribly or thankfully wrong, depending on your point of view, leading to an even more convoluted revised plan. When first seen when young I wasted my time because I wasn't paying attention at the critical moment so missed the point and didn't get it: the key is how did the baddie get into the apartment? It's incredibly verbose, being from a stage play after all and at times it seems nothing more than a radio show with pictures. The long scene setting and verbal sparring by Milland and Anthony Dawson is superb to hear - it's fascinating for its relentless poetry, and of displaying a now-dead world. I could never understand the attraction of 3D movies, least of all with this particular attempt, or why Kelly was continually uglified by the Hollywood machine when she never looked lovelier than in here when she was playing stressed out throughout.\n\nI wonder if Hitch remembered the jokey murder scene he did in 1930 in Elstree Calling when Jameson Thomas realised he was murdering in the wrong apartment? Turn that key you have and go in, it's a remarkably literate film and as intricate inside as any lock.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT1H45M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Dial M For Murder",
+    "embedUrl":"/video/imdb/vi3634430233",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYTU3NDc3NDUtNDhkOS00ZGMyLTg3MTktYzE4MGVhNWVkMDU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYTU3NDc3NDUtNDhkOS00ZGMyLTg3MTktYzE4MGVhNWVkMDU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Theatrical Trailer from Warner Bros. Pictures",
+    "uploadDate":"2008-04-11T13:50:14Z"
+  }
+}

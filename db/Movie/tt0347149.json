@@ -1,0 +1,118 @@
+{
+  "id":"  http://www.imdb.com/title/tt0347149/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0347149/",
+  "name":"Hauru no ugoku shiro",
+  "image":"https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "genre":[
+    "Animation",
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0047962/",
+      "name":"Chieko Baishô"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0454120/",
+      "name":"Takuya Kimura"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0309107/",
+      "name":"Tatsuya Gashûin"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0594271/",
+      "name":"Akihiro Miwa"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0594503/",
+    "name":"Hayao Miyazaki"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0594503/",
+      "name":"Hayao Miyazaki"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1168510/",
+      "name":"Diana Wynne Jones"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0088070/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0064941/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0148513/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0003850/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0048420/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0032110/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0016626/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0244498/"
+    }
+  ],
+  "description":"Hauru no ugoku shiro is a movie starring Chieko Baishô, Takuya Kimura, and Tatsuya Gashûin. When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a...",
+  "datePublished":"2004-11-20",
+  "keywords":"anime,studio ghibli,steampunk,three word title,castle",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":305189,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0347149/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Andrea_R"
+    },
+    "dateCreated":"2004-10-01",
+    "inLanguage":"English",
+    "name":"Thank you so much for this movie Mr. Miyazaki",
+    "reviewBody":"I Don't get words to express what I felt when coming out of the cinema, Howl's Moving Castle is an absolutely fantastic film and has even out Laputa and Totoro as my favourite Miyazaki film.\n\nThe story is amazing and the characters and creatures are as excellently crafted and fun to watch as ever. The voice actors and music are perfect Joe Hisaishi in my opinion is the best contemporary composer.\n\nMy only criticism (very little) is maybe the ending (last minutes) that rises suddenly, far from the habitual perfection of the catharsis final of the Miyazaki's films but nothing important\n\nThe movie has a really bad thing of the film: THE LONG WAITING TO SEE IT AGAIN!\n\nESSENTIAL",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H59M"
+}

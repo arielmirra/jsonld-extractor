@@ -1,0 +1,112 @@
+{
+  "id":"  http://www.imdb.com/title/tt0118715/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0118715/",
+  "name":"The Big Lebowski",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Crime",
+    "Sport"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000313/",
+      "name":"Jeff Bridges"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000422/",
+      "name":"John Goodman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000194/",
+      "name":"Julianne Moore"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000114/",
+      "name":"Steve Buscemi"
+    }
+  ],
+  "director":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001054/",
+      "name":"Joel Coen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001053/",
+      "name":"Ethan Coen"
+    }
+  ],
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001053/",
+      "name":"Ethan Coen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001054/",
+      "name":"Joel Coen"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0030612/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0057311/"
+    }
+  ],
+  "description":"The Big Lebowski is a movie starring Jeff Bridges, John Goodman, and Julianne Moore. Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help...",
+  "datePublished":"1998-03-06",
+  "keywords":"rug,nihilism,pornographer,bowling alley,death",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":697235,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0118715/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Ash-37"
+    },
+    "dateCreated":"1998-08-17",
+    "inLanguage":"English",
+    "name":"Coen brothers unabashedly out of control!  A plethora of fun!",
+    "reviewBody":"The Coen brothers are up there with my very favorite filmmakers (Scorsese, Kubrick, Carpenter).  I am very fond of their work.  Throughout their irreverent career, they have explored different subjects and themes.  Their best stories evolve from  kidnapping schemes in films like \"Raising Arizona \" and \"Fargo\", one of my very favorites.  I thought that film was fervently free.  I was so ever wrong. It's as if the Coen Brothers have celebrated their complete breakthrough success (Academy Award winners), and now are willing to do whatever they please.  \"The Big Lebowski\" is a film so meandering, so wonderfully novel, that I found myself missing the many other sporadic jokes as I was heaving from laughter.  The film is basically about mistaken identity, eccentric characters, and a soiled rug.  This film extols the bowler, the allies, even the pins.  We experience an actual bowling ball POV, as the Dude (Jeff Bridges) hallucinates.  This film has nihilists, feminists, millionares, paedophiles, drugged out hippies, underachieving students, incompetent criminals, pornographers and 'Nam veterans.  This movie is open to anything , anything... Some people are turned off by absurd looniness, because it's so grandiosely different.  Yet who couldn't chuckle, if not explode, when a bowler dressed in a tight purple suit licks a bowling ball's finger hole, and the camera pans down to reveal his name as Jesus! I will disclose no more, but urgently recommend you to traverse to your nearest video abode and rent this true escapists' feature. Abandon all solemn inhibitons, though!  One can not keep a straight face whilst watching.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT1H57M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Big Lebowski",
+    "embedUrl":"/video/imdb/vi4018733337",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZWE4NDhjMzItM2RhNC00Njk5LWEyZjQtMGY0MjEyYWQ1NGFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZWE4NDhjMzItM2RhNC00Njk5LWEyZjQtMGY0MjEyYWQ1NGFlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Theatrical Trailer from Gramercy Pictures",
+    "uploadDate":"2008-04-11T16:12:49Z"
+  }
+}

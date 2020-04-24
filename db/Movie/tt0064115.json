@@ -1,0 +1,105 @@
+{
+  "id":"  http://www.imdb.com/title/tt0064115/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0064115/",
+  "name":"Butch Cassidy and the Sundance Kid",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_.jpg",
+  "genre":[
+    "Biography",
+    "Crime",
+    "Drama",
+    "Western"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000056/",
+      "name":"Paul Newman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000602/",
+      "name":"Robert Redford"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001684/",
+      "name":"Katharine Ross"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001510/",
+      "name":"Strother Martin"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001351/",
+    "name":"George Roy Hill"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001279/",
+      "name":"William Goldman"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0146931/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0685015/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0065592/"
+    }
+  ],
+  "description":"Butch Cassidy and the Sundance Kid is a movie starring Paul Newman, Robert Redford, and Katharine Ross. Wyoming, early 1900s. Butch Cassidy and The Sundance Kid are the leaders of a band of outlaws. After a train robbery goes wrong...",
+  "datePublished":"1969-09-24",
+  "keywords":"outlaw,bolivia,fast draw,bank robbery,outlaw gang",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":196052,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0064115/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"ccthemovieman-1"
+    },
+    "dateCreated":"2006-06-15",
+    "inLanguage":"English",
+    "name":"One Of The All-Time Great Westerns",
+    "reviewBody":"One of the best and most-liked films of the 1960s, this is still a fun movie to watch today. When I saw this on DVD on a nice flat-screen set, I was amazed how good this looked. I had seen it several times before on VHS and hadn't realized how good this was photographed. I just discovered Conrad Hall was the cinematographer, which explains it. Few, if any, were better than him.\n\nOne remembers this western for several things: the two leads looking over their shoulders incredulous that their pursers seem to be always there; Paul Newman riding a bicycle to the tune of \"Raindrops Keep Falling On My Head,\" the beautiful Katharine Ross, the chemistry of Newman and Robert Redford as a two-man team, on and on. Those three lead actors, with the repartee between them, and the likability of each, make them fun to watch as they dominate this picture. \n\nIt's just solid entertainment and another example of good film-making that doesn't need a lot of R-rated material to make it successful. Photography-wise, the western scenery was great, there were some wonderful closeup shots and I really liked the tinted old-time footage inserted in here. \n\nSo, when you combine all the elements, it's no surprise this film won so many awards and endures so well.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H50M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Butch Cassidy and the Sundance Kid",
+    "embedUrl":"/video/imdb/vi2377908505",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYmU0NTFiODMtNzUyOC00NjUwLTg1ZTUtNGE4ODE3NjgzMGYwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYmU0NTFiODMtNzUyOC00NjUwLTg1ZTUtNGE4ODE3NjgzMGYwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for Butch Cassidy And the Sundance Kid",
+    "uploadDate":"2008-04-11T12:57:38Z"
+  }
+}

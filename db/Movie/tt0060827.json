@@ -1,0 +1,97 @@
+{
+  "id":"  http://www.imdb.com/title/tt0060827/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0060827/",
+  "name":"Persona",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTM0YzExY2EtMjUyZi00ZmIwLWFkYTktNjY5NmVkYTdkMjI5XkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Thriller"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000761/",
+      "name":"Bibi Andersson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0880521/",
+      "name":"Liv Ullmann"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0472234/",
+      "name":"Margaretha Krook"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0085038/",
+      "name":"Gunnar Björnstrand"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000005/",
+    "name":"Ingmar Bergman"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000005/",
+      "name":"Ingmar Bergman"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0022781/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0169789/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0050989/"
+    }
+  ],
+  "description":"Persona is a movie starring Bibi Andersson, Liv Ullmann, and Margaretha Krook. A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+  "datePublished":"1966-10-18",
+  "keywords":"silence,patient,mute character,intercepted letter,sex on beach",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":94784,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0060827/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"eibon09"
+    },
+    "dateCreated":"2000-09-19",
+    "inLanguage":"English",
+    "name":"Love Poem to Liv Ullmann",
+    "reviewBody":"There are few motion pictures that rely on bodily expression and imagery as most films depend too much on dialogue and speech.  Persona(1966) is one of those raw movies that succeeds almost on a metaphysical level.  Its about the relationship between an actress who broke down during a stage performance and the nurse who is assigned to take care of her.  Bergman's camera has a fascination with Ullmann's figure as most of the film's closeup shots are on her.  Liv Ullmann does an outstanding job in playing a character that hardly utters a line of dialogue.\n\n There are a few scenes where the image dominates the screen in a manner that hasn't been done successfully since the silent film period.  The director, Ingmar Bergman did an excellent job in presenting powerful images with the use of natural sound.  Persona(1966) is a triumph of acting because both Bibi Andersson and Liv Ullmann are terrific in their perspective roles. There is hardly any movie music and this adds to the tension between the two women.  Its a film that was deserving of a Oscar for Best Foreign Film in 1966.\n\n One scene that was wonderful is when Alma describes her life to her patient. Another excellent scene is when Mr. Vogler mistakes Alma for his wife(its as if he too has suffered a breakdown and has failed to recognize his own wife).  Finally, the sequence where Alma and Mrs. Vogler's image blends together to form one person.  Its an errie image because they cease to exist as individual people.  Persona(1966) would influence Robert Altman very greatly when he directed the film, Three Women(1977)."
+  },
+  "duration":"PT1H23M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Persona",
+    "embedUrl":"/video/imdb/vi1884797977",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZTIxNjBiZGYtNWE4MC00MThhLWE1ZGItMDIyMzA2MTYxNzM1XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZTIxNjBiZGYtNWE4MC00MThhLWE1ZGItMDIyMzA2MTYxNzM1XkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+    "description":"Theatrical Trailer",
+    "uploadDate":"2019-08-03T17:13:37Z"
+  }
+}

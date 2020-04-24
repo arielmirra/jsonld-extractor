@@ -1,0 +1,116 @@
+{
+  "id":"  http://www.imdb.com/title/tt0087884/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0087884/",
+  "name":"Paris, Texas",
+  "image":"https://m.media-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001765/",
+      "name":"Harry Dean Stanton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000176/",
+      "name":"Nastassja Kinski"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001777/",
+      "name":"Dean Stockwell"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0167467/",
+      "name":"Aurore Clément"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000694/",
+    "name":"Wim Wenders"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0141281/",
+      "name":"L.M. Kit Carson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001731/",
+      "name":"Sam Shepard"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0232924/",
+      "name":"Walter Donohue"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0055424/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0048010/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0075650/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0103532/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0046948/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0495636/"
+    }
+  ],
+  "description":"Paris, Texas is a movie starring Harry Dean Stanton, Nastassja Kinski, and Dean Stockwell. Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself,...",
+  "datePublished":"1984-08-23",
+  "keywords":"father son relationship,desert,texas,wandering,mute",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":82202,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0087884/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"ztruk2001"
+    },
+    "dateCreated":"2005-02-26",
+    "inLanguage":"English",
+    "name":"A tale of redemption",
+    "reviewBody":"Paris Texas is a slow, moody, and delicate study about a man who once ran away from everything and now is coming to terms with himself and learning to forgive himself, by finally facing he people he turned his back on. The Wim Wenders directed movie still today rests in a fairly under recognized status, which doesn't stretch the term \"cult classic\" when applied to it. Paris, Texas is about redemption, the road, family, and the bleakness of the American Southwest. It contains one of the most memorable and unusual openings ever. We hear Ry Cooder's lonely single note twangy guitar on the soundtrack with cinematographer Robby Müller (Barfly, To Live and Die in L.A. , Dead Man) capturing the majestic vistas, rock formations, and the open desert in his camera. Actor Harry Dean Stanton walks out of the dry and desolate landscape, wearing a wornout black sports jacket and dusty red baseball cap. It's a beautifully staged opening sequence. A perfect start to a perfect movie. This man is lost and in need of being found. It's his brother played by actor Dean Stockwell (\"Quantum Leap\", Blue Velvet) who gets word of Stanton's whereabouts and goes after him, which begins the journey of redemption. Nastassja Kinski plays Stanton's young x-wife and the true love of his life. Kinski, the daughter of legendary German actor Klaus Kinski, doesn't make her entrance into the film until the later reels, but her lingering presence is felt throughout. It's almost the same type of thing that Coppola did by not having Brando appear in Apocalypse Now until the conclusion. The scenes that Kinski does have in the end with Stanton are some of the best moments ever captured on film. They're highly emotional and will cause even the most hard-hearted to shed a tear. Both Stanton and Kinski are very subtle and understated in their acting. It's true to their characters. Eight year old Hunter Carson plays Stanton's biological son, who was raised by his uncle (Stockwell). Carson certainly deserves mention in any conversation about great child performances on film. Paris, Texas is a masterpiece. There's no way around it. It's a movie that slowly reveals itself putting the audience right in the shoes of Stanton, who also is trying to remember his past and face it. The story was penned by playwright and actor Sam Shepard, though he doesn't appear in the film. Shepard, a very good playwright, has outdone himself with Paris, Texas surpassing his perhaps more well known, True West. Paris, Texas is a film that must not only be seen, but experienced. Sure the pacing is extremely slow, but as an audience member, use that to your advantage to suck in the picturesque orange southwest desert against the deep blue skys, and the poignant acting, and haunting soundtrack. There's no reason not to treat yourself to this uniquely American masterpiece meditation. It would make a great nightcap for a triple feature with two other simular themed American films, The Searchers and Taxi Driver."
+  },
+  "duration":"PT2H25M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Paris, Texas",
+    "embedUrl":"/video/imdb/vi2557478681",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMWM1YzNhZTktNjliZS00YzNkLThjM2YtMzk5NmViMTQyMmZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMWM1YzNhZTktNjliZS00YzNkLThjM2YtMzk5NmViMTQyMmZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for the Criterion Collection edition",
+    "uploadDate":"2010-05-18T15:41:12Z"
+  }
+}

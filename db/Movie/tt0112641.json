@@ -1,0 +1,121 @@
+{
+  "id":"  http://www.imdb.com/title/tt0112641/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0112641/",
+  "name":"Casino",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000134/",
+      "name":"Robert De Niro"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000232/",
+      "name":"Sharon Stone"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000582/",
+      "name":"Joe Pesci"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000249/",
+      "name":"James Woods"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000217/",
+    "name":"Martin Scorsese"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0683380/",
+      "name":"Nicholas Pileggi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0683380/",
+      "name":"Nicholas Pileggi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000217/",
+      "name":"Martin Scorsese"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0005073/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0059966/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0015641/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0029978/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0038355/"
+    }
+  ],
+  "description":"Casino is a movie starring Robert De Niro, Sharon Stone, and Joe Pesci. A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a...",
+  "datePublished":"1995-11-22",
+  "keywords":"crime epic,casino,gambling,gangster,exploding car",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":440882,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0112641/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"famsmith"
+    },
+    "dateCreated":"2000-10-28",
+    "inLanguage":"English",
+    "name":"An underrated and undervalued Scorsese Classic",
+    "reviewBody":"If you haven't seen Casino yet, stop whatever it is you're doing, rush to the nearest video store, rent it, and watch it.  Along with Mean Streets Casino is probably Scorsese's most underrated and unheralded picture.  I would also venture to say that this is probably his most ambitious film. The film deals with a particular time period and a particular atmosphere and accomplishes an overwhelming achievement by creating and accurately portraying both.  The art direction is splendid, most likely the best of any film Scorsese has ever done.  The acting is superb.  I never thought Pesci would be able to top his dynamic performance in Raging Bull until I saw Casino.  Every time I watch this picture I fall in love with it all over again.  This is the most honest depiction of Las Vegas, especially of the time period it was portrayed in.  Scorsese's direction is flawless. Perhaps it is because I watch alot of Scorsese and Kubrick films, but I am becoming less satisfied with plot driven films and more enamored by films that possess the freedom that typical stories just don't seem to hold.  Sharon Stone gives the best performance of her career, and as far as the editing is concerned, well if you believe like Kubrick and Pudovkin that a film is not shot, but built who better to have on your team than long time cohort, collaborator, and editor Thelma Schoonmaker.  Ultimately, the genius of Scorsese is not just in the mastery of the medium, but in the understanding and appreciation for the necessity of great collaborators on all levels that Scorsese has consistently utilized throughout his career.  Casino exemplifies not only the best of a Scorsese film, but transcends it.  This film is truly a gem.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H58M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Casino",
+    "embedUrl":"/video/imdb/vi1035796761",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMDc2ZmYxZjYtMzZjYi00Y2U2LWE0MzMtZjkwMTQ1OTlkMTgyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMDc2ZmYxZjYtMzZjYi00Y2U2LWE0MzMtZjkwMTQ1OTlkMTgyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Home Video Trailer from Universal Studios Home Entertainment",
+    "uploadDate":"2008-04-11T13:03:38Z"
+  }
+}

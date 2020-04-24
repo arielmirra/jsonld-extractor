@@ -1,0 +1,125 @@
+{
+  "id":"  http://www.imdb.com/title/tt5074352/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt5074352/",
+  "name":"Dangal",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0451148/",
+      "name":"Aamir Khan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm2799219/",
+      "name":"Sakshi Tanwar"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0760778/",
+      "name":"Fatima Sana Shaikh"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm7621667/",
+      "name":"Sanya Malhotra"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm4318159/",
+    "name":"Nitesh Tiwari"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm6328029/",
+      "name":"Piyush Gupta"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm6328031/",
+      "name":"Shreyas Jain"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm6328030/",
+      "name":"Nikhil Mehrotra"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm8661566/",
+      "name":"Rajshri Sudhakar"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm4318159/",
+      "name":"Nitesh Tiwari"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0026618/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0131238/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0008970/"
+    }
+  ],
+  "description":"Dangal is a movie starring Aamir Khan, Sakshi Tanwar, and Fatima Sana Shaikh. Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+  "datePublished":"2016-12-21",
+  "keywords":"small town,father daughter relationship,male objectification,bare chested male,female protagonist",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":139992,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt5074352/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"aashkaran2006"
+    },
+    "dateCreated":"2016-12-23",
+    "inLanguage":"English",
+    "name":"Aamir's Chak De India of 2017 !",
+    "reviewBody":"My Dangal Review/Thoughts:\n\nIn the moments of tension, I believe everyone exhibits their own unique body language to deal with nervousness and anxiousness. Mine involves folding hands (christian style). I am worried that I folded my hands for so long during the film that had I done the same in a temple, I would have been some Shah Rukh Khan myself. Yes ! The film is that excellent in its portrayal of the sport that it makes you grudge every time a player lands back first on the mat. We are so used to applauding action set pieces in other films that it will be criminal if the action choreography for Dangal goes unappreciated. This is the best and most realistic we have ever done!\n\nThe whole cast is so great that I can't do anything but wonder why we need the glam actresses for each and every big film..why not some Sakshi Talwar? The new faces do wonders when it comes to making the illusion of cinema feel true. And, when Aamir (the superstar) sheds former self to becomes some chachajaan, it adds to the illusion instead of taking the magic away. I am bound to praise Aamir, but that guy has lost that element of surprise to make you go WoW. He is just aamir being aamir in yet another film that'll be brought in his already long good list. This is what happens when you submit yourself to the script and director (<= full marks)\n\nMost sports film are marred by clichés. Its impossible to evade the conventional trappings of the genre. Dangal has its fair share of those, but the biggest thing is that it knows when to stop, and that's what makes it a stadium like live experience. My adrenaline rush was high, and it made me very nostalgic as I got reminded of CWG Delhi days when I was 24*7 glued to DD sports. At this point, I feel my review is deviating from its path so I will put breaks by making a concluding statement.\n\nThis is Aamir's Chak de India! I am speaking this both figuratively and literally ( :) ). But, who in the right mind would mind another one of those.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT2H41M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Official Trailer",
+    "embedUrl":"/video/imdb/vi2094904857",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTk1Nzg3OTI3OF5BMl5BanBnXkFtZTgwNTMyNzI3MDI@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTk1Nzg3OTI3OF5BMl5BanBnXkFtZTgwNTMyNzI3MDI@._V1_.jpg",
+    "description":"Dangal revolves around the extraordinary life of Mahavir Singh, an ex-wrestler who is forced to give up his dreams of winning gold for India in international wrestling.",
+    "uploadDate":"2016-11-30T02:05:01Z"
+  }
+}

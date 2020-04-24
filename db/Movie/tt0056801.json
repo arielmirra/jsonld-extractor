@@ -1,0 +1,115 @@
+{
+  "id":"  http://www.imdb.com/title/tt0056801/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0056801/",
+  "name":"8½",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTQ4MTA0NjEzMF5BMl5BanBnXkFtZTgwMDg4NDYxMzE@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000052/",
+      "name":"Marcello Mastroianni"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000733/",
+      "name":"Anouk Aimée"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001012/",
+      "name":"Claudia Cardinale"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0590452/",
+      "name":"Sandra Milo"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000019/",
+    "name":"Federico Fellini"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000019/",
+      "name":"Federico Fellini"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0280919/",
+      "name":"Ennio Flaiano"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000019/",
+      "name":"Federico Fellini"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0684083/",
+      "name":"Tullio Pinelli"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0280919/",
+      "name":"Ennio Flaiano"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0740021/",
+      "name":"Brunello Rondi"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0004944/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0113968/"
+    }
+  ],
+  "description":"8½ is a movie starring Marcello Mastroianni, Anouk Aimée, and Claudia Cardinale. A harried movie director retreats into his memories and fantasies.",
+  "datePublished":"1963-02-16",
+  "keywords":"film director,infidelity,adultery,hiding under a table,self acceptance",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":103925,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0056801/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Lechuguilla"
+    },
+    "dateCreated":"2005-02-06",
+    "inLanguage":"English",
+    "name":"A Five Martini Cinematic Experience",
+    "reviewBody":"Intellectuals have written volumes on this strange film by Italian New Wave director, Federico Fellini. I am not an intellectual, so my review will be brief. At its most basic, \"8 1/2\" (a.k.a. \"Otto e mezzo\") concerns Guido, a film director (supposedly a surrogate for Fellini himself), who is having what amounts to a midlife crisis. Guido is frustrated in his film-making, and by his relations with other people in his life. But the film's story does not proceed in a traditional, linear fashion. Fellini more or less abandons logical narration, in favor of \"open form\" narration, wherein the story's causal chain of events is broken.\n\nThus, trying to figure out what is going on in this film can be hard. Guido's fantasies, memories, dreams, and reality co-mingle in a kind of cinematic stew. Fellini presents viewers with a kaleidoscope of surreal B&W images of ordinary objects and eccentric, chattering characters which interact with Guido and with each other, in ways that defy logic, and give breathtaking meaning to the term symbolism. Followers of psychologist Carl Jung would have a field day. In style, the film is flamboyant. In substance, the film is maddeningly subliminal. And yet, even the most metallic cynic, Pauline Kael notwithstanding, must surely appreciate the rareness of Fellini's probing introspection.\n\nGiven the bizarre, unstructured content of \"8 1/2\", I wonder about the issue of necessity. Suppose Fellini had added an extra ten minutes to the screenplay, or deleted ten minutes. Would that have made any difference? Apart from Guido, if this or that character had been deleted, how would that have changed the story's significance? And if, as some have suggested, the film is a mirror image of Fellini's own confused psyche, can the story be construed as an intuition of his future film-making?\n\n\"Otto e mezzo\" is not for everyone. Like a Zen koan, \"8 1/2\" invites frustration. It is above all else a celebration of ambiguity and abstraction, a cinematic experience to ponder, especially on the heels of four or five martinis ... or 8 1/2, if you really want to induce immense intellectual insight. Cheers."
+  },
+  "duration":"PT2H18M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"8 1/2",
+    "embedUrl":"/video/imdb/vi3475617817",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BOGU4MTNiMjktNzBiNi00ZjA1LTliNGItMzExNGJiYTYxYjBkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BOGU4MTNiMjktNzBiNi00ZjA1LTliNGItMzExNGJiYTYxYjBkXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for 8 1/2",
+    "uploadDate":"2018-03-10T17:01:28Z"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id":"  http://www.imdb.com/title/tt0066921/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0066921/",
+  "name":"A Clockwork Orange",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000532/",
+      "name":"Malcolm McDowell"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0535861/",
+      "name":"Patrick Magee"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0060988/",
+      "name":"Michael Bates"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0165049/",
+      "name":"Warren Clarke"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000040/",
+    "name":"Stanley Kubrick"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000040/",
+      "name":"Stanley Kubrick"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0121256/",
+      "name":"Anthony Burgess"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002663/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0734629/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0113563/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0059123/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0067017/"
+    }
+  ],
+  "description":"A Clockwork Orange is a movie starring Malcolm McDowell, Patrick Magee, and Michael Bates. In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+  "datePublished":"1972-01-13",
+  "keywords":"gang,female full frontal nudity,dystopia,nudity,future",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":726310,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0066921/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"davidmvining"
+    },
+    "dateCreated":"2019-11-26",
+    "inLanguage":"English",
+    "name":"A great, but hard watch",
+    "reviewBody":"I've struggled a bit with this film more than any other Kubrick. The problem is that I think I get it too easily, or I don't get it at all. I'm never quite sure.\n\nOne thing's for sure, it's a hard watch at times. Kubrick, taking Anthony Burgess' novella and running with it, creates a main character so loathsome and charming all at once that it can create a certain dissonance in an audience (Roger Ebert's review of the original release is a fantastic example of a reviewer who simply could not see past Alex de Large as anything other than a celebration of antisocial behavior). The film jumps off the deep end from the very beginning, showing the audience Alex at his most primal and pure, an advocate of the good ultra-violence in charge of three droogs out to cause mayhem and pursue their own pleasures. So unburdened by any existing power structures at any level that Alex can simply get high, beat up other gangs, steal cars, break into houses, rob said houses, and rape women and just crawl back into the bed in his parents' apartment without so much as a serious question from an authority figure. He's not getting caught by the police, so he doesn't care and neither do his parents, so it seems.\n\nThe introduction of Alex's violence is interesting in its structure. The first incident involves the beating of an old drunk man. It's filmed in shadow to help hide the particulars of the violent act, but it shouldn't endear Alex to the audience. The second, I believe, has an unexpected and subtle effect on its audience. Seemingly just bored, Alex seeks out a rival gang. When he finds them, the other gang is in the process of trying to rape a woman, and in comes Alex whose presence allows the woman to escape. No matter what Alex's intention, one of the direct results of his actions is that a woman is saved from rape. I think there's an unconscious acknowledgement by much of the audience at that which pushes many of them to side with Alex. That is undercut, though, by the next sequence where Alex breaks into the country home, beats an old man (crippling him), and cutting off his wife's clothes (while singing \"Singin' in the Rain\" of course) and, implicitly, raping her. Alex is a monster, but in the middle of our long introduction to him where he intentionally does nothing good, he accidentally does something good. I suspect it has an effect on some people they don't really realize.\n\nAnyway, Alex, dealing with some internal strife from his gang led by Georgie, ends up killing a woman and turned on by his mates. He's thrown in prison where, two years later, he is the chaplain's devout assistant. In fact, our introduction to Alex's settled life in prison doesn't really focus on him. The scene is focusing on the chaplain giving a sermon and some rowdy prisoners. Alex is off to the side, manning the projector for when they are to sing. Alex, though, hasn't changed at all. He's modified his external appearance, dressing well in his uniform and studying the Bible, but he only really likes the bits about blood and sex. In his mind, he's still the same depraved monster he was at the beginning.\n\nHe jumps at the idea of an experimental treatment that promises to get him out of prison early. The treatment is that famous bit where Alex is tied into a chair, his eyes pried open, and he watches horrible things on a cinema screen. Combined with an experimental drug, Alex grows sick at the ideas of three things: violence, sex, and Beethoven's 9th symphony. He's not happy with any of the three, but it's the loss of his beloved Beethoven that hits him the hardest. The very sound of the 9th makes Alex ill and unable to function. It's around these experimental treatments that the chaplain makes explicit (shockingly so in a Kubrick film) that what I consider to be the central idea, \"Goodness comes from within. Goodness is chosen. When a man cannot choose, he ceases to be a man.\"\n\nAlex can no longer chose to be bad. To a certain extent, he ceases to be human, and his return home after the successful demonstration of the treatment's effects help solidify this. His family want nothing to do with him. They've rented out his room and can't, for the sake of their boarder, let Alex move back in. Alex finds his former Droogs as police officers after the old man from the beginning of the film attacks Alex while he's incapacitated. The former Droogs nearly drown Alex as he's unable to fight. He's become so dehumanized that he can't even stand up for himself in any way. He ends up required to rely on the kindness of a stranger, the man whom he crippled and whose wife he raped. This man uses Alex's inability to take Beethoven's 9th symphony and drives him to a suicide attempt, casting himself out of the window.\n\nRecovering in a hospital, we discover that Alex has been cured of his cure. He's right back to being the antisocial loathsome creature he started the film. The fantasy sequence that ends the film, showing Alex romping with a naked woman to a cheering, Victorian dressed, audience solidifies that.\n\nSo, is Kubrick saying that Alex's victory is being violent and psychopathic, as Ebert asserted nearly 50 years ago? No, I think Ebert missed the point. The point isn't that curing people of violence isn't a worthy goal, but that the cure needs to originate from within the person. Alex had to want to be changed, and he never wanted to change. He was always looking for ways out of his predicaments in order to get right on with the good ultra-violence. Forcing the change on him dehumanizes him. Better to do what the Chief Guard obviously thought best for Alex, locking him up forever, was probably a better fix.\n\nSo, that's a thousand words on the film's thematic exploration. After having written it, I feel like I have a greater grasp on the ideas of the film than before, so that's quite nice. I still think that A Clockwork Orange is a second tier Kubrick film, though. I've read the film as a black comedy for a while, and it can be quite funny through that lens. The performances require a certain special mention. I don't think anyone in the film is doing a straight performance. Everything is mannered to such odd degrees, and I love them all. Patrick Magee as Mr. Alexander, in particular, tickles me. It's so off-kilter and perfect for the world yet still so utterly bizarre as to be eminently watchable.\n\nIt's smart, but I don't think it looks as good as many of his other films. I feel like having the chaplain explicate the movie's central theme twice makes the ideas less interestingly presented. These are relatively minor complaints, but when comparing this to such films as 2001, Barry Lyndon, The Shining, Dr. Strangelove, or Eyes Wide Shut, I have to just say that A Clockwork Orange isn't as successful. Perhaps it will grow on me more with time, but I cannot imagine ever quite loving this movie as much as the listed others with a first act that makes me cringe so much. Yes, it's intentional and successful, but still...that's a hard watch.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT2H16M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"A Clockwork Orange",
+    "embedUrl":"/video/imdb/vi4030506521",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTI1OTgxOWQtYjFiMS00MDkxLWI4ZGItN2Q0ZWM3ZTNhZmIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTI1OTgxOWQtYjFiMS00MDkxLWI4ZGItN2Q0ZWM3ZTNhZmIxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for A Clockwork Orange - Two-Disc Anniversary Edition Blu-ray Book Packaging",
+    "uploadDate":"2013-05-01T04:01:21Z"
+  }
+}

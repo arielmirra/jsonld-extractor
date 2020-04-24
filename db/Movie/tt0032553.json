@@ -1,0 +1,94 @@
+{
+  "id":"  http://www.imdb.com/title/tt0032553/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0032553/",
+  "name":"The Great Dictator",
+  "image":"https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "contentRating":"Passed",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000122/",
+      "name":"Charles Chaplin"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002104/",
+      "name":"Paulette Goddard"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0642988/",
+      "name":"Jack Oakie"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0306786/",
+      "name":"Reginald Gardiner"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000122/",
+    "name":"Charles Chaplin"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000122/",
+      "name":"Charles Chaplin"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0028083/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0686543/"
+    }
+  ],
+  "description":"The Great Dictator is a movie starring Charles Chaplin, Paulette Goddard, and Jack Oakie. Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+  "datePublished":"1941-01-01",
+  "keywords":"dictator,1910s,soldier,bolt action rifle,battlefield",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":192400,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0032553/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Ermengarde"
+    },
+    "dateCreated":"2004-11-02",
+    "inLanguage":"English",
+    "name":"Great and Then Some",
+    "reviewBody":"I agree that the final speech is powerful, and stirring. It made my heart hurt (in a good way ;-) But I also have to say that the comedy is first-rate. When the Charlie and the pilot are unknowingly upside down and chatting away...when the pilot is serenely reminiscing about his girlfriend back home even as the downed plane plows right into the ground...when Hynkel delivers this vitriolic diatribe about 'the Juden' and the blandly impassive translator says, 'the Phooey has just made reference to the Jewish people' and 'the Phooey's heart is full of love to all mankind,' ...when Hynkel strips his hapless henchman of all his beautiful medals, spitting and fussing a mile a minute...I could go on and on! I think no one else on earth could play Hynkel as hilariously as Chaplin, but it might be fun to imagine modern comedians trying. ;-)"
+  },
+  "duration":"PT2H5M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Great Dictator: The Criterion Collection",
+    "embedUrl":"/video/imdb/vi3851590681",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNzFmNDRjZjAtN2M4NS00NGNmLTkxZTItZGE4Mzc2YWI5Y2U0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNzFmNDRjZjAtN2M4NS00NGNmLTkxZTItZGE4Mzc2YWI5Y2U0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Three Reasons Criterion Trailer for The Great Dictator",
+    "uploadDate":"2011-06-22T03:40:12Z"
+  }
+}

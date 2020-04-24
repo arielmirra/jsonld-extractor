@@ -1,0 +1,100 @@
+{
+  "id":"  http://www.imdb.com/title/tt0033870/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0033870/",
+  "name":"The Maltese Falcon",
+  "image":"https://m.media-amazon.com/images/M/MV5BZjIwNGM1ZTUtOThjYS00NDdiLTk2ZDYtNGY5YjJkNzliM2JjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+  "genre":[
+    "Film-Noir",
+    "Mystery"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000007/",
+      "name":"Humphrey Bogart"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000802/",
+      "name":"Mary Astor"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0313438/",
+      "name":"Gladys George"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000048/",
+      "name":"Peter Lorre"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001379/",
+    "name":"John Huston"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001379/",
+      "name":"John Huston"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0358591/",
+      "name":"Dashiell Hammett"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002663/"
+    }
+  ],
+  "description":"The Maltese Falcon is a movie starring Humphrey Bogart, Mary Astor, and Gladys George. A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.",
+  "datePublished":"1941-10-18",
+  "keywords":"private detective,murder,taxi,private eye,maltese falcon",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":144783,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0033870/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"bkoganbing"
+    },
+    "dateCreated":"2006-01-20",
+    "inLanguage":"English",
+    "name":"\"I Won't Play The Sap For You.\"",
+    "reviewBody":"The Maltese Falcon has a totally atypical Hollywood history. After two previous filmings of Dashiell Hammett's novel, the third time a classic film was achieved. Usually the original is best and the remakes are the inferior product.\n\nThese characters that John Huston wrote and breathed life into with his direction are so vital and alive even 65 years after the premiere of The Maltese Falcon. You can watch this one fifty times and still be entertained by it.\n\nI'm not sure how the code let this one slip through. Humphrey Bogart as Sam Spade is partners with Jerome Cowan in a detective agency Spade and Archer. Client Mary Astor comes into their office requesting help in getting rid of a man who's intruding in on her life. Jerome Cowan as Miles Archer eagerly takes the assignment and gets himself bumped off for his troubles.\n\nCowan is quite the skirt chaser and he certainly isn't the first or the last man to think with his hormones. That's OK because Bogart's been fooling around with his wife, Gladys George. That gives the police, Barton MacLane and Ward Bond, motive enough to suspect Bogart might have had a hand in Cowan's death.\n\nAs fans of The Maltese Falcon are well aware, there's quite a bit more to the story than that. Bogart's investigation leads him to a crew of adventurous crooks, Sydney Greenstreet, Peter Lorre, and Elisha Cook, Jr. who are in pursuit of a statue of a Falcon that is said to be encrusted in gold and precious jewels. \n\nThe Maltese Falcon is a milestone film role for Humphrey Bogart. It is the first time that Bogey was ever first billed in an A picture while he was at Warner Brothers. In fact this is also John Huston's first film as a director. He had previously just been a screenwriter and in fact got an Oscar nomination for the screenplay he wrote here. There are some who will argue that this first film is Huston's best work and I'd be hard up to dispute that.\n\nAfter a long career on stage The Maltese Falcon was the screen debut of Sydney Greenstreet. Greenstreet may be orally flatulent here, but there's no doubt to the menace he exudes while he's on screen. Greenstreet got an Oscar nomination for Best Supporting Actor, but lost to Donald Crisp for How Green Was My Valley. Greenstreet created quite a gallery of characters for the next ten years, mostly for Warner Brothers.\n\nA favorite character of mine in The Maltese Falcon has always been Lee Patrick as Effie, the secretary at Spade&Archer. She's loyal, efficient and crushing out on Bogey big time. This and the part of Mrs. Topper in the television series Topper are Lee Patrick's career roles. I never watch The Maltese Falcon without hoping that Bogey will recognize how really \"precious\" Effie is.\n\nThe Maltese Falcon will be entertaining people hundreds of years from now. And please no more remakes of this one.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H40M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Maltese Falcon",
+    "embedUrl":"/video/imdb/vi1811284249",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMWFhZTdjYmUtZWI4YS00MjY2LTllZjctOTc0ZGIzZmI0ZjE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMWFhZTdjYmUtZWI4YS00MjY2LTllZjctOTc0ZGIzZmI0ZjE2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Theatrical Trailer from Warner Bros. Pictures",
+    "uploadDate":"2008-04-11T16:56:06Z"
+  }
+}

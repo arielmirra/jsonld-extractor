@@ -1,0 +1,99 @@
+{
+  "id":"  http://www.imdb.com/title/tt0245712/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0245712/",
+  "name":"Amores perros",
+  "image":"https://m.media-amazon.com/images/M/MV5BMWJhOTg5MWQtYTJjMi00YmFkLTg4ODgtYmU2YWVhODQ4ZDM3XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0248408/",
+      "name":"Emilio Echevarría"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0305558/",
+      "name":"Gael García Bernal"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0865949/",
+      "name":"Goya Toledo"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0346270/",
+      "name":"Álvaro Guerrero"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0327944/",
+    "name":"Alejandro G. Iñárritu"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0037247/",
+      "name":"Guillermo Arriaga"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0133276/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0007410/"
+    }
+  ],
+  "description":"Amores perros is a movie starring Emilio Echevarría, Gael García Bernal, and Goya Toledo. A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the...",
+  "datePublished":"2000-06-16",
+  "keywords":"multiple storyline,dog,mexico city,multiple perspectives,nonlinear timeline",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":215168,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0245712/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"dromasca"
+    },
+    "dateCreated":"2003-04-25",
+    "inLanguage":"English",
+    "name":"On Men And Dogs",
+    "reviewBody":"This Mexican movie was surprisingly good. I confess the sin of prejudice concerning Mexican cinema, this being maybe the second Mexican film I have ever seen, but here my sins are punished. This is the work of a director of big talent. Hopefully, he will not be spoiled by the success.\n\n Three different stories in today's Mexico mix with very few common elements. The characters belong to different social categories, and nothing connects them at first sight, excepting the feeling of un-happiness, and - yes - dogs. Dogs play an important role in all three stories. One more warning - there is a lot of cruelty including dog fights - this film is certainly not for sensitive animal lovers. \n\nDirecting is excellent, the stories are human and complex and despite their melodramatic or sometimes tragic outcome, they still leave you with a shade of hope - maybe because the humanity that the author uses to create his characters. There are so many memorable scenes, that I would commit another sin to pick any and describe it here - just rent, or go to watch this movie in the theater - it is worth all 150 or so minutes you will spend. 9/10 on my personal scale.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H34M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Tráiler [OV]",
+    "embedUrl":"/video/imdb/vi2171189785",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZGI5M2EzNDMtYmQ1My00ZDBmLWFiODEtYWZiOTkyOWVkM2UwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZGI5M2EzNDMtYmQ1My00ZDBmLWFiODEtYWZiOTkyOWVkM2UwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    "description":"Original trailer - do not delete without contacting gamazoa -",
+    "uploadDate":"2019-02-15T17:56:45Z"
+  }
+}

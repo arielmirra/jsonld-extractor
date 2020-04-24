@@ -1,0 +1,129 @@
+{
+  "id":"  http://www.imdb.com/title/tt0059578/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0059578/",
+  "name":"Per qualche dollaro in più",
+  "image":"https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":"Western",
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000142/",
+      "name":"Clint Eastwood"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001812/",
+      "name":"Lee Van Cleef"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002231/",
+      "name":"Gian Maria Volontè"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0472756/",
+      "name":"Mara Krupp"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001466/",
+    "name":"Sergio Leone"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001466/",
+      "name":"Sergio Leone"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0607694/",
+      "name":"Fulvio Morsella"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0898812/",
+      "name":"Luciano Vincenzoni"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001466/",
+      "name":"Sergio Leone"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0006872/",
+      "name":"Sergio Donati"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0217270/",
+      "name":"Enzo Dell'Aquila"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0223964/",
+      "name":"Fernando Di Leo"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0013844/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0046114/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002257/"
+    }
+  ],
+  "description":"Per qualche dollaro in più is a movie starring Clint Eastwood, Lee Van Cleef, and Gian Maria Volontè. Two bounty hunters with the same intentions team up to track down a Western outlaw.",
+  "datePublished":"1965-12-20",
+  "keywords":"mexico,shoulder holster,new mexico desert,alamogordo new mexico,arizona desert",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":220049,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0059578/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"iamyuno2"
+    },
+    "dateCreated":"2014-03-07",
+    "inLanguage":"English",
+    "name":"One of Best Westerns Ever Made",
+    "reviewBody":"Exceptional performances by three heavyweight actors, Gian Maria Volonte and Lee Van Cleef - both of whom, it's a shame, did not have all that many more opportunities to shine in quality films after this one - and Clint Eastwood, along with taut direction, editing, cinematography and gripping and unique music (by the great Ennio Morricone), make this movie a real standout. (The music's almost a major character in this film, in fact.) Stylistically iconic, this Sergio Leone opus has an endlessly fascinating and spellbinding story that surprises to the end. Plus, we really come to like the co-heroes, Van Cleef and Eastwood - we want to befriend them and emulate them. Volonte was priceless as a demonic villain - his facial expressions rich with narcissism and a strange kind of violence-fueled euphoria no one else has ever matched in film history, for my money. Though he clashed with director Leone and purportedly did not like the Western genre, Volonte's performance rises above the film's genre and could be favorably compared to the best portrayed villains of other more mainstream movies. Volonte brought a realism to his character and an intensity you don't see in many films. But so did Van Cleef, whose work in this film is incredible. You'd have thought other movie makers would have rushed to cast Van Cleef in important roles after this film, but no. Very strange. Though some might question the wanton violence in this film, the truth is that the real wild west was even more violent and the violence often much more capricious and random. Like all great artistic works, this film never grows old for me. I am always drawn to watch it again and again for it is of such a depth and complexity that it only reveals more of itself with each viewing.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H12M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Trailer [OV]",
+    "embedUrl":"/video/imdb/vi773831705",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYTkyNjZlNDctYjFmZS00ZjkxLWJjMjctYWQyMDI1NzNmZDYxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYTkyNjZlNDctYjFmZS00ZjkxLWJjMjctYWQyMDI1NzNmZDYxXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    "uploadDate":"2019-07-12T15:42:46Z"
+  }
+}

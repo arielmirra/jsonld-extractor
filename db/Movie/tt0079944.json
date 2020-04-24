@@ -1,0 +1,107 @@
+{
+  "id":"  http://www.imdb.com/title/tt0079944/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0079944/",
+  "name":"Stalker",
+  "image":"https://m.media-amazon.com/images/M/MV5BMDgwODNmMGItMDcwYi00OWZjLTgyZjAtMGYwMmI4N2Q0NmJmXkEyXkFqcGdeQXVyNzY1MTU0Njk@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Sci-Fi"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0293981/",
+      "name":"Alisa Freyndlikh"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0435289/",
+      "name":"Aleksandr Kaydanovskiy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0813463/",
+      "name":"Anatoliy Solonitsyn"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0342458/",
+      "name":"Nikolay Grinko"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001789/",
+    "name":"Andrei Tarkovsky"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0835297/",
+      "name":"Arkadiy Strugatskiy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0835298/",
+      "name":"Boris Strugatskiy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0835297/",
+      "name":"Arkadiy Strugatskiy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0835298/",
+      "name":"Boris Strugatskiy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001789/",
+      "name":"Andrei Tarkovsky"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0024010/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0533670/"
+    }
+  ],
+  "description":"Stalker is a movie starring Alisa Freyndlikh, Aleksandr Kaydanovskiy, and Anatoliy Solonitsyn. A guide leads two men through an area known as the Zone to find a room that grants wishes.",
+  "datePublished":"1980-04-17",
+  "keywords":"guide,writer,professor,ringing phone,phone ringing",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":107420,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0079944/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"OttoVonB"
+    },
+    "dateCreated":"2005-10-16",
+    "inLanguage":"English",
+    "name":"The most Humanist Film in Existence",
+    "reviewBody":"Andrei Tarkovsky is a rarity among filmmakers in that he creates films that resemble elaborate (and always smartly written, beautifully shot and superbly acted) puzzles. The pieces are always scattered, and Tarkovsky relies on his viewer to bring the final element of the puzzle along with him. SOLARIS explores the boundaries of consciousness and the sense of grief (and it uses the titular planet as a metaphor for God). ANDREI ROUBLEV is a multi-layered voyage into religious belief. STALKER, however, is far more spiritual and existential than both of them.\n\nA teacher and a scientist wish to go to a restricted patch of nature - the mythical conscious \"Zone\" - to make their wishes come true. To enter the area and survive its numerous danger, they hire a man sensible to the Zone's thoughts and actions, a Stalker. What they find there turns out to be very different from what they expected, as they come to discover who they truly are.\n\nThere's only so much you can say without getting drowned in details that would appear heavy-handed on paper but flow seamlessly on screen. Quite often, Tarkovsky reduces his characters to silence, letting their movements and eyes convey their thoughts and feelings and letting the viewer bring his own thoughts and beliefs to the film. One of STALKER's many treats is that it invites you to get carried away into your own thoughts, flowing with the images as it provides new questions to ponder... In that sense, the film is very much like a philosophical poem: a very simple surface covering innumerable layers of meaning. Yet the images Tarkovsky provides - whether filming landscapes or wide-shots or simply peering into his actors' extraordinary faces - make this almost hypnotic.\n\nSTALKER is a treasure: an invitation to go on a mental ride with a poet and philosopher. A film that makes you wonder more about yourself yet without making you anxious. The few existing films like STALKER are the reason why cinema is called \"art\"!",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H42M"
+}

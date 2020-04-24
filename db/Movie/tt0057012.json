@@ -1,0 +1,111 @@
+{
+  "id":"  http://www.imdb.com/title/tt0057012/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0057012/",
+  "name":"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "image":"https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":"Comedy",
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000634/",
+      "name":"Peter Sellers"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001715/",
+      "name":"George C. Scott"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001330/",
+      "name":"Sterling Hayden"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0943978/",
+      "name":"Keenan Wynn"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000040/",
+    "name":"Stanley Kubrick"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000040/",
+      "name":"Stanley Kubrick"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0816143/",
+      "name":"Terry Southern"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0313570/",
+      "name":"Peter George"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0313570/",
+      "name":"Peter George"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0050868/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0113563/"
+    }
+  ],
+  "description":"Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb is a movie starring Peter Sellers, George C. Scott, and Sterling Hayden. An insane general triggers a path to nuclear holocaust that a War Room full of politicians...",
+  "datePublished":"1964-01-29",
+  "keywords":"war room,u.s. president,bodily fluids,nuclear holocaust,nuclear weapons",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":433206,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0057012/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"cricketbat"
+    },
+    "dateCreated":"2018-08-30",
+    "inLanguage":"English",
+    "name":"A silly comedy about a very serious subject.",
+    "reviewBody":"What can be said about this movie? It's a classic. One of the great films. A silly comedy about a very serious subject. If you haven't seen this one yet, it's about time you did.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT1H35M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Dr. Strangelove",
+    "embedUrl":"/video/imdb/vi3114467609",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMjY2ZjExZDMtYjk0Zi00MmNmLWFlZTAtZmZjYzBlOTk0YjRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMjY2ZjExZDMtYjk0Zi00MmNmLWFlZTAtZmZjYzBlOTk0YjRlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Theatrical Trailer from Columbia Pictures",
+    "uploadDate":"2008-04-11T13:56:01Z"
+  }
+}

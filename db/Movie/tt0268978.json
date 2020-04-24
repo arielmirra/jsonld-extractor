@@ -1,0 +1,107 @@
+{
+  "id":"  http://www.imdb.com/title/tt0268978/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0268978/",
+  "name":"A Beautiful Mind",
+  "image":"https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre":[
+    "Biography",
+    "Drama"
+  ],
+  "contentRating":"PG-13",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000128/",
+      "name":"Russell Crowe"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000438/",
+      "name":"Ed Harris"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000124/",
+      "name":"Jennifer Connelly"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001626/",
+      "name":"Christopher Plummer"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000165/",
+    "name":"Ron Howard"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0326040/",
+      "name":"Akiva Goldsman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0621586/",
+      "name":"Sylvia Nasar"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0005073/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0040938/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0003687/"
+    }
+  ],
+  "description":"A Beautiful Mind is a movie starring Russell Crowe, Ed Harris, and Jennifer Connelly. After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+  "datePublished":"2002-01-04",
+  "keywords":"mathematician,mental illness,game theory,schizophrenia,nobel prize",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":811991,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0268978/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"ccthemovieman-1"
+    },
+    "dateCreated":"2006-02-01",
+    "inLanguage":"English",
+    "name":"Crowe Does It Again!",
+    "reviewBody":"The more I watch Russell Crowe, the more I am becoming a big fan of his acting talent. Here again, he demonstrates his skills in a role that had me spellbound. Of course, mentally-ill people are usually fascinating. Look how popular the cable television show \"Monk\" has become.\n\nCrowe's character, mathematician John Nash, is not nearly as eccentric as \"Monk,\" but his schizophrenia makes for a fascinating portrait of a very troubled man. This is another of those Ron Howard based-on-a-true-story films, so don't take everything here as gospel truth....because it ain't so. (One example: in real life, Nash's wife was anything but as supportive as Jennifer Connelly was portrayed here.)\n\nThe first time I saw this film I was disappointed. Maybe I expected more, maybe I felt the story was unfair to the viewer and I felt like this was just one more attempt at Liberal Hollywood to make fun of those in the 1950s who were opposed to Communism. Well, on the second viewing, just a few weeks ago, I didn't have a problem with any of those things, just enjoying the performances and the classy-looking cinematography, thanks to one of the best cameramen in the business, Roger Deakins. I'm not always a fan of director Ron Howard, but his films are usually interesting and pleasing to the eye. He and Crowe seem to be a good pair, too, as witnessed by 2005's \"Cinderella Man.\"\n\nFor those who enjoy a cerebral thriller, this is a very intriguing film. Ed Harris, Paul Bettany, Adam Goldberg, Judd Hirsch, Josh Lucas and Anthony Rapp all deliver solid supporting help and, if you haven't seen this, this story will deliver a big surprise. If you know the ending, a second viewing is even more interesting as you trace Nash's actions from the beginning.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H15M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Official Trailer",
+    "embedUrl":"/video/imdb/vi1801239321",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BOTNkYzBiMTgtOTRkOS00ZTAyLTkyZjItMWY0YjE5MjJhYzRiXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BOTNkYzBiMTgtOTRkOS00ZTAyLTkyZjItMWY0YjE5MjJhYzRiXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+    "uploadDate":"2018-09-14T21:12:21Z"
+  }
+}

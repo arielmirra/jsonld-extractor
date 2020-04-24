@@ -1,0 +1,106 @@
+{
+  "id":"  http://www.imdb.com/title/tt0052311/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0052311/",
+  "name":"Touch of Evil",
+  "image":"https://m.media-amazon.com/images/M/MV5BOTA1MjA3M2EtMmJjZS00OWViLTkwMTEtM2E5ZDk0NTAyNGJiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama",
+    "Film-Noir",
+    "Thriller"
+  ],
+  "contentRating":"PG-13",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000032/",
+      "name":"Charlton Heston"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000080/",
+      "name":"Orson Welles"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001463/",
+      "name":"Janet Leigh"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0130407/",
+      "name":"Joseph Calleia"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000080/",
+    "name":"Orson Welles"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000080/",
+      "name":"Orson Welles"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0557767/",
+      "name":"Whit Masterson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0168759/",
+      "name":"Franklin Coen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0597574/",
+      "name":"Paul Monash"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0021358/"
+    }
+  ],
+  "description":"Touch of Evil is a movie starring Charlton Heston, Orson Welles, and Janet Leigh. A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.",
+  "datePublished":"1958-05-09",
+  "keywords":"investigation,murder,brothel,drugs,corruption",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":95492,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0052311/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"fatburgr"
+    },
+    "dateCreated":"1998-12-06",
+    "inLanguage":"English",
+    "name":"So many eyes, so little vision",
+    "reviewBody":"Seldom have I seen so many comments with so little understanding. The movie is not about Heston's \"Mexican-ness\" or lack of it. The movie is not about the 5 or 8 or 10 minute opening shot. The movie is not even, god help us, about Welles' descent from the heights into \"slumming it\" in a \"Grade B\" flick.\n\nThe movie is about two things : film-making, and character. Every shot worth remembering (and there are few that aren't) is an exercise in the possibilities of film, particularly black and white film. Woody Allen makes movies in black and white that are  all conversation. Welles made movies in black and white because that's where the colors of the characters, the location and ultimately the meaning of the movie are possible. Black and white film is about the infinite possibilities of shadow. Touch of Evil is about the infinite possibilities of human nature.\n\nHeston, for those of you who just can't see past a \"bad\" accent is about rigidity and short-sightedness. What kind of idiot would leave his wife in all those threatening situations? The kind of idiot who can't imagine that anyone would harm HIS wife, simply because she IS his wife! Akim Tamiroff's Grandi is about flexibility to the point of breakage. Always playing ALL ends against the middle he is the essence of \"harmless\" corruption, that ultimately harms everyone.\n\nAnd Welles' Hank Quinlan ... I just don't have the time or space to explain that Quinlan is about the true cost of police work when the humanity has gone out of it. Ultimately Quinlan would kill his best and only friend, the only one, as Dietrich has it, who really loves him. At one time, perhaps, Quinlan WAS the image that Pete  Menzies saw. But the man behind that image was eaten up long ago with alcohol and frustrated grief. It's all about winning and losing now, and things he would never do. Until he does them.\n\nThere are so many other moments and characters that I'm afraid you'll just have to watch the film with your eyes and your mind open instead of shut to \"get it\". Pay attention to what's on the screen instead of the smart, cynical, hip comments you can make about an actual work of heart.\n\nWell, what the hell. Joan Didion said it best. Film criticism is petit point on kleenex.\n\nRaoul Duke"
+  },
+  "duration":"PT1H35M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Touch of Evil",
+    "embedUrl":"/video/imdb/vi33489177",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BN2MwZDFlMjAtMzgzZi00YWQzLWE4N2EtZmQ3MDgyMDBhNGEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BN2MwZDFlMjAtMzgzZi00YWQzLWE4N2EtZmQ3MDgyMDBhNGEyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Home Video Trailer from Universal Studios Home Entertainment",
+    "uploadDate":"2008-04-11T17:29:09Z"
+  }
+}

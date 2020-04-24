@@ -1,0 +1,105 @@
+{
+  "id":"  http://www.imdb.com/title/tt0017136/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0017136/",
+  "name":"Metropolis",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Sci-Fi"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0375609/",
+      "name":"Brigitte Helm"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002154/",
+      "name":"Alfred Abel"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0297054/",
+      "name":"Gustav Fröhlich"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0459030/",
+      "name":"Rudolf Klein-Rogge"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000485/",
+    "name":"Fritz Lang"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0902376/",
+      "name":"Thea von Harbou"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0902376/",
+      "name":"Thea von Harbou"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000485/",
+      "name":"Fritz Lang"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0021661/"
+    }
+  ],
+  "description":"Metropolis is a movie starring Brigitte Helm, Alfred Abel, and Gustav Fröhlich. In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working...",
+  "datePublished":"1927-02-06",
+  "keywords":"robot,revolution,dystopia,social injustice,class differences",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":152593,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0017136/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"ACitizenCalledKane"
+    },
+    "dateCreated":"2004-12-03",
+    "inLanguage":"English",
+    "name":"Highly influential and, dare I say, prophetic?",
+    "reviewBody":"Fritz Lang's Metropolis is the first true masterpiece of science fiction in film. You can see it's influence in films such as Star Wars, The Matrix, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, Blade Runner, and countless others. Despite the fact that parts of the film are no longer available, the efforts to reconstruct the original film from its remains are valiant enough to provide enough to make the story clear. The special effects were far ahead of their time and the set designs were, in some cases, phenomenal. I can see where some people may not enjoy this movie. It is hard for some to really appreciate a movie that is 77 years old, because a lot has happened in film since then. Yet, if you look at the basic elements of this movie - its story, characters, artwork, cinematography, etc., I believe this movie has just as much to offer now as it must have in the late 1920's. Also, take into consideration the asthetics of German expressionist film when viewing this. The performances and set designs are going to be over the top. That was part of the style. Metropolis may not be for everyone, but, for those willing to read between the lines, this film still has a lot to offer!",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT2H33M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Metropolis",
+    "embedUrl":"/video/imdb/vi1050609177",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BODU3NjA0NDk0N15BMl5BanBnXkFtZTcwNjg2MTU2Mw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BODU3NjA0NDk0N15BMl5BanBnXkFtZTcwNjg2MTU2Mw@@._V1_.jpg",
+    "description":"Metropolis Trailer",
+    "uploadDate":"2010-07-13T08:55:14Z"
+  }
+}

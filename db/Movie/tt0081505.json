@@ -1,0 +1,111 @@
+{
+  "id":"  http://www.imdb.com/title/tt0081505/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0081505/",
+  "name":"The Shining",
+  "image":"https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Horror"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000197/",
+      "name":"Jack Nicholson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001167/",
+      "name":"Shelley Duvall"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0515950/",
+      "name":"Danny Lloyd"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001079/",
+      "name":"Scatman Crothers"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000040/",
+    "name":"Stanley Kubrick"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000175/",
+      "name":"Stephen King"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000040/",
+      "name":"Stanley Kubrick"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0424956/",
+      "name":"Diane Johnson"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002663/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0113563/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0025454/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0043341/"
+    }
+  ],
+  "description":"The Shining is a movie starring Jack Nicholson, Shelley Duvall, and Danny Lloyd. A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific...",
+  "datePublished":"1980-06-13",
+  "keywords":"haunted hotel,labyrinth,identical twins,hotel,snow",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":847386,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0081505/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"KyleW"
+    },
+    "dateCreated":"1999-07-16",
+    "inLanguage":"English",
+    "name":"One of the Scariest Movies Of All Time!!!",
+    "reviewBody":"This is the classic horror!  Stanley Kubrick's Finest!  The scariest of the \"Kubrick Stares\" has to be Jack Nicholson looking through the door in the classic horror scene.  The camera, music, acting, and scares are top notch! I highly recommend this movie to: Horror fans, Kubrick fans, psychological thriller fans, and even Nicholson fans.  You will love this movie to death! Four out of four stars.  A definative classic!   SEE IT!"
+  },
+  "duration":"PT2H26M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Shining",
+    "embedUrl":"/video/imdb/vi1476002073",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMGUxZWVmODQtZTRlOS00ZjM0LTkxZDUtZTQxYTBmYzAxNWU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMGUxZWVmODQtZTRlOS00ZjM0LTkxZDUtZTQxYTBmYzAxNWU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Home Video Trailer from Warner Home Video",
+    "uploadDate":"2008-04-11T17:11:51Z"
+  }
+}

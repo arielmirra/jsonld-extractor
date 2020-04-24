@@ -1,0 +1,95 @@
+{
+  "id":"  http://www.imdb.com/title/tt0075148/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0075148/",
+  "name":"Rocky",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Sport"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000230/",
+      "name":"Sylvester Stallone"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001735/",
+      "name":"Talia Shire"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0949350/",
+      "name":"Burt Young"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001835/",
+      "name":"Carl Weathers"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000814/",
+    "name":"John G. Avildsen"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000230/",
+      "name":"Sylvester Stallone"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0054262/"
+    }
+  ],
+  "description":"Rocky is a movie starring Sylvester Stallone, Talia Shire, and Burt Young. A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.",
+  "datePublished":"1976-12-03",
+  "keywords":"boxer,1970s,fistfight,boxing,training",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":496968,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0075148/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"rbverhoef"
+    },
+    "dateCreated":"2005-02-18",
+    "inLanguage":"English",
+    "name":"A great Sylvester Stallone film",
+    "reviewBody":"If you think Sylvester Stallone has made nothing but stinkers you just have to see 'Rocky'. This is a brilliant film, based on Stallone's own screenplay, where he plays a complex character in such a terrific way it is not strange people thought this was going to be a great actor. Compare it to another great film about a boxer, 'Raging Bull', and 'Rocky' will be better at some points. It goes without saying that it's quite an achievement.\n\nThe story is about Rocky Balboa (Stallone), a boxer who once had a glorious future, but now fights for little money in gyms. Then, out of the blue, he gets the chance to fight the heavyweight champ Apollo (Carl Weathers), a stunt from his side. Although Rocky seems to have no chance he starts his training to make the best of it, although at first he is too proud to accept any help. The scene where he finally accepts the help from his old trainer Mickey (Burgess Meredith) is one of the best scenes in the film. Rocky also starts dating the very shy girl Adrian (Talia Shire), sister of his friend Paulie (Burt Young).\n\n'Rocky' is a terrific film in every aspect. The acting is what amazed me the most. Stallone gives such an impressive performance it is very hard to believe he is also the star of films like 'Over the Top', 'Stop! Or My Mom Will Shoot' and 'Judge Dredd', and from the other 'Rocky'-films for that matter. Not only Stallone is impressive, Shire, Young and Meredith find perfect notes for their characters as well. Every little thing that happens seems natural through their acting and of course Stallone's screenplay does a great job here. Director John G. Avildsen serves this material the way he should. Of course he is no Martin Scorsese, 'Raging Bull' stays the better directed film, but he knows how to tell this story.\n\nI do not like boxing very much, so a boxing-film is not something I would enjoy. But this is not a boxing-film, it is a film about a boxer. It tells about a character who happens to be a boxer running for a title. This is probably one of the points where the other four 'Rocky'-films fail and where films like this one and 'Raging Bull' and Clint Eastwood's 'Million Dollar Baby' succeed.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Rocky",
+    "embedUrl":"/video/imdb/vi2997093657",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYjdiMDY4MjAtZTMzZi00NjIyLTk4N2MtN2I0ZTNjZTk3MjZlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYjdiMDY4MjAtZTMzZi00NjIyLTk4N2MtN2I0ZTNjZTk3MjZlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Home Video Trailer from MGM/UA",
+    "uploadDate":"2009-10-31T05:23:41Z"
+  }
+}

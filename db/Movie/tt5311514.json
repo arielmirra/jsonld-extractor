@@ -1,0 +1,135 @@
+{
+  "id":"  http://www.imdb.com/title/tt5311514/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt5311514/",
+  "name":"Kimi no na wa.",
+  "image":"https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_.jpg",
+  "genre":[
+    "Animation",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm1126340/",
+      "name":"Ryûnosuke Kamiki"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm4759838/",
+      "name":"Mone Kamishiraishi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm6954008/",
+      "name":"Ryô Narita"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm2976492/",
+      "name":"Aoi Yûki"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm1396121/",
+    "name":"Makoto Shinkai"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm1396121/",
+      "name":"Makoto Shinkai"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1396121/",
+      "name":"Makoto Shinkai"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1038805/",
+      "name":"Clark Cheng"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0028938/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0279747/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0169715/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0438076/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0403502/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0217382/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002219/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0606809/"
+    }
+  ],
+  "description":"Kimi no na wa. is a movie starring Ryûnosuke Kamiki, Mone Kamishiraishi, and Ryô Narita. Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+  "datePublished":"2016-08-26",
+  "keywords":"japanese high school girl,upskirt,touching one's breasts,hiked skirt,short skirt",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":165186,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt5311514/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"jll-05735"
+    },
+    "dateCreated":"2017-11-17",
+    "inLanguage":"English",
+    "name":"A Good Anime That Is About To Be Ruined",
+    "reviewBody":"A good anime that has a message, interesting characters, authenticity despite retelling a niche sub-genre story. The work that has gone into and the originality are appreciated. What was less impressive was the stoic reactions and matter-of-fact behaviours. With that said this is quite an accomplishment and I know that with the announced Hollywood remake we the fans need to boycott the coming movie. Hollywood has to learn that their predatory attack on anything popular for their infamous remake series will not be tolerated. Look how they mocked Ghost In The Shell (rolling my eyes as I write).",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"8"
+    }
+  },
+  "duration":"PT1H46M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Your Name",
+    "embedUrl":"/video/imdb/vi1705097753",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYTU2ZTAwZDctZjFkMy00ZGM0LTgzMDUtMGFkMDJmZjM1OTliXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYTU2ZTAwZDctZjFkMy00ZGM0LTgzMDUtMGFkMDJmZjM1OTliXkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+    "description":"Trailer for Your Name",
+    "uploadDate":"2018-10-02T17:18:56Z"
+  }
+}

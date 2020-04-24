@@ -1,0 +1,136 @@
+{
+  "id":"  http://www.imdb.com/title/tt0211915/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0211915/",
+  "name":"Le fabuleux destin d'Amélie Poulain",
+  "image":"https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Romance"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0851582/",
+      "name":"Audrey Tautou"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0440913/",
+      "name":"Mathieu Kassovitz"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0749363/",
+      "name":"Rufus"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0186677/",
+      "name":"Lorella Cravotta"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000466/",
+    "name":"Jean-Pierre Jeunet"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0491011/",
+      "name":"Guillaume Laurant"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000466/",
+      "name":"Jean-Pierre Jeunet"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0491011/",
+      "name":"Guillaume Laurant"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0125555/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0069524/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0072800/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0047606/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0044140/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0044902/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0061775/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0066028/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0028557/"
+    }
+  ],
+  "description":"Le fabuleux destin d'Amélie Poulain is a movie starring Audrey Tautou, Mathieu Kassovitz, and Rufus. Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the...",
+  "datePublished":"2001-04-25",
+  "keywords":"female protagonist,paris france,france,montmartre paris,voice over narration",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":679852,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0211915/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"rbverhoef"
+    },
+    "dateCreated":"2004-08-14",
+    "inLanguage":"English",
+    "name":"Finds its charm in the little things",
+    "reviewBody":"'Le Fabuleux Destin d'Amélie Poulain' finds its charm in the little things. The story about Amélie (Audrey Tautou) is a modern day fairy tale and that is exactly how it looks the entire film. \n\nWe have a wonderful story about Amélie who decides to help people around her, making them happy. Not by doing great big things or giving money, but by little things. She helps her father by making him believe that his gnome from the garden is on a trip around the world, she helps a lonely neighbor by just visiting him, she helps a stranger by returning something she found in her home. On the way she falls in love with Nino (Mathieu Kassovitz) who's hobby it is to collect photos from automatic photo booths. Photos that were tossed away because people thought they didn't look good enough. He puts all those photos and pieces of photos in a big book. There is a little mystery in the book as well, of course I will not spoil that for you. The story is not only sweet and charming, it has some great moments of comedy as well.\n\nThe movie looks colorful and bright almost constantly. Even the sad parts from Amélie's life, her youth for example, look almost strangely happy. In this world, Paris actually, Audrey Tautou is the perfect inhabitant. She has one of those faces that seem to smile the entire time. She looks like she just pulled a joke and she is waiting for you to find out what it is. In a way her character is really doing that here so it does not feel strange.\n\nIn short 'Le Fabuleux Destin d'Amélie Poulain' is charming, funny, romantic bright and full of life. This is the perfect lighthearted movie.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H2M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Bande-annonce [OV]",
+    "embedUrl":"/video/imdb/vi1406515737",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZTc2ODQwNTEtNjk1ZS00Y2MwLTk4OWQtZWQ1OGYxYjI0MmM3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZTc2ODQwNTEtNjk1ZS00Y2MwLTk4OWQtZWQ1OGYxYjI0MmM3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+    "uploadDate":"2018-11-29T16:47:47Z"
+  }
+}

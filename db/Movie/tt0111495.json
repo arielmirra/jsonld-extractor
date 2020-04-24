@@ -1,0 +1,147 @@
+{
+  "id":"  http://www.imdb.com/title/tt0111495/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0111495/",
+  "name":"Trois couleurs: Rouge",
+  "image":"https://m.media-amazon.com/images/M/MV5BYTg1MmNiMjItMmY4Yy00ZDQ3LThjMzYtZGQ0ZTQzNTdkMGQ1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001393/",
+      "name":"Irène Jacob"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0004462/",
+      "name":"Jean-Louis Trintignant"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0270073/",
+      "name":"Frédérique Feder"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0521051/",
+      "name":"Jean-Pierre Lorit"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001425/",
+    "name":"Krzysztof Kieslowski"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001425/",
+      "name":"Krzysztof Kieslowski"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0682830/",
+      "name":"Krzysztof Piesiewicz"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002140/",
+      "name":"Agnieszka Holland"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0460058/",
+      "name":"Edward Klosinski"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0489995/",
+      "name":"Marcin Latallo"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0954072/",
+      "name":"Edward Zebrowski"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0022545/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0044140/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0040107/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0003136/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0028557/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0311623/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0079204/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0048414/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0055736/"
+    }
+  ],
+  "description":"Trois couleurs: Rouge is a movie starring Irène Jacob, Jean-Louis Trintignant, and Frédérique Feder. A model discovers a retired judge is keen on invading people's privacy.",
+  "datePublished":"1994-05-18",
+  "keywords":"friendship,ex judge,eavesdropping,judge,model",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":84822,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0111495/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"DeeDee-10"
+    },
+    "dateCreated":"2000-05-03",
+    "inLanguage":"English",
+    "name":"Beautiful!",
+    "reviewBody":"Having seen White before I realized it was a trilogy; now I've seen Red, and can't wait to see Blue. Red. . . . ah, what a gem!\n\nTrintignant and Jacob. . . their meeting left me uncomfortable -the tension was thick. The director gently molded their relationship from one of fear and disgust to one of compassion and friendship. Hints along the way made me think this was going to have one of those non-linear endings, a circular conclusion  that makes one wonder -what the????? Not so. You are going to love this film from beginning to end!"
+  },
+  "duration":"PT1H39M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Red: The Criterion Collection Blu-Ray",
+    "embedUrl":"/video/imdb/vi3436160025",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNTBhODI2MTQtY2MyMi00NDY5LWI3YjYtODk3NjJhMmNkOTQ2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNTBhODI2MTQtY2MyMi00NDY5LWI3YjYtODk3NjJhMmNkOTQ2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for Red",
+    "uploadDate":"2012-09-23T03:29:23Z"
+  }
+}

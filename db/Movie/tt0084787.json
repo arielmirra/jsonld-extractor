@@ -1,0 +1,93 @@
+{
+  "id":"  http://www.imdb.com/title/tt0084787/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0084787/",
+  "name":"The Thing",
+  "image":"https://m.media-amazon.com/images/M/MV5BNDcyZmFjY2YtN2I1OC00MzU3LWIzZGEtZDA5N2VlNDJjYWI3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "genre":[
+    "Horror",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000621/",
+      "name":"Kurt Russell"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000979/",
+      "name":"Wilford Brimley"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0202966/",
+      "name":"Keith David"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0557956/",
+      "name":"Richard Masur"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000118/",
+    "name":"John Carpenter"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0484111/",
+      "name":"Bill Lancaster"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0132168/",
+      "name":"John W. Campbell Jr."
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0005073/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0004522/"
+    }
+  ],
+  "description":"The Thing is a movie starring Kurt Russell, Wilford Brimley, and Keith David. A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+  "datePublished":"1982-06-25",
+  "keywords":"antarctica,body horror,paranoia,isolation,research station",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":351720,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0084787/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"ivo-cobra8"
+    },
+    "dateCreated":"2015-10-31",
+    "inLanguage":"English",
+    "name":"\"The Thing\" is John Carpenter's masterpiece and one of the best classic horror films!",
+    "reviewBody":"A classic film. John Carpenter's \"The Thing\" is one of the most entertaining horror films ever made - fast, clever and purely exciting from start to finish. It is one of my personal favorite horror movies. This is how all movies of the genre should be made. Set on an isolated base in Antarctica, this version seems almost to pick up where the original version (The Thing From Another World) left off. The American scientists discover a decimated Norwegian base some miles distant. Everyone is dead, and only the half charred remains of some unidentifiable thing left to smolder outside the compound might offer any answers to what may have happened. The Thing is brought back to the American base and, too late, the scientists realize that it is alive and lethal. The Thing thaws out and is off, not only killing anyone and anything that crosses Its path, but also absorbing them, making Itself into whoever and whatever it wants. The film then turns into a brilliant paranoia piece. Everyone is suspect, anyone can be The Thing, and no one trusts anyone anymore. Gone is the strength and security found when human beings band together in spite of their differences to battle a monster. The group splinters and fear rules supreme. Who is the Thing?\n\nSeriously I Love this movie I love it To Death. I love Escape From New York and I love Escape From L.A. but I also love The Thing so much better this is definitely the best Carpenter film a truly masterpiece classic I love R.J. MacReady - Kurt Russell I love everything about this film that is. Science Fiction, Horror and an Action Epic Film. A lot of the practical effects were left out but the it looked nice and the acting was good and it expanded upon the monsters background and showing you the inside of the ship. It must of been tough to bring across on screen the visual design. \n\nIn my opinion, nobody has topped this film in the 25-odd years since its release. I'll put any of \"The Thing's\" old-school effects up against any CGI-driven movie, or this cast against almost any other ensemble. If you haven't seen the film yet, I envy you because I WISH I could see \"The Thing\" again for the first time. WOW! Does more need to be said? How about this...there is no parallel. Who's your friend? Who's the Thing? Who do you trust? Who can you afford to trust? If you've never seen this movie...your in for a treat. The only other movie that had such an impact on me was The Matrix (the first movie)...where I left the theater touching the walls wondering if they were really real. This movie will leaving you wondering....is the guy/gal next to you really real?\n\n\"Trust is a tough thing to come by these days.\" \n\nJohn Carpenter's The Thing is a seminal piece of horror that is not only a fine specimen of its era, but it also serves as a shining example of horror done absolutely right in any era. Combining gross-out special effects reminiscent of Hellraiser, the nail-bitingly intense, claustrophobic filmmaking of Alien, offering a story that is very well-paced, such as George A. Romero's Dawn of the Dead, and presenting the idea that true terror can be found at any time, in any place, and inside anyone, much like Alfred Hitchcock's Psycho, The Thing works on every level, and represents the peak of each and every aspect that may be utilized to make horror films effective. Granted, this amalgamation of styles is not the only formula for winning horror.\n\nThe basic plot about this movie is Horror-moister John Carpenter (Halloween, Escape from New York) teams Kurt Russell's outstanding performance with incredible visuals to build this chilling version of the classic The Thing. In the winter of 1982, a twelve-man research team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Once unfrozen, the form-changing alien wreaks havoc, creates terror and becomes one of them.\n\nIt is one of the best favorite horror films of the 80's ever. I love this film to death. The Thing is the best classic horror film from master and genius John Carpenter! 'The Thing' is classic Carpenter and one of the few remakes that is better than the original. Kurt Russell's characters: Snake Plissken, R.J. MacReady and Jack Burton are Kurt's best favorite characters he ever played. I also love the music score from Ennio Morricone! Awesome!!! 10/10 Grade: Bad Ass Seal Of Approval",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H49M"
+}

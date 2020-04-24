@@ -1,0 +1,107 @@
+{
+  "id":"  http://www.imdb.com/title/tt0993846/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0993846/",
+  "name":"The Wolf of Wall Street",
+  "image":"https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+  "genre":[
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000138/",
+      "name":"Leonardo DiCaprio"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1706767/",
+      "name":"Jonah Hill"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm3053338/",
+      "name":"Margot Robbie"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000190/",
+      "name":"Matthew McConaughey"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000217/",
+    "name":"Martin Scorsese"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm1010540/",
+      "name":"Terence Winter"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0067789/",
+      "name":"Jordan Belfort"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0325207/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0088354/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0141038/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0223721/"
+    }
+  ],
+  "description":"The Wolf of Wall Street is a movie starring Leonardo DiCaprio, Jonah Hill, and Margot Robbie. Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime,...",
+  "datePublished":"2013-12-25",
+  "keywords":"based on true story,stockbroker,sex in an airplane,female frontal nudity,female rear nudity",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":1108464,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0993846/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"bob the moo"
+    },
+    "dateCreated":"2014-01-17",
+    "inLanguage":"English",
+    "name":"High energy and wonderfully excessive as it delivers an engaging true story, but the lack of morality anywhere was a limiting factor",
+    "reviewBody":"This film arrived in the UK with awards and Oscar nominations all around it, adding an expectation which it really didn't need adding since even without any of that it is ultimately a Scorsese film with a big name cast. It also arrives with some other stuff because the film has been criticized for near glamorization of the excesses that Belfort was able to experience with his ill-gotten funds and, to be honest, it is an impression that isn't helped when you consider that this film was put forward to the Golden Globes in the Musical/Comedy section. Now I am sure that was a political move by the studio, but it does say something about the film because indeed for most of it we have stuff so unbelievable and so excessive that it is hard not to laugh at it. It is hard not to enjoy it.\n\nAnd this is a problem, because the first 2 hours and a bit of this film is really engaging and enchanting in how much of a rush it gives you, how enticing it is and just how much vibrant energy it all has. The viewer is swept along and I guess to a point this is the film doing its job well because not only are we being told a story but we are first hand seeing how easy it is to get caught up in the grab for success, for money, for status. In this regard the film works really well because throughout the film I really was glad to be part of it and wanted it for myself; I don't think the film goes out of its way to glamorize this excess and this life, but for sure it doesn't do much to balance it – and this really is my problem with the film.\n\nThe structure, subjects and delivery of this film is so inherently similar to Goodfellas that it is hard not to mention it. If you remember the opening of Goodfellas you'll remember that it opens with a memorably violent scene where an near-dead man in the back of a car is stabbed by Hill and his colleagues in a scene that is oppressive and violent but yet ends with the narration telling us \"as far back as I can remember I wanted to be a gangster\" and snaps to credits under a big track from Tony Bennett. This scene is important because it works as a microcosm of the whole film – the appeal but also the cost, all in one place. Wolf of Wall Street never has any of that and it hurts it. I suspect the message of the film is that our financial systems are screwed and that ultimately the rich will never be in the same world as the average person, because this is what I took from the rather sobering final scenes. However if this is the point it is trying to make then it really hurts itself with the rest of the film seeming to say \"so why not get on board\". I know this is not the case but the lack of a \"point\" or an agenda it the film means that it naturally fills it with its own, which is a weird feeling.\n\nBut then again – I guess it is a comedy. So the infamous Quaalude scene is not horrific but rather hilarious, the scenes of excess and of criminality are not equally appealing and repulsive – they are almost totally appealing, we hardly get the other side or get to see a victim here, and a few seconds on the subway with the FBI agent really does nothing but yet again make the suggestion that \"it's all broken so why not at least get rich yourself\". Getting away from this, it is a well made film. Scorsese makes this award season's second film to owe a massive debt to Goodfellas (American Hustle being the other) and he directs the film with energy; music is used well as one would expect and the editing makes the film pop. DiCaprio is great in the lead – OK he doesn't find the heart of the character, but the film doesn't ask him to. Instead he is charismatic and energetic, drawing the viewer in and giving the film its energy. The supporting cast is deep with names and familiar faces and it is a statement about how well the film holds the viewer, because it isn't distracting no matter how many famous faces or supporting character from TV appear (although I did notice that this and American Hustle had lots of faces from HBO's Boardwalk Empire). Jonah Hill is over the top in a way that works, although I am surprised to see him getting an Oscar nomination for it in such a crowded year.\n\nWolf of Wall Street has had a lot of praise and this will continue as the Oscars approach and are awarded. Personally I enjoyed the film as a funny true story delivered with energy and excess but in many ways it is not Goodfellas and the most important of these is that the film lacks a moral core to itself, to its characters and to its message. I don't mind the \"it's all screwed so who cares\" message that it ultimately seems to give, but I didn't feel comfortable with how wide a smile it had on its face while it was delivering it."
+  },
+  "duration":"PT3H",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Trailer #2",
+    "embedUrl":"/video/imdb/vi2312218649",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMjE1OTQ5NTA4NV5BMl5BanBnXkFtZTgwODI5NTI1MDE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMjE1OTQ5NTA4NV5BMl5BanBnXkFtZTgwODI5NTI1MDE@._V1_.jpg",
+    "description":"The story of New York stockbroker Jordan Belfort. From the American dream to corporate greed, Belfort goes from penny stocks and righteousness to IPOs and a life of corruption in the late 80s.  Excess success and affluence in his early twenties as founder of the brokerage firm Stratton Oakmont warranted Belfort the title Â– Â“The Wolf of Wall Street.Â”",
+    "uploadDate":"2013-10-31T14:35:26Z"
+  }
+}

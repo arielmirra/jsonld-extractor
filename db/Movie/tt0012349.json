@@ -1,0 +1,78 @@
+{
+  "id":"  http://www.imdb.com/title/tt0012349/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0012349/",
+  "name":"The Kid",
+  "image":"https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000122/",
+      "name":"Charles Chaplin"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0701012/",
+      "name":"Edna Purviance"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001067/",
+      "name":"Jackie Coogan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0588033/",
+      "name":"Carl Miller"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000122/",
+    "name":"Charles Chaplin"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000122/",
+      "name":"Charles Chaplin"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0028083/"
+    }
+  ],
+  "description":"The Kid is a movie starring Charles Chaplin, Edna Purviance, and Jackie Coogan. The Tramp cares for an abandoned child, but events put that relationship in jeopardy.",
+  "datePublished":"1921-02-06",
+  "keywords":"the little tramp character,thug,star,ill child,stolen car",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":105499,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0012349/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"J. Spurlin"
+    },
+    "dateCreated":"2007-03-04",
+    "inLanguage":"English",
+    "name":"Chaplin understands how close slapstick is to pathos in this classic tearjerking comedy; and remember: kids love this movie",
+    "reviewBody":"I've always thought there's a great beauty and poignancy to the best slapstick comedies, even unsentimental ones like Keaton's \"The General\" or Laurel and Hardy's \"Way Out West.\" The latter comedy has a scene where L&H perform a soft-shoe dance; it always brings me to tears. Why? Maybe physical comedy has the same kind of effect on me as a dance performance. Both art forms are very expressive; the fact that I'm laughing doesn't dilute the emotional charge.\n\nOne of many things that made Chaplin a genius was his understanding of how close slapstick is to pathos already. Why not marry the two things? That's what he did in some of his early short films, and that's what he does in this feature comedy. The Little Tramp finds an abandoned baby and raises him into boyhood. But the authorities find out and want to take little Jackie (Jackie Coogan) away. Meanwhile, the mother who abandoned him has since become a wealthy singer and doesn't know if she'll ever find out what became of him.\n\nJackie Coogan (about five in this film), with his charming manners, his talents as a mimic and his adeptness at physical comedy, is one of the all-time great child actors. Want more evidence of Chaplin's genius? Coogan doesn't steal the film from him. This is true even though Chaplin, as producer, star and director, makes every evident attempt to spotlight the boy's talents. Coogan is even better here than he is in his own vehicles, like \"My Boy\" and \"Oliver Twist.\"\n\nChaplin's storytelling—even with the foolish sub-Dickensian plot twists, such as Jackie suddenly taking ill—deftly draws out the comedy and pathos for maximum effect. The individual scenes themselves are flawlessly constructed. The window-breaking scene, the flophouse scene, the dream sequence, the trying-to-get-rid-of-the-baby scene—they're perfect. Chaplin's celebrated pantomimic skills are examples of storytelling in themselves.\n\nWant me to criticize something? How about those thudding attempts to link the mother with Jesus? But you know, I can't even complain about that. It's too sweetly naïve. And the movie as a whole is too good to allow us to sneer at the (very) few flaws.\n\nOne important note: children love this movie. Show it to them while they're young, and you'll make Chaplin fans of them. And that's better than their becoming fans of almost anything that's being peddled to them."
+  },
+  "duration":"PT1H8M"
+}

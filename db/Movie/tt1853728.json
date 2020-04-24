@@ -1,0 +1,99 @@
+{
+  "id":"  http://www.imdb.com/title/tt1853728/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt1853728/",
+  "name":"Django Unchained",
+  "image":"https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Western"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0004937/",
+      "name":"Jamie Foxx"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0910607/",
+      "name":"Christoph Waltz"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000138/",
+      "name":"Leonardo DiCaprio"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0913488/",
+      "name":"Kerry Washington"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000233/",
+    "name":"Quentin Tarantino"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000233/",
+      "name":"Quentin Tarantino"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0150452/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0050868/"
+    }
+  ],
+  "description":"Django Unchained is a movie starring Jamie Foxx, Christoph Waltz, and Leonardo DiCaprio. With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+  "datePublished":"2012-12-25",
+  "keywords":"racial vengeance,racial violence,historically inaccurate,sadism,slavery",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":1287045,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt1853728/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"brendanboyle8-565-346540"
+    },
+    "dateCreated":"2012-12-27",
+    "inLanguage":"English",
+    "name":"Tarantino's Best, A Must See",
+    "reviewBody":"I know claiming \"Tarantino's Best\" is quite a statement with such films as \"Pulp Fiction\" and \"Inglorious Bastards\", however I truly believe it is. Django Unchained is superb from start to finish, it's a 2 hour and 45 minute movie yet you're on the edge of your seat, eyes glued to the screen for the whole ride. It's the closest thing to a flawless movie I have ever seen. Before I continue my praise of this movie, let me say this \"the movie is not for everyone.\" Clearly its rated R and it has several gruesome violent scenes, it also contains vulgar language and numerous uses of the \"n\" word. Some may claim it's excessive, but I personally appreciate how realistic it portrays the horror and tragedy of slavery. That being said, I am torn if I am more impressed with Tarantino as a writer of this movie or its director. He simply is a cinematic genius. The casting of this movie alone deserves an Oscar. Jamie Foxx, Christoph Waltz, and Leonardo DiCaprio all put on Oscar worthy performances, and frankly, I would be astonished if they all did not win. I truly can't picture any actor on this planet being able to play any of those three roles as magnificently as these three actors did. I sum this movie into three general thirds, First: where Waltz steals the show, Second: where DiCaprio steals the show, and Third: where Foxx steals the show. I have only seen Waltz in \"Inglorious Bastards\" other than \"Django Unchained\" and he is rapidly climbing my favorite actors list. Leo is my personal favorite actor ever since his performance in \"The Departed\" and it was incredible to see him take on the challenging role as his first villain, Calvin Candie, possibly the most evil character I've ever seen in a film. Finally Jamie Foxx from start to finish played his best performance in any movie to date. Simply phenomenal. I loved how the audience sees his character evolve from a powerless slave to a confident powerful man. In addition to these three remarkable performances, Kerry Washington and Samuel L. Jackson also deliver. Washington goes through living hell yet remains a strong woman throughout. Jackson plays a very interesting role as Stephen, Leo's loyal house slave. Trust me, you will hate him yet at the same time he is hilarious. Now's a good time to mention, this movie is funny! Tarantino perfectly tosses in frequent bursts of pure laughter throughout the movie to lighten up from the serious aspects of the movie. There is one scene in particular, involving Jonah Hill and Don Johnson, which had the crowd roaring in laughter for a solid full minute. Which brings me to my next point, the cast is absurd! The rather small roles for such big actors such as Jonah Hill and Don Johnson, just shows how honored actors are taking any role no matter how small for a Quentin Tarantino film. I recognized famous actors and actresses throughout the entire movie. There is one brief scene, where I believe I even saw famous rapper \"Childish Gambino\" for literally just a few seconds as a slave in Mississippi. This movie was done perfectly to a tee; even the remarkable soundtrack caught my attention, nicely combining songs of the past with modern day songs. This movie is a western, a drama, a tragedy, a comedy, an action, a thriller, and at it's deepest roots a romance. If you haven't already, stop what you're doing and see this movie today. Whatever you're doing can wait but this movie can't. Just make sure your 17, have your license, and have a stomach for more of the most gruesome violence I have yet to see on a screen. In conclusion, I've heard rumors of Tarantino pondering the idea of retiring as a director and Oo what a sad day that would be for movie lovers like myself, but if they are true at least he's going out with one hell of a BANG!",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H45M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Winner: Best Supporting Actor",
+    "embedUrl":"/video/imdb/vi2291574553",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNzU5NzM4OTQxNV5BMl5BanBnXkFtZTgwOTQ5NjU0NzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNzU5NzM4OTQxNV5BMl5BanBnXkFtZTgwOTQ5NjU0NzE@._V1_.jpg",
+    "description":"With the help of his mentor, a slave-turned-bounty hunter sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "uploadDate":"2012-12-01T09:57:31Z"
+  }
+}

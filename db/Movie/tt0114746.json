@@ -1,0 +1,106 @@
+{
+  "id":"  http://www.imdb.com/title/tt0114746/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0114746/",
+  "name":"Twelve Monkeys",
+  "image":"https://m.media-amazon.com/images/M/MV5BN2Y2OWU4MWMtNmIyMy00YzMyLWI0Y2ItMTcyZDc3MTdmZDU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre":[
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000246/",
+      "name":"Bruce Willis"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000656/",
+      "name":"Madeleine Stowe"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000093/",
+      "name":"Brad Pitt"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0577828/",
+      "name":"Joseph Melito"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000416/",
+    "name":"Terry Gilliam"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0003408/",
+      "name":"Chris Marker"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0672459/",
+      "name":"David Webb Peoples"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0672466/",
+      "name":"Janet Peoples"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0005073/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0028338/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0036534/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0742568/"
+    }
+  ],
+  "description":"Twelve Monkeys is a movie starring Bruce Willis, Madeleine Stowe, and Brad Pitt. In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human...",
+  "datePublished":"1996-01-05",
+  "keywords":"time travel,virus,mental institution,underground,psychiatrist",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":560164,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0114746/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"philip_vanderveken"
+    },
+    "dateCreated":"2005-08-15",
+    "inLanguage":"English",
+    "name":"This is amazing stuff",
+    "reviewBody":"Normally I try to avoid Sci-Fi movies as much as I can, because this just isn't a genre that really appeals to me. Light sabers, UFO's, aliens, time traveling... most of the time it's nothing for me. However, there is one movie in the genre that I'll always give a place in my list of top movies and that's this \"Twelve Monkeys\" I remember to be completely blown away by it the first time, but even now, after having it seen several times already, I'm still one of its biggest fans. Every time I see it, this movie seems to get better and better.\n\nSomewhere in the distant future all people live underground because an unknown and lethal virus wiped out five billion people in 1996, leaving only 1 percent of the population alive. James Cole is one of them. He's a prisoner who lives in a small cage and who is chosen as a 'volunteer' to be sent back to in time to gather information about the origin of the epidemic. They believe it was spread by a mysterious group called 'The Twelve Monkeys' and need the virus before it mutated, so that scientists can study it. But their time traveling machine doesn't work perfectly yet and he is accidentally sent to 1990, where he meets Dr. Kathryn Railly, a psychiatrist, and Jeffrey Goines, the insane son of a famous scientist and virus expert...\n\nWhat I like so much about this movie is the fact that it is never clear whether all what you are seeing is real or not. Is this just an illusion, created in the mind of a mentally ill man or is it real? Does he really come from the future and can he really travel through time? Was the population really wiped out by a virus, released by the army of The Twelve Monkeys? Those are all questions that will leave you wondering from the beginning until the end. If the makers of this movie had chosen to make it all more obvious, I'm sure that I would never have liked it as much as I did now. It's just that mysteriousness that keeps me interested time after time. But that's not the only good thing about this movie of course. The acting is amazing too. Normally I'm not too much a fan of Bruce Willis, but what he did in this movie was just astonishing. Together with Madeleine Stowe and Brad Pitt he should have won several awards for it, because together with the amazing story, they made this movie work so incredibly well.\n\nEven after several viewings, I'm still a huge fan of this movie. Except for this movie, I have only seen one other Terry Gilliam movie and that's \"Fear and Loathing in Las Vegas\", which wasn't bad, but didn't really convince me either. However, it's this movie that really makes me look forward to his other work. I give it a 9/10, maybe even a 9.5/10.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H9M"
+}

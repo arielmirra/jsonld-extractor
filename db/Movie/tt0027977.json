@@ -1,0 +1,85 @@
+{
+  "id":"  http://www.imdb.com/title/tt0027977/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0027977/",
+  "name":"Modern Times",
+  "image":"https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "contentRating":"G",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000122/",
+      "name":"Charles Chaplin"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002104/",
+      "name":"Paulette Goddard"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0074788/",
+      "name":"Henry Bergman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0761866/",
+      "name":"Tiny Sandford"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000122/",
+    "name":"Charles Chaplin"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000122/",
+      "name":"Charles Chaplin"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0028083/"
+    }
+  ],
+  "description":"Modern Times is a movie starring Charles Chaplin, Paulette Goddard, and Henry Bergman. The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+  "datePublished":"1936-02-11",
+  "keywords":"jail,actor director writer,music score composed by director,factory,satire",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":205288,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.5"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0027977/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"razwee"
+    },
+    "dateCreated":"2004-05-10",
+    "inLanguage":"English",
+    "name":"The Farewell Performance of The Tramp",
+    "reviewBody":"Charlie Chaplin's Modern Times (1936) is the final film to feature the great actor/director/writer's most easily recognizable incarnation: The Tramp. Here is a character that is so ingrained in the collective conscious of modern film audiences that many recognize him despite the fact that they have not seen a single Chaplin film. Indeed, several iconographic studies have labeled The Tramp (with his worn hat, distinctive mustache, dusty suit, cane, and trademark waddle) as the single most identifiable fictional image in history.\n\nStill, the film that perhaps most influenced the creation and thematic realization of Modern Times was not even a silent one. The Jazz Singer, which debuted in 1927, five years before Modern Times began production, is perhaps the most important watershed film in the industry's century-old history. In the film, comic great Al Jolson stands up in front of the audience and...sings. And as Millard Mitchell said in Singin' in the Rain, the public was suddenly in a frenzy for \"Talking pictures! Talking pictures!\" Sadly, with the advent of synchronized sound and dialogue, the world of silent filmmaking began to slip into obscurity with audiences and studios now viewing it as obsolete and undesirable. Nevertheless, Chaplin continued his passion for the subtle craft by creating City Lights (1931), which many critics and academics consider one of the greatest films ever made, but by the time Modern Times was released, Chaplin was one of the last directors left clinging to a dying art.\n\nModern Times is not an entirely silent film, (there are dialogue snippets and sound effects), but if you look closely, every character with dialogue (excluding Chaplin himself) is being mocked. Even when The Tramp opens his mouth (the only time he ever did so in a film), the words are nonsensical, defying the burgeoning convention that dialogue is mandatory for substance, entertainment, and quality.\n\nDespite the film's status as one of the greatest comedies of all-time, it is hard to ignore the political component. In his movies, Chaplin often exhibited a great mistrust for authority and progress, as often embodied through the social elite, the police, and wealthy entrepreneurs. The irony of the film's title, then, is two-fold. It connects with Chaplin's own bitter feelings regarding his moribund art form, but also refers to the plight of the working classes during the Great Depression (long working hours with little job security and meager salary, while the upper classes remain wealthy and bide their idle time) The world was changing fast, and Chaplin foresaw that many of these changes were far from beneficial.\n\nAs we watch The Tramp struggle through the modern, mechanized world, we laugh at his antics and the absurdity of their results, but we can also feel pain and pity. He is clearly a man who does not belong. Indeed, The Tramp can almost be thought of as a misfit who has passed through a membrane from some alternate reality and unwittingly fallen into our familiar world (notice that he does not have a name or identification of any kind, and as far as we know, he has no friends, family, funds, or history).\n\nHe takes on assembly lines, feeding machines, department stores, policemen and various other mass-oriented aspects of the industrialized world (all which demand and exhibit sameness and conformity), but The Tramp (and his symbolic extension, the individual) never seem to fit.\n\nThis is, consequently, why Modern Times is also one of the most poignant love stories ever put on film. The only character who is on the same level as The Tramp is a young, homeless woman who is referred to as \"The Gamin\" and is played by Chaplin's then-wife, Paulette Goddard. These two are brought together by the fact they have almost nothing except the will to live and continue forward, despite adversity. Both are nameless, neither has a home, and they each have no money or material possessions.\n\nIt is here that Chaplin makes his most poignant and saddening statement about modern living. The Tramp and The Gamin are the only characters who exhibit individuality and idealism, yet they are also the ones lowest on the social and economic food chain. The conclusion of the film, which most likely reflects upon Chaplin's own emotions, is tinged with sadness, but also a lingering hopefulness that resonates as loudly and clearly today as it did more than sixty years ago.\n\nThen there is, of course, the comedy, which is the stuff of legendary status. Some of the most memorable comic images in film history are found in Modern Times. These include The Tramp's bout with an assembly line (and his resulting twitches), his unfortunate encounter with \"nose-powder\", the moment when he quite literally becomes a cog in the wheels of industry, and his epic struggle to bring roast duck to an angry customer.\n\nIn my opinion, however, the two standout moments are the scene in a department store involving a blindfold and some rollerskates (the most exquisite moment of comedy in the film) and the sequence where The Tramp is submitted to the mad whim of an out-of-control feeding machine (the most uproarious moment in the film).\n\nThese are just a handful of moments that make Modern Times the enduring masterpiece that it is. On a personal level, the aspect of the film that resonates strongest with me is its appeal to the idealistic misfit in all of us. In our hearts, many of us long for the simplicity and exuberance with which The Tramp and The Gamin live life (with attention to the bare essentials and an absence of need for materialism and modern trappings).\n\nAs Chaplin so skillfully shows, however, our modern times make this lifestyle a faded dream, lost among the sheep-like herds of men and women scurrying through a modern metropolis that only Fritz Lang could make seem darker and more devoid of true humanity. Still, the final image of Modern Times refuses to let the film end on an exclusively tragic note and demonstrates that the individual is still alive and may yet find his way in an ever-changing world.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H27M"
+}

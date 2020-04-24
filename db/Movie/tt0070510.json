@@ -1,0 +1,96 @@
+{
+  "id":"  http://www.imdb.com/title/tt0070510/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0070510/",
+  "name":"Paper Moon",
+  "image":"https://m.media-amazon.com/images/M/MV5BOWVmYzQwY2MtOTBjNi00MDNhLWI5OGMtN2RiMDYxODI3MjU5XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Drama"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0641939/",
+      "name":"Ryan O'Neal"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001575/",
+      "name":"Tatum O'Neal"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001404/",
+      "name":"Madeline Kahn"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0384916/",
+      "name":"John Hillerman"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000953/",
+    "name":"Peter Bogdanovich"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0113872/",
+      "name":"Joe David Brown"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0765091/",
+      "name":"Alvin Sargent"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0079404/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0141151/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0023400/"
+    }
+  ],
+  "description":"Paper Moon is a movie starring Ryan O'Neal, Tatum O'Neal, and Madeline Kahn. During the Great Depression, a con man finds himself saddled with a young girl who may or may not be his daughter, and the two forge an unlikely...",
+  "datePublished":"1973-05-09",
+  "keywords":"great depression,father daughter relationship,whiskey,bible,con artist",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":40106,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0070510/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Doylenf"
+    },
+    "dateCreated":"2006-08-29",
+    "inLanguage":"English",
+    "name":"Enchanting Depression-era comedy...",
+    "reviewBody":"True, TATUM O'NEIL won an Oscar for her role as Addie Pray in PAPER MOON and fully deserved it. Her dad, RYAN O'NEIL must have been proud of her but his only reward was a Golden Globe nomination.\n\nThe con artist and little girl theme had been used before in Damon Runyon's famous comedy \"Little Miss Marker\" with Shirley Temple and Adolphe Menjou. But here the twist is that the girl is just as much a con artist as the man--and that's the key that makes the film so much more palatable for 1970s audiences without getting too sentimental about it.\n\nThere's a real Depression-era feeling to the whole story, with some richly detailed panoramas of rural America and its citizens at that time in history. Peter Bogdanovich has done a commendable job in making sure that his authentic backgrounds illuminate an enchanting tale about two drifters who share an unusual partnership when it becomes clear to the man that the girl would be a valuable aid in his con work.\n\nThere's a bright supporting role by MADELINE KAHN as Trixie Delight, a stripper who tosses off some good one-liners, but it's the chemistry between Tatum and Ryan that turns this into the most satisfying \"buddy\" movie of the '70s.\n\nSumming up: A treat not to be missed.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"7"
+    }
+  },
+  "duration":"PT1H42M"
+}

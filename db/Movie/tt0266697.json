@@ -1,0 +1,112 @@
+{
+  "id":"  http://www.imdb.com/title/tt0266697/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0266697/",
+  "name":"Kill Bill: Vol. 1",
+  "image":"https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000235/",
+      "name":"Uma Thurman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001016/",
+      "name":"David Carradine"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000435/",
+      "name":"Daryl Hannah"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000514/",
+      "name":"Michael Madsen"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000233/",
+    "name":"Quentin Tarantino"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000233/",
+      "name":"Quentin Tarantino"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000233/",
+      "name":"Quentin Tarantino"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000235/",
+      "name":"Uma Thurman"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0022594/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0019267/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0086625/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0128798/"
+    }
+  ],
+  "description":"Kill Bill: Vol. 1 is a movie starring Uma Thurman, David Carradine, and Daryl Hannah. After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+  "datePublished":"2003-10-10",
+  "keywords":"revenge,bride,sword,female protagonist,martial arts",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":958594,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0266697/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"janyeap"
+    },
+    "dateCreated":"2003-10-09",
+    "inLanguage":"English",
+    "name":"An adrenaline-driven coaster-ride through gratingly bold and captivating martial-arts extravaganza.",
+    "reviewBody":"Sure it's outlandishly violent and bloody. Can anyone expect Tarantino's movie not to be a true mind-blowing, adrenaline-pumping shocker?  Of course not!  Gritty and slick, his first installment of KB rocks with moody western imagery, the '60s and '70s-era of Hong Kong martial arts-action, the influences of the ritualistic samurai swordsmanship, and Japanese anime. Like in all his films, Tarantino never fails to merge dark humor with terror. It's impossible not to smile over the Shaw Bros.' iconic introduction ploy and the De Palma-esque split screens. Observe the `Carrie' blank-starry eyed image settled on The Bride's gory face as she's introduced to the audience. Perhaps, Uma Thurman in her yellow suit is a salute to the yellow-suited Bruce Lee in his last film, The Game of Death. Or is The Bride 'Just another little Western girl playing at being a samurai' - as O-Ren Ishii blatantly puts it?\n\nThis film's a sampling of the Tarantino 'fury,' short of the Tarantino customary fiery tongue. It celebrates the Tarantino trademark of avoiding the use of computer-generated CGI special effects. It's almost as if I'm watching a colorful and bloodied kabuki stage that's displaying a stunningly massive tournament of multi-layered kung-fu and female samura sword-fighting styles to dazzle the audience. It's examining how Tarantino catalogues the great stylistic elements of his favorite 'old-school' filmmakers and transforms them into a phenomenally creative and mesmerizing film. Yep, there's a great deal of captivatingly artistic boldness in this film. Powerfully portrayed and not to be easily forgotten. Violently brutal and gloriously gory without doubt, and yet so aesthetically operatic and astoundingly artful. The music and lyrics that accompany the scenes are astounding. They set the moods so appropriately with the events.\n\n Even at 'The House Of Blue Leaves', we get to see Tarantino weaving the artistic styles of Lucio Fulci, Chang-Che, Sergio Leone, Kurosawa, Zhang Yimou and Busby Berkeley to bring the audience a stylistic exhibit of remarkable montage grandeur. The themes of betrayal and revenge come off strong. Every camera shot and scene seems to scream out, non-stop, `Kill Bill and all of Bill's DVAS members.'  My adrenaline's still flowing as I'm recalling the scenes. Tarantino has make a solid point with this film to show that martial arts scenes should stick to the artful and realistic choreographic treatment to sustain the true spiritual spirit of martial arts. A+"
+  },
+  "duration":"PT1H51M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Kill Bill: Vol. 1",
+    "embedUrl":"/video/imdb/vi3102711321",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNDFjYTYwNmMtY2YwMi00YmVhLTlhOTItMWE1MmQ2N2MyMDgwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNDFjYTYwNmMtY2YwMi00YmVhLTlhOTItMWE1MmQ2N2MyMDgwXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"CT #1, post",
+    "uploadDate":"2011-10-26T03:31:19Z"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "id":"  http://www.imdb.com/title/tt0266543/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0266543/",
+  "name":"Finding Nemo",
+  "image":"https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "contentRating":"G",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000983/",
+      "name":"Albert Brooks"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001122/",
+      "name":"Ellen DeGeneres"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1071252/",
+      "name":"Alexander Gould"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000353/",
+      "name":"Willem Dafoe"
+    }
+  ],
+  "director":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0004056/",
+      "name":"Andrew Stanton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0881279/",
+      "name":"Lee Unkrich"
+    }
+  ],
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0004056/",
+      "name":"Andrew Stanton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0004056/",
+      "name":"Andrew Stanton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0677037/",
+      "name":"Bob Peterson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0721675/",
+      "name":"David Reynolds"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0017902/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0008970/"
+    }
+  ],
+  "description":"Finding Nemo is a movie starring Albert Brooks, Ellen DeGeneres, and Alexander Gould. After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+  "datePublished":"2003-05-30",
+  "keywords":"pufferfish,shark,great barrier reef,short term memory loss,protective father",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":912479,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0266543/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"kylopod"
+    },
+    "dateCreated":"2005-10-15",
+    "inLanguage":"English",
+    "name":"Pixar's best feature to date",
+    "reviewBody":"I have enjoyed most of the computer-animated films made so far, ranging from Pixar films like \"Toy Story\" and \"The Incredibles\" to DreamWorks films like \"Shrek.\" But \"Finding Nemo\" is the one that remains unparalleled, not because of its comedy or creativity, both of which are equaled in the \"Toy Story\" movies and in \"Monsters Inc.,\" but because it truly, more than any of the previous computer-animated features, reinvents the genre of the children's animated film.\n\nHumor in traditional animation is usually based on broad slapstick and physical exaggeration. There are occasional nods to this brand of humor in \"Finding Nemo,\" as when a flock of seagulls ram into a boat and we see their beaks crowing on the other side of the sail. But such sequences only call attention to how far this movie generally departs from old cartoon conventions. Instead, the movie invests its world of sentient animals with a surprisingly scientific texture. All of the animals are based on real species. The fish tank is constructed out of real devices. There is a strong sense of locale, as Marlin (Albert Brooks) travels across the Pacific to Australia, where even the animals speak with an Australian accent. In a scene that I'm sure Gary Larson of \"Far Side\" fame loved, a pelican discusses with a group of fish the intricate details of dentistry. The fact that the animals talk and understand what's going on is treated as though it were a natural feature of the world. The realism is so striking that by the end of the film, you'll almost believe it possible for fish to plot an escape from a tank.\n\nFar from making the film pedantic, this approach results in an intelligent but still entertaining picture. Most of the humor is based on parodies of human behavior: repentant sharks start a club that's like Alcoholics Anonymous, a school of fish act like obnoxious DJs while forming themselves into spectacular patterns, and a four-year-old girl behaves like most kids that age, oblivious and destructive. The manner in which Marlin finds his way to his son is so inventive that we can forgive the film for the number of coincidences involved.\n\nThe story employs the same basic formula used in \"Toy Story,\" in which two characters, one uptight and the other clueless, are thrown together as they're forced to journey through a world populated by creatures that are a lot more knowing than the humans realize. This movie, however, creates a unique character in Dory (Ellen DeGeneres), a fish with short-term memory loss. To give a cartoon character a real human disorder is risky, to say the least, and I'm glad the filmmakers didn't lose the nerve to include this ingenious device, which not only generates some of the film's biggest laughs, but reinforces the character interaction that is so central to the story. This is in fact the only Pixar film to feature true character development. In the course of his voyage, Marlin learns to be more adventurous, getting parenting tips from a surfer-dude turtle voiced by the film's director Andrew Stanton, while his son Nemo learns to be self-reliant.\n\nOf course, none of the sharks, jellyfish, whales, gulls, pelicans, lobsters, and humans that Marlin encounters along the way really mean any harm. They're just doing what they do. As Nigel the Pelican tells Nemo at one point, \"Fish gotta swim, birds gotta eat.\" That's perhaps the film's most interesting insight, that there are no true villains, just creatures that act according to their nature, and a few that transcend it.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H40M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"3D Re-release Version",
+    "embedUrl":"/video/imdb/vi2687214105",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMjMwMDYxNTUyMl5BMl5BanBnXkFtZTcwNTIwMjQ4Nw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMjMwMDYxNTUyMl5BMl5BanBnXkFtZTcwNTIwMjQ4Nw@@._V1_.jpg",
+    "description":"After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+    "uploadDate":"2012-05-23T20:22:11Z"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "id":"  http://www.imdb.com/title/tt1028532/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt1028532/",
+  "name":"Hachi: A Dog's Tale",
+  "image":"https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Family"
+  ],
+  "contentRating":"G",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000152/",
+      "name":"Richard Gere"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000260/",
+      "name":"Joan Allen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0846480/",
+      "name":"Cary-Hiroyuki Tagawa"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm2105255/",
+      "name":"Sarah Roemer"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0002120/",
+    "name":"Lasse Hallström"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm2124742/",
+      "name":"Stephen P. Lindsey"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0793881/",
+      "name":"Kaneto Shindô"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0222021/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0119195/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0341749/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0209513/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0283779/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0133024/"
+    }
+  ],
+  "description":"Hachi: A Dog's Tale is a movie starring Richard Gere, Joan Allen, and Cary-Hiroyuki Tagawa. A college professor bonds with an abandoned dog he takes into his home.",
+  "datePublished":"2009-08-08",
+  "keywords":"dog,japanese,loyalty,waiting,human animal relationship",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":239256,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt1028532/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Davor_Blazevic_1959"
+    },
+    "dateCreated":"2010-01-04",
+    "inLanguage":"English",
+    "name":"Unprecedented loyalty in a story of age-old friendship",
+    "reviewBody":"Knowing the real-life story behind it, Hachiko: A Dog's Story (2009) has been made in a sort of staged documentary style, similar to the kind of movies often seen on documentary channels (e.g. NatGeo), however without a narrator so common in documentaries, and including well-known actors (Richard Gere, Sarah Roemer and Joan Allen), making it more suitable for theatrical distribution.\n\nBefore my last year's visit to Tokyo I've been unaware of the true-life story this movie is based upon. In time an occasion came up to meet a friend in Shibuya city, contemporary center of Tokyo's youth culture (shopping, fashion, nightlife...), and that's how I've learned about the popular local meeting point for all Tokyoites, the Hachikō Akita dog statue just outside of Shibuya Train Station, but the real story behind it has been still eluding me ever since. After seeing this movie, and some additional research on the web, all pieces have fallen into place.\n\nIn retelling the story of common bonding between the dog and its owner, so usual that it comes so natural, film is moving at slow pace, following events of an ordinary life, though not without occasional comedic and dramatic overtones. Even past the dramatic highpoint, when common acts of affection and loyalty evolve towards such an unheard-of faithfulness and ultimate devotion, pace of the storytelling does not change, relying primarily on fine details and emotional build-up. Of course, this might not attract everybody, providing that majority of movie audience today is highly dependent on fast paced, action packed scenes, getting thrills from 3D CG stylized ambiance and suspense, high volume amplitudes and aggressive, often rude highlights of any other nature. However, for those who can do without it, and keep alive their interest even in a simple story, who won't shy away from emotional involvement (as if this can be controlled), they shall easily find themselves consumed by its mere beauty and warmth. Usual man's-best-friend story, spiced with an intriguing yet inspiring detail, shall leave you a bit sad, inevitably pensive, but ultimately delighted. Even more so after the reading of the real-life epilogue.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H33M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Hachi: A Dog's Tale",
+    "embedUrl":"/video/imdb/vi2296906777",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMWM0YmRjMjMtNzRhMS00ZDhjLWJmZDMtMWM0OWU4YTI3Yzc5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMWM0YmRjMjMtNzRhMS00ZDhjLWJmZDMtMWM0OWU4YTI3Yzc5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for this heart warming story about man's best friend",
+    "uploadDate":"2010-01-16T15:17:04Z"
+  }
+}

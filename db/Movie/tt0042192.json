@@ -1,0 +1,97 @@
+{
+  "id":"  http://www.imdb.com/title/tt0042192/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0042192/",
+  "name":"All About Eve",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"Passed",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000012/",
+      "name":"Bette Davis"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000879/",
+      "name":"Anne Baxter"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001695/",
+      "name":"George Sanders"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002141/",
+      "name":"Celeste Holm"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000581/",
+    "name":"Joseph L. Mankiewicz"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000581/",
+      "name":"Joseph L. Mankiewicz"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0650581/",
+      "name":"Mary Orr"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0000756/"
+    }
+  ],
+  "description":"All About Eve is a movie starring Bette Davis, Anne Baxter, and George Sanders. A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+  "datePublished":"1950-10-27",
+  "keywords":"man slaps woman,theater,starlet,meta film,based on short story",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":114975,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0042192/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Don-102"
+    },
+    "dateCreated":"1999-03-20",
+    "inLanguage":"English",
+    "name":"All About Great Writing and Great Acting...",
+    "reviewBody":"In show business, there is probably an Eve Harrington born every day. Someone who butters up to a performer of note, acting innocently, revealing none of the coldhearted ambition they really have.  Anne Baxter plays this type of person to a tee.  She looks like a baby-faced fan, but little do we know, there is a fame machine at work in her mind.  Bette Davis, as Margo Channing, star of the stage, is a veteran who has seen it all.  She is quite the egotist.  Margo is a brilliant actress and she knows it.  Eve discovers her blind spot and moves in on her like a quiet storm.  This is the premise of ALL ABOUT EVE, Joseph L. Mankiewicz's masterpiece of sly wit and subtle manipulation.  Mankiewicz also wrote the picture (winner of the Best Picture Oscar of 1950) with such skill, the talented cast need only to memorize the lines and deliver them with the proper technique.\n\nThe performances are great, regardless, especially by Bette Davis and the always detested George Sanders, one of my favorite actors of the Golden Age of Hollywood.  The film is narrated initially by Sanders, who plays a ruthless swine of a theatre critic, then by Celeste Holm, the wife of Eve and Margo's playwrighter, then Bette Davis in the performance of a lifetime. The movie is about 90% dialogue, much like a play.  The words are so crisp and sharp, you never sway or lose interest.  These characters are just too interesting.  Bette Davis has a cavalcade of unforgettable dialogue. \"Fasten your seatbelts.  Its going to be a bumpy night!\"  This is the one everyone remembers, but I would be remiss to get into any others.\n\nThe picture runs well over 2 hours, but it doesn't seem like enough. Mankiewicz could've held a seminar of screenwriting by showing this.  George Sanders is the only actor of the roster to bring home an Academy Award, and rumor has it Davis and Baxter, who was just 27 at the time, were feuding during much of the shoot and lusted the Oscar.  Time has been very good to the film as well.  1950 was a wonderful year for movies and ALL ABOUT EVE's artistic equal that year was the equally well-written SUNSET BOULEVARD, which took us behind the scenes of a tainted Hollywood.  EVE takes on theatre and treats Hollywood like an afterthought.  There are many references to the film industry, usually involving the scenes with Margo Channing's boyfriend, who is attempting to make a career on the silver screen.\n\nThe movie is highly unpredictable, especially the last scenes which tie the ideas of the story up.  There is an Eve everywhere and each character gets what he or she deserves. Fasten the belts and listen up.  This is screenwriting at its finest.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H18M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"All About Eve",
+    "embedUrl":"/video/imdb/vi2863989017",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BN2U4MzM3ODItN2EzMi00NTY5LTgyYWUtYWQyZmViNDI2Y2IyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BN2U4MzM3ODItN2EzMi00NTY5LTgyYWUtYWQyZmViNDI2Y2IyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Theatrical Trailer from 20th Century Fox",
+    "uploadDate":"2008-04-11T11:22:51Z"
+  }
+}

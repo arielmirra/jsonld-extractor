@@ -1,0 +1,107 @@
+{
+  "id":"  http://www.imdb.com/title/tt0073486/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0073486/",
+  "name":"One Flew Over the Cuckoo's Nest",
+  "image":"https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000197/",
+      "name":"Jack Nicholson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001221/",
+      "name":"Louise Fletcher"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0760225/",
+      "name":"Will Sampson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0077720/",
+      "name":"Michael Berryman"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001232/",
+    "name":"Milos Forman"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0369142/",
+      "name":"Lawrence Hauben"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0325743/",
+      "name":"Bo Goldman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0450181/",
+      "name":"Ken Kesey"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0913670/",
+      "name":"Dale Wasserman"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0066949/"
+    }
+  ],
+  "description":"One Flew Over the Cuckoo's Nest is a movie starring Jack Nicholson, Louise Fletcher, and Will Sampson. A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up...",
+  "datePublished":"1975-11-19",
+  "keywords":"mental institution,mental illness,nurse,escape,tragicomedy",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":874890,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.7"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0073486/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"b1lskirnir"
+    },
+    "dateCreated":"2005-06-18",
+    "inLanguage":"English",
+    "name":"A great order vs. chaos tale that everyone can relate to",
+    "reviewBody":"Based on the amazing novel by Ken Kesey, Randall Patrick McMurphy is an antisocial and dangerous man no different than a petty criminal, placed in a mental ward to have his behavior studied. He makes friends with lunatics and starts his own circle of admiration within the hospital, much to the dismay of Nurse Ratched, the central authority figure in the story and one of the greatest movie villains ever.\n\nThe movie exists to show not only how corrupt and poorly-constructed society's approach to the \"mentally unstable\" is, but it creates characters that we have all met in life and shows how the McMurphy-like figure that we all wish we had fights for freedom of choice and basic human rights. In addition to the movie's great spirit, the acting is fantastic. Jack Nicholson is at his best and Danny DeVito can be seen in his very first acting role ( which he absolutely triumphs in ). And of course, there's the unforgettable Chief Bromden. The directing by Milos Forman is very well-done, as the camera-work is excellent and follows the pace of the movie perfectly in how it is used. What really impressed me was the editing, especially as far as the use of audio goes: some parts just made me go \"...wow.\"\n\nMy only complaint is that I believe the movie could've been slightly more effective if it were based more closely on the novel at certain points, but the modified point of view of the film does make a great point; anyone who has ever hated their job, been accused of something, had some person so self-righteous and convinced of their own authority and dependency on order get in your way, or attended the American public school system at any point in their life should be able to identify with this movie.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H13M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Trailer",
+    "embedUrl":"/video/imdb/vi3943282969",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BM2NhZWYwOWEtNmRjMC00YTVjLWIxZjYtNWY2OGIwZTM5OTdlXkEyXkFqcGdeQXVyMjM4OTI2MTU@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BM2NhZWYwOWEtNmRjMC00YTVjLWIxZjYtNWY2OGIwZTM5OTdlXkEyXkFqcGdeQXVyMjM4OTI2MTU@._V1_.jpg",
+    "description":"A criminal pleads insanity after getting into trouble again and once in the mental institution rebels against the oppressive nurse and rallies up the scared patients.",
+    "uploadDate":"2017-09-08T01:58:01Z"
+  }
+}

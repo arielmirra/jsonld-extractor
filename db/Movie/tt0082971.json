@@ -1,0 +1,108 @@
+{
+  "id":"  http://www.imdb.com/title/tt0082971/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0082971/",
+  "name":"Raiders of the Lost Ark",
+  "image":"https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Adventure"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000148/",
+      "name":"Harrison Ford"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000261/",
+      "name":"Karen Allen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0293550/",
+      "name":"Paul Freeman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0722636/",
+      "name":"John Rhys-Davies"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000229/",
+    "name":"Steven Spielberg"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001410/",
+      "name":"Lawrence Kasdan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000184/",
+      "name":"George Lucas"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0442241/",
+      "name":"Philip Kaufman"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0023400/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0071326/"
+    }
+  ],
+  "description":"Raiders of the Lost Ark is a movie starring Harrison Ford, Karen Allen, and Paul Freeman. In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's...",
+  "datePublished":"1981-06-12",
+  "keywords":"nazi,ark of the covenant,archeologist,indiana jones,egypt",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":849834,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0082971/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"CuriosityKilledShawn"
+    },
+    "dateCreated":"2006-09-26",
+    "inLanguage":"English",
+    "name":"Will stand the test of time forever.",
+    "reviewBody":"I've seen Raiders of the Lost Ark numerous times on TV, DVD and big screen. My local theatre had a special showing last night and the 400-seat screen completely sold out (as Indy films always do). Luckily for me and my pal, we got the last 2 tickets available! I can't think of many films that still sell-out 25 years after their original release. There's just something about Indy movies(iconic hero, affection, epic spectacle) that brings you back again and again.\n\nThe only trouble with that is there are zillions of reviews, critiques and dissections of this movie already out there, so what I have to offer will probably not be anything new. I will however not go the way of the cliché and mention 1930's serials, Tom Selleck or the sword/gun fight.\n\nI will, however, ask you one question. Did you know that some of the more iconic, memorable sequences from Raiders owe quite a lot to Duck Tales? What? Surely it's the other way around? Well, no. The globe-trotting adventures of Scrooge McDuck, Huey, Duey, Luey and Donald in Carl Bank's Disney comic-books from the 50s came first. If you can find some of these then you'll surely notice the similarities.\n\nThe hunt for the Ark of the Covenant is more than just an excuse for action. So many movies these days seem to come up with action first and string them together with some lame plot. Movies like this are quickly forgotten and one of the reasons Raiders holds up so well is because it works the Covenant story so well into the plot.\n\nThe action comes in a succession of set-pieces. I do enjoy films that have to increasingly better themselves in every scene. Raiders introduced this as a standard that the sequels had to live up to. My fave scene has to be the massive truck chase through Egypt, which is made up of many of its own smaller sequences. One little idiosyncrasy I like about Indy is that even though he's a College Professor and Doctor, he has no beef killing people. So very far from the ubiquitous PC heroes of todays movies.\n\nYou might think that it's rather geeky to hype up the editing and sound design, but they do stand out from recent action movies. The gunfire and punching seem to have a sort of 'Indy' signature sound to them, that I've not heard in any other films. And obviously, John William's classic score is one of those themes that just everybody in the world knows (though I prefer his score to Temple of Doom), truly one of the best movie themes ever. Better than Star Wars! \n\nI'm not sure if Spielberg planned on Raiders starting the Indy franchise but there's already enough in here to establish a whole universe of potential stories and character arcs. There's talk of a fourth movie at the moment, but I personally don't think it will happen and I don't want it to. It's perfect existing as a trilogy and a sequel that comes traipsing in 18 years after the last is just not going to feel right. Even if you are hungry for more Indy then there are loads of books and video games out there and then there's the Young Indiana Jones TV show (where are the DVDs?), which are official Indy canon and even starred Ford once (they bounced around in time).\n\nI am giving Raiders 9/10 because I just have a soft spot for Temple of Doom (which is obviously a 10/10 movie). Even 25 years after it first came out it still has the power to captivate the audience and provoke sheer excitement every time. And in 25 years it will still be far superior to almost everything.\n\nNow there's something you cannot say about The Fast and the Furious! Sigh, where did all the special movies go?",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H55M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Official HD Trailer",
+    "embedUrl":"/video/imdb/vi3747396377",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BOGFhNTAyYjMtNGJlNi00NWFmLTllNTgtYzdhZjE5NmU4MTQ4XkEyXkFqcGdeQXJoYW5uYWg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BOGFhNTAyYjMtNGJlNi00NWFmLTllNTgtYzdhZjE5NmU4MTQ4XkEyXkFqcGdeQXJoYW5uYWg@._V1_.jpg",
+    "uploadDate":"2018-09-14T22:27:11Z"
+  }
+}

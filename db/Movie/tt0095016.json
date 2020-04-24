@@ -1,0 +1,107 @@
+{
+  "id":"  http://www.imdb.com/title/tt0095016/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0095016/",
+  "name":"Die Hard",
+  "image":"https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000246/",
+      "name":"Bruce Willis"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000614/",
+      "name":"Alan Rickman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000889/",
+      "name":"Bonnie Bedelia"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001817/",
+      "name":"Reginald VelJohnson"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001532/",
+    "name":"John McTiernan"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0861636/",
+      "name":"Roderick Thorp"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0835732/",
+      "name":"Jeb Stuart"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0211823/",
+      "name":"Steven E. de Souza"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0000756/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0119038/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0019968/"
+    }
+  ],
+  "description":"Die Hard is a movie starring Bruce Willis, Alan Rickman, and Bonnie Bedelia. An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+  "datePublished":"1988-07-20",
+  "keywords":"hostage,one against many,los angeles california,christmas,christmas eve",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":755853,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0095016/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Hollywood Titan"
+    },
+    "dateCreated":"2001-10-22",
+    "inLanguage":"English",
+    "name":"John McClane terminates all other action heroes",
+    "reviewBody":"Prepare yourselves for one of the most action packed thrill rides starring one of the best action stars in Hollywood. Bruce Willis is stirring up trouble for the bad guys in \"Die Hard.\" In the first of three awesome films, he stars as Lt. John McClane, a New York police officer, who has been invited to the wrong Christmas party.\n\nThis is an action film for future actors and directors to watch and use as a model because it describes what an action film should contain. I have seen many action films in my life, but this ranks at the top of my list because it has all the right components. Action packed sequences, explosions, special effects and most of all superb performances with excellent dialogue.\n\n\"Die Hard\" is a movie I will not soon forget because the story is so well crafted. Though there are no twists or curves thrown at the audience, the audience can be assured they will be treated to two hours of non-stop action from beginning to end.\n\n\"Die Hard\" did not only produce great action and explosions but future stars as well. I am talking about Clarence Gilyard Jr. who now stars in Walker, Texas Ranger and Reginald VelJohnson who starred in the series Family Matters. These two actors were pivotal to this film in their respective roles.\n\nTwo other names to keep in mind while thinking of key performers are Bonnie Bedelia and Alan Rickman. I was blown away when I saw the impact they had on this film. It is as if they came in and said 'Okay boys, watch out I'm taking over.\" They certainly did that; however, nobody could have done better than the impact performer himself Bruce Willis.\n\nOn a scale of 1-10; \"Die Hard\" is given a 100 by yours truly. My only regret would be that the movie ended. I wish there was more to see in this film. I CAN'T WAIT TO SEE \"DIE HARD\" AGAIN."
+  },
+  "duration":"PT2H12M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Trailer: 30th Anniversary Christmas Edition",
+    "embedUrl":"/video/imdb/vi3895704089",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZDViZDAzMjAtY2E1YS00OThkLWE2YTMtYzBmYWRjMWY0MDhkXkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZDViZDAzMjAtY2E1YS00OThkLWE2YTMtYzBmYWRjMWY0MDhkXkEyXkFqcGdeQXRzdGFzaWVr._V1_.jpg",
+    "description":"Bruce Willis is John McClane in the film that launched the billion-dollar 'Die Hard' action franchise.",
+    "uploadDate":"2018-12-19T20:50:21Z"
+  }
+}

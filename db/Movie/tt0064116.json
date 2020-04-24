@@ -1,0 +1,124 @@
+{
+  "id":"  http://www.imdb.com/title/tt0064116/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0064116/",
+  "name":"C'era una volta il West",
+  "image":"https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":"Western",
+  "contentRating":"PG-13",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000020/",
+      "name":"Henry Fonda"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000314/",
+      "name":"Charles Bronson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001012/",
+      "name":"Claudia Cardinale"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001673/",
+      "name":"Jason Robards"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001466/",
+    "name":"Sergio Leone"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0006872/",
+      "name":"Sergio Donati"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001466/",
+      "name":"Sergio Leone"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000783/",
+      "name":"Dario Argento"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000934/",
+      "name":"Bernardo Bertolucci"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001466/",
+      "name":"Sergio Leone"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0021811/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0067506/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0023400/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0060514/"
+    }
+  ],
+  "description":"C'era una volta il West is a movie starring Henry Fonda, Charles Bronson, and Claudia Cardinale. A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin...",
+  "datePublished":"1968-12-21",
+  "keywords":"harmonica,woman in bathtub,widow,former prostitute,railway station",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":287872,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.5"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0064116/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"daxsir"
+    },
+    "dateCreated":"2016-01-21",
+    "inLanguage":"English",
+    "name":"Art",
+    "reviewBody":"This is my fav film. It is more like watching a piece of art. The look is fantastic. The director does a perfect job. The acting is wonderful. The story is not the strongest ever but it should be watched to experience it. If your a film lover you can't fail but admire this film.Charles Bronson is the perfect broody loner. Henry Fonda surprises everyone by giving a strong performance as a bad guy. The close up of his eyes is stunning. The camera work and close ups have never been done better. The music is as good as anything you will find in a movie. Throw in the scenes when you first see Henry Fonda. The scene at the railway station which the water dripping on the hat. The sound of the spinning water tower. To me the closet movie to ART i have ever seen and i have seen a lot of films.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H45M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Once Upon A Time In The West",
+    "embedUrl":"/video/imdb/vi239075865",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMmE1YzU4MTUtZmVmNS00ODZlLTk1YTQtZDU4NWQ3MDliOTZiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMmE1YzU4MTUtZmVmNS00ODZlLTk1YTQtZDU4NWQ3MDliOTZiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"UK Trailer",
+    "uploadDate":"2009-10-09T13:16:55Z"
+  }
+}

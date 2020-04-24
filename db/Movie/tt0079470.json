@@ -1,0 +1,120 @@
+{
+  "id":"  http://www.imdb.com/title/tt0079470/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0079470/",
+  "name":"Life of Brian",
+  "image":"https://m.media-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+  "genre":"Comedy",
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001037/",
+      "name":"Graham Chapman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000092/",
+      "name":"John Cleese"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001589/",
+      "name":"Michael Palin"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000416/",
+      "name":"Terry Gilliam"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001402/",
+    "name":"Terry Jones"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001037/",
+      "name":"Graham Chapman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000092/",
+      "name":"John Cleese"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000416/",
+      "name":"Terry Gilliam"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001385/",
+      "name":"Eric Idle"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001402/",
+      "name":"Terry Jones"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001589/",
+      "name":"Michael Palin"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0103514/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0103397/"
+    }
+  ],
+  "description":"Life of Brian is a movie starring Graham Chapman, John Cleese, and Michael Palin. Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth (Graham Chapman) spends his life being mistaken for a...",
+  "datePublished":"1979-08-17",
+  "keywords":"satire,british comedy,monty python,reference to jesus christ,spoof",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":352395,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0079470/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Krupsky"
+    },
+    "dateCreated":"2019-04-14",
+    "inLanguage":"English",
+    "name":"Best comedy ever",
+    "reviewBody":"Love this Gem!\n\nThis story in different variations was told for almost two thousand years, but it always had inconsistencies and white spots, and its true essence, it seems, was always well hidden by someone. Much has changed when a group of researchers from England took up the ancient tradition, many of whom were attributed to excessive alcohol addiction, as well as the American avant-garde artist who joined them.\n\nThe film was shot in the scenery, built for the film Franco Zeffirelli \"Jesus of Nazareth.\"",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H34M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Trailer",
+    "embedUrl":"/video/imdb/vi3075522329",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYjVhZDNmN2UtMWRkOC00Y2NlLWEyNjktYzE5OGRjNTZiZGFjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYjVhZDNmN2UtMWRkOC00Y2NlLWEyNjktYzE5OGRjNTZiZGFjXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    "uploadDate":"2020-01-29T13:07:18Z"
+  }
+}

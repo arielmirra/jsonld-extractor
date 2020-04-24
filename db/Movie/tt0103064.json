@@ -1,0 +1,120 @@
+{
+  "id":"  http://www.imdb.com/title/tt0103064/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0103064/",
+  "name":"Terminator 2: Judgment Day",
+  "image":"https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Sci-Fi"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000216/",
+      "name":"Arnold Schwarzenegger"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000157/",
+      "name":"Linda Hamilton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000411/",
+      "name":"Edward Furlong"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001598/",
+      "name":"Robert Patrick"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000116/",
+    "name":"James Cameron"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000116/",
+      "name":"James Cameron"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0936537/",
+      "name":"William Wisher"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0094459/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0092551/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0038663/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0545615/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0182657/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0242059/"
+    }
+  ],
+  "description":"Terminator 2: Judgment Day is a movie starring Arnold Schwarzenegger, Linda Hamilton, and Edward Furlong. A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more...",
+  "datePublished":"1991-07-03",
+  "keywords":"time travel,liquid metal,future,sequel,voice over narration",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":958472,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.5"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0103064/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"851222"
+    },
+    "dateCreated":"2008-03-13",
+    "inLanguage":"English",
+    "name":"Movie that everyone should see!",
+    "reviewBody":"Greetings from Lithuania.\n\nWOW! The best word that describes this movie is \"wow\"! Not only to say that this is the best Action movie of all time, this is probably one of the greatest movies ever made . The people in my country watched this film when there where limited VHS cassettes at all. And again, my favorite Director did an timeless epic-masterpiece. Yes, an epic. Every scene in this movie is beyond the perfection. The timeless plot. Groundbreaking effects. Unforgettable \"Hasta la vista, baby.\" .\n\nPerfect direction for a sci-fix action film. When the action starts, you're in for the ride of your life. There never be the same movie like T2. What else I can say about this film? A Must see for everyone.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H17M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Re-release Trailer",
+    "embedUrl":"/video/imdb/vi2748889369",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMjI0OTJlNTQtMzYyZi00MTBkLWEyMzItNWQwYWFhOWU1NDczXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMjI0OTJlNTQtMzYyZi00MTBkLWEyMzItNWQwYWFhOWU1NDczXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "description":"A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her ten year old son, John Connor, from a more advanced cyborg.",
+    "uploadDate":"2017-07-01T00:24:31Z"
+  }
+}

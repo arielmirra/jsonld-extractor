@@ -1,0 +1,133 @@
+{
+  "id":"  http://www.imdb.com/title/tt0017925/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0017925/",
+  "name":"The General",
+  "image":"https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "contentRating":"Passed",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000036/",
+      "name":"Buster Keaton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0533045/",
+      "name":"Marion Mack"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0147070/",
+      "name":"Glen Cavender"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0267650/",
+      "name":"Jim Farley"
+    }
+  ],
+  "director":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0115669/",
+      "name":"Clyde Bruckman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000036/",
+      "name":"Buster Keaton"
+    }
+  ],
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000036/",
+      "name":"Buster Keaton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0115669/",
+      "name":"Clyde Bruckman"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0090213/",
+      "name":"Al Boasberg"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0807667/",
+      "name":"Charles Henry Smith"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0685904/",
+      "name":"William Pittenger"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0685904/",
+      "name":"William Pittenger"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0809548/",
+      "name":"Paul Gerard Smith"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0081891/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0000357/"
+    }
+  ],
+  "description":"The General is a movie starring Buster Keaton, Marion Mack, and Glen Cavender. When Union spies steal an engineer's beloved locomotive, he pursues it single-handedly and straight through enemy lines.",
+  "datePublished":"1927-01-02",
+  "keywords":"train,national film registry,army,spy,confederate army",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":76363,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0017925/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Snow Leopard"
+    },
+    "dateCreated":"2001-07-13",
+    "inLanguage":"English",
+    "name":"Wonderful Humor, Action, & Melodrama",
+    "reviewBody":"One of the great masterpieces of cinema, Buster Keaton's \"The General\" combines inventive humor with terrific action and fine melodrama, all beautifully and carefully planned and photographed.  It is filled with subtle and wonderful details that make it well worth devoting your full attention to watching.  As an extra bonus, it offers a fascinating look at the Civil War era, with many realistic details, inspired by a historical incident.\n\nAfter a short opening sequence, the movie divides nicely into two halves. Johnny (Keaton) is a railway engineer, turned down in his attempts to enlist in the Confederate Army and subsequently rejected by his girl.  Continuing with the railroad, one day his locomotive is stolen by Union spies, who also kidnap his girl.  Johnny first chases the engine into Union territory to recapture it, and then is himself chased by the Northern Army as he attempts to return home.  Both chases are filled with excitement and manic fun, with some breathtaking stunts by Keaton thrown in.  It all leads up to a dramatic and memorable climax that includes many ironic and suggestive touches.\n\nKeaton is at his best, with the story offering him a perfect showcase for his many talents.  His slapstick and acrobatic skills are given free rein, and his character's stoic perseverance is a fine complement to the frantic action.\n\nThis belongs near the top of any list of great films, a classic worth watching and re-watching."
+  },
+  "duration":"PT1H7M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The General",
+    "embedUrl":"/video/imdb/vi534623769",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BODFmY2IzYjItMTA2NS00ZDNmLTk4MjEtMDlhYjljNDgyNjljXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BODFmY2IzYjItMTA2NS00ZDNmLTk4MjEtMDlhYjljNDgyNjljXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for The General",
+    "uploadDate":"2016-11-29T16:55:03Z"
+  }
+}

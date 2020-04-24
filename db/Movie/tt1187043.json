@@ -1,0 +1,115 @@
+{
+  "id":"  http://www.imdb.com/title/tt1187043/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt1187043/",
+  "name":"3 Idiots",
+  "image":"https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Drama"
+  ],
+  "contentRating":"PG-13",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0451148/",
+      "name":"Aamir Khan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0534856/",
+      "name":"Madhavan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1587175/",
+      "name":"Mona Singh"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0430817/",
+      "name":"Sharman Joshi"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0386246/",
+    "name":"Rajkumar Hirani"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0386246/",
+      "name":"Rajkumar Hirani"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0430785/",
+      "name":"Abhijat Joshi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0006765/",
+      "name":"Vidhu Vinod Chopra"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0430785/",
+      "name":"Abhijat Joshi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm2746459/",
+      "name":"Chetan Bhagat"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0106826/"
+    }
+  ],
+  "description":"3 Idiots is a movie starring Aamir Khan, Madhavan, and Mona Singh. Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think...",
+  "datePublished":"2009-12-24",
+  "keywords":"papadum,hairy chest,against the system,college,flatulence",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":321984,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt1187043/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"naman-avastol"
+    },
+    "dateCreated":"2009-12-24",
+    "inLanguage":"English",
+    "name":"Aal izz very, very, very, very, very Well",
+    "reviewBody":"\"Whatever the problem in life is... just say to yourself 'Aal Izz Well'.. This wont solve your problems but it will give the courage to face it..\" \"Chase Excellence and success will follow\".. \" Life is not about getting marks, grades but chasing your dreams\".. These are the golden rules which 3 IDIOTS teaches you in a very light and entertaining way.. The movie makes you laugh and in the process you learn many golden rules which can alter your life in a big manner...\n\n3 actors from the path-breaking blockbuster RANG DE BASANTI( Aamir, Sharman, Madhvan) team up together with Rajkumar Hirani.. It couldn't get bigger! Loosely based on blockbuster novel ' Five Point Someone ' by Chetan Bhagat the movie deals with the present education system in India that whether getting more marks and better grades is better than gaining knowledge and is mugging up everything more useful than understanding it..\n\nThe movie has many hilarious scenes and everyone in the film form Aamir to Boman Irani to Omi Vaidya were superb in their roles.. Aamir has outdone himself.. Never in the film he has looked 44 year old... Film's music sounds mediocre but when viewed on the screen then the music sounds perfect.. Cinematography is awesome and so is the direction.. Raju Hirani's screenplay(you can easily ignore a few loose points) is a masterpiece and the film will achieve cult status for engineering students in a short period of time.. It has the soul which Five Point Someone had.. It is easily Aamir Khan's finest film to date.. The film's climax is fantabulous and is a shocker.. It takes everyone by surprise...\n\nTo conclude 3 IDIOTS has the potential to break all records and sweep all awards.. Watch it... You will Love it...\n\nMy Rating: 9/10\n\nThanks and Regards",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H50M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"3 Idiots trailer",
+    "embedUrl":"/video/imdb/vi3086596889",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BYTVmZDgxYjQtODk5Ni00OTJlLTgxZjItZGNjNDFmOTYzYzNlXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYTVmZDgxYjQtODk5Ni00OTJlLTgxZjItZGNjNDFmOTYzYzNlXkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+    "description":"3 Idiots is a movie starring Aamir Khan, Madhavan, and Mona Singh. Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+    "uploadDate":"2018-06-22T11:30:38Z"
+  }
+}

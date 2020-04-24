@@ -1,0 +1,105 @@
+{
+  "id":"  http://www.imdb.com/title/tt0088247/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0088247/",
+  "name":"The Terminator",
+  "image":"https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Sci-Fi"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000216/",
+      "name":"Arnold Schwarzenegger"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000157/",
+      "name":"Linda Hamilton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000299/",
+      "name":"Michael Biehn"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0934902/",
+      "name":"Paul Winfield"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000116/",
+    "name":"James Cameron"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000116/",
+      "name":"James Cameron"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0005036/",
+      "name":"Gale Anne Hurd"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0936537/",
+      "name":"William Wisher"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0779514/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0215706/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0056805/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0777708/"
+    }
+  ],
+  "description":"The Terminator is a movie starring Arnold Schwarzenegger, Linda Hamilton, and Michael Biehn. In 1984, a human soldier is tasked to stop an indestructible cyborg killing machine, both sent from 2029, from executing a young woman,...",
+  "datePublished":"1984-10-26",
+  "keywords":"robotics,cyborg,time travel,future war,nudity",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":770887,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.0"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0088247/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"catalyst-7"
+    },
+    "dateCreated":"2000-03-04",
+    "inLanguage":"English",
+    "name":"It's about transformation",
+    "reviewBody":"I just saw a horrifying, touching, very good movie again; it's The Terminator.  Now to talk of it as great film, to compare it with American Beauty might seem idiotic--it's an almost unrelentingly dark, violent, frightening action movie, after all--but strip away the relentless action, strip away the technophobia, strip away the blatant dislike of cops and modern youth, strip away the poignant love story and, at its core, it's about an immature, essentially mindless girl becoming a strong, determined woman.  That's a theme more movies should have if we want girls to have strong role models.\n\nIn the course of a few hours during which Sarah Connor realises that she is running for her life from a soul-less machine in human flesh that is implacably and violently determined to kill her, she transforms from a girl who can't balance her cheque book to a woman who can order a wounded, beaten man to \"get on your feet, soldier.\"  She is clear-headed, not panicky, focused in crisis and incredibly courageous.  And it's not that she has lost her essential femaleness but that she's grown up.\n\nIt's relentless, heartless violence appals and fascinates me.  It's gritty depiction of our society as a prelude to an even more horrific one in 2023 darkens my heart.  It's quickly developing love story touches me.  Its humor makes the dark places in me smile.  But most of all I am touched and fascinated by Sarah's precipitous transformation. As a good life exercise, ask yourself this: Would you have the courage to do what she does?\n\n9.5 out of 10.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H47M"
+}

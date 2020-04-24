@@ -1,0 +1,100 @@
+{
+  "id":"  http://www.imdb.com/title/tt0051201/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0051201/",
+  "name":"Witness for the Prosecution",
+  "image":"https://m.media-amazon.com/images/M/MV5BZjEwMmE5MzYtYWExYy00ZjEzLTk4MjUtMmJmNzgxY2MxN2U1XkEyXkFqcGdeQXVyMTg2NTc4MzA@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000061/",
+      "name":"Tyrone Power"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000017/",
+      "name":"Marlene Dietrich"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001452/",
+      "name":"Charles Laughton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0006471/",
+      "name":"Elsa Lanchester"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000697/",
+    "name":"Billy Wilder"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0002005/",
+      "name":"Agatha Christie"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000697/",
+      "name":"Billy Wilder"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0475823/",
+      "name":"Harry Kurnitz"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0546140/",
+      "name":"Lawrence B. Marcus"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0134950/"
+    }
+  ],
+  "description":"Witness for the Prosecution is a movie starring Tyrone Power, Marlene Dietrich, and Charles Laughton. A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+  "datePublished":"1958-02-06",
+  "keywords":"lawyer,courtroom drama,alibi,london england,defense attorney",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":100604,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0051201/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Hitchcoc"
+    },
+    "dateCreated":"2006-03-10",
+    "inLanguage":"English",
+    "name":"This had me to the bitter end!",
+    "reviewBody":"I love it when a movie captivates me, carries me along, then surprises me at the end. This is a masterpiece of human maneuvering. It has outstanding acting and a plot to die for. This is a fairly pedestrian Agatha Christie short story. I'm not saying it's not a wonderful story, just that it doesn't come to life like it does on the screen. Charles Laughton is the wonder barrister who is taking the case, even though he is in poor health. The murder case seems a relatively simple one until we begin to trip over the many layers left lying on the path. Marlene Dietrich does a masterful job in all her roles (I won't say anymore than that so I don't spoil the ending). Tyrone Power is able to balance his pathos and his potential guilt. The beauty of the movie is that it never takes itself too seriously. There are some modestly funny subplots and a great deal of careful investigation. I guarantee you that once you start watching, you won't be able to turn it off.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H56M"
+}

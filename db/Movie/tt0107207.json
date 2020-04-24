@@ -1,0 +1,91 @@
+{
+  "id":"  http://www.imdb.com/title/tt0107207/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0107207/",
+  "name":"In the Name of the Father",
+  "image":"https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Biography",
+    "Drama"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000358/",
+      "name":"Daniel Day-Lewis"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000592/",
+      "name":"Pete Postlethwaite"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0188949/",
+      "name":"Alison Crosbie"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm2535022/",
+      "name":"Philip King"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0006487/",
+    "name":"Jim Sheridan"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0174840/",
+      "name":"Gerry Conlon"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0313623/",
+      "name":"Terry George"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0006487/",
+      "name":"Jim Sheridan"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0019015/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0005073/"
+    }
+  ],
+  "description":"In the Name of the Father is a movie starring Daniel Day-Lewis, Pete Postlethwaite, and Alison Crosbie. A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English...",
+  "datePublished":"1993-12-27",
+  "keywords":"prison,father son relationship,based on true story,anti irish bias,psychological manipulation",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":148929,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0107207/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"genius-15"
+    },
+    "dateCreated":"1999-07-25",
+    "inLanguage":"English",
+    "name":"A Very Sharp Film",
+    "reviewBody":"What a clever film this was. Quite modest yet remarkably entertaining. Instead of blaring political bias, viewers are treated to a compassionate human drama without the preachings and irritating banter of most other \"social dramas\" (Dog Day Afternoon, All the President's Men, Norma Rae). It's shameful that this film didn't receive at least two academy awards, despite it having been nominated for 7. Now considering that this was the same year that Schindler's List and The Piano, two outstanding dramas, were released, it isnt surprising nor unreasonable that they beat In the Name of the Father for many of the awards.\n\nThe acting in this film is terrific. Lewis is low key and quite effective as the petty Irish thief Gerry Conlon. Pete Postlethwaite is spectacular as Gerry's father Guiseppe (certainly better than oscar winner tommy lee jones was in the fugitive). Emma Thompson's portrayal of attorney Gareth Pierce received much acclaim, and properly so. Beatie Edney, who had a small part as a wrongfully accused British teenage hippie, was so enamoring that its a wonder we don't see more of her.\n\nOf course much of this film is exagerrated and perhaps fabricated for the purposes of entertainment (as all movies which are \"based on a true story\" tend to be) but it's so finely done that it doesn't seem to matter. Some terrific scenes include the beginning, when Gerry and his friends are chased by British soldiers after being mistaken for IRA snipers, the trial in London, the prison scenes (which expose the loneliness and honesty of the characters rather than the crude violence and gang rapes of so many other pathetic prison movies), and of course the powerful ending, where the marvelous dramatic talents of all the actors are evinced in a final crescendo. Be sure to see this film if you haven't, it will definitely stir your emotions and renew your faith in the human spirit. And for those who eschew political films, give it a try anyways, the acting and craftiness outweigh the civic themes."
+  },
+  "duration":"PT2H13M"
+}

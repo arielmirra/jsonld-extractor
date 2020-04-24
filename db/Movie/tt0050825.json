@@ -1,0 +1,110 @@
+{
+  "id":"  http://www.imdb.com/title/tt0050825/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0050825/",
+  "name":"Paths of Glory",
+  "image":"https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "War"
+  ],
+  "contentRating":"Approved",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000018/",
+      "name":"Kirk Douglas"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0576127/",
+      "name":"Ralph Meeker"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0579663/",
+      "name":"Adolphe Menjou"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0534317/",
+      "name":"George Macready"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000040/",
+    "name":"Stanley Kubrick"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000040/",
+      "name":"Stanley Kubrick"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0932229/",
+      "name":"Calder Willingham"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0860292/",
+      "name":"Jim Thompson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0167767/",
+      "name":"Humphrey Cobb"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0068126/"
+    }
+  ],
+  "description":"Paths of Glory is a movie starring Kirk Douglas, Ralph Meeker, and Adolphe Menjou. After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+  "datePublished":"1957-12-20",
+  "keywords":"trench warfare,french army,french soldier,fear of death,death penalty",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":167500,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0050825/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"bmaclach"
+    },
+    "dateCreated":"2000-11-03",
+    "inLanguage":"English",
+    "name":"An anti-war movie hitting closer to home.",
+    "reviewBody":"I consider Paths of Glory as one of the most memorable of Kubrick's entire output. The most remarkable aspect of this pioneer anti-war film is the complete absence of any persons depicting the \"real\" enemy. Therefore, the significance of the film lay not so much in its anti-war message, but in its brilliant expose of the \"monsters within\" the general staff, superbly acted by Adolphe Menjou and George Macready. The message here is that the enemy lurks much closer to home. In most war films, whether they glorify or condemn the carnage, there is rarely any venturing at all into the darker side of the politics. This film is a tour de force in its unabashed depiction of just how misguided is the quest for glory as an end in itself; and in the portrayal of the leaders who would shamelessly sacrifice others for their own self aggrandizement. Truly, one of my all time favourite movies.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H28M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Paths of Glory",
+    "embedUrl":"/video/imdb/vi763627801",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNzY3ODE0ZmQtNTE3OS00NmNjLTg5MmMtNDI0Y2VlNTUxYjU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNzY3ODE0ZmQtNTE3OS00NmNjLTg5MmMtNDI0Y2VlNTUxYjU3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Criterion trailer",
+    "uploadDate":"2010-09-10T03:25:06Z"
+  }
+}

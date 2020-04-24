@@ -1,0 +1,101 @@
+{
+  "id":"  http://www.imdb.com/title/tt0040897/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0040897/",
+  "name":"The Treasure of the Sierra Madre",
+  "image":"https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Drama",
+    "Western"
+  ],
+  "contentRating":"Passed",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000007/",
+      "name":"Humphrey Bogart"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0404158/",
+      "name":"Walter Huston"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0392529/",
+      "name":"Tim Holt"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0071636/",
+      "name":"Bruce Bennett"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001379/",
+    "name":"John Huston"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001379/",
+      "name":"John Huston"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0871252/",
+      "name":"B. Traven"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002663/"
+    }
+  ],
+  "description":"The Treasure of the Sierra Madre is a movie starring Humphrey Bogart, Walter Huston, and Tim Holt. Two Americans searching for work in Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+  "datePublished":"1948-01-24",
+  "keywords":"mexico,sierra madre mountains,national film registry,afi,1920s",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":108819,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0040897/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"yenlo"
+    },
+    "dateCreated":"1999-05-05",
+    "inLanguage":"English",
+    "name":"A treasure presented to the viewer",
+    "reviewBody":"Some movies have certain scenes in them that hold the viewers interest more than others. However every single scene in this film holds the viewers interest. There is never a dull or lagging moment. Three down and outers who at one time in their lives were maybe up and comers strike out in search of a fortune or at least enough to live better than they have been.\n\nWhile Humphrey Bogart gives a superb performance it is Walter Huston who turns in the greatest performance as the old prospector Howard. The scene in the Indian village where he helps to restore a comatose child is one of the most touching in all of film history and is done virtually without any dialog. Mexican character actor Alfonso Bedoya of course steals all the scenes he appears in and delivers his classic \"Stinking Badges\" line. (what person would dress up as a Bandito for a costume party and not want to look exactly like Bedoya's Gold Hat character?) This film probably should have been a little higher on AFI's top 100. A must see!",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H6M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Treasure of the Sierra Madre",
+    "embedUrl":"/video/imdb/vi567346201",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BN2Y3YTdlYjEtMzM0ZC00ODZkLWEzODgtYWNiNjU4M2IzOTk3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BN2Y3YTdlYjEtMzM0ZC00ODZkLWEzODgtYWNiNjU4M2IzOTk3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for this gold rush adventure film",
+    "uploadDate":"2010-01-16T17:01:54Z"
+  }
+}

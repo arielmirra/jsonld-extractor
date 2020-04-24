@@ -1,0 +1,111 @@
+{
+  "id":"  http://www.imdb.com/title/tt0046268/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0046268/",
+  "name":"Le salaire de la peur",
+  "image":"https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0598971/",
+      "name":"Yves Montand"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0889024/",
+      "name":"Charles Vanel"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0886870/",
+      "name":"Peter van Eyck"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0525793/",
+      "name":"Folco Lulli"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0167241/",
+    "name":"Henri-Georges Clouzot"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm1064118/",
+      "name":"Georges Arnaud"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0167241/",
+      "name":"Henri-Georges Clouzot"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0350823/",
+      "name":"Jérôme Géronimi"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002264/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0010228/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0132005/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0068110/"
+    }
+  ],
+  "description":"Le salaire de la peur is a movie starring Yves Montand, Charles Vanel, and Peter van Eyck. In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make...",
+  "datePublished":"1953-04-22",
+  "keywords":"risk,nitroglycerin,oil,money,vibration",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":51338,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0046268/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"grillrobert"
+    },
+    "dateCreated":"2004-11-02",
+    "inLanguage":"English",
+    "name":"magnifique!",
+    "reviewBody":"This movie is a true masterpiece in every way! When I rented the DVD and read the story it sounded familiar, because I had watched the newer version before in color with Roy Scheider, which was good as well. But watching the original film truly blew me away. This movie is well made in every detail. It puts a lot of detail-work in the creation of the characters, and once you think that is over and the \"regular action-part\" starts, it becomes even better and the story takes a 90 degree turn! After I had finished watching the entire movie, I needed at least 5 minutes just to \"digest\" it and rethink this fantastic film. If you got a chance to watch it, don't miss it! It is entertaining from the first to the last minute!"
+  },
+  "duration":"PT2H11M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Trailer [English SUB]",
+    "embedUrl":"/video/imdb/vi508608281",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BNWU5Zjk4MDAtZDM1Ni00YzJmLTkyZTUtYjVhN2VjNzZmOGVhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BNWU5Zjk4MDAtZDM1Ni00YzJmLTkyZTUtYjVhN2VjNzZmOGVhXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+    "uploadDate":"2020-01-29T03:46:11Z"
+  }
+}

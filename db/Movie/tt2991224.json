@@ -1,0 +1,114 @@
+{
+  "id":"  http://www.imdb.com/title/tt2991224/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt2991224/",
+  "name":"Mandariinid",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTgwNzA3MDQzOV5BMl5BanBnXkFtZTgwNTE5MDE5NDE@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "War"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0880407/",
+      "name":"Lembit Ulfsak"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0639297/",
+      "name":"Elmo Nüganen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0620351/",
+      "name":"Giorgi Nakashidze"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm2067091/",
+      "name":"Misha Meskhi"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0882203/",
+    "name":"Zaza Urushadze"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm6313374/",
+      "name":"Tatjana Mülbeier"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0882203/",
+      "name":"Zaza Urushadze"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0882203/",
+      "name":"Zaza Urushadze"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm6313373/",
+      "name":"Artur Veeber"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0088616/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0369030/"
+    }
+  ],
+  "description":"Mandariinid is a movie starring Lembit Ulfsak, Elmo Nüganen, and Giorgi Nakashidze. In 1992, war rages in Abkhazia, a breakaway region of Georgia. An Estonian man Ivo has decided to stay behind and harvest his crops of tangerines....",
+  "datePublished":"2013-10-17",
+  "keywords":"1990s,abkhazia,anti war,abkhaz georgian conflict,year 1992",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":35836,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt2991224/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"tarek3358"
+    },
+    "dateCreated":"2014-12-18",
+    "inLanguage":"English",
+    "name":"Just watched a brilliant cinema from Goergia",
+    "reviewBody":"I never watched any Georgian movie before 'Mandariinid'. So first experience was really so convenient and remarkable. This movie leads me to step forward in Georgian cinema crowd.\n\nThe tenderness of this movie give peace to the audience. The certainty of this movie contain peace,sympathy,humanity,courtesy,generosity.This cinema is one of the most influencing visionary art of anti war. This cinema has a ability and eligibility to persuade the audience into morality. \n\nA Georgian war cinema where Abkhazia want to depart from Georgia. A story of two enemies who hates each other but deep inside a little humanity grow after they passed some time in a house of a old man 'Ivo' who saved their life.The character Ivo is established as a cue of virtuous. There are another guy who works with the old man who harvest the crops of tangerine. \n\nIt is definitely a good anti war movie. The cinematography,music,editing composition was upstanding. Specially, cinematography language was established strongly. 'Zaza Urushadze' i will definitely memorize the name.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H27M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Tangerines",
+    "embedUrl":"/video/imdb/vi2747316761",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BODFlNTg3Y2MtMzQ1OS00MzViLTkzZjYtODYxYmQ2MGM1YWE0XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BODFlNTg3Y2MtMzQ1OS00MzViLTkzZjYtODYxYmQ2MGM1YWE0XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_.jpg",
+    "description":"Trailer for Tangerines",
+    "uploadDate":"2018-12-05T17:29:46Z"
+  }
+}

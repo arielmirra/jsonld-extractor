@@ -1,0 +1,83 @@
+{
+  "id":"  http://www.imdb.com/title/tt0019254/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0019254/",
+  "name":"La passion de Jeanne d'Arc",
+  "image":"https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0266029/",
+      "name":"Maria Falconetti"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0798564/",
+      "name":"Eugene Silvain"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0075551/",
+      "name":"André Berley"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0776914/",
+      "name":"Maurice Schutz"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0003433/",
+    "name":"Carl Theodor Dreyer"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0217865/",
+      "name":"Joseph Delteil"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0003433/",
+      "name":"Carl Theodor Dreyer"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0065371/"
+    }
+  ],
+  "description":"La passion de Jeanne d'Arc is a movie starring Maria Falconetti, Eugene Silvain, and André Berley. In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her...",
+  "datePublished":"1928-04-21",
+  "keywords":"trial,joan of arc,close up scene,martyrdom,teenage girl",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":44056,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0019254/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"checyn"
+    },
+    "dateCreated":"2004-09-16",
+    "inLanguage":"English",
+    "name":"Sensory Shift",
+    "reviewBody":"This film almost leads one to believe that sound betrays the emotion the eyes capture. Just as the blind develop hearing far better than the average, the deaf develop a keen sense of sight. I am convinced that a lack of dialogue forces us to read the language of the face and body, a verbage unmatched in beauty and nuance. Though the accompanying musical piece (be careful not to identify it as a score), so deliciously inspired by the film, enhances the visual playground; it is the actors' faces that comprise this tour de force. Ms. Falconetti shifts from worry and doubt to unabashed conviction in a single shot, giving the viewer the luck of seeing one's thoughts in progress. She needs no response to the interrogation, it's all in her face. Renee is not superficially beautiful and the lack of make-up only reinforces how bare Joan is, but it is the uncanny ability of an incomparable stage actor to be a window into the soul that makes her so stunning, for the soul we see is one we only wish to attain for ourselves. The Church sees what we see, and they respond just as clearly to her unspoken protest with vehement pomp. The cinematography is so astounding for its time no comment could ever do it justice. Though many comments can be made, and are, surrounding the inspiration and detail for the set, it is at its core an incredible gift from Dreyer to the actors meant to inspire. It plays little part in the film, but to pull an inconceivable last drop of reality from the actors. A testament I can imagine will never be matched to the incredible power of silence."
+  },
+  "duration":"PT1H54M"
+}

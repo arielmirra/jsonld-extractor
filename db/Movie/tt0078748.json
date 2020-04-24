@@ -1,0 +1,103 @@
+{
+  "id":"  http://www.imdb.com/title/tt0078748/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0078748/",
+  "name":"Alien",
+  "image":"https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Horror",
+    "Sci-Fi"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000244/",
+      "name":"Sigourney Weaver"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000643/",
+      "name":"Tom Skerritt"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000457/",
+      "name":"John Hurt"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001021/",
+      "name":"Veronica Cartwright"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000631/",
+    "name":"Ridley Scott"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0639321/",
+      "name":"Dan O'Bannon"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0639321/",
+      "name":"Dan O'Bannon"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0795953/",
+      "name":"Ronald Shusett"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0132161/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0103215/"
+    }
+  ],
+  "description":"Alien is a movie starring Sigourney Weaver, Tom Skerritt, and John Hurt. After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize...",
+  "datePublished":"1979-05-28",
+  "keywords":"alien,spaceship,outer space,creature,female protagonist",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":752660,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0078748/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"oneshotstop"
+    },
+    "dateCreated":"1999-07-20",
+    "inLanguage":"English",
+    "name":"Structural perfection matched only by its hostility",
+    "reviewBody":"Director Ridley Scott's well-honed talents of pacing and editing create a tense atmosphere that superbly conveys dread and fear of an unknown, unseen evil entity.  In 1979, the technology didn't exist to generate a computer image of a Being from another world, and thank God, because this film would have sucked just like all these post-Alien creature features do.  Everyone who loves this movie knows what I'm talking about.  Ridley Scott had to be extremely careful not to show a full shot of the Alien, except in very brief scenes, and not to reveal exactly how it moves, because then we would see that it is just some tall, skinny guy in a rubber suit.  Nowadays, some computer guy would whip up a really scary-looking, but nevertheless FAKE-looking (yes, computer guys, we can tell) Alien, and the director would not have to even think about trying to breathe life into H.R. Giger's hallucinations to make a successful picture.\n\nThe dark, cold beauty of this film will never be equaled."
+  },
+  "duration":"PT1H57M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Theatrical Version",
+    "embedUrl":"/video/imdb/vi1497801241",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTc4OTYzNjc2MV5BMl5BanBnXkFtZTgwNDA2MzIzMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTc4OTYzNjc2MV5BMl5BanBnXkFtZTgwNDA2MzIzMzE@._V1_.jpg",
+    "description":"A mining ship, investigating a suspected SOS, lands on a distant planet. The crew discovers some strange creatures and investigates.",
+    "uploadDate":"2012-06-22T10:09:58Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id":"  http://www.imdb.com/title/tt0056172/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0056172/",
+  "name":"Lawrence of Arabia",
+  "image":"https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "contentRating":"Approved",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000564/",
+      "name":"Peter O'Toole"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000027/",
+      "name":"Alec Guinness"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000063/",
+      "name":"Anthony Quinn"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0370144/",
+      "name":"Jack Hawkins"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000180/",
+    "name":"David Lean"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0493042/",
+      "name":"T.E. Lawrence"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0004122/",
+      "name":"Robert Bolt"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0933858/",
+      "name":"Michael Wilson"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0103190/"
+    }
+  ],
+  "description":"Lawrence of Arabia is a movie starring Peter O'Toole, Alec Guinness, and Anthony Quinn. The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in...",
+  "datePublished":"1962-12-11",
+  "keywords":"arab,desert,bedouin,ottoman empire,british military",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":255619,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0056172/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"nisitpav"
+    },
+    "dateCreated":"2005-08-24",
+    "inLanguage":"English",
+    "name":"The best movie of all motion picture history",
+    "reviewBody":"I first watched \"Lawrence of Arabia\" when I was about 11 years old. Being a big fan of Steven Spielberg at that time, I was sort of awed by the fact that this was his personal favorite (check the \"conversation with Steven Spielberg\" featurette in the special features disk and you'll really see Spielberg's affection for that film)\n\nOver the years, Lawrence remained among my DVD collection, and I can't say I actually watched it since that first time, when, by the way, I didn't really like it. But \"time does things to movies\", and when I watched it again last year, I found my eyes to be weeping at the end. It instantly became one of my favorite movies.\n\nSince then I learned a lot about the history of cinema, and I also learned a great deal about the movies of Sir David Lean. I found my self watching films like \"Brief Encounter\", \"The Bridge on the River Kwai\", \"Doctor Zhivago\", \"Ryan's Daughter\", and the underrated, \"A passage to India\". Lean became one of my favorite directors, and, just a few months ago, I decided to watch Lawrence with some friends. Although I had seen it a couple of times before, this time it was a different experience altogether: from the starting credits, to the blowing of the match, the crossing of the Nefud dessert, finding Gassim and bringing him back to the camp, the invasion of Aqaba, his torture and rape (?), Lawrence's laugh after the slap by the \"outrageaous\" guy, his being left alone, to the final gaze to the motorcycle. I sensed something when I watched that film, which leaves my with the undoubted feeling that \"Lawrence of Arabia\" is the greatest film ever made. For me, this is it. Ever since '62, it's been a downfall. No other film has managed to reach Lawrence in its poetic greatness. Few do come very close (Vertigo for instance).\n\nIf we are to classify the two complete different cinematic styles, it would be those of Hitchcock and Ford. Hitch was a very \"confined\" director. He captured his movies from the point of view of one character. His movies took place, most of the time, in closed spaces. In a sense, Hitchcock's films were a journey in people's emotions and a study in people's characters. On the other hand, Ford was an open director. He wasn't confined to one character, or one location, his films where actual journeys. His basis was mostly on theme, and his main ability was to amaze with his imagery. Thus, these are the two different shooting styles....Well, Lean combines both.\n\nWhich is basically why his best film, Lawrence, is the best film of all times. But not only in terms of style. Also, in terms of content. The intelligent script written by Robert Bolt, the powerhouse performances by O'Toole and Shariff (a shame they didn't get the statuette), but also, the ultimately heroic yet tragic figure of T.E. Lawrence, contribute in making this the most visually and emotionally sweeping film of the last 111 years.\n\nSuch a shame that Lean retired for 14 years after \"Ryan's Daughter\", there's no way to know where he would have gotten.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT3H48M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Lawrence of Arabia - Trailer",
+    "embedUrl":"/video/imdb/vi1481310233",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMjEyNDY4OTA5Nl5BMl5BanBnXkFtZTgwODg3MjQyMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMjEyNDY4OTA5Nl5BMl5BanBnXkFtZTgwODg3MjQyMzE@._V1_.jpg",
+    "description":"An epic rumination on a flamboyant and controversial British military figure and his conflicted loyalties during wartime service",
+    "uploadDate":"2008-11-18T13:55:07Z"
+  }
+}

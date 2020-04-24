@@ -1,0 +1,119 @@
+{
+  "id":"  http://www.imdb.com/title/tt1255953/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt1255953/",
+  "name":"Incendies",
+  "image":"https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Mystery",
+    "War"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0044073/",
+      "name":"Lubna Azabal"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0246386/",
+      "name":"Mélissa Désormeaux-Poulin"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0309945/",
+      "name":"Maxim Gaudette"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1323233/",
+      "name":"Mustafa Kamel"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0898288/",
+    "name":"Denis Villeneuve"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0898288/",
+      "name":"Denis Villeneuve"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1416431/",
+      "name":"Wajdi Mouawad"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm4034068/",
+      "name":"Valérie Beaugrand-Champagne"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0898288/",
+      "name":"Denis Villeneuve"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0089507/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0011118/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0246496/"
+    }
+  ],
+  "description":"Incendies is a movie starring Lubna Azabal, Mélissa Désormeaux-Poulin, and Maxim Gaudette. Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+  "datePublished":"2011-01-12",
+  "keywords":"twin brother and sister,family relationships,middle east,university,torture",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":136154,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt1255953/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"alexart-1"
+    },
+    "dateCreated":"2011-03-26",
+    "inLanguage":"English",
+    "name":"Our Love Became a Funeral Pyre",
+    "reviewBody":"When people watch the Oscars, they don't usually care about the Best Foreign Film nominees. Incendies provides so many reasons why people should actually get to see those nominees at all costs. Incendies is the kind of film that one walks away from feeling emotionally drained, one where it stays in the viewer's mind for days on end. Like an intense personal experience, it takes a lot to come to grips with the film's story, a moving plot full of twists and catharsis. At the New Directors/New Films Festival in New York, at which I saw this last night, Denis Villeneuve explained that he has made four films in Canada, but this is the first one to be released in America. Right now, I see no reason why Villeneuve, or any of the actors for that matter, shouldn't have a great future ahead of them.\n\nBased on the play Scorched by Wajdi Mouawad, Incendies follows a non-linear plot that spans two generations. In the present day, Jeanne and Simon are twins who have lost their mother, Nawal. Nawal has stipulated in her will that Jeanne and Simon must return an envelope to the brother they didn't know existed who is currently living in a fictional Middle Eastern country. Only then can the twins give Nawal a proper burial. Jeanne feels obligated to return the letter, so she goes to the Middle East, only to realize some of Nawal's nastiest secrets. As Jeanne uncovers more about Nawal, the viewer is shown Nawal's story. The film builds up to an unforgettable ending that is sure to rock any viewer.\n\nIncendies already had great source material. I've praised the plot enough, but one thing I must add is that the play is apparently four hours long, according to Villeneuve. It's impressive that this movie succeeds so nicely because I can't imagine that anything was cut. But to back up that source material, there's some really great acting. The entire cast plays their parts with such an emotional vigor that it seems impossible that this work of art wasn't autobiographical.\n\nFurthermore, Villeneuve has made a film that relies on great filmmaking to impact the viewer. The cinematography is beautifully bland, surely a nod to some of the deserts in the Lebanon- like land where the movie takes place. Color scheme is also used to Villeneuve's advantage to show the parallels between Nawal and Jeanne's lives. Villeneuve seems to love working with extended zoom shots that shock the viewer with their overwhelmingly long silences. Why Villeneuve didn't receive critical acclaim (in America, at least) before Incendies is a mystery.\n\nThere are many movies about the Middle East. Some have failed miserably in their attempts to strike an emotional chord with critics and viewers alike (Redacted, Rendition), but others have been extremely successful (The Hurt Locker, Lebanon). Incendies could very well be one of the best films ever made about the conflicts in the Middle East. It has its flaws which keep it from being a masterpiece (maybe it could've lost five or ten minutes), but it is that rare type of film that really resonates beyond the initial viewing. Hopefully, Incendies will be remembered for years to come as the little, brilliant film that spawned the great fame of Denis Villeneuve.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H11M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Incendies",
+    "embedUrl":"/video/imdb/vi722049561",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTczNDY5MDU5MF5BMl5BanBnXkFtZTgwNTM0NjkyMzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTczNDY5MDU5MF5BMl5BanBnXkFtZTgwNTM0NjkyMzE@._V1_.jpg",
+    "description":"As twins Jeanne and Simon Marwan learn the specifics of the will prepared by their mother, Nawal, they are handed two envelopes: one is for the father they presumed to be dead, the other is to be handed to the brother they didnÂ’t know existed. Jeanne drafts herself into the mystery, soon landing in an unnamed Middle Eastern country. Simon soon follows and the pair begin to unravel their mother's secret history.",
+    "uploadDate":"2011-02-03T14:06:12Z"
+  }
+}

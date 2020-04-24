@@ -1,0 +1,86 @@
+{
+  "id":"  http://www.imdb.com/title/tt0116231/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0116231/",
+  "name":"Eskiya",
+  "image":"https://m.media-amazon.com/images/M/MV5BOGQ4ZjFmYjktOGNkNS00OWYyLWIyZjgtMGJjM2U1ZTA0ZTlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "contentRating":"TV-MA",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0784038/",
+      "name":"Sener Sen"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0951309/",
+      "name":"Ugur Yücel"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0784039/",
+      "name":"Sermin Hürmeriç"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0758487/",
+      "name":"Yesim Salkim"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0877078/",
+    "name":"Yavuz Turgul"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0877078/",
+      "name":"Yavuz Turgul"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0063364/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0145520/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0128436/"
+    }
+  ],
+  "description":"Eskiya is a movie starring Sener Sen, Ugur Yücel, and Sermin Hürmeriç. Baran the Bandit, released from prison after 35 years, searches for vengeance and his lover.",
+  "datePublished":"1996-11-29",
+  "keywords":"bandit,money,prison,bar,mafia",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":59847,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0116231/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"snoppy-2"
+    },
+    "dateCreated":"1999-08-05",
+    "inLanguage":"English",
+    "name":"Eskiya was the king out here...",
+    "reviewBody":"And, to tell the truth, HE still is. The filmmakers in Turkey are always claiming about reaching the thing, the unbelievable, the extreme thing that this movie made to the people. With no grand advertising, or big budget, that's just a miracle that movie has made. And to a miracle, points or comments do nothing but you wanted and I give:eternity out of 10 and just love, like the movie gives to you."
+  },
+  "duration":"PT2H8M"
+}

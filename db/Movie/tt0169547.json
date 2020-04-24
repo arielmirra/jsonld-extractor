@@ -1,0 +1,96 @@
+{
+  "id":"  http://www.imdb.com/title/tt0169547/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0169547/",
+  "name":"American Beauty",
+  "image":"https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000228/",
+      "name":"Kevin Spacey"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000906/",
+      "name":"Annette Bening"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000301/",
+      "name":"Thora Birch"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0004747/",
+      "name":"Wes Bentley"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0005222/",
+    "name":"Sam Mendes"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0050332/",
+      "name":"Alan Ball"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0040938/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0021095/"
+    }
+  ],
+  "description":"American Beauty is a movie starring Kevin Spacey, Annette Bening, and Thora Birch. A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+  "datePublished":"1999-10-01",
+  "keywords":"adulterous wife,cheating wife,midlife crisis,unfaithful wife,virginity",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":1032816,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0169547/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"reesew18"
+    },
+    "dateCreated":"2001-07-07",
+    "inLanguage":"English",
+    "name":"a very well done film that continues to amaze me...",
+    "reviewBody":"When I first saw this movie in theaters, I found it to be very funny. When I rented it at home, I found it to be very sad and complex. Looking at it now, I realize that it is surely one of the most extraordinary films ever to come out of Hollywood. To some it may look trite or cliched, or maybe too un-ordinary to be worthy of its praise, but the overall impact of this film is extremely powerful. After you've seen it, you know you've seen something.\n\nA few notable elements stand out. The direction is superb; this is visually a superior film, for the director understands the subtle changes in tone. The writing is equally compelling; the story effortlessly interweaves multiple stories to create one amazing movie. The haunting music is also notable. Lastly is the acting. Kevin Spacey has done excellent films before, and he can add this one to the list. He may be a little to witty to suggest the overshadowed character he portrays, but he simply disappears into the role. Annette Bening is also fine; a less strong role, but she is magnificent none the less. As the teenagers, Thora Birch is able to mesmerize us with one intense look; her \"typical teenager\" role is fleshed out completely. I enjoyed Mena Suvari's character equally. It seemed that she did not receive as much acclaim, but her performance evokes both innocence and experience, and her scenes toward the end give her a depth unlike any other character. And Wes Bentley, as the video-taping boy next door, is easily the most original character. At first he seems a little tense, but, like Spacey, he sinks into the role. His \"purpose\" in the film, unlike anyone else's, is a mystery, thus making him the most enigmatic person.\n\nMost films are able to make a lasting impression on its audience, but never has a movie been known to \"move\" its viewers as much as this movie. It truly says something about life, no matter how predictable or tacky it appears, this film disturbingly shows us how to appreciate our individual lives, so therefore, when they are over, we each have something to remember.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H2M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Theatrical Version",
+    "embedUrl":"/video/imdb/vi788506137",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTU5NDcyNTgzNl5BMl5BanBnXkFtZTgwNTMwNzU0NzE@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTU5NDcyNTgzNl5BMl5BanBnXkFtZTgwNTMwNzU0NzE@._V1_.jpg",
+    "description":"Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation for his daughter's attractive friend.",
+    "uploadDate":"2013-04-03T14:22:07Z"
+  }
+}

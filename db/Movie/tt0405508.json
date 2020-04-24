@@ -1,0 +1,114 @@
+{
+  "id":"  http://www.imdb.com/title/tt0405508/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0405508/",
+  "name":"Rang De Basanti",
+  "image":"https://m.media-amazon.com/images/M/MV5BYThmZDA0YmQtMWJhNy00MDQwLTk0Y2YtMDhmZTE5ZjhlNjliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+  "genre":[
+    "Comedy",
+    "Drama"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0451148/",
+      "name":"Aamir Khan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1675786/",
+      "name":"Soha Ali Khan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1413459/",
+      "name":"Siddharth"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0430817/",
+      "name":"Sharman Joshi"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm1018493/",
+    "name":"Rakeysh Omprakash Mehra"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm1028832/",
+      "name":"Renzil D'Silva"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1149334/",
+      "name":"Prasoon Joshi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm1018493/",
+      "name":"Rakeysh Omprakash Mehra"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0659238/",
+      "name":"Kamlesh Pandey"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0245939/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0131238/"
+    }
+  ],
+  "description":"Rang De Basanti is a movie starring Aamir Khan, Soha Ali Khan, and Siddharth. The story of six young Indians who assist an English woman to film a documentary on the freedom fighters from their past, and the events that lead them to...",
+  "datePublished":"2006-01-26",
+  "keywords":"urination,papadum,fuzz,cop,pig",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":105898,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0405508/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Jigarbanzo"
+    },
+    "dateCreated":"2006-01-28",
+    "inLanguage":"English",
+    "name":"At Last",
+    "reviewBody":"It's about time there has been a Bollywood film about the youth of India. Granted these are college kids and not the average Indian adolescent who sometimes foresakes education for work, they are a good representatives of young Indians both in the diaspora and in India.\n\nCasting is great. Each character pursues their emotion, when their emotions are pursued by circumstances. They express both the emotions at surface and those sunken to be brought out by a situational tide. And they do it with truthfulness. Although some of the elder cast could have been utilized more, the focus on the youth and parallels with past figures are well orchestrated. The character that plays Bhagat Singh, Amir Khan, and Sonia are incredible. Each has their own spotlight where they nudge us from complacency and create an unstable sense of urgency.\n\nThis is the best screenplay I have seen thus far in Indian media. Although BLACK had great language through what we saw on the screen, this movie has shown the progress of film- making abroad. Finally! The depth and character development we need are supplied with not just turn of events, but the turn of the screen. We don't need just words to understand a character. This movie shows how well a change in scene isn't a transition but an entity that holds together a character and emotion. And repetition! And repetition of words, dialogue, and attitude through the parallels was very inspiring.\n\nThe general storyline of the movie is good. I say good because parts of the youth's leisure sometimes can get annoying as well as the camera-work that accompanies it. At times I wanted to push the film forward and get to the point. But that's the point! Point being that we need to understand the choppy nature of the first half because, chops or not, these characters are transient figures who don't realize their role in life until they have experienced the wholeness of reality. It's interesting that the wholeness comes from reflections of the past. The use and reuse of certain scenes are important in showing the character growth built upon experience.\n\nAR Rahman's music captures the reality unbelievably. We have dance numbers, but they're pathetic belligerent kicking and hand waving. Isn't that what we usually do when we're drunk anyways? Although the use of the music is off sometimes and abrupt, the emotion that each peace carries relates so well to the circumstances. The best use, in my opinion, being Luka Chuppi by Lata M and AR Rahman. The symbiosis between the lyrics and the events on screen are incredible. Dramatic irony at it's best.\n\nThe cinematography of this film is great in the majority of the film. The few annoyances in cinematography come with the patchy scenes with the first half during these \"leisure\" rides and early in the second half. But, besides that - the cinematographer and director have made outstanding use of the diagonal view. The lines and profiles of people and country are so well placed that you begin to understand how crooked life's path can be. None of us have a straight line ahead of us. \n\nWhat makes me enjoy the movie the most is the humor and cause. You'd think with all the aforementioned details that this is a sobering movie about crooked lives and emotions and such, but the characters have fun. Sue's project is hilarious and the use of extras was really earnest. It is very much how I would be acting with friends, of course only when drunk like they are in certain parts. The cause is very important to this film and it makes it a powerful film because it has this cause.\n\nI'm 22. I just recently visited India. I understood and was confused by the youth of India and this film portrays the ambiguity of India well. There are no answers, there are only actions. And this is what they strive to do in the film. Usually Bollywood movies lose their purpose come the 1st dance number, but the truth of this film speaks more than numbers. It is a film about what comes after pure, white innocence of our youth. And it asks that we paint the difference.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H47M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Rang De Basanti trailer",
+    "embedUrl":"/video/imdb/vi1133361945",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZjRjNjM5YzEtNzFhNi00YzA4LTlkZmMtMGZlNTI0ZWZkNTY0XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZjRjNjM5YzEtNzFhNi00YzA4LTlkZmMtMGZlNTI0ZWZkNTY0XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+    "description":"The story of six young Indians who assist an English Woman to film a documentary on the extremist freedom fighters from their past, and the events that lead them to relive the long forgotten saga of freedom.",
+    "uploadDate":"2018-06-14T06:45:37Z"
+  }
+}

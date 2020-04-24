@@ -1,0 +1,92 @@
+{
+  "id":"  http://www.imdb.com/title/tt0096283/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0096283/",
+  "name":"Tonari no Totoro",
+  "image":"https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+  "genre":[
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "contentRating":"G",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0847054/",
+      "name":"Hitoshi Takagi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0383022/",
+      "name":"Noriko Hidaka"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0757076/",
+      "name":"Chika Sakamoto"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0411790/",
+      "name":"Shigesato Itoi"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0594503/",
+    "name":"Hayao Miyazaki"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0594503/",
+      "name":"Hayao Miyazaki"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0006071/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0048420/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0205112/"
+    }
+  ],
+  "description":"Tonari no Totoro is a movie starring Hitoshi Takagi, Noriko Hidaka, and Chika Sakamoto. When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+  "datePublished":"1988-04-16",
+  "keywords":"sister sister relationship,magical realism,studio ghibli,sick mother,cat bus",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":265874,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0096283/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Jeremy Bristol"
+    },
+    "dateCreated":"2001-05-31",
+    "inLanguage":"English",
+    "name":"A superb, uncynical journey into the imagination.  Not so great dubbing, though.",
+    "reviewBody":"This movie, set in Japan in the early fifties, is director Miyazaki's tribute to his mother (who suffered from tuberculosis, just like Satsuki and Mei's mother), his childhood home, and childhood innocence.  Although some people who watch this movie wonder where the Americans are (this is post-WWII Japan, after all) and why so little screen time is spent on the girls' mother, but that may be partly due to the dubbing.\n\nAmericans: First of all, the house the girls move into is rather European in design (with doorknobs, and an attic, and a front porch) despite the Japanese style bath and occasional sliding door.  Secondly, Mei and Satsuki are really into Western fairy tales (the are brief glimpses of Japanese translations of The Three Billy Goats Gruff and other stories, along with Mei inadvertently re-enacting scenes from Alice in Wonderland and Chronicles of Narnia).  On top of that, according to Helen McCarthy and other Miyazaki experts, the name \"Totoro\" is little Mei's mispronunciation of the Japanese transliteration of the English word \"troll\" (\"tororo,\" which the Japanese would pronounce like \"tololo\" because they do not distinguish between r's and l's).  This is why an accurate dubbed version is nearly impossible (like any little girl, Mei mispronounces a lot of words).\n\nThe Mother: I think this movie is entirely about the mother.  Throughout, you see them subtly (almost too subtly at times) change from completely carefree to terrified with each scene involving the mother.  This parallels Satsuki's coming of age subplot (she's ten and like anyone that age she is self-conscious about believing in Santa, or in this case Totoro).  There's a little bit of both in the culturally-shocking--though completely innocent--bath scene (both girls take a bath with their father during a wind storm).\n\nReally, though, My Neighbor Totoro is less about story than it is about the imagination of children.\n\nAlthough the animation is a little dated and a bit jerky at times, the direction is absolutely top notch.  There is enough visual creativity to rival an average Hitchcock film (Miyazaki's a huge fan of Hitch: check out the long wait at the bus stop, which is reminiscent of North by Northwest). Highlights include a Mary Poppins-esque ride on an Oriental top, a beautifully animated storm, Mei's nap on the slowly rising and falling chest of the giant totoro, and a cat-bus complete with headlight eyes.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H26M"
+}

@@ -1,0 +1,134 @@
+{
+  "id":"  http://www.imdb.com/title/tt0090605/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0090605/",
+  "name":"Aliens",
+  "image":"https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000244/",
+      "name":"Sigourney Weaver"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000299/",
+      "name":"Michael Biehn"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001343/",
+      "name":"Carrie Henn"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001663/",
+      "name":"Paul Reiser"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000116/",
+    "name":"James Cameron"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000116/",
+      "name":"James Cameron"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0318429/",
+      "name":"David Giler"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001353/",
+      "name":"Walter Hill"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0639321/",
+      "name":"Dan O'Bannon"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0795953/",
+      "name":"Ronald Shusett"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000116/",
+      "name":"James Cameron"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0000756/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0132161/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0041067/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0142386/"
+    }
+  ],
+  "description":"Aliens is a movie starring Sigourney Weaver, Michael Biehn, and Carrie Henn. Ellen Ripley is rescued by a deep salvage team after being in hypersleep for 57 years. The moon that the Nostromo visited has been colonized, but contact...",
+  "datePublished":"1986-07-18",
+  "keywords":"alien,rescue mission,soldier,monster,death of daughter",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":628188,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0090605/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"carflo"
+    },
+    "dateCreated":"2004-12-08",
+    "inLanguage":"English",
+    "name":"Gets better every time I see it",
+    "reviewBody":"I am just going to add my voice to the chorus of praise for this movie. It is as near to being perfect as any I have ever seen. I will not say that it is much better than Alien - which is just about near to being perfect also. But I do love all the characters in this movie. I have rarely seen a movie where all the characters were so well developed. Even most serious dramas seldom develops each character so completely. None of these characters are stereotypes even Paul Reiser as Burke, although the slimy company/government man villain is a prerequisite in disaster type movies. I would almost say that my favorite is Michael Beihn as Hicks, just because I like his work & consider him to be underrated. But I also like Lance Henriksen as Bishop, William Hope as Lt. Gorman, Bill Paxton as Hudson, and of course, Jenette Goldstein as Vasquez. I liked all of these characters. I cared about their lives & deaths. The final scene for Gorman & Vasquez still chokes me up after seeing it many times. \n\nI am not ignoring Sigourney Weaver or Carrie Henn. Ripley is the template for the modern action heroine. In the 24 years since Alien, few have been able to measure up to Sigourney Weaver's Ripley. Even in Alien 3 & 4, Ripley was still powerful, despite the 3ed rate quality of the movies. As for Carrie Henn as Newt, she was the emotional heart of Aliens. Cameron's ability to develop well rounded characters does not detract from his ability to create great action scenes or to scare the audience out of a several years of growth.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H17M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Aliens",
+    "embedUrl":"/video/imdb/vi368744473",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BOTUxNTQ1YzItYzVmNS00YWEzLTljNTEtYWJkZTVlMjJlZmQ4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BOTUxNTQ1YzItYzVmNS00YWEzLTljNTEtYWJkZTVlMjJlZmQ4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer 5 for Aliens",
+    "uploadDate":"2010-12-19T06:05:43Z"
+  }
+}

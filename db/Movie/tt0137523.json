@@ -1,0 +1,121 @@
+{
+  "id":"  http://www.imdb.com/title/tt0137523/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0137523/",
+  "name":"Fight Club",
+  "image":"https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":"Drama",
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000093/",
+      "name":"Brad Pitt"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001570/",
+      "name":"Edward Norton"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001533/",
+      "name":"Meat Loaf"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0340260/",
+      "name":"Zach Grenier"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000399/",
+    "name":"David Fincher"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0657333/",
+      "name":"Chuck Palahniuk"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0880243/",
+      "name":"Jim Uhls"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0017497/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0021592/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0038102/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0064947/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0088185/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0117688/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0043164/"
+    }
+  ],
+  "description":"Fight Club is a movie starring Brad Pitt, Edward Norton, and Meat Loaf. An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+  "datePublished":"1999-10-15",
+  "keywords":"surprise ending,fighting,insomnia,anti establishment,multiple personality disorder",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":1773434,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.8"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0137523/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"sebastiandelgah"
+    },
+    "dateCreated":"2018-10-11",
+    "inLanguage":"English",
+    "name":"G.O.A.T.",
+    "reviewBody":"This movie is one of the greatest of all time. It is adapted from a book by Chuck Palahniuk. This movie has very interesting themes like emasculation, violence, chaos, societal breakdown, isolation, the threat of death and consumerism. The direction is sublime. Perfect cinematography, pacing and editing. The twists and nuances of the book are captured perfectly. Also they did a good job with the inter-cuts. Brad Pitt and Edward Norton were the perfect choice to lead this movie. When you are watching the movie you just are glued to your seat, that is just how good it is.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT2H19M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Fight Club",
+    "embedUrl":"/video/imdb/vi781228825",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTNmYzllNWYtYzU1Yi00YWFmLTgwMzMtZmY4OGE3NzExNzEzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTNmYzllNWYtYzU1Yi00YWFmLTgwMzMtZmY4OGE3NzExNzEzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for Fight Club",
+    "uploadDate":"2011-01-01T06:12:45Z"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "id":"  http://www.imdb.com/title/tt0086879/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0086879/",
+  "name":"Amadeus",
+  "image":"https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+  "genre":[
+    "Biography",
+    "Drama",
+    "History",
+    "Music"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000719/",
+      "name":"F. Murray Abraham"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001371/",
+      "name":"Tom Hulce"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000931/",
+      "name":"Elizabeth Berridge"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0234541/",
+      "name":"Roy Dotrice"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001232/",
+    "name":"Milos Forman"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0787323/",
+      "name":"Peter Shaffer"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0787323/",
+      "name":"Peter Shaffer"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0537004/",
+      "name":"Zdenek Mahler"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0001757/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0061706/"
+    }
+  ],
+  "description":"Amadeus is a movie starring F. Murray Abraham, Tom Hulce, and Elizabeth Berridge. The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of...",
+  "datePublished":"1984-09-19",
+  "keywords":"opera,composer,classical composer,1800s,female stockinged leg",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":354270,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.3"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0086879/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"DRIAINCLARK"
+    },
+    "dateCreated":"2002-04-01",
+    "inLanguage":"English",
+    "name":"Ravishing in sound and vision",
+    "reviewBody":"The unseen star of this film is the Academy of St Martin's in the Field, London. Buy the soundtrack and you will be rewarded with some of the most stunning music you can hear. Mozart's music excells with brilliant treatment and dies with a bad performance. And that, after all, is what the film is about. Without his music, Mozart would be lost in time, a fate that the narrator of the story, the composer Salieri, saw as his own. Ironically, while Salieri has indeed been completely overshadowed by Mozart, his music still survives and has its followers.\n\nBut beyond the music this is an outstanding film. Set in the prettiest and most flamboyant century of the last millennium, it is visually stunning and the writer's portrayal of jealousy is perceptive. The casting of the Austrian King and courtiers, (indeed all the actors in this film) that Mozart needed to impress capture the gentility and courtesy of the time, and also subtly shows their growing indignation and impatience at Mozart's personality and behaviour; the presentation of Mozart as punk musician is probably the only failing in the film. As a theatrical device to show that genius can come in disastrous packages it succeeds well, but anyone with any historic sense of social ettiquette or manners will know that Mozart's sill y behaviour would be well wide of the truth, as might, perhaps, be the concept of Salieri as murderer-in-chief. Only in the final scenes is Mozart's brilliance as a composer truly explored in what amounts to a deconstruction of his final composition - his moving, uncompleted and poignant Requiem mass.\n\nAnother unintended star in this film are the candle lit sets and theatres of the 18th Century; their operas and drama ooze a magic  that is lacking in the present world and which modern producers might well try to reintroduce; so lovely are these buildings with their flickering lights and theatrical techniques that one is left desperate to to seek out these rare theatres to experience them.\n\nThis film leaves one breathless from its visual beauty, its magnificent score and the choreography, indeed, of the two together. Mozart's life had the air of tragedy, and his undoubted genius speaks to us now and forever. This film is a monument to the skills of the writer, maker, performers and, of course, Mozart's music. If you have not yet done so, see it."
+  },
+  "duration":"PT2H40M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Amadeus",
+    "embedUrl":"/video/imdb/vi2535496985",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMDJiOTBmMTctNGRkYS00MjJjLWFlZTAtNTg4MjRiZDQ4ZWY1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMDJiOTBmMTctNGRkYS00MjJjLWFlZTAtNTg4MjRiZDQ4ZWY1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for Amadeus",
+    "uploadDate":"2011-04-22T03:06:21Z"
+  }
+}

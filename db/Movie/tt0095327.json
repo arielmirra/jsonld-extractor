@@ -1,0 +1,105 @@
+{
+  "id":"  http://www.imdb.com/title/tt0095327/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0095327/",
+  "name":"Hotaru no haka",
+  "image":"https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+  "genre":[
+    "Animation",
+    "Drama",
+    "War"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0851302/",
+      "name":"Tsutomu Tatsumi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0794186/",
+      "name":"Ayano Shiraishi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0945312/",
+      "name":"Akemi Yamaguchi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0794002/",
+      "name":"Yoshiko Shinohara"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0847223/",
+    "name":"Isao Takahata"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0636435/",
+      "name":"Akiyuki Nosaka"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0847223/",
+      "name":"Isao Takahata"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0057589/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0048420/"
+    }
+  ],
+  "description":"Hotaru no haka is a movie starring Tsutomu Tatsumi, Ayano Shiraishi, and Akemi Yamaguchi. A young boy and his little sister struggle to survive in Japan during World War II.",
+  "datePublished":"1988-04-16",
+  "keywords":"older brother younger sister,homelessness,orphan,shelter,food",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":216509,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.5"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0095327/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Teebs2"
+    },
+    "dateCreated":"2006-01-03",
+    "inLanguage":"English",
+    "name":"Heartbreaking...",
+    "reviewBody":"This film proves without any doubt that animation isn't just suited to tales of fantasy, sci-fi or cartoon comedy and violence. This absolutely heartbreaking Japanese anime tells the story of a young boy, Seito and his younger sister, Setsuko, as they attempt to survive the American bombings on Japan in the last year of World War II.\n\nThe story itself, based on a true story, is powerful enough but the decision to animate the film truly elevates this film to a higher level. This would have been a powerful enough live action drama, along the lines of Spielberg's Empire of the Sun or even Schindler's List. However, the Studio Ghibli team, have brought an extraordinary amount of life to all the characters, but especially the young siblings. Now we're not talking realism as such here - the characters are in no way photo-realistic, they do have the usual characteristics of Japanese anime humans, large eyes and exaggerated expressions. What this achieves however is a heightened level of subtle nuances in expression which are arguably more powerful and provocative than anything a real-life actor may achieve. Some may claim this is overly manipulative or sentimental, but coupled with the characters movements and actions, it gives the characters such a strong, and very human, presence. You truly care for these kids, which is an astonishing achievement. The voice cast (original Japanese) contributes significantly here also.\n\nIt is the tiny moments which give this film so much power and emotional depth - from subtle expressions to brief scenes showing Seito playing with his sister at bath time, attempting, unsuccessfully, to cheer her up when she misses her mother. The painted backgrounds are works of art in themselves, just beautiful. And of course the scenes with the fireflies bring a touch of pure magic - a heightened innocent reality to contrast the horrific realities of the war.\n\nThe greatest achievement of this film is that, apart from a couple of obviously sentimental scenes, such as Setsuko's sobbing or illness, it doesn't force any false emotion on the viewer. It really comes from your involvement with the characters. It's completely honest to it's own story and even cuts off scenes abruptly, which could potentially have been milked for cheap sentiment. It often seems to say - This is what happened, you don't need to see anymore. Another of it's strengths is that it really doesn't comment on the politics of the war in any way, just the effects on innocent people.\n\nThis is an intensely moving film and a masterpiece of animation. If you aren't moved by these characters, you really need to check your pulse. 10/10",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT1H29M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Grave of the Fireflies",
+    "embedUrl":"/video/imdb/vi1377679385",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZTNmNWM4OWUtMTcxZi00ODA1LWE1NWMtOTk3Mjg3ZDIyYWI0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZTNmNWM4OWUtMTcxZi00ODA1LWE1NWMtOTk3Mjg3ZDIyYWI0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for Grave of Fireflies",
+    "uploadDate":"2018-03-21T17:43:26Z"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id":"  http://www.imdb.com/title/tt0072684/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0072684/",
+  "name":"Barry Lyndon",
+  "image":"https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg",
+  "genre":[
+    "Adventure",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "contentRating":"PG",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0641939/",
+      "name":"Ryan O'Neal"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001943/",
+      "name":"Marisa Berenson"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0535861/",
+      "name":"Patrick Magee"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0473228/",
+      "name":"Hardy Krüger"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000040/",
+    "name":"Stanley Kubrick"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000040/",
+      "name":"Stanley Kubrick"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0856842/",
+      "name":"William Makepeace Thackeray"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0025454/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0113563/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002663/"
+    }
+  ],
+  "description":"Barry Lyndon is a movie starring Ryan O'Neal, Marisa Berenson, and Patrick Magee. An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+  "datePublished":"1975-12-18",
+  "keywords":"gambler,stepfather stepson conflict,voice over narration,social climber,card playing",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":141152,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0072684/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Captain_Couth"
+    },
+    "dateCreated":"2004-11-03",
+    "inLanguage":"English",
+    "name":"The World of Stanley Kubrick: A young rapscallion makes good in 18th century Europe.",
+    "reviewBody":"Barry Lyndon (1975) has to be Stanley Kubrick's most realized project that he has ever taken. A big task for the maverick director. For a film like this to be made during the free wheeling seventies had to take some big stones. One must admire Mr. Kubrick for even trying to produce and direct such a complex and expensive film that had all the ear markings of a financial and personal disaster. Not only did Kubrick manage to out do his last epic \"2001\" but he has created a movie that not only showcases the untapped acting abilities of Ryan O'Neil, but a beautifully lensed film that uses minimal lighting , gorgeous sets, perfect balance, positioning and meticulous timing. I have never seen such a magnificent film such as this one. Every shot and frame plays out like an eighteenth century oil painting.\n\nA young Irish man of lower class has the strangest quirk of luck. After participating in an illegal duel, young Barry is forced to flee from his home village. After being accosted by some gentlemanly highway robbers, Barry winds up cross country and becomes a conscripted soldier. Rising in rank, Barry is sent to fight in the Seven's Year War. Whilst in battle he watches his friends and fellow soldiers being slaughtered in combat due to poor tactics and leadership. Having enough of this life of hardship and struggle, Barry uses his god given talents to do what he has to do in order to survive and become a man of proper social standing.\n\nI was very impressed with this movie. I've put off watching this film until recently. Some have told me how long and boring this movie was. Others have said it was pretty self serving and not worth watching. But after seeing part of it on T.C.M., I just had to find a copy of my own. The film is over three hours in length but they go by very quickly because Barry's story is so captivating. Kubrick poured his heart and soul into this film. The results are on the screen. He's clearly a master film maker. His reputation is cemented forever with this movie. Ryan O'Neil impressed the hell out me with his role as Barry Lyndon. He gives the character some dignity and depth that no other actor could have possibly given to the title role.\n\nOverall I would have to give this film one of my highest recommendations. This is one of my top ten films of all time. If people tell you not to watch this masterpiece ignore them. I advise you to get a copy and enjoy. For a film like this you need to set aside a weekend afternoon to fully appreciate a film such as this. Believe me you will not regret it.\n\nHighest recommendation possible.\n\nIt doesn't matter whether you watch it on D.V.D. or V.C.D. because the transfers are excellent on either format.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT3H5M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Barry Lyndon",
+    "embedUrl":"/video/imdb/vi247005465",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMmY4ZjQ3ZGQtNDZlYS00NzhhLThhZTktN2FjNThmZDUxNzU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMmY4ZjQ3ZGQtNDZlYS00NzhhLThhZTktN2FjNThmZDUxNzU5XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Theatrical Trailer from Warner Bros. Pictures",
+    "uploadDate":"2008-04-11T12:23:45Z"
+  }
+}

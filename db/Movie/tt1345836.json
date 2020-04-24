@@ -1,0 +1,131 @@
+{
+  "id":"  http://www.imdb.com/title/tt1345836/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt1345836/",
+  "name":"The Dark Knight Rises",
+  "image":"https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_.jpg",
+  "genre":[
+    "Action",
+    "Adventure"
+  ],
+  "contentRating":"PG-13",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000288/",
+      "name":"Christian Bale"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0362766/",
+      "name":"Tom Hardy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0004266/",
+      "name":"Anne Hathaway"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000198/",
+      "name":"Gary Oldman"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0634240/",
+    "name":"Christopher Nolan"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0634300/",
+      "name":"Jonathan Nolan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0634240/",
+      "name":"Christopher Nolan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0634240/",
+      "name":"Christopher Nolan"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0333060/",
+      "name":"David S. Goyer"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0004170/",
+      "name":"Bob Kane"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002663/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0159111/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0283444/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0147954/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0038332/"
+    }
+  ],
+  "description":"The Dark Knight Rises is a movie starring Christian Bale, Tom Hardy, and Anne Hathaway. Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City...",
+  "datePublished":"2012-07-19",
+  "keywords":"dc comics,batman character,terrorist plot,bruce wayne character,sequel",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":1455023,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt1345836/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"mindfreak25"
+    },
+    "dateCreated":"2012-12-11",
+    "inLanguage":"English",
+    "name":"I'm not a big batman fan or comic book reader, but this was something special",
+    "reviewBody":"-Minor Spoilers- First of all, why hate so much? The movie is not perfect, agreed. It's not the best movie ever, again agreed. However it's one of the best movies, and it's pretty damn good, even if it's not perfect. The plot is good, the action is good, cast is great, acting is great too, and the atmosphere the movie creates is fantastic! Ignore all the hate, and please go enjoy the film. And I don't understand, why are people comparing this movie to TDK? They're by the same director and they're part of the same trilogy, no comparison. TDK is too perfect, and we all know that. So why did ya all have your expectations sky high. Whenever a director releases a movie which is near-perfect, then it is hard for him/her to beat that movie. Sure he/she can make a movie equal to the other one, but to beat it, think again. Thus my expectations for TDKR were high, but not sky high. And guess what? It crossed my expectations, and it was really close to TDK. Tremendous film!\n\nLately I haven't developed an interest in comic book reading, and I really don't enjoy batman or to be honest I don't enjoy much of superhero films at all. Only a few. However I didn't only enjoy this movie as a superhero film, I also enjoyed it itself as a movie. The reason I don't watch many superhero films is because they're very tedious and repetitive, and there's no message. Here is how your everyday superhero film goes \"There is \"Whatever\" man. Some stupid person attempts to outsmart the _____man, and take over the city, and guess what? He fails, and ______ man gets respect for saving the city...the end\". TDKR was out of the ordinary. To be honest, the whole trilogy was \"Out of the box\" thinking, especially this and TDK. Both this and TDK made it to my Top 10 films of all-time, and many movies at this time don't even make it close.\n\nThe movie did have its problems as well, it was not perfect. One of the major concerns was the time. The movie had a near-3hr run time which was more than enough. There were some slow and boring parts at the beginning and middle of the film, but as the movie approached the ending, none of this really mattered. Also I didn't really like how Bane died. He was really bad-ass up until the end, where Catwoman whipped him out in 1 second. I was expecting another fight between Batman and Bane, only to find out something else? It was too fast of a death, and not only that, he was the villain of the film, how can you kill a villain in 1 second? And it was not even Batman who killed him, it was Catwoman? I personally wasn't expecting this at all.\n\n-Major Spoilers- The movie really kept you glued to the screen near the end. I really liked the plot twists and never expected some of them. Though some were predictable, but others weren't, IMO. For example, Batman surviving, and Talia escaping from the prison rather than Bane was pretty unpredictable. On the other hand, John Black turning out to be Robin, and Miranda Tate turning out to be Talia al Ghul was more predictable. I think there were some more plot twists, but I can't really remember, because I saw the full movie once, and that was 3 months back.\n\nAt first I thought Bane was the one who escaped from the prison, and was the son of Henri Ducard, but it turned out that it was Talia, and Bane was just a friend. This was the real shocker for me. I didn't really care much for the other plot twists, but this really shook me hard. I never expected this, in fact I even forgot about this up until the end. Also batman surviving? This was the second most unpredictable twist. At first I thought just maybe he survived, but after the funeral, I was sure that he was dead. Then he appears in Florence? This was pretty shocking as well.\n\nThe second half of the film was the best, because that's when the excitement began. I was very curious about what was going to happen next. After the explosion scenes, the suspense began to rise rapidly. Then the climax came all together very nicely.\n\nMy favourite parts of the film in the first half were the opening \"Plane Hijack\" scene, the \"Stock Exchange\" scene, and \"Bane vs Batman\" fight 1. In the second half my favourite scenes were the \"Football explosion\" scene, \"Bane vs Batman\" fight 2, and the final chase scene. Some of the other fight scenes involving Catwoman and Robin were pretty good too.\n\nFinal thoughts, I didn't expect much of this movie after TDK. TDK was perfect, and I thought this movie would be no where close, but it was pretty damn close. It was really good too. The action was great. The cast, acting, and dialogue were all fantastic. Especially the dialogue between Alfred and Bruce. Gary Oldman did a great job, not to mention that Joseph Gordon-Levitt did an amazing job as well. Tom Hardy turned out to be a great villain. Even though Bane's voice was kind of confusing, but it was pretty cool. Overall the whole movie includes some great action scenes, and runs a full circle completing TDK legend in an Epic way! \n\nFinal Rating 9/10.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H44M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Nokia Promotions Version",
+    "embedUrl":"/video/imdb/vi2376312089",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMTM2MjAxODE2MV5BMl5BanBnXkFtZTcwMDQ3ODgwOA@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMTM2MjAxODE2MV5BMl5BanBnXkFtZTcwMDQ3ODgwOA@@._V1_.jpg",
+    "description":"Watch the special Nokia promotional trailer for The Dark Knight Rises.",
+    "uploadDate":"2012-07-06T06:14:01Z"
+  }
+}

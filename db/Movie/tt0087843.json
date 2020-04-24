@@ -1,0 +1,151 @@
+{
+  "id":"  http://www.imdb.com/title/tt0087843/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0087843/",
+  "name":"Once Upon a Time in America",
+  "image":"https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "genre":[
+    "Crime",
+    "Drama"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000134/",
+      "name":"Robert De Niro"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000249/",
+      "name":"James Woods"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001527/",
+      "name":"Elizabeth McGovern"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001852/",
+      "name":"Treat Williams"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001466/",
+    "name":"Sergio Leone"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0340580/",
+      "name":"Harry Grey"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0073053/",
+      "name":"Leonardo Benvenuti"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0207401/",
+      "name":"Piero De Bernardi"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0575804/",
+      "name":"Enrico Medioli"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0033490/",
+      "name":"Franco Arcalli"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0274853/",
+      "name":"Franco Ferrini"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001466/",
+      "name":"Sergio Leone"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0436757/",
+      "name":"Stuart Kaminsky"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002759/",
+      "name":"Ernesto Gastaldi"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0042559/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0002663/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0035468/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0066289/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0021811/"
+    }
+  ],
+  "description":"Once Upon a Time in America is a movie starring Robert De Niro, James Woods, and Elizabeth McGovern. A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again...",
+  "datePublished":"1984-05-23",
+  "keywords":"corrupt police,police corruption,pig,bacon,doggystyle sex",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":295025,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.4"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0087843/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"oldguybc"
+    },
+    "dateCreated":"2005-01-11",
+    "inLanguage":"English",
+    "name":"A masterpiece and an atrocity!",
+    "reviewBody":"This movie was a masterpiece. It ranks as one of the very best in film history, if not the best. At Cannes people yelled and screamed, couldn't believe just how good it was. The profound atrocity was a combination of two completely brainless acts, the first being Zack Stienberg's hatchet job for US release, supposedly requested by either Warner Bros or The Ladd Company (one blames the other now) and the second was the lack of anyone (and everyone)to post anything in this great film for Academy Award consideration, of which probably as many as 14 nominations and 4 sure- fire Oscars went down the toilet. \n\nThese atrocities were perpretrated, I believe, with two reasons in mind, the first to preserve the dim hope of \"The Killing Fields\" (Daly & Semel's baby) of garnering any awards... and second, to try to boost up the non- foreign chances. Warner Bros knew just how good it was, that goes without saying. The problem was... they already had their share of cash cows and they wanted a real star- studded showpiece to point at. The small minds already had their showpiece but, alas, it was an \"eye- tallyan\" flick with a producer/director who didn't communicate well. The hatchet job was carefully planned, I believe... the so- called \"sneak preview\" was done in Canada and not well received, probably due to the fact that the sound system was over- amped and the film 'broke' 3 or 4 times during the showing, what a farce! The awards snub started with the GGs and carried right thru. What a myriad of stupid and utterly pointless decisions! Must have literally tore Leone's heart out when he learned what they had done. \n\nMorricone's score was a sure- thing Oscar, no question about it. DeNiro and maybe even Woods would have fought it out for best actor, Tuesday Weld as supporting actress, any one of 4 or 5 other supporting actors & actresses, most notably William Forsythe, cinematography, film editing, the list goes on & on... (best picture...Amadeus???? give me a break!!) Just what in the hell were they thinking? \n\nSaw it in a theater 20 years ago and then again on TV about 1998 and finally in its correct format(on DVD) about two years ago and again last week at a friend's house. Stirred up all those angry thoughts all over again... sorry about that, getting' old & crotchety.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT3H49M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Once Upon a Time in America",
+    "embedUrl":"/video/imdb/vi2777395225",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BM2FkYzkxNDctNTFhZi00M2Y2LTg1MzUtYTFlMTU2NzVmMmJlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BM2FkYzkxNDctNTFhZi00M2Y2LTg1MzUtYTFlMTU2NzVmMmJlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer 2 for Once Upon A Time In America",
+    "uploadDate":"2015-05-13T04:49:15Z"
+  }
+}

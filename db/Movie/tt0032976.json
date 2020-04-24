@@ -1,0 +1,117 @@
+{
+  "id":"  http://www.imdb.com/title/tt0032976/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0032976/",
+  "name":"Rebecca",
+  "image":"https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "contentRating":"Approved",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000059/",
+      "name":"Laurence Olivier"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000021/",
+      "name":"Joan Fontaine"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001695/",
+      "name":"George Sanders"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000752/",
+      "name":"Judith Anderson"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0000033/",
+    "name":"Alfred Hitchcock"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0238898/",
+      "name":"Daphne Du Maurier"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0792845/",
+      "name":"Robert E. Sherwood"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0365661/",
+      "name":"Joan Harrison"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0531878/",
+      "name":"Philip MacDonald"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0389580/",
+      "name":"Michael Hogan"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0130901/"
+    }
+  ],
+  "description":"Rebecca is a movie starring Laurence Olivier, Joan Fontaine, and George Sanders. A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+  "datePublished":"1940-04-12",
+  "keywords":"widower,unhappy marriage,haunted by the past,castle,costume party",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":116464,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0032976/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"AlsExGal"
+    },
+    "dateCreated":"2017-01-15",
+    "inLanguage":"English",
+    "name":"A film with a nameless protagonist and an invisible namesake",
+    "reviewBody":"This was Alfred Hitchcock's first American-made film. Quite frankly, I'm amazed at how well Hitchcock \"got\" what American audiences wanted in their suspense films, hitting them out of the park from the moment he began working in the US. \n\nApart from being a tad bit long, this is a well made film. I love the inside of Mandalay and Sir Laurence Olivier played a wonderful mysterious and sullen Maximillian De Winter opposite his new wife, a beautiful and naive young Joan Fontaine who is never even given a name here, probably deliberately and in keeping with how mousy and \"second hand\" she feels about herself in relation to the first and late Mrs. De Winter, who is actually Rebecca from the title.\n\nOf course there is also George Sanders, playing the type of character he is best known for--sarcastic, snobby, self-assured, pompous, witty and verbose. He hits the nail on the head as Rebecca's \"cousin\" - so he calls himself. Of course the most eerie and unsettling character was Mrs. Danvers, Rebecca's housekeeper or \"maid in waiting.\" Danvers takes great pains in sabotaging the second Mrs. De Winter's marital relationship with Max de Winter,--even going as far as calmly urging her to to plunge to her death into the water from Rebecca's bedroom window at Mandalay. There are a couple of twists in this movie, but I won't give them away. It's best if you watch them unfold yourself in true Hitchcockian style.\n\nI will say that Rebecca, the first wife of Max de Winter, is NEVER seen, but we learn about her by what is said about her by the various characters, even going as far as seeing the untouched shrine of a bedroom maintained by Mrs. Danvers. But soon you learn that Rebecca was never the perfect wife Danvers and others make her out to be. The ending is a surprise in more way than one, and yet Mrs. Danvers gets the last word in her own way. A great movie by Alfred Hitchcock and David O. Selznick.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT2H10M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Rebecca",
+    "embedUrl":"/video/imdb/vi110100761",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BZDhmZGQ3NzMtNDgyYy00NDQ5LTk0MzUtMDc5OGY3NGEyYjFhXkEyXkFqcGdeQWptYw@@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BZDhmZGQ3NzMtNDgyYy00NDQ5LTk0MzUtMDc5OGY3NGEyYjFhXkEyXkFqcGdeQWptYw@@._V1_.jpg",
+    "description":"Home Video Trailer from Universal Studios Home Entertainment",
+    "uploadDate":"2008-04-11T14:39:40Z"
+  }
+}

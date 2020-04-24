@@ -1,0 +1,116 @@
+{
+  "id":"  http://www.imdb.com/title/tt0041959/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0041959/",
+  "name":"The Third Man",
+  "image":"https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Film-Noir",
+    "Mystery",
+    "Thriller"
+  ],
+  "contentRating":"Not Rated",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000080/",
+      "name":"Orson Welles"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001072/",
+      "name":"Joseph Cotten"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0885098/",
+      "name":"Alida Valli"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002145/",
+      "name":"Trevor Howard"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0715346/",
+    "name":"Carol Reed"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0001294/",
+      "name":"Graham Greene"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001294/",
+      "name":"Graham Greene"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000080/",
+      "name":"Orson Welles"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0466099/",
+      "name":"Alexander Korda"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0715346/",
+      "name":"Carol Reed"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0103018/"
+    }
+  ],
+  "description":"The Third Man is a movie starring Orson Welles, Joseph Cotten, and Alida Valli. Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+  "datePublished":"1949-10-12",
+  "keywords":"funeral,betrayal,faking one's death,rubble film,american abroad",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":152068,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0041959/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Lechuguilla"
+    },
+    "dateCreated":"2009-06-20",
+    "inLanguage":"English",
+    "name":"That Terrific B&W Cinematography",
+    "reviewBody":"In a bombed-out Vienna just after WWII, novelist Holly Martins (Joseph Cotten) arrives from America to renew a friendship with his childhood buddy, Harry Lime (Orson Welles). Much to the dismay of Holly, a freak auto accident has recently killed his friend, according to those who knew Harry.\n\nBut in searching for details of Lime's death, Holly gets contradictory stories that don't add up. One of the persons who knew Lime is an attractive woman named Anna Schmidt (Alida Valli) whose continued presence in the story invites suspicion. The film's plot has Holly searching for the truth about his friend, while trying to stave off a city detective, Major Calloway (Trevor Howard) who tries to persuade Holly to leave Vienna.\n\nThe film's story is okay. But what makes \"The Third Man\" really interesting is the B&W cinematography, by Robert Krasker. Unlike most films, camera movement here is restricted, so as to draw attention to each frame's geometry. Typically in this film, a frame is tilted at an angle so that both vertical and horizontal points of reference are off-kilter. Frame images thus become a series of diagonal straight lines and curves. Further, very high-contrast lighting, especially in outdoor scenes at night, creates a bizarre, almost nightmarish look and feel, and are suggestive of German Expressionism.\n\nAll of which results in a visual disorientation for viewers that parallels Holly's disorientation both in the streets of Vienna and in his understanding of the circumstances surrounding Lime's absence. In most outdoor scenes there's a conspicuous lack of crowds, a lack of hubbub one would expect in a bustling city. Instead, only a few secondary characters appear in night scenes. This sparseness in characters on the streets conveys the impression that hidden eyes are watching Holly, ready to pounce at any moment from out of dark shadows.\n\n\"Everybody ought to (be) careful in a city like this\", says one character to Holly, as an implied threat. Soon, a man who wants to give Holly some valuable information is murdered.\n\nThe script's dialogue is quite impressive, with some interesting lines and points of view. Some of the dialogue is in German, which enhances authenticity.\n\nThe film's acting and editing are very, very good. Adding a slightly romantic, and at times melancholy, tone to this dark film is the music of the \"zither\", an instrument similar to a guitar, but sounding quite different.\n\nMy one complaint about this film is that it's hard to keep tabs on some of the background characters. Trying to connect names with faces can be difficult, resulting in some confusion.\n\n\"The Third Man\" tells an interestingly bleak story, set in a bleak, desolate urban environment, rendered truly mesmerizing by the creatively surreal B&W cinematography.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"9"
+    }
+  },
+  "duration":"PT1H33M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"The Third Man: 4k Restoration",
+    "embedUrl":"/video/imdb/vi992655385",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMWUxNTQxYzAtMWFiMC00YTFiLTlmZTgtNzBmMjhmNjg5OWI3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMWUxNTQxYzAtMWFiMC00YTFiLTlmZTgtNzBmMjhmNjg5OWI3XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for The Third Man: 4k Restoration",
+    "uploadDate":"2018-03-10T17:22:38Z"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id":"  http://www.imdb.com/title/tt0031381/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0031381/",
+  "name":"Gone with the Wind",
+  "image":"https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+  "genre":[
+    "Drama",
+    "History",
+    "Romance",
+    "War"
+  ],
+  "contentRating":"Passed",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0000022/",
+      "name":"Clark Gable"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0000046/",
+      "name":"Vivien Leigh"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0593775/",
+      "name":"Thomas Mitchell"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0641966/",
+      "name":"Barbara O'Neil"
+    }
+  ],
+  "director":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0281808/",
+      "name":"Victor Fleming"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0002030/",
+      "name":"George Cukor"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0939992/",
+      "name":"Sam Wood"
+    }
+  ],
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0593565/",
+      "name":"Margaret Mitchell"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0397608/",
+      "name":"Sidney Howard"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0308177/",
+      "name":"Oliver H.P. Garrett"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0372942/",
+      "name":"Ben Hecht"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0842485/",
+      "name":"Jo Swerling"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0886668/",
+      "name":"John Van Druten"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0130901/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0007143/"
+    }
+  ],
+  "description":"Gone with the Wind is a movie starring Clark Gable, Vivien Leigh, and Thomas Mitchell. A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+  "datePublished":"1940-01-17",
+  "keywords":"black stereotype,narcissistic personality disorder,brothel,pantaloon,threat to crush skull",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":276728,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.1"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0031381/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"jotix100"
+    },
+    "dateCreated":"2005-02-22",
+    "inLanguage":"English",
+    "name":"Georgia on my mind",
+    "reviewBody":"This film shows the best of the American cinema. Whether we like the film, or not, one has to recognize the greatest achievement, perhaps, of the creative talent of the people working in the movie industry. \"Gone with the Wind\" represents a monumental leap, as well as a departure, for the movies, as they were done prior to this film.\n\nThe vision of David O. Selznick, the power behind bringing Margaret Mitchell's massive account about the South, before and after the Civil War, pays handsomely with the film that Victor Fleming directed. This movie will live forever because it reminds us of how this great nation came into being, despite the different opinions from the two stubborn factions in the war.\n\n\"Gone with the Wind\" brought together the best people in Hollywood. The end result is the stunning film that for about four hours keep us interested in the story unfolding in the screen. Of course, credit must be due to the director, Victor Fleming, and his vision, as well as the adaptation by Sydney Howard, who gave the right tone to the film. The gorgeous cinematography created by Ernest Haller gives us a vision of the gentle South before the war, and the Phoenix raising from the ashes of a burned Atlanta. The music of Max Steiner puts the right touch behind all that is seen in the movie.\n\nOne can't conceive another Scarlett O'Hara played by no one, but Vivien Leigh. Her beauty, her sense of timing, her intelligent approach to this role, makes this a hallmark performance. Ms. Leigh was at the best moment of her distinguished career and it shows. Scarlett goes from riches to rags, back to riches again and in the process finds an inner strength she didn't know she possessed. Her impossible love for Ashley will consume her and will keep her away from returning the love to the man that really loves her, Rhett.\n\nThe same thing applies to the Rhett Butler of Clark Gable. No one else comes to mind for playing him with the passion he projects throughout the movie. This is a man's man. Captain Butler was torn between his loyalty to the cause of the South and his sense of decency. His love for Scarlett, the woman he knows is in love with a dream, speaks eloquently for itself.\n\nThe other two principals, Olivia de Havilland and Leslie Howard, give performances that are amazing to watch. Ms. de Havilland's Melanie Hamilton is perfect. Melanie is loyal to the woman that does everything to undermine her marriage to Ashley. Mr. Howard's Ashley gives a perfect balance to the man in love with his wife, while Scarlett keeps tempting him.\n\nThe rest of the cast is too numerous to make justice to all the actors one sees on the screen, but omitting the contribution of Hattie McDaniel to the film would be sinful. Ms. McDaniel was such a natural actress that she is excellent no matter in what movie she is playing. This huge talent is a joy to watch.\n\nComments to this forum express their objections to the way the race relations play in the movie, but being realistic, this movie speaks about the not too distant past where all kinds of atrocities, such as the slavery, were the norm of the land. While those things are repugnant to acknowledge, in the film, they are kept at a minimum. After all, this film is based on a book by one of the daughters of that South, Margaret Mitchell, who is presenting the story as she saw it in her mind, no doubt told to her from relatives that lived in that period of a horrible page in the American history.\n\nEnjoy this monumental classic in all its splendor.",
+    "reviewRating":{
+      "@type":"Rating",
+      "worstRating":"1",
+      "bestRating":"10",
+      "ratingValue":"10"
+    }
+  },
+  "duration":"PT3H58M",
+  "trailer":{
+    "@type":"VideoObject",
+    "name":"Gone with the Wind: 75th Anniversary Ultimate Collector's Edition",
+    "embedUrl":"/video/imdb/vi581873433",
+    "thumbnail":{
+      "@type":"ImageObject",
+      "contentUrl":"https://m.media-amazon.com/images/M/MV5BMjRjOTQ5NjYtOGM0Mi00MDBkLWE1N2MtZTRhNzg4Mzk1YjQ1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg"
+    },
+    "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BMjRjOTQ5NjYtOGM0Mi00MDBkLWE1N2MtZTRhNzg4Mzk1YjQ1XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_.jpg",
+    "description":"Trailer for Gone with the Wind",
+    "uploadDate":"2014-09-20T04:27:35Z"
+  }
+}

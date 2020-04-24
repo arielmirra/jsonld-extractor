@@ -1,0 +1,87 @@
+{
+  "id":"  http://www.imdb.com/title/tt0060107/",
+  "@context":"http://schema.org",
+  "@type":"Movie",
+  "url":"/title/tt0060107/",
+  "name":"Andrey Rublev",
+  "image":"https://m.media-amazon.com/images/M/MV5BMjhkN2Q3MzctNzJiOC00OTc5LWIwOWYtNWRiYWUyMDk0MGZiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+  "genre":[
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "contentRating":"R",
+  "actor":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0813463/",
+      "name":"Anatoliy Solonitsyn"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0487553/",
+      "name":"Ivan Lapikov"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0342458/",
+      "name":"Nikolay Grinko"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0785108/",
+      "name":"Nikolay Sergeev"
+    }
+  ],
+  "director":{
+    "@type":"Person",
+    "url":"/name/nm0001789/",
+    "name":"Andrei Tarkovsky"
+  },
+  "creator":[
+    {
+      "@type":"Person",
+      "url":"/name/nm0464846/",
+      "name":"Andrey Konchalovskiy"
+    },
+    {
+      "@type":"Person",
+      "url":"/name/nm0001789/",
+      "name":"Andrei Tarkovsky"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0024010/"
+    },
+    {
+      "@type":"Organization",
+      "url":"/company/co0501778/"
+    }
+  ],
+  "description":"Andrey Rublev is a movie starring Anatoliy Solonitsyn, Ivan Lapikov, and Nikolay Grinko. The life, times and afflictions of the fifteenth-century Russian iconographer St. Andrei Rublev.",
+  "datePublished":"1971-12-24",
+  "keywords":"russian orthodox church,russia,painter,genius,silence",
+  "aggregateRating":{
+    "@type":"AggregateRating",
+    "ratingCount":42933,
+    "bestRating":"10.0",
+    "worstRating":"1.0",
+    "ratingValue":"8.2"
+  },
+  "review":{
+    "@type":"Review",
+    "itemReviewed":{
+      "@type":"CreativeWork",
+      "url":"/title/tt0060107/"
+    },
+    "author":{
+      "@type":"Person",
+      "name":"Gary-161"
+    },
+    "dateCreated":"2000-02-01",
+    "inLanguage":"English",
+    "name":"Bloody Tarkovsky!",
+    "reviewBody":"He has ruined cinema for me and this is one of the masterpieces that did it. Everytime you see one of his film's you proclaim: \"That's the best picture ever made!\" Which can't be true as that was the last Tarkovsky film you saw. I've seen this one many times at the cinema and is the best three hours of celluloid you're likely to see apart from Solaris, which is Tarkovsky anyway.\n\nTarkovsky wanted to make art that would change people's lives and in this he succeeded. Although his life was troubled and his projects clawed into life randomly from the grip of his film studio bosses, when viewed as a whole they seem to be all part of some great plan that was meant to reach fruition right from the start. He believed that ultimately it is best to do things that deepen one's inner life rather than impoverish it. That may explain why you leave most Hollywood films feeling soiled. There are too many great scenes and moments in this astonishing and monumental work to mention so I won't. Suffice it to say it would have been fascinating to have seen what Tarkovsky would have made had he lived and returned from exile to his homeland. Recent events in Russia and the Balkans make this film even more vital and pertinent today.\n\nThe trouble is Tarkovsky's films have such extraordinary purity and spiritual depth that no other films seem able to satisfy one in the same way. They seem flat, lifeless and unable to compete. Why watch the let's-pretend-grown ups like Tarantino when you can watch a real grown up? So like I said, Bloody Tarkovsky. He has ruined cinema for me."
+  },
+  "duration":"PT3H25M"
+}
