@@ -1,4 +1,5 @@
-import models.extractors.{ImdbExtractor, LaNacionExtractor}
+import IMDBRunner.{extractor, links}
+import models.extractors.{Extractor, ImdbExtractor, LaNacionExtractor}
 
 import scala.io.Source
 
@@ -6,7 +7,7 @@ import scala.io.Source
 object IMDBRunner extends App {
     val extractor = ImdbExtractor()
     val links = Source.fromFile("src/main/scala/resources/imdb-links.txt").getLines.toList
-    links.foreach(url => {
+    Extractor.extract(links, extractor).foreach(json => {
 
     })
 }
@@ -15,5 +16,7 @@ object IMDBRunner extends App {
 object LNRunner extends App {
     val extractor = LaNacionExtractor()
     val links = Source.fromFile("src/main/scala/resources/la-nacion-links.txt").getLines.toList
-    links.foreach(extractor.extract)
+    Extractor.extract(links, extractor).foreach(json => {
+
+    })
 }

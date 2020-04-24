@@ -1,12 +1,10 @@
 package models.extractors
 
-import models.JsonLD
 import net.liftweb.json.JsonAST.JValue
 import net.liftweb.json.parse
 
 trait Extractor {
-    def extract(url: String): JsonLD
-    def extract(urls: Seq[String]): Seq[JsonLD]
+    def extract(url: String): String
 }
 
 object Extractor {
@@ -15,5 +13,14 @@ object Extractor {
         val jsonId = parse(stringId)
         val result = jsonId merge json
         result
+    }
+
+    def extract(urls: Seq[String], extractor: Extractor): Seq[String] = {
+        var jsons = Seq[String]()
+        urls.foreach(url => {
+            val newJsonLd = extractor.extract(url)
+            jsons = newJsonLd +: jsons
+        })
+        jsons
     }
 }
