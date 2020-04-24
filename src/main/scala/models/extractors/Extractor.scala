@@ -4,7 +4,7 @@ import net.liftweb.json.JsonAST.JValue
 import net.liftweb.json.parse
 
 trait Extractor {
-    def extract(url: String): String
+    def extract(url: String): JValue
 }
 
 object Extractor {
@@ -15,8 +15,8 @@ object Extractor {
         result
     }
 
-    def extract(urls: Seq[String], extractor: Extractor): Seq[String] = {
-        var jsons = Seq[String]()
+    def extract(urls: Seq[String], extractor: Extractor): Seq[JValue] = {
+        var jsons = Seq[JValue]()
         urls.foreach(url => {
             val newJsonLd = extractor.extract(url)
             jsons = newJsonLd +: jsons
