@@ -1,7 +1,7 @@
 package utils
 
 import java.io.{File, PrintWriter}
-import net.liftweb.json.{DefaultFormats, JValue, prettyRender}
+import net.liftweb.json.{DefaultFormats, JValue, prettyRender, parse}
 
 object Database {
 
@@ -29,10 +29,24 @@ object Database {
         }
     }
 
-    def getId(json: JValue): String = {
+    private def getId(json: JValue): String = {
         val url = (json \ "id").values.toString
         if (url.last == '/') url.split("/").dropRight(1).last
         else url.split("/").last
+    }
+
+    private def readFile(j: File): String = {
+        import java.nio.file.Files
+        Files.readString(j.toPath)
+    }
+
+    private def getListOfFiles(dir: String): List[File] = {
+        val d = new File(dir)
+        if (d.exists && d.isDirectory) {
+            d.listFiles.filter(_.isFile).toList
+        } else {
+            throw new IllegalArgumentException("folder path is wrong")
+        }
     }
 
     def save(items: Seq[JValue], path: String, format: String): Unit = {
@@ -41,17 +55,16 @@ object Database {
         })
     }
 
-    def readFile(j: File): String = {
-        import java.nio.file.Files
-        Files.readString(j.toPath)
-    }
-
-    def getListOfFiles(dir: String): List[File] = {
-        val d = new File(dir)
-        if (d.exists && d.isDirectory) {
-            d.listFiles.filter(_.isFile).toList
-        } else {
-            throw new IllegalArgumentException("folder path is wrong")
+    def getContainerResource(name: String): String = {
+        try{
+            val files = getListOfFiles(s"db/$name")
+            var jsons = ""
+            files.foreach(f => {
+                jsons += readFile(f) + ",\n"
+            })
+            jsons
+        }catch {
+            case e: IllegalArgumentException => s"resource $name not found"
         }
     }
 }
