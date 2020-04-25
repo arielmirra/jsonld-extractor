@@ -49,21 +49,62 @@ object Database {
         }
     }
 
+    private def getIdsList(containerContent: List[JValue]): String = {
+        var result = ""
+        containerContent.foreach(json => {
+            val id =
+                s"""
+                   |        {
+                   |            "@id": "${(json \ "id").values.toString}"
+                   |        },""".stripMargin
+            result += id
+        })
+        result
+    }
+
+    private def getContainerString(containerName: String, containerContent: List[JValue]): String = {
+        val content = getIdsList(containerContent)
+        s"""
+           |{
+           |    "@id": "http://localhost:8080/$containerName",
+           |    "@type": [
+           |        "http://www.w3.org/ns/ldp#BasicContainer"
+           |    ],
+           |    "http://purl.org/dc/terms/title": [
+           |        {
+           |            "@value": "Container of $containerName resources"
+           |        }
+           |    ],
+           |    "http://www.w3.org/ns/ldp#contains": [
+           |        ${content dropRight 1}
+           |    ]
+           |}
+           |""".stripMargin
+    }
+
     def save(items: Seq[JValue], path: String, format: String): Unit = {
         items.foreach(item => {
             if (item != null) writeFileContent(new File(path + getId(item) + format), prettyRender(item))
         })
     }
 
-    def getContainerResource(name: String): String = {
-        try{
+    def getContainerResource(container: String, resource: String): String = {
+        try {
+            val files = getListOfFiles(s"db/$container")
+            val resourceOptional = files.find(f => f.getName.equals(resource + ".json"))
+            if (resourceOptional.isDefined) readFile(resourceOptional.get)
+            else throw new IllegalArgumentException
+        } catch {
+            case e: IllegalArgumentException => s"resource $resource not found"
+        }
+    }
+
+    def getContainer(name: String): String = {
+        try {
             val files = getListOfFiles(s"db/$name")
-            var jsons = ""
-            files.foreach(f => {
-                jsons += readFile(f) + ",\n"
-            })
-            jsons
-        }catch {
+            val jsons = files.map(f => parse(readFile(f)))
+            getContainerString(name, jsons)
+        } catch {
             case e: IllegalArgumentException => s"resource $name not found"
         }
     }
