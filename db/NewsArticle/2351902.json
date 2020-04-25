@@ -1,0 +1,43 @@
+{
+  "id":"http://www.lanacion.com.ar/2351902",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"La emisi&#243;n y otras alternativas para financiar el gasto fiscal, seg&#250;n los economistas",
+  "url":"https://www.lanacion.com.ar/economia/inflacion-la-emision-unica-alternativa-financiamiento-cubrir-nid2351902",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/74/3215474w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/74/3215474w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"09/04/2020 05:30:00 p.m.",
+  "datePublished":"09/04/2020 05:30:00 p.m.",
+  "dateModified":"10/04/2020 18:07:43",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/economia",
+  "articleSection":"Economía",
+  "author":[
+    "Sofía Diamante"
+  ],
+  "creator":[
+    "Sofía Diamante"
+  ],
+  "keywords":[
+    "Inflación y precios",
+    "Comunidad de Negocios"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nSin un mercado de capitales profundo, con nulo acceso al financiamiento externo y con los ingresos tributarios deteriorados por el freno de la actividad económica, los economistas señalan que la única alternativa que utilizará el Gobierno para financiar el mayor déficit fiscal es emitir dinero para asistir al Tesoro. Sin embargo, algunos analistas proponen otras alternativas, como pedirle al FMI los US$13.000 millones restantes del acuerdo stand-by o securitarizar los paquetes impostivos.\n'La Argentina está prácticamente en default, no consigue crédito externo ni interno, y solo puede financiarse emitiendo dinero', analizó Sebastián Galiani, ex viceministro de Economía y profesor de la Universidad de Maryland, a través de una conferencia por Zoom.\n'Hoy, la cantidad de dinero en circulación representa el 7% del producto. Eso tenderá a duplicarse y la inflación este año será récord. Pero la preocupación no es la inflación, sino cómo será repartido entre los gobernadores y municipios, ya que también sufrirán fuertes déficit fiscales y dependerán del Poder Ejecutivo para financiarse', dijo el economista, que prevé un rojo primario de 6% del PBI.\nLuego sugirió que el Gobierno le puede pedir al Fondo los US$13.000 millones que todavía restan del acuerdo. 'Eso vale oro, equivale a 3 puntos del producto. Antes de la pandemia, el Gobierno no quería hacer un programa razonable, que requiriera esfuerzo fiscal. Por lo tanto el FMI no iba a dar el crédito. Ahora, con el coronavirus, el FMI no pedirá ajuste fiscal este año. Solo van a pedir que arreglen la deuda con el sector privado', analizó, y dijo que la Argentina 'no puede pagarle a nadie por dos años'.\nEn otra videoconferencia realizada con periodistas, Miguel Arrigoni, socio de First Capital Group, destacó que todos los países están adoptando paquetes de estímulo, que financian con emisión o con el mercado interno. 'Todos le van a dar a la 'maquinita'. En la Argentina no hay financiamiento externo ni genuino, y el sistema bancario no existe, es puramente transacciconal, no tienen como fin el financiamiento de las empresas', comentó.\nAdemás sugirió que el Gobierno genere mecanismos de solvencia fiscal novedosos, como que la AFIP securitice sus créditos o que el Banco Central establezca un programa de garantías para créditos corporativos con emisión.\n'Hay que cuidar las reservas, que es el respaldo de la sobreemisión. Con los acreedores externos se podría llegar a un standstill , como se llama en la jerga. Significa quedarnos un año como estamos, y en seis meses vemos cómo se reestructura. ¿Qué reprogramación se puede ofrecer ahora si no saben cuánto van a recaudar?', preguntó.\nPor su parte, Leonardo Leiderman, economista investigador de la Universidad de Tel Aviv, realizó una conferencia sobre el impacto de la pandemia en la economía internacional, y señaló que la pregunta es cómo será la próxima etapa, cuando la crisis que arrancó como una de salud se convierta en una crisis financiera. 'Hay miedo de qué pasará: cómo se logrará un ajuste fiscal o una inflación moderada dada esta gran emisión monetaria que está habiendo en todos los países del mundo', indicó.\nY agregó que el costo de la cuarentena es inimaginable. 'Hay un trade off de que si queremos 100% de seguridad médica, hay que prolongar la cuarentena mucho más, pero eso no es sostenible desde el punto de vista económico y social', comentó.\nFinalmente, el economista nacido en Córdoba indicó que la Argentina debe 'evitar un default, una quiebra desordenada'. 'Se debe llegar a un acuerdo para postergar los pagos de capital por dos o tres años y ver qué se puede hacer con los pagos de cupones. El país tiene que normalizar su situación y comenzar a crecer antes de empezar a pagar la deuda. Hay consenso de todos los economistas sobre esto. Pero hasta ahora no vimos un plan económico articulado del Gobierno que sea claro y creíble', dijo Leiderman.\n'En la negociación es muy legítimo que los inversores del exterior pegunten cuál es el modelo de crecimiento económico de la Argentina. Las condiciones iniciales del Gobierno fueron muy desfavorables y ahora, con la complicación del coronavirus, es más difícil articular algún tipo de hoja de ruta. Pero la primera pregunta que hacen los inversores al negociar es cómo piensa el Gobierno que este país se moverá para adelante en los próximos años', concluyó."
+}

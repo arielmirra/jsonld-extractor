@@ -1,0 +1,45 @@
+{
+  "id":"http://www.lanacion.com.ar/2351954",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus en la Argentina: el PAMI compr&#243; el litro de alcohol en gel a m&#225;s de mil pesos",
+  "url":"https://www.lanacion.com.ar/sociedad/coronavirus-argentina-pami-compro-litro-alcohol-gel-nid2351954",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/55/3230455w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/55/3230455w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"07/04/2020 10:23:00 p.m.",
+  "datePublished":"07/04/2020 10:23:00 p.m.",
+  "dateModified":"08/04/2020 13:11:03",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/sociedad",
+  "articleSection":"Sociedad",
+  "author":[
+    "José María Costa"
+  ],
+  "creator":[
+    "José María Costa"
+  ],
+  "keywords":[
+    "Sociedad",
+    "Coronavirus",
+    "Coronavirus en la Argentina",
+    "Hoy"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nUn día después del escándalo por la compra en el Ministerio de Desarrollo Social de alimentos con sobreprecios, se conoció que el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados (PAMI), adquirió por un precio de casi el doble del mercado un lote de alcohol en gel para el Hospital Cesar Milstein.\nBajo el expediente EX-2020-17139037, que fue difundido por el sitio periodismoypunto , el PAMI hizo la 'contratación directa por urgencia' para comprar 1500 sachet de alcohol en gel de 800 milímetros a la empresa Servicios para la Higiene SA por el 1.629.855,00. El valor de cada uno es de $1086,57. Un producto similar en el mercado minorista se consigue por debajo de los $500.\nLA NACION habló el PAMI para consultar sobre los precios de la licitación. Adelantaron que se presentará un informe detallado del motivo por el cual se hizo esta compra y por esos precios. Entre los motivos estaría que esos sachets son los indicados para los dispensadores que ya se encuentran instalados. 'No se puede dejar a los quirófanos sin alcohol en gel en este contexto especial', detalló la fuente consultada y remarcó: 'Son para el Milstein, que se está poniendo a punto para esta contingencia. La especificidad del modelo de dispenser en el Milstein hace del insumo uno específico y no tan fácil de encontrar. Una búsqueda actual en Mercado Libre no arroja resultados'.\nLuego, Luana Volnovich , titular del organismo, salió a defender, en diversas entrevistas periodísticas difundidas anoche y esta mañana, la contratación y remarcó que se trató de una información con 'mala fe o mucha ignorancia'.\nEn el expediente se aclara que 'teniendo en cuenta el precio y calidad de lo ofrecido' se avanzaba con la contratación directa para esta compra, que recibió críticas de diversos sectores por el valor de uno de los insumos básicos para la prevención de la pandemia.\nCuando comenzaban a tomarse medidas para evitar la suba de precios en diferentes artículos que serían centrales durante la pandemia, el Gobierno puso el foco en los precios del alcohol en gel.\nIncluso, el Ministerio de Desarrollo Productivo el 12 de marzo pasado publicó en el Boletín Oficial la Resolución 86/2020 en la que retrotrae los precios del alcohol en gel al 15 de febrero y exige mantener su valor por 90 días. Asimismo, instaba a las empresas a incrementar la producción.\nDecenas de inspectores salieron a controlar farmacias, supermercados y almacenes para verificar que los precios volvieran a febrero. Además se labraron actas para aquellos lugares que no cumplieran con la resolución emitida por la cartera de Matías Kulfas.\n\n\n'No se trata de alcohol en gel en cualquier presentación, ni de cualquier calidad que puede comprarse a granel en bidones en Mercado Libre, sino de cartuchos específicos para los dispenser tipo Diversey que hay empotrados en el Milstein', explicaron a este medio desde el Instituto.\nLuego detallaron las características que tienen esos dispenser: les permite un uso racional del producto ya que entrega la cantidad recomendada de alcohol en gel. Además, evita la contaminación asociada a la recarga, optimiza las medidas de higiene en la manipulación del dispositivo, evita el robo y la vandalización de los frascos habituales.\n'El expediente de contratación, que se encuentra en forma completo subido al sistema GEDO, no permite la postdatación de documentos, incluye tanto el envío de pedidos de cotización a decenas de proveedores inscriptos en el registro de PAMI como también el aviso publicado en el portal Compr.ar, de acceso público. A estos proveedores se les exige una serie de requisitos contables y legales que deben cumplir para poder ser proveedores del Instituto', argumentaron desde el organismo que dirige Luana Volnovich.\nLuego remarcaron que la compra aún no se efectuó. 'El proceso de contratación se encuentra adjudicado, pero no se ha firmado la orden de compra. Es una contratación con orden de compra abierta para la provisión, a demanda, de dicho insumo. Es un precio para adquirir solo los bienes necesarios para el funcionamiento de uno de los establecimientos del PAMI (Hospital Milstein), que debió ser contratado en este momento de emergencia y escasez de ofertas'.\nPara tratar de cerrar la polémica desatada, desde el organismo aclararon que comenzaron a fabricar su propio alcohol para 'evitar ser rehenes de los que desabastecen y especulan con la salud de los argentinos y argentinas'.\nVolnovich estuvo cerca de la medianoche de ayer en Canal 9, con la periodista Viviana Canosa. Cuando se le consultó sobre los presuntos sobreprecios en la compra de alcohol en gel respondió, tajante: 'Absolutamente no. Es una mentira absoluta'.\nY se explayó: 'Yo estuve siguiendo esto todo el día y me genera mucho dolor e indignación porque la verdad que es una mentira absoluta, es falso. Compararon con mucha mala fe o mucha ignorancia, compararon peras con manzanas. Compararon el alcohol en gel que conocemos todos, que usamos en nuestras casas, que no conseguimos en todos lados, que es carísimo, que los vivos especulan, lo compararon con un alcohol en gel que se usa en los hospitales'.\nLa funcionaria explicó: 'El hospital del PAMI en la Capital Federal tiene estos dispenser que compró la gestión anterior; nosotros estamos obligados a comprar los repuestos que compró la gestión anterior. En una Argentina donde aplaudimos a nuestros médicos, yo también tengo la responsabilidad de cuidar a los profesionales del PAMI'.\n\n"
+}

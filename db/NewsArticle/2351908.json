@@ -1,0 +1,45 @@
+{
+  "id":"http://www.lanacion.com.ar/2351908",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus: las revelaciones del aislamiento",
+  "url":"https://www.lanacion.com.ar/opinion/miradas/las-revelaciones-del-aislamiento-nid2351908",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 02:02:58",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/opinion",
+  "articleSection":"Opinión",
+  "author":[
+    "Ariel Torres"
+  ],
+  "creator":[
+    "Ariel Torres"
+  ],
+  "keywords":[
+    "Manuscrito",
+    "GDA",
+    "Coronavirus",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nHoy es el vigésimo día del aislamiento preventivo y obligatorio. Por respeto a la ley y por seguridad personal, llevo, por lo tanto, 20 días sin salir de casa. Miento. Salí una vez a comprar alcohol; por fortuna, en una de las farmacias del barrio todavía tenían, porque habían tomado la sabia decisión de despachar solo una botella por cliente. La expedición no duró mucho más de 15 minutos.\nHoy es el vigésimo día del encierro y empieza a rodearme una sensación de irrealidad. Cada tanto me despierto sobresaltado. ¡Es miércoles y no entregué esta columna! Pero resulta que es domingo. O es miércoles, pero sí la envié, ayer. Ayer, martes.\nCon mi estudio convertido en una extensión de la Redacción, echo de menos la Redacción, y, a la vez, trabajo más horas. Con todo, y gracias a algunas reglas que fui aprendiendo a los golpes estos días y que enumeraré el sábado en mi columna de tecnología, he logrado que las jornadas discurran sin descarrilar en el caos. Esto, para nosotros, los periodistas, que nos despertamos cada mañana sin la menor idea de lo que nos deparará la agenda, es todo un alivio.\nHoy es el vigésimo día del encierro y hasta las mascotas perciben que ocurre algo inusual. Los gatos, que detestan cualquier alteración de sus rutinas -a tal punto que basta mover un mueble para que se acerquen a indagar las razones de tan inusitado agravio-, andan malhumorados e irritables. Para los perros, animales sociales y de cubil, el aislamiento, en cambio, ha puesto las cosas en su lugar. Ya no más esas incontables horas durante las que algunos miembros de la manada se ausentaban con rumbo incierto (salvo los fines de semana, y no siempre). Se los ve felices a causa de esto, y, por supuesto, han reforzado esa conducta tan perruna de seguirnos a todas partes. Todos juntos, como debe ser.\nDe a poco, observando y reflexionando, he aprendido, en estos días de reclusión, a ser agradecido. Me di cuenta de cuán afortunados somos por una larga lista de bendiciones que, sin embargo, damos por sentadas. Que ni siquiera valoramos. ¡Por favor, si son algo normal! Ver rostros humanos, por ejemplo. Fuera de tu cónyuge y tus hijos, quiero decir. ¿Dónde está ese privilegio ahora?\nAh, sí, en la pantallita.\nHoy es el vigésimo día de la cuarentena y ya hemos caído en la cuenta de que la pantallita no alcanza. Es mejor que nada, desde luego, pero el alma pide más. No son menos necesarios que el aire el apretón de manos, los largos y sentidos abrazos y las reuniones despreocupadas con amigos a los que siempre percibimos como afectos y no como posibles vectores. Incluso ahora.\nMe di cuenta de cuán afortunados somos cuando salir de casa con entera libertad no constituye una excepción. Cuando la charla inagotable sobre bueyes perdidos con un colega no viene pespunteada con hebras de miedo; miedo al contagio. Cuando no hay retenes en las calles. Cuando el salvoconducto, el racionamiento y el recuento de fallecidos son un mal recuerdo de tiempos atroces.\nHoy es el vigésimo día de mi encierro y admito que me afecta, pero admito también que es un mal menor en comparación con las consecuencias que están pagando las naciones que no supieron escuchar a tiempo la voz de los que saben. Tengo seres muy queridos en algunos de esos países. De qué inmensa bienaventuranza disfrutábamos cuando era normal viajar y vernos de nuevo.\nHoy es el vigésimo día, y empiezo a entender que no es el encierro lo que nos perturba, sino la falta de libertad. Cuando la tormenta pase, ojalá hayamos advertido que no estamos hechos para que nos digan qué hacer, adónde ir, con quiénes reunirnos, qué opinar. Son tiempos excepcionales, por eso el encierro ni es una afrenta ni viola la Constitución. Hay una batalla, y una gran cantidad de compatriotas la están pasando mucho peor, allá en el frente. Si todo sale bien, tengo la impresión de que volveremos a cantar nuestro grito sagrado con otra emoción, una emoción renovada."
+}

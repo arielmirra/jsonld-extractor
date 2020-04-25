@@ -1,0 +1,57 @@
+{
+  "id":"http://www.lanacion.com.ar/2351972",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Juli&#225;n Weich, sobre los programas con panelistas: Es como hacer una obra con extras y sin actores",
+  "url":"https://www.lanacion.com.ar/espectaculos/personajes/julian-weich-programas-panelistas-es-como-hacer-nid2351972",
+  "thumbnailUrl":"https://bucket1.glanacion.com/anexos/fotos/80/3230480w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket1.glanacion.com/anexos/fotos/80/3230480w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"07/04/2020 11:16:00 p.m.",
+  "datePublished":"07/04/2020 11:16:00 p.m.",
+  "dateModified":"08/04/2020 08:52:51",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/espectaculos",
+  "articleSection":"Espectáculos",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Julián Weich",
+    "Espectáculos"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nJulián Weich analizó a la televisión en tiempos de pandemia y apuntó hacia los ciclos con panelistas. Además, criticó a los noticieros al opinar que buscan 'psicotizar' a la gente y se mostró molesto con la medición del rating minuto a minuto.\nSin vueltas, Weich sentenció en declaraciones al ciclo radial Por si las moscas : 'Para mí, restó la llegada de panelistas a la tele. Es como hacer una obra de teatro con extras sin actores. No tienen contenidos que puedas decir: 'mirá que interesante'. Aparte, cualquiera es panelista. Hemos visto aparecer y desaparecer gente como si nada, es como los influencers, cualquiera puede ser influencer. No lo digo con maldad'.\nAl lanzar su opinión, además, justificó que la televisión cambió con el desembarco de Gran Hermano . 'No existía el 'panelismo' hasta ese momento. Gran Hermano tenía un programa en cada canal. El negocio era que esté en todos los canales, al negocio o al show de GH le servía, porque para llenar el espacio de tener que hablar del programa hacían falta panelistas', analizó.\nMás adelante, el conductor criticó a los noticieros y señaló: 'A veces siento que buscan darte las noticias para psicotizarte y que sientas miedo. Te ponen el 'urgente', de último momento, como si fuera a explotar una bomba. Hay conductores que gritan como si llegara el hombre a la luna en bolas y la verdad que no es necesario', se quejó.\nFinalmente, fue consultado sobre el minuto a minuto. 'En la época de Sorpresa y media miraba el minuto a minuto al otro día. No está mal. Está mal cuando te va al oído. ¡Cómo voy a echar a un invitado que está hace dos minutos al aire! Yo creo que es una batalla perdida hoy, eso no va a cambiar', finalizó."
+}

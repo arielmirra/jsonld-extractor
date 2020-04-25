@@ -1,0 +1,62 @@
+{
+  "id":"http://www.lanacion.com.ar/2351932",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Diego Cabot tiene raz&#243;n: Alberto, en vez de comentar, deber&#237;a investigar",
+  "url":"https://www.lanacion.com.ar/politica/diego-cabot-tiene-razon-alberto-vez-comentar-nid2351932",
+  "thumbnailUrl":"https://bucket1.glanacion.com/anexos/fotos/12/3230412w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket1.glanacion.com/anexos/fotos/12/3230412w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"07/04/2020 10:52:00 p.m.",
+  "datePublished":"07/04/2020 10:52:00 p.m.",
+  "dateModified":"08/04/2020 11:32:59",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/politica",
+  "articleSection":"Política",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Luis Majul"
+  ],
+  "creator":[
+    "Luis Majul"
+  ],
+  "keywords":[
+    "Alberto Fernández",
+    "Luis Majul",
+    "Actualidad",
+    "Política",
+    "LN+",
+    "Daniel Arroyo",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\n\n\nA continuación, la desgrabación de sus principales conceptos:\n\n\n\n\n\n"
+}

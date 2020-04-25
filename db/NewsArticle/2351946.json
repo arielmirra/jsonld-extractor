@@ -1,0 +1,58 @@
+{
+  "id":"http://www.lanacion.com.ar/2351946",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus. Impulsan el Impuesto Patria para hacer frente a la pandemia",
+  "url":"https://www.lanacion.com.ar/economia/coronavirus-impulsan-impuesto-patria-hacer-frente-pandemia-nid2351946",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/53/3230453w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/53/3230453w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 06:45:00 a.m.",
+  "datePublished":"08/04/2020 06:45:00 a.m.",
+  "dateModified":"08/04/2020 11:23:06",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/economia",
+  "articleSection":"Economía",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Francisco Jueguen"
+  ],
+  "creator":[
+    "Francisco Jueguen"
+  ],
+  "keywords":[
+    "Comunidad de Negocios",
+    "Coronavirus",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nUna de las patas sindicales del Frente de Todos en la Cámara de Diputados -en la que se incluye, entro otros, Hugo Yasky- presentó hoy un proyecto para crear el llamado 'Impuesto Patria', que buscaría ser cobrado a aquellas personas con patrimonios supuestamente elevados -bienes de $10 millones o con 'rentabilidad' de más de $50 millones- con el objetivo de utilizar esos recursos para fortalecer el sistema sanitario argentino en medio de la crisis de la pandemia por el coronavirus en la Argentina.\nLa iniciativa introduce cambios en los impuestos a los bienes personales y ganancias (alícuotas y bases) y luego establece cómo se repartirían esos 'dividendos'.\nLa decisión de este grupo de legisladores llega luego de los cacerolazos de la semana pasada, de una parte de la sociedad, para que los políticos se bajen los sueldos en medio de la caída de los ingresos de los trabajadores y las pérdidas que sufren las empresas privadas. En el Gobierno dijeron a este medio que no se trata de una iniciativa que hoy estén acompañando.\nEl proyecto fue creado por el diputado peronista y gremialista de La Bancaria, Carlos Cisneros. En contacto con LA NACION , Yasky, que aparece como uno de los firmantes, confirmó la iniciativa y dijo que él acompaña la idea, pero que espera que la misma se unifique con una propuesta 'superadora' que está trabajando el diputado Carlos Heller, que sería más moderada.\nOtros de los firmantes son los kirchneristas Vanesa Siley, Walter Correa, Pablo Carro, Facundo Moyano, Claudia Ormaechea, Patricia Mounier, María Rosa Martínez y Carlos Ponce, según el documento. Moyano, en contacto con este medio luego de publicada la información, señaló que no apoya ni firmó la iniciativa. 'A la compra o confección de material sanitario, (...) de materiales de cuidados intensivos y de (...) cualquier elemento o material químico que ayude a elaborar test para prevenir la propagación del virus Codiv-19 [sic]', afirma el artículo número cinco del proyecto.\n'El presente Proyecto de Ley tiene como objeto establecer un impuesto excepcional, en el marco del Aislamiento Preventivo y Obligatorio, con el fin de distribuir recursos esenciales para garantizar el bienestar socioeconómico de los sectores más vulnerables de nuestro País', afirma la iniciativa en sus fundamentos luego de presentar el articulado.\n'Debido a estos acontecimientos extraordinarios, sin precedentes, es central sostener la actividad económica y productiva para así garantizar la fuente de trabajo de todos los argentinos', indica tras enumerar las medidas impulsadas por el Gobierno, y agrega: 'Por ello, entendemos que se debe priorizar y garantizar el abastecimiento indispensable para el funcionamiento de las cadenas de provisión de los hogares y las empresas'\n'De esta manera se intenta contribuir a la situación de gravedad extraordinaria determinada por el Covid-19, estableciendo un impuesto excepcional a quienes tienen mayor capacidad contributiva. Se pide un esfuerzo mayor a quienes están en mejores condiciones. Regla básica de la solidaridad', cierran los fundamentos del proyecto del Frente de Todos.\nRápidamente, la iniciativa fue cuestionada por los expertos. 'Carece de técnica tributaria y conceptos jurídicos precisos', indicó a este medio el tributarista César Litvin. 'En Bienes Personales, entre el 2,25% de la ley de Solidaridad, y el 1,75% del impuesto Patria llegamos a un 4% sobre un impuesto patrimonial; es categóricamente confiscatorio' , criticó.\n'En Ganancias, la alícuota del 10% que se adiciona al 30% del impuesto general a las ganancias más el 7% sobre dividendos llega a una alícuota del 45%. Es el doble de los países con sistemas tributarios modernos o vecinos. Es un verdadero espantapájaros para cualquiera nueva inversión o emprendimiento', advirtió el tributarista.\n'Los dos impuestos que se proponen afectan el principio constitucional de no confiscatoriedad, según lo interpreta desde hace décadas la Corte Suprema, que dice que es confiscatorio un impuesto que tome más del 33% de la renta', dijo a este medio Maximiliano Batista, socio especialista en derecho tributario de MHR Abogados. 'Se propone, sin límite de tiempo, un impuesto suplementario a la ganancia del 10%, que se suma al 35% al que ya está gravada la ganancia. Eso hace un 45%, que es claramente confiscatorio'.\n'También se propone un impuesto sobre los bienes personales al 31 de marzo de 2020. En el caso de impuesto sobre el activo, como bienes personales, la confiscatoriedad ocurre cuando se supera el 33% de la renta presunta de los activos. Con estas alícuotas, porque hay que sumar la del normal y la del extraordinario, muy probablemente se supere el límite máximo y haya confiscatoriedad. Son el 2,5% para bienes en el país y 4% para bienes en el exterior. Seguramente esto genere presentaciones judiciales de los contribuyentes afectados', alertó el experto.\nPara el abogado especialista en derecho tributario Diego Fraga, el proyecto 'desconoce la realidad, ya que en el medio de una crisis sin precedentes y con el arrastre de los anteriores problemas económicos, pretende hacer pagar impuestos extraordinarios no sólo a los altos patrimonios, sino también a gran parte de la clase media, mediante una sobretasa de Bienes Personales para personas humanas y sucesiones indivisas'\n'Además, se crea un gravamen suplementario del impuesto a las ganancias que no distingue la situación actual de las empresas castigando especialmente a muchas pymes que no pueden subsistir, pues ya se ha cortado la cadena de pagos', explicó el experto, y agregó: 'Desde lo técnico, el proyecto es inviable, ya que contiene errores demasiado groseros. Y desde lo práctico, parece un chiste de mal gusto, pues se presenta en un momento en donde lo que se requieren son urgentes y contundentes medidas de alivio fiscal'."
+}

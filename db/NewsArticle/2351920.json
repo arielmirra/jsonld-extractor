@@ -1,0 +1,46 @@
+{
+  "id":"http://www.lanacion.com.ar/2351920",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus: el ins&#243;lito fallido del gobernador de La Rioja en el que lament&#243; tener cerrados cabarets",
+  "url":"https://www.lanacion.com.ar/politica/coronavirus-insolito-fallido-del-gobernador-la-rioja-nid2351920",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/04/3230404w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/04/3230404w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"07/04/2020 08:38:00 p.m.",
+  "datePublished":"07/04/2020 08:38:00 p.m.",
+  "dateModified":"07/04/2020 21:27:48",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/politica",
+  "articleSection":"Política",
+  "author":[
+    "Leonel Rodríguez"
+  ],
+  "creator":[
+    "Leonel Rodríguez"
+  ],
+  "keywords":[
+    "La Rioja",
+    "Actualidad",
+    "Política",
+    "Coronavirus en la Argentina",
+    "Hoy"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nRicardo Quintela, gobernador de La Rioja, es por estas horas tendencia por el insólito fallido que tuvo en una entrevista radial en la que lamentó haber cerrado muchos negocios, entre ellos, 'los cabarets'.\nEn una nota realizada por la CNN Radio el mandatario riojano, conocido en su provincia como 'el gitano Quintela', habló de las restricciones que hay en su provincia en sintonía con lo dispuesto por Alberto Fernández en el marco de la cuarentena nacional obligatoria.\nQuintela comenzó a enumerar los rubros que debieron cerrar y no tener actividad y fue entonces cuando cometió el fallido que despertó risas contenidas de los conductores que realizaban la entrevista: 'A mí me preocupa todo, porque si se abre un sector los otros sectores también van a presionar. Aquí tenemos cerrados cabarets, tenemos cerra. perdón. eh eh, fiestas, tenemos cerrados bares, confiterías, boliches bailables, hoteles, tiendas, tenemos todo cerrado'.\n\n\nInmediatamente el corte del audio de esta entrevista comenzó a correr por la red social WhatsApp y se viralizó en La Rioja y comenzó a ser compartido en todo el país.\nEn una ronda mediática realizada hoy con distintas radios y medios de su provincia, Quintela se manifestó a favor de 'continuar con la cuarentena' varias semanas más si es necesario 'para no tirar por la borda lo hecho hasta el momento', ya que el gobernador riojano afirmó: 'El pico de contagios por coronavirus lo vamos a tener a fines de mayo'.\nQuintela fue otro de los gobernadores, junto a Morales de Jujuy y a Zamora de Santiago del Estero, que decretaron el uso obligatorio de barbijo para quienes estén habilitados a circular a partir del próximo lunes 13, fecha en la que se prevé una flexibilización de la cuarentena nacional.\nLa Rioja, con un poco más de 300 mil habitantes, tiene a la fecha 9 contagiados y una víctima fatal por Covid-19 y hasta hace unos días era una de las provincias que no registraban contagios."
+}

@@ -1,0 +1,56 @@
+{
+  "id":"http://www.lanacion.com.ar/2351925",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"De los lectores: cartas &amp; e-mails",
+  "url":"https://www.lanacion.com.ar/opinion/carta-de-lectores/de-los-lectores-cartas-e-mails-nid2351925",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 02:17:23",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/opinion",
+  "articleSection":"Opinión",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    ""
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\n\n\nLa lectura en los medios del gravísimo incidente de la compra por parte del Estado de alimentos a precios elevadísimos y de dudosa calidad, junto con la falta de una respuesta adecuada por parte del Poder Ejecutivo ante esta falta, hace sonar una voz de alerta. Otra vez nos enfrentamos a un sistema sin premios ni castigos y cero autocrítica. Es un mal camino para un gobierno que recién comienza y busca unidad. A mí, como jubilado, me confiscaron en marzo un porcentaje de mis haberes en aras de una supuesta solidaridad. Entonces, yo le pregunto al señor Presidente: si el ahorro realizado se despilfarra de esta manera y prescindimos de los castigos ejemplificadores necesarios, realizando simultáneamente una durísima autocrítica, ¿es esto solidaridad o pierde usted todo derecho a solicitarnos sacrificios?\nEnrique Puricelli\nDNI 8.037.673\n\n\nSalvo por Suecia, Japón, Portugal y otros pocos países que actuando racionalmente logran tener muy pocos fallecidos por el coronavirus, todos siguen las recomendaciones de la OMS, pero el público no sabe de quiénes se trata. Es oportuno, entonces, recordar que es un organismo de la burocracia estatal internacional -de la ONU- que, con el apoyo de China, eligió presidente a Tedros Adhanom Ghebreyesus, reconocido militante del marxista Frente Democrático Revolucionario del Pueblo Etíope. Solo durante 2018, el organismo recibió unas 150 denuncias por corrupción a tal punto que David Webb, jefe de Asuntos Internos, se vio obligado a afirmar que revisarían las acusaciones.\nAlejandro A. Tagliavini\nDNI 12.342.072\n\n\nDespués de leer el artículo de Diego Cabot del domingo pasado, en el que dice que por cada semana que el país funciona a, digamos, el 50%, se pierde cerca del 1% del PBI del año, les digo a nuestros funcionarios: es hora de recuperar la cultura del trabajo. En los próximos años debemos suspender tantos feriados innecesarios y poner al país en marcha. Basta de 'fiesta', sobre todo de nuestra clase política.\nMarcelo Kaufman\nDNI 11.807.544\n\n\nEn los años 70, la gran mayoría rogamos, políticos inclusive, que las Fuerzas Armadas salieran a defendernos de un terrorismo que sumió a la Argentina en un baño de sangre. Hoy, los dejamos olvidados, ancianos y enfermos, a que se mueran en las cárceles prácticamente sin ninguna atención, después de habernos librado de la instauración de un régimen totalitario carente de toda libertad. Aplaudimos a los profesionales de la salud por combatir la pandemia y por otro lado hay vecinos que los quieren echar de los edificios por miedo al contagio, sin pensar que muchos de estos detractores podrían necesitar de su ayuda. Por un lado, queremos prolongar la vida mediante la donación de órganos y por el otro muchos niegan la vida promoviendo una ley del aborto seguro, legal y gratuito.\n¡País incoherente si los hay!\nJuan Bautista Garona\ngaronajuan@speedy.com.ar\n\n\nLas ganancias de un empresario turístico o gastronómico pasaron de cien a cero, pero igual tiene que pagar alquileres, impuestos, personal y proveedores. Las de un juez (que no paga impuesto a las ganancias), las de un encumbrado funcionario o las de un legislador y sus asesores siguen siendo cien. A los primeros, si no pagan o si ajustan su actividad, se los tilda de miserables, pero a los segundos ni se los toca... Honestamente creo que la desnudez del rey ya es inobjetable.\nPedro Pablo Benavides\npedropabloquinto@gmail.com\nHabrá sido en mayo de 1982. Quien esto escribe era becario en la universidad alemana de Tübingen. La recientemente desatada Guerra de Malvinas ocupaba muchas páginas de los diarios y se sucedían informes y entrevistas en los medios locales. Una mañana, en un programa de radio, un periodista entrevistaba a alguien que, expresándose en un fluido alemán con acento suizo, se refería al conflicto. Con voz serena exponía los conocidos argumentos que avalaban nuestra reivindicación de la soberanía en las islas. Al término de la entrevista, comprobé, como suponía, que se trataba del ministro Roberto T. Alemann, quien por aquellos días cumplía en Europa una difícil misión en procura de apoyo económico. En un tramo de la requisitoria, el periodista le preguntó, entre soberbio y pícaro: '¿Pero cuál es en verdad el fundamento económico de esta guerra? ¿Petróleo, pesca? Si no, no se entiende?'. Alemann le replicó: '¿Cuál es para los alemanes el fundamento económico de la reunificación?'.\nJosé Luis Moure\nAcademia Argentina de Letras\nDNI 5.526.967\nEn su columna 'Todavía soy francés', Arturo Pérez-Reverte baraja recuerdos y personajes que cualquier persona medianamente culta puede reconocer. Pero en el tercer párrafo dice que en un paseo por las antiguas calles de París pisó 'las dieciochescas piedras contiguas al café Procope pensando en el almirante Zárate, el bibliotecario don Hermógenes, el abate Bringas, madame Dancenis y la lectura íntima de Thérèse philosophe '. Pude reconocer estos personajes porque estoy leyendo el libro Hombres buenos , del que es autor (Alfaguara; Buenos Aires, 2015). Allí cuenta la historia de don Hermógenes Molina y del almirante don Pedro Zárate, comisionados por la Real Academia Española en el siglo XVIII para obtener en París la Encyclopédie , obra que estaba prohibida en España. De no mediar esta coincidencia, su mención en el artículo al que aludo me habría resultado un misterio, y el párrafo habría quedado completamente descontextualizado. Espero que estas líneas ayuden a otros lectores de la Revista a comprender mejor la columna 'Todavía soy francés' del siempre brillante Pérez- Reverte.\nAriel Sánchez\nDNI 5.950.908\nCoronavirus: ya son cinco las provincias que le dicen sí al barbijo\nFacebook\n\n\nLos textos destinados a esta sección no deben exceder las 15 líneas o los 1100 caracteres. Debe constar el nombre del remitente, firma, domicilio, teléfono y número de documento. Por razones de espacio y de estilo, LA NACION podrá seleccionar el material y editarlo. Los mensajes deben enviarse a: cartas@lanacion.com.ar o a la dirección: Av. Del Libertador 101, Vicente López (B1638BEA)"
+}

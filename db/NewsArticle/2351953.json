@@ -1,0 +1,46 @@
+{
+  "id":"http://www.lanacion.com.ar/2351953",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus: aumentan a $15.000 el m&#237;nimo de extracci&#243;n diaria por cajero autom&#225;tico",
+  "url":"https://www.lanacion.com.ar/economia/coronavirus-aumentan-15000-minimo-extraccion-diaria-cajero-nid2351953",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/98/3227798w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/98/3227798w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"07/04/2020 09:44:00 p.m.",
+  "datePublished":"07/04/2020 09:44:00 p.m.",
+  "dateModified":"07/04/2020 21:49:00",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/economia",
+  "articleSection":"Economía",
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Banco Central",
+    "Actualidad",
+    "Comunidad de Negocios",
+    "Coronavirus",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nEl Banco Central de la República Argentina ( BCRA ) decidió aumentar a $15.000 el monto mínimo de extracción diaria de efectivo en cajeros automáticos , con independencia de que se trate o no de clientes del banco o de la red que administre el cajero.\nLa medida fue adoptada a través de la Comunicación 'A' 6957 , que modifica y amplia otra medida dictada días atrás en la que se decidió suspender hasta el 30 de junio el cobro de cargos y comisiones por operaciones en cajeros automáticos de todo el país, como parte de las medidas para mitigar el avance del coronavirus.\nDe esta manera, según informó la autoridad monetaria, las entidades financieras 'deberán arbitrar los medios para que todas las personas humanas y jurídicas puedan efectuar extracciones por un importe que, como mínimo, alcance la suma de $15.000 -acumulado diario-, con independencia de su condición de clientes (o no) de la entidad financiera propietaria del dispositivo en el que se efectúa la operación y de la red que lo administra'.\nA su vez, los bancos elevaron durante las últimas semanas el límite de extracción de efectivo del que pueden disponer sus clientes en cajeros automáticos que, en algunos casos, alcanza los $35.000.\nPuntualmente, los bancos Nación, Patagonia, Francés, Hipotecario, Itaú, HSBC e ICBC subieron el techo a $30.000; los bancos Provincia y Macro lo fijaron en $20.000; Galicia y Ciudad, en $25.000; y Santander, en $35.000, con previa habilitación por 'online banking'. Además, algunas de estas entidades fijaron topes aún más elevados para sus clientes 'premium'.\nAgencia Télam"
+}

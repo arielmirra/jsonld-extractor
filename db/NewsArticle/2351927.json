@@ -1,0 +1,45 @@
+{
+  "id":"http://www.lanacion.com.ar/2351927",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus. El drama de Walter Montillo: confirman que su padre muri&#243; por la enfermedad",
+  "url":"https://www.lanacion.com.ar/deportes/futbol/coronavirus-semana-murieron-papa-abuelo-futbolista-argentino-nid2351927",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/16/3230416w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/16/3230416w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 07:15:00 p.m.",
+  "datePublished":"08/04/2020 07:15:00 p.m.",
+  "dateModified":"15/04/2020 15:54:24",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/deportes",
+  "articleSection":"Deportes",
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Deportes",
+    "Walter Montillo",
+    "Coronavirus",
+    "Coronavirus: historias de argentinos que perdimos"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nEl secretario general del gremio de Judiciales, Julio Piumato, confirmó que el primer fallecido de esa actividad por el coronavirus es Walter Oscar Montillo , padre de Walter, el futbolista que defiende los colores de Universidad de Chile . 'Tenía diabetes y otros problemas de salud, pero venía trabajando normalmente hasta el día del inicio del aislamiento social obligatorio', dijo Piumato en una entrevista con LA NACION + . Además, el gremialista recordó que el fallecido se desempeñaba en la mesa de entradas del Palacio de Tribunales , en Plaza Lavalle.\n\n\nPiumato también contó que el abuelo de Montillo, quien murió la semana pasada y se sospechaba que también pudiera estar infectado, falleció de un paro cardíaco sin relación con la pandemia. 'Oscar se jubiló este año cuando empezó todo. Y falleció el viernes de un paro cardíaco. No tuvo nada que ver con esta cuestión', agregó Piumato.\n\n\nLa entidad de Santiago informó a través de un comunicado la muerte de Walter Oscar, padre del exfutbolista de San Lorenzo, que hace dos meses se había alejado de Tigre para incorporarse al club chileno, en su segundo paso por esa popular institución, y en el mismo texto recordó también el deceso de su abuelo, Oscar, progenitor de aquel.\n\n\nEl club chileno anunció: 'con gran pesar, el sensible fallecimiento del señor Walter Óscar Montillo (60), padre del volante de nuestro Primer Equipo, durante esta jornada de martes. El sábado, en Argentina, don Walter Óscar fue hospitalizado tras presentar graves problemas respiratorios y que, lamentablemente, terminaron ocasionando su defunción. En las próximas horas un examen confirmará si la muerte se debió al Coronavirus. Desgraciadamente para Walter y su entorno familiar, este deceso se sumó al de su abuelo Óscar (91) durante la semana pasada, quien también presentó los mismos problemas de salud descritos anteriormente'.\n\n\n'A través de todos sus colaboradores, y sin duda en representación y voz de los millones de hinchas azules, el Club Universidad de Chile extiende las más profundas y sinceras condolencias a la familia de nuestro querido Walter. Acompañamos a la distancia a nuestro ídolo en estos momentos tan dolorosos, extendiendo apoyo, cariño y fuerza por estas lamentables pérdidas', agregó.\nLa despedida de Montillo a su padre en Instagram\n\nRecordarte con esa sonrisa es lo mejor que podemos hacer todos. Vivimos momentos hermosos y otros no tanto. Tal vez no tuvimos la capacidad para hacer que nuestra relación sea mejor de lo que fue en este último tiempo. Se que en algún lugar verás este mensaje. Siempre te voy a recordar y agradecer por inculcarme la honestidad y el trabajo desde chico. Ojalá que puedas encontrar paz donde quiera que estés. Acá abajo hay mucha gente que te va a extrañar muchisimo. Te amaré siempre!!\nUna publicación compartida de Walter Montillo (@wdmontil10) el 8 Abr, 2020 a las 11:20 PDT\n\nMontillo, que cumplirá 36 años el martes próximo, surgió en San Lorenzo, club en el que debutó en julio de 2002, año en el que conquistó la Copa Sudamericana. También jugó en Monarcas Morelia (México), Universidad de Chile, Cruzeiro, Santos y Botafogo (Brasil), Shandong Luneng, de China, y Tigre, con el que ganó la Copa Superliga de la temporada pasada."
+}

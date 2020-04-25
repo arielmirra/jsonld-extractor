@@ -1,0 +1,58 @@
+{
+  "id":"http://www.lanacion.com.ar/2351962",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Mundial 2022: Qatar niega los sobornos, pero admite muertes en sus obras",
+  "url":"https://www.lanacion.com.ar/deportes/futbol/mundial-2022-qatar-niega-sobornos-pero-admite-nid2351962",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/66/3230466w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/66/3230466w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:01:00 a.m.",
+  "datePublished":"08/04/2020 12:01:00 a.m.",
+  "dateModified":"08/04/2020 00:05:08",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/deportes",
+  "articleSection":"Deportes",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Mundial Qatar 2022",
+    "FIFAgate",
+    "Deportes"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nInvestigaciones, acusaciones por pago de sobornos, detenciones, enjuiciamientos, reapertura de causas judiciales, muertes... El Mundial Qatar 2022 y las polémicas caminan de la mano. La extendida controversia sobre la elección del país árabe como sede de la Copa del Mundo sumó un nuevo capítulo anteayer, con la tercera denuncia que realizó el Departamento de Justicia de Estados Unidos . La contraofensiva no se hizo esperar y ayer los organizadores, mediante un comunicado del gobierno qatarí, ensayaron una desmentida.\nLas empresas de televisión que fueron beneficiadas por el esquema de corrupción y los nombres de dos miembros del comité ejecutivo de la FIFA que habrían sido sobornados para votar por Qatar son los ejes de las averiguaciones que saltaron a la luz en las últimas horas y que compondrán otro episodio de las extensas batallas en los estrados judiciales que libradas desde 2015 en lo que se denominó ' FIFAgate '.\nEl rechazo qatarí ante la nueva andanada de acusaciones fue contundente. 'El Comité Supremo para la Entrega y el Legado (SC) de Qatar niega rotundamente las acusaciones contenidas en los documentos judiciales que han sido hechos públicos en Estados Unidos el 6 de abril de 2020. Estas acusaciones forman parte de un caso antiguo, que no se centra en el proceso de licitación de la Copa Mundial de la FIFA 2018/2022', señala el comunicado, que desestima los cargos de los fiscales federales del país norteamericano. ' Después de años de falsas acusaciones, nunca han sido presentadas pruebas que demuestren que Qatar ganó los derechos para organizar la Copa Mundial de la FIFA 2022 de manera poco ética o por medios que infringieran las estrictas reglas de la licitación FIFA [...] Cualquier acusación que diga lo contrario no tiene fundamento y será ferozmente refutada', agrega en su justificación el país organizador, sobre el escándalo que estalló cinco años atrás y que volvió a ser noticia en estos días.\n\n\nRusia se trepó al rechazo de Qatar y desmintió las acusaciones que la involucran en la red de corrupción, que incluye la asignación del torneo ya desarrollado, hace algo menos de dos años, en la nación europea y asiática, con la conquista de la Francia de Kylian Mbappé y Antoine Griezmann. 'Recibimos de manera totalmente legal el derecho a organizar el Mundial. No está relacionado con ningún soborno; desmentimos eso categóricamente. Organizamos el mejor Mundial de fútbol de la historia. Estamos orgullosos de ello', señaló el portavoz del Kremlin, Dmitri Peskov.\nDe las polémicas por las acusaciones de supuestos sobornos a las denuncias de vulneración de derechos laborales y humanos. El lujo que los qataríes prometen, como ver un partido desde una suite de un hotel construido dentro del estadio, y los parques y lagos artificiales que rodearán las canchas -serán ocho, repartidas en tres ciudades-, a las muertes de los obreros que construyen los escenarios. El emirato informó que 34 trabajadores murieron en los últimos seis años, una cifra desproporcionada respecto a la que exponen organizaciones internacionales, que estiman que al finalizar las obras los fallecidos serían alrededor de 4000.\nLa campaña Play Fair Qatar denunció que entre 2012 y 2014 murieron 1200 obreros provenientes de Nepal, India y Bangladesh; también Amnistía Internacional alertó sobre pésimas condiciones de vida, explotación y altas comisiones de contratación que sufren los trabajadores.\nPero también en lo deportivo sufre Qatar. La FIFA determinó que la Copa del Mundo se dispute entre el 22 de noviembre y el 18 de diciembre para evitar las elevadas temperaturas de junio y julio, época en la que habitualmente tienen lugar los mundiales, mientras que el coronavirus impidió el inicio de las eliminatorias sudamericanas, europeas y asiáticas. La evolución de la pandemia impide por el momento fijar una fecha de inicio de las competencias, lo cual comprimirá los calendarios."
+}

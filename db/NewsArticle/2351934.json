@@ -1,0 +1,60 @@
+{
+  "id":"http://www.lanacion.com.ar/2351934",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Efecto cuarentena: cr&#233;ditos y cuentas a la vista, en alza en marzo",
+  "url":"https://www.lanacion.com.ar/economia/efecto-cuarentena-creditos-y-cuentas-a-la-vista-en-alza-en-marzo-nid2351934",
+  "thumbnailUrl":"https://bucket1.glanacion.com/anexos/fotos/90/2709990w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket1.glanacion.com/anexos/fotos/90/2709990w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 02:41:24",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/economia",
+  "articleSection":"Economía",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Javier Blanco"
+  ],
+  "creator":[
+    "Javier Blanco"
+  ],
+  "keywords":[
+    "Actualidad",
+    "Comunidad de Negocios",
+    "GDA",
+    "Coronavirus",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nLa demanda de crédito por parte de las empresas y los depósitos privados en pesos a la vista crecieron con fuerza en las últimas semanas de marzo, tras la implementación del aislamiento social, preventivo y obligatorio.\nLa medida, dispuesta el pasado 20 de marzo, fue la que provocó que el mes pasado cerrara con un crecimiento del 6,6% en las colocaciones en cuentas a la vista (cajas de ahorro y cuentas corrientes) y del 3,4% en el stock de créditos en pesos al sector privado, que se expandió fuerte sobre el final del mes y en las líneas destinadas esencialmente a empresas, como adelantos por cuenta corriente, descuento de cheques u otros préstamos.\n'Fueron las líneas que traccionaron el crecimiento de los préstamos debido a la mayor necesidad de fondos que ocasionó la interrupción de muchas actividades productivas como consecuencia de la cuarentena ', explicó ayer el Banco Central (BCRA) al divulgar el Informe Monetario de marzo.\nProducto de ese súbito aumento en la demanda, el crecimiento en el stock colocado fue 'el mayor nivel de los últimos cuatro meses'.\nEl informe señala que las financiaciones con destino mayormente comercial se expandieron un 9,7% nominal en el mes.\n'La línea de adelantos fue la que mantuvo una tendencia creciente sostenida durante la segunda quincena del mes al crecer 15%, lo que podría reflejar las condiciones de acceso más fáciles en términos operativos frente al resto', detalló. Por otra parte, las nuevas financiaciones instrumentadas mediante la cesión de documentos despegaron 'en la tercera semana del mes', lo que las llevó a crecer 6,3% durante todo marzo.\nLa primera parte de la cuarentena dejó su huella también en la demanda de dinero y en el comportamiento de los ahorristas.\n'A partir de la segunda quincena de marzo se observó un aumento de la demanda de dinero transaccional como resultado de la combinación de diferentes factores: motivos precautorios, la imposibilidad de concertar depósitos a plazo de manera presencial, y el cobro del subsidio extraordinario destinado a beneficiarios de asignaciones sociales y jubilados durante los últimos días', evaluó el BCRA, antes de reportar un aumento del circulante en poder del público del 2,6% promedio en términos reales durante el mes.\nEsta evolución de los agregados monetarios 'comenzó a diferenciarse de lo habitual para esta parte del año', insistió la entidad.\nA esto se agrega el elevado crecimiento de las colocaciones a la vista, cuentas en las que, entre el 20 y el 31, quedaron depositados los plazos fijos no renovados. 'El 65% de la caída de ese stock durante ese período se tradujo en un crecimiento de saldos inmovilizados', explicó el BCRA, algo que adjudica a los ahorristas que optan por realizar sus operaciones de manera presencial."
+}

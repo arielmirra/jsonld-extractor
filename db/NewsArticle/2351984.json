@@ -1,0 +1,58 @@
+{
+  "id":"http://www.lanacion.com.ar/2351984",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Una hist&#243;rica bajante del Paran&#225; provoca que los barcos carguen menos soja",
+  "url":"https://www.lanacion.com.ar/economia/campo/una-historica-bajante-del-parana-provoca-barcos-nid2351984",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/93/3230493w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/93/3230493w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 02:31:00 a.m.",
+  "datePublished":"08/04/2020 02:31:00 a.m.",
+  "dateModified":"10/04/2020 18:07:13",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/economia",
+  "articleSection":"Economía",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Germán de los Santos"
+  ],
+  "creator":[
+    "Germán de los Santos"
+  ],
+  "keywords":[
+    "Rosario",
+    "Actualidad",
+    "Comunidad de Negocios"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nROSARIO.- A las situaciones complejas que aparecen con la pandemia en medio de la cosecha gruesa se sumó otra que no tiene que ver con el coronavirus sino con la pronunciada bajante del río Paraná, que impide a los buques que se abastecen de soja en los puertos de Rosario cargar a pleno sus bodegas, porque la profundidad del calado se redujo de 34 pies a 31.\nSegún los registros oficiales, la actual bajante del río Paraná, que se encuentra a 1,05 metros a la altura de Rosario, sería la más importante de los últimos 50 años. Este problema natural perjudica económicamente la exportación de granos y productos agroindustriales, porque los buques están obligados a cargar menos para poder navegar por el Paraná hacia el Atlántico.\nDesde la Prefectura Naval señalaron que 'los buques no pueden cargar la totalidad de lo que tenían previsto en sus contratos comerciales'. Advirtió que 'la altura mínima de agua para poder despachar los barcos depende de cada embarcación y está determinada por cuestiones de seguridad. Cuanto mayor carga, mayor hundimiento del casco se produce, lo que llamamos mayor calado. Hoy estamos por debajo del mínimo recomendado para muchas embarcaciones con carga total, por lo que están zarpando con cantidades menores a su capacidad'.\n\n\nEn diálogo con LA NACION, Guillermo Wade, presidente de la Cámara de Actividades Portuarias y Marítimas, explicó que 'la hidrovía a la altura de Rosario tiene un calado de 34 pies, pero con la bajante del río Paraná la profundidad ahora es de 31 pies'.\n'Cada pie representa en un barco Panamax, los más grandes, que tienen una eslora de 235 metros, 7500 toneladas de granos menos', detalló Wade. Para dimensionar esta merma en la carga de las bodegas, esto equivaldría a la soja que transportan desde los acopios a los puertos 250 camiones. Este problema provoca que se eleve el precio del flete de los granos que se exportan.\n\n\nEl titular de la Cámara de Actividades Portuarias y Marítimas destacó que 'como los buques no pueden cargar las bodegas a pleno en los puertos de Rosario deben completar la estiba en las terminales de Bahía Blanca o Brasil'.\n\n\nEl problema no parece tener una pronta solución porque, según el directivo, 'las perspectivas no son buenas porque en plena época de cosecha gruesa la bajante del río continuará en mayo, como ocurre por estacionalidad'.\n\n\nUn informe del Centro de Investigación de Recursos Naturales del INTA señala que 'la bajante extraordinaria del río Paraná por efecto del clima deficitario en lluvias sobre la cuenca media y alta -y que se profundiza en abril-, provoca alto impacto ambiental, productivo y sobre los puertos exportadores del Gran Rosario'.\nDesde el organismo advirtieron que 'las lluvias del 6 de abril pasado en el extremo norte del noreste argentino y Paraguay no brindaron un significativo aporte'.\n'Esto genera demoras en los puertos, implicancias locales para la navegación y conectividad de pobladores ribereños y de islas, afecta la pesca, complica las tomas de agua en plantas potabilizadoras, produce cambios en los ecosistemas y aparecen especies vegetales invasoras', apuntaron.\nEl otro peligro por la bajante son los encallamientos de barcos en el canal del río Paraná, como ocurrió en septiembre pasado cuando el río estaba más alto que ahora, en 1,87 metros, y el buque de carga Cassiopeia Ocean estuvo varado durante cinco días a la altura de Punta Alvear, al sur de Rosario, lo que impidió que ningún buque pudiera navegar por el río."
+}

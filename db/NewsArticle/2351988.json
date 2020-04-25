@@ -1,0 +1,57 @@
+{
+  "id":"http://www.lanacion.com.ar/2351988",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Trasplantes en tiempo de coronavirus: A pesar del miedo, puedo volver a so&#241;ar",
+  "url":"https://www.lanacion.com.ar/comunidad/trasplantes-tiempo-coronavirus-a-pesar-del-miedo-nid2351988",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/66/3230666w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/66/3230666w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 10:02:00 a.m.",
+  "datePublished":"08/04/2020 10:02:00 a.m.",
+  "dateModified":"08/04/2020 10:09:44",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/comunidad",
+  "articleSection":"Comunidad",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Evangelina Bucari"
+  ],
+  "creator":[
+    "Evangelina Bucari"
+  ],
+  "keywords":[
+    "Donación de órganos",
+    "Coronavirus"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nHace una semana, cuando menos lo esperaba, Natalia Mozzati recibió la noticia que deseaba escuchar desde hace casi ocho años. Esa mañana del jueves 2 de abril, le avisaron que estaba tercera en la lista para recibir un trasplante de riñón y que debía presentarse de inmediato para las evaluaciones. 'Me sorprendió porque pensé que estaba todo inactivo por la pandemia, y mi primera reacción fue miedo, a tal punto que cuando me preguntaron si aceptaba, primero dije que no. Tenía mucho temor a estar más propensa a contraer coronavirus ', recuerda Natalia, a cuatro días de haber sido exitosamente trasplantada en el Centro Cardiológico de Corrientes capital, de donde es oriunda.\nSu caso no fue excepcional. Según el Incucai, la última semana 26 pacientes fueron trasplantados : diez de riñón, dos de corazón, cinco de hígado, uno de páncreas y ocho de córneas, muchos de ellos, en situación de emergencia. Las intervenciones se pudieron concretar gracias a que hubo en el país siete operativos de donación de órganos y tejidos en las provincias de Córdoba, Buenos Aires, Corrientes, Entre Ríos, Mendoza y Santa Fe.\nTodo sucedió mientras el COVID-19 plantea nuevas dinámicas de trabajo en una labor donde el tiempo nunca es un aliado. Hay órganos que deben estar reconectados en el receptor en no más de cuatro horas y por eso hay que calcular todo: la demora en acondicionarlos en las heladeras, la salida del lugar de asistencia y la logística de designación y traslados. A esto, ahora, se suma una instancia más: a todo potencial donante con el diagnóstico de muerte encefálica se le realiza la prueba PCR para descartar que tenga coronavirus , según el nuevo protocolo establecido por el Incucai junto a la Sociedad Argentina de Trasplante (SAT) y la Sociedad Argentina de Infectología (SADI).\n¿Qué pasa si el presunto donante da positivo? Marcial Angos, director del Ente Coordinador de Ablación e Implante de Córdoba (Ecodaic), que estuvo a cargo de dos de los operativos de los primeros días de abril, explica que, al igual que sucede con cualquier otro virus potencialmente transmisibles, esa persona infectada es descartada como donante de forma automática. 'Quienes están en lista de espera tienen un estado de salud bastante deteriorado que los llevó a la necesidad de requerir un trasplante. Por eso, frente a esta contingencia, dedicamos un tiempo extra para descartar cualquier posibilidad y nexo epidemiológico de coronavirus, pero también cualquier otra enfermedad viral activa', explica el especialista.\nAngos cuenta que desde que es médico, hace más de 30 años, esta es la primera vez que vive una situación de estas características, 'donde prácticamente se cierra el mundo'. Sin embargo, se enorgullece de que, a pesar de los inconvenientes, la actividad de la procuración de órganos y tejidos para trasplantes se mantuvo, y que la semana pasada lograron junto al Incucai obtener los permisos para que tres vuelos sanitarios retiren órganos en Córdoba y los lleven a tres provincias diferentes, además de los que se usaron localmente. Fueron procesos de donación multiorgánicos y multitejidos, que permitieron que nueve personas sean receptoras de órganos (riñones, páncreas, hígado y corazón) y cuatro, de tejidos corneal.\n\n\nNatalia tiene 37 años y desde 2012 que debía hacerse diálisis tres veces por semana, de 6 a 10.30 de la mañana. Tenía afectado el 70% de la función renal, como consecuencia de una nefritis lúpica silente. Trabaja en turismo y hace dos años empezó con una consultora independiente del rubro, porque con la diálisis se le hacía muy difícil cumplir horarios.\nEl mismo jueves la internaron, pasó la noche en el sanatorio y el viernes 3 de abril, a los 8 de la mañana, fue a cirugía. ' La operación fue corta , duró tres horas y media, me dicen que fue muy exitosa', cuenta, con una voz enérgica, exultante. Cuando llegó a la clínica, le habían explicado que era la tercera en la lista , pero en el trascurso del día, mientras le hacían los chequeos y también esperaban los resultados de dengue y COVID-19 del presunto donante, le avisaron que podía ser su día de suerte y recibir el órgano. 'El primero de la lista no estaba en buen estado de salud y el segundo, tenía dolor de garganta', explica.\n\n\nQue Natalia y tantos otros hayan sido trasplantados fue posible porque, a pesar del aislamiento social obligatorio, el Incucai y los 24 organismos provinciales de ablación e implante continúan trabajando, junto con los equipos de trasplante, la colaboración de cirujanos locales, empleados aeroportuarios y la disponibilidad de los aviones sanitarios, además de todo el personal de salud involucrado. Hay mucha gente funcionando coordinada: se estima que en cada operativo de procuración y trasplante, en total, llegan a participar más de 100 personas.\nEn lo que va de cuarentena, se concretaron 10 procedimientos de donación de órganos y dos de tejidos, que permitieron que 41 pacientes en lista de espera reciban un trasplante de órganos y de córneas.\nFrente a la pregunta sobre qué otros aspectos del proceso cambiaron con la llegada de la pandemia , Angos detalla que, fundamentalmente, hay dos ejes centrales: una correcta selección de los donantes , haciendo la investigación epidemiológica, y la protección personal de todos los equipos , porque muchos tienen que ir a centros donde seguro hay personas afectadas con COVID-19. En este sentido, desde el Incucai explican que se busca no perder ninguna oportunidad para los pacientes, siempre que se pueda cumplir 'con la máxima garantía de seguridad para el trasplante y para el equipo profesional interviniente'.\nRespecto al efecto que puede tener el aislamiento obligatorio en la procuración de órganos y tejidos, Angos señala 'una situación lógica de la realidad: al haber una cuarentena tan férrea, hay mucha menos circulación y eso hace que la patología habitual que lleva a tener un paciente neurocrítico haya disminuido bastante: el 60% de los donantes habituales son por traumatismo de cráneo o accidentes cerebrovasculares '.\n\n\nOtra de las cosas que destaca el director del Ecodaic es que las personas trasplantadas, al estar inmunodeprimidas, son parte de la población de riesgo y, naturalmente, tienen una preocupación extra. Pero el experto subraya que si se toman los recaudos correspondientes, no deben tener miedo.\nNatalia lo vivió en carne propia: ' Muchos de los que estábamos en las listas, tenemos mucho temor por la pandemia '. Por suerte, su médico supo convencerla. 'Me dijo: 'Ahora y mañana vas a seguir siendo paciente de riesgo, te hagas o no el trasplante. Vas a tener que cuidarte ahora y siempre'. Eso me hizo tomar la decisión'. Pero no todos los casos terminan igual. 'Sé que hubo pacientes a los que se les ofreció y no se animan por la baja de defensas', cuenta Natalia.\n\nSi estás trasplantado, en lista de espera o en tratamiento de diálisis es el momento de cuidarte quedándote en casa, por tu salud. Por la de todos. Consultá siempre ante cualquier duda que tengas. Gracias @corazonarteasociacioncivil ¡Gracias Jesica! #QuedarseEnCasaEstáBien #CuidarteEsCuidarnos\nUna publicación compartida de Incucai Oficial (@incucaioficial) el 20 Mar, 2020 a las 2:40 PDT\n\nDesde que la pasaron a sala común, más allá de todas las precauciones de la clínica y del equipo médico, solo puede visitarla una persona durante una hora a la mañana y otra a la tarde. Mientras sigue su recuperación, Natalia piensa en el día después: 'Cuando pase todo lo de la pandemia, voy a poder viajar, recorrer lugares, volver a trabajar'.\nEn el Incucai también destacan que su Registro Nacional de Células Progenitoras Hematopoyéticas (CPH) continúa trabajando para sostener los trasplantes de médula ósea en pacientes argentinos , tanto con donantes del Registro Nacional como de otros países del mundo, evaluando caso por caso para brindar la mejor alternativa a cada paciente. 'Nuestro objetivo es darles respuesta a las personas que están en lista de espera. Recordemos que hay casi 9000 argentinos que están esperando una oportunidad para seguir viviendo y mejorar su calidad de vida', concluye Angos.\n'Todos los días previos a mi trasplante salí al balcón a aplaudir a las 9 de la noche a los profesionales de la salud, y cuando vuelva a casa lo seguiré haciendo, porque les estoy sumamente agradecida', destaca Natalia.\n'Me devolvieron la vida -resume-, me dieron de nuevo la oportunidad de soñar, las diálisis se terminaron y eso no tiene palabras, más aún en este contexto, que demandó un esfuerzo extra'. También la alegró saber que su donante 'era una persona que quería serlo y lo había dejado asentado en su DNI'.\n\n\nNatalia integra el grupo 'Dar nos da vida' , un espacio para pacientes en lista de espera y trasplantados de Corrientes, que trabaja en la difusión y la importancia de la donación, además de brindar apoyo y contención. A ella la ayudó mucho y la preparó para lo que hoy le toca vivir. 'La espera de un trasplante es muy difícil, porque no está en tus manos, está en manos de otro y hay que tocar esa sensibilidad. Es el acto más generoso que puede existir y cuando te toca, te estalla el corazón', dice, emocionada.\nSu caso demuestra que, en un momento de tanta angustia y desazón, las buenas noticias también pueden llegar.\n\n\n\n"
+}

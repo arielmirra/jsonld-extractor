@@ -1,0 +1,49 @@
+{
+  "id":"http://www.lanacion.com.ar/2351947",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Miguel Acevedo, presidente de la UIA: La apertura tiene que ser paulatina",
+  "url":"https://www.lanacion.com.ar/economia/miguel-acevedo-presidente-uia-la-apertura-tiene-nid2351947",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/49/3230449w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/49/3230449w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"07/04/2020 11:02:00 p.m.",
+  "datePublished":"07/04/2020 11:02:00 p.m.",
+  "dateModified":"07/04/2020 23:02:16",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/economia",
+  "articleSection":"Economía",
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "CGT",
+    "Alberto Fernández",
+    "UIA",
+    "Actualidad",
+    "Comunidad de Negocios",
+    "LN+",
+    "Terapia de noticias",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nMiguel Acevedo, presidente de la UIA, habló en Terapia de Noticias y dio detalles de lo que se habló hoy en la reunión del Gobierno junto a la CGT y la UIA para definir cómo será la salida de la cuarentena. 'Entendemos que la apertura va a tener que ser paulatina', afirmó Acevedo.\n'Nosotros sabíamos que la cuarentena no iba a abrirse de un día para el otro, es imposible', expresó el presidente de la UIA en la entrevista que le hizo Francisco Olivera. 'Tiene que haber un equilibrio entre la salud y la economía. Trataremos de hacer lo más posible, va a tener que haber un equilibrio'.\nEn relación a las sugerencias que le llevó la UIA al Gobierno, Acevedo sostuvo que fue en base a dos cosas: las actividades que se podrían realizar y el transporte. 'Acá es clave cómo se van a mover las personas para poder ir a los distintos comercios o a la industria', dijo el empresario. 'El problema es cómo se va a mover la gente. La logística es un tema, y se va a tener que coordinar que no haya picos de transporte'.\n'La decisión está totalmente en manos del Gobierno. El movimiento de hoy es un tercio de lo normal. Ojalá que estemos así lo menos posible', dijo el titular de la Unión Industrial Argentina (UIA). 'Creo que el Gobierno se ha adelantado a la situación y eso es muy bueno, eso a logrado que la pandemia baje la curva de infectados'.\nEn cuanto al probable uso obligatorio del barbijo, Acevedo dijo que se habló de que 'era conveniente que lo usen los que viajen en transporte a sus trabajos'. 'Acá no estamos acostumbrados, pero siempre ayuda', detalló."
+}

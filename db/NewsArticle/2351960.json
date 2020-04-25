@@ -1,0 +1,59 @@
+{
+  "id":"http://www.lanacion.com.ar/2351960",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Amor en las redes: Eduardo Salvio comparte su felicidad y propone desaf&#237;os durante la cuarentena",
+  "url":"https://www.lanacion.com.ar/deportes/futbol/amor-redes-eduardo-salvio-comparte-su-felicidad-nid2351960",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/63/3230463w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/63/3230463w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:01:00 a.m.",
+  "datePublished":"08/04/2020 12:01:00 a.m.",
+  "dateModified":"17/04/2020 16:40:45",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/deportes",
+  "articleSection":"Deportes",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Franco Tossi"
+  ],
+  "creator":[
+    "Franco Tossi"
+  ],
+  "keywords":[
+    "Eduardo Salvio",
+    "Mundo Boca",
+    "Deportes",
+    "Buenas noticias en cuarentena"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nLa vida de Eduardo Salvio en Boca cambió radicalmente. Aunque en sus declaraciones comente que en el pasado se exageró mucho su situación, la realidad es que hoy él mismo expone el contraste. Se muestra distendido con la Superliga que Boca le ganó en la última fecha a River, pero sobre todo por su gran nivel personal. ¿Cómo? Estando muy activo en sus redes sociales , imponiendo mucha interacción con sus seguidores e hinchas. Durante la cuarentena eligió compartir su estado de plena felicidad.\nSu comienzo había sido prometedor. Arribó desde Benfica a la mitad del ciclo de Gustavo Alfaro y convirtió tres goles en los primeros 221 minutos que jugó, repartidos en cinco encuentros oficiales en los que alternó entre la titularidad y la suplencia. Su fanatismo por el Xeneize, además, empezó a forjar una historia de amor en las tribunas: su mamá, Justina Salvio, más conocida como 'la Tota', empezó a ganarse el corazón de la gente por la pasión por el azul y oro que le transmitió a 'Toto'. Era un combo ideal, pero a partir del sexto partido todo empezó a torcerse.\n\nHicimos 17 toques de cabeza con @magii.aravena y nos gustaría ver a cuantos llegan ustedes con su pareja. Nosotros desafiamos a @cervifranco y @melisanovell , @tagliafico3 y @carocalvagni, @lichalopez2 y @micatinelli, @paulodybala y @orianasabatini, @oficialmaurozarate y @nannitaweber #ChallengeToquesDeCabeza\nUna publicación compartida por Eduardo Salvio (@totosalvio) el 6 de Abr de 2020 a las 10:03 PDT\n\nFue aquella revancha ante Liga de Quito en la Bombonera, en los cuartos de final de Copa Libertadores, la que empezó a generar una mirada de reojo. Quedará la espina de que pudo haberse evitado: Alfaro decidió jugar con titulares para no poner en riesgo una serie que, en realidad, estaba resuelta (había ganado 3-0 en la altura), pero cuatro días después enfrentaba a River en el Monumental, por el torneo. Salvio se desgarró el isquiotibial izquierdo, se quedó afuera del superclásico y estuvo tres semanas lejos de las canchas.\nDifícil conocer si también hubo algo psicológico debido a ese sentimiento especial de hincha, pero lo cierto es que tampoco pudo partir como titular en la primera semifinal copera ante los millonarios: en las horas previas sintió una fuerte molestia en la misma zona, que sólo le permitió jugar menos de veinte minutos. Desde ahí fue blindado en una cajita de cristal y no jugó hasta la noche de la eliminación.\n\nFelices 115 años @bocajrsoficial [R][R][R]\nUna publicación compartida por Eduardo Salvio (@totosalvio) el 3 de Abr de 2020 a las 9:16 PDT\n\n'El año pasado me sentía bien. Quizás hubo algunos partidos que no jugué por decisiones del técnico, pero no fue como se habló (había trascendido que la segunda lesión era otra ruptura de fibras). Siempre tuve calma; trabajo y me cuido al máximo. Me duele cuando me tengo que perder un partido por molestias', relató la noche del último compromiso jugado antes de la pandemia, el 3-0 a Independiente Medellín.\n'Hoy me encuentro muy bien, estamos haciendo un grandísimo trabajo con el preparador físico y los médicos. Nos cuidan muchísimo y se está viendo en el campo', agregó. Miguel Ángel Russo lo potenció: es el máximo goleador del ciclo con 7 tantos, convirtiéndole a Central Córdoba, Colón y un doblete a Godoy Cruz en el tramo final del campeonato, dos festejos ante DIM en la Copa Libertadores y otro más al Tomba, en el comienzo de una Copa Superliga que el coronavirus suspendió. Las lesiones no están más: jugó nueve de los diez partidos de este año (descansó ante Caracas).\nEs uno de los mimados por el vicepresidente segundo Juan Román Riquelme, su ídolo: 'Hablamos mucho, me aconseja. Y hasta me hace alguna broma, como cuando erré el gol contra Gimnasia', contó en una entrevista el atacante surgido en Lanús, en referencia a una jugada increíble que puso las manos del mundo Boca en la cabeza, unos minutos antes del gol de la coronación que hizo Carlos Tevez. Román tuvo, además, el gesto de regalarle la camiseta del 2000 (el año que vencieron a Real Madrid en Japón) para 'Tota'.\n\nFeliz cumple Princesa. Deseo que sigas siendo esa personita tan buena y divertida que sos. Que sigas creciendo con alegria y salud. Te amo mi amor [R] #PrimcesaChloé\nUna publicación compartida por Eduardo Salvio (@totosalvio) el 23 de Mar de 2020 a las 11:30 PDT\n\nY es que Salvio atravesó momentos duros por el cáncer que padece su mamá. 'Hoy estás con nosotros, viejita, nunca tuve tanto miedo de perderte. Gracias a tus ganas de vivir. Y a cada persona que hizo fuerzas o rezó para que mi mamá esté mejor', fueron sus líneas en Instagram tras el apoyo de tantos hinchas. Días después de esa publicación, conmovió aquella imagen en la que se arrodillaron y abrazaron en el campo de la Bombonera la noche del campeonato. 'Ya lo vi campeón, ahora que pase lo que pase', dijo Justina sin temor, pero con el sueño cumplido. 'Es lo que soñaron desde que eras chiquito, pa', posteó aquella foto Magalí Aravena, la pareja de Salvio.\nSu confianza, tranquilidad y motivación lo relajaron y lo llevaron a participar mucho en las redes sociales. En Twitter e Instagram publica videos sobre cómo se entrena en estos tiempos en los que hay que quedarse en casa. Sin embargo, allí suele estar entretenido con otras cosas. Por ejemplo, con su pasión por el videojuego 'FIFA', interactuando con hinchas y hasta brindándole consejos sobre cómo pueden mejorar sus equipos. Tanto le gusta el fútbol virtual que en estos días participó de un torneo junto a otros futbolistas, siendo el representante de Boca.\n\nQuien más está tan conectado como yo? [R][R] #TSWP #yomequedoencasa #stayathome\nUna publicación compartida por Eduardo Salvio (@totosalvio) el 21 de Mar de 2020 a las 3:47 PDT\n\nTambién lo hace con 'Dragon Ball', su anime favorito y razón de esos festejos que escenifica tras convertir. Tanta sensación causó que Buffarini se sumó en uno de ellos para hacer 'Fusión', uno de los poderes de la serie japonesa.\nPor otro lado, junto a Aravena desafiaron anteayer en Instagram a Mauro Zárate, Lisandro López, Franco Cervi (ex compañero en Benfica), Paulo Dybala y Nicolás Tagliafico (ex compañeros en la selección) a hacer jueguitos de cabeza junto a sus parejas y ver quién contabilizaba más toques. 'Toto' está más activo que nunca en las redes.\n\nFeliz cumple Mami. Te amo con mi vida [R][R][R]\nUna publicación compartida por Eduardo Salvio (@totosalvio) el 2 de Abr de 2020 a las 8:33 PDT\n\nEs el resurgimiento de Salvio. Dejó las lesiones, es uno de los jugadores fundamentales de Boca y ahora se prepara para cumplirle otro sueño a la 'Tota': que su hijo gane la Copa Libertadores de América."
+}

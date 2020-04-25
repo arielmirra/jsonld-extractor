@@ -1,0 +1,59 @@
+{
+  "id":"http://www.lanacion.com.ar/2351989",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus hoy en Argentina: cu&#225;ntos casos se registran al 8 de Abril",
+  "url":"https://www.lanacion.com.ar/el-mundo/coronavirus-hoy-en-argentina-cuantos-casos-se-registran-al-8-de-abril-nid2351989",
+  "thumbnailUrl":"https://bucket1.glanacion.com/anexos/fotos/51/3231451w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket1.glanacion.com/anexos/fotos/51/3231451w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 10:09:00 p.m.",
+  "datePublished":"08/04/2020 10:09:00 p.m.",
+  "dateModified":"08/04/2020 22:09:29",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/el-mundo",
+  "articleSection":"El-Mundo",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Actualidad",
+    "Notas servicios",
+    "Coronavirus",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nLa epidemia de neumonía viral provocada por un nuevo coronavirus se expande por el mundo y la preocupación también va en aumento. Hasta el día de hoy 8 de Abril, se reportaron en Argentina 1795 casos de infectados, 65 de muertos y 358 de recuperados. Estas cifras son difundidas diariamente por la Organización Mundial de la Salud (OMS).\nEn relación al día anterior, se registraron 1715 casos más de afectados por coronavirus en Argentina.\nCoronavirus: cuáles son los síntomas y cómo actuar ante sospechas de estar contagiado\nAsimismo, se informó de 358 nuevos pacientes recuperados.\nToda la información sobre el coronavirus en la Argentina\nArgentina se encuentra en el puesto 50 de países con mayor cantidad de infectados. La lista de los primeros diez se compone de la siguiente manera: Estados Unidos 432502, España 148220, Italia 139422, Francia 113959, Alemania 113340, China 83783, Irán 64586, Reino Unido 61474, Turquia 38226, Bélgica 23403."
+}

@@ -1,0 +1,60 @@
+{
+  "id":"http://www.lanacion.com.ar/2351959",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Frederic revel&#243; que las fuerzas de seguridad realizan ciberpatrullajes",
+  "url":"https://www.lanacion.com.ar/politica/sabina-frederic-advirtio-que-el-cierre-de-rutas-y-de-accesos-es-un-delito-nid2351959",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/19/3221319w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/19/3221319w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 22:03:35",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/politica",
+  "articleSection":"Política",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Gustavo Ybarra"
+  ],
+  "creator":[
+    "Gustavo Ybarra"
+  ],
+  "keywords":[
+    "Actualidad política",
+    "Fuerzas de Seguridad",
+    "GDA",
+    "Sabina Frederic",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nLa ministra de Seguridad, Sabina Frederic , reveló que las fuerzas de seguridad realizan ' ciberpatrullajes ' en las redes sociales para medir el humor social y advirtió a los gobernadores e intendentes que 'es un delito' bloquear rutas o accesos a ciudades, por lo que adelantó que actuarán para desalentar ese tipo de acciones y garantizar, así, el abastecimiento en todo el país.\nFrederic también ratificó que desde que se declaró la pandemia de coronavirus se aumentaron 'en un 20% o un 30%' los efectivos de Gendarmería y que se reforzó la presencia de esa fuerza de seguridad en cuatro distritos del conurbano bonaerense: La Matanza, San Fernando, Moreno y Quilmes.\nEn una videoconferencia con los miembros de la Comisión de Seguridad Interior de la Cámara de Diputados, la funcionaria también dijo que en marzo cayó la cantidad de muertes en la provincia de Santa Fe.\n'Mantenemos el apoyo a Santa Fe y a la provincia de Buenos Aires, que son los distritos con mayor concentración de conflictividad', afirmó Frederic.\n\n\nDurante su comparecencia virtual, la ministra escuchó la preocupación de muchos diputados del interior por las dificultades para controlar la circulación en los pasos fronterizos y los inconvenientes generados por el cierre de rutas y fronteras provinciales en varios puntos del país.\n'El cierre de pasos y rutas nacionales no lo pueden hacer, porque es delito. Tratamos de desalentarlo y hemos desactivado varios', explicó. 'Vamos a intervenir sobre los intendentes que cierran el tránsito', agregó.\nOtro tema que concitó la atención de legisladores fue cuando la ministra dijo que las fuerzas de seguridad monitoreaban las redes sociales 'para ver el humor social y prevenir situaciones'.\n'Quiero saber qué son los ciberpatrullajes', la inquirió el trotskista Nicolás del Caño. La misma preocupación demostraron, a su turno, los diputados Jorge Enríquez y Romina del Plá.\n'No es ciberespionaje', aclaró la ministra. 'Lo que se hace es un rastreo por lo que es público, si no no usaríamos las redes; solo se accede a lo que es público, eso permite anticiparse a una dimensión del humor social', agregó."
+}

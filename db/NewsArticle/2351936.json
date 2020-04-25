@@ -1,0 +1,45 @@
+{
+  "id":"http://www.lanacion.com.ar/2351936",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus: la cuarentena seguir&#225; siendo estricta en la Capital y el conurbano",
+  "url":"https://www.lanacion.com.ar/politica/coronavirus-gobernadores-apoyaron-prorroga-cuarentena-nid2351936",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/26/3230426w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/26/3230426w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:11:00 p.m.",
+  "datePublished":"08/04/2020 12:11:00 p.m.",
+  "dateModified":"08/04/2020 12:11:15",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/politica",
+  "articleSection":"Política",
+  "author":[
+    "Gabriel Sued"
+  ],
+  "creator":[
+    "Gabriel Sued"
+  ],
+  "keywords":[
+    "Alberto Fernández",
+    "Política",
+    "Coronavirus",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nAlberto Fernández consiguió hoy el respaldo político que buscaba para extender la cuarentena , incluso con una flexibilización más tenue de lo que se especulaba en los últimos días. En una teleconferencia que encabezó desde la residencia de Olivos, los gobernadores dieron un apoyo unánime a la medida de confinamiento general y coincidieron en la necesidad de reforzar el combate contra la pandemia del coronavirus .\n\n\n'Los epidemiólogos me dicen que debemos mantener la cuarentena' , les comunicó Alberto Fernández, minutos antes de las 18, en el inicio de una conversación en la que anticipó que en la etapa que comenzará el lunes se mantendrá el aislamiento obligatorio para la mayor parte de la población, en especial en el Área Metropolitana de Buenos Aires (AMBA) , donde se registra el 70 por ciento de los contagios. La misma regla se aplicará a distritos con transmisión local del virus, como la provincia de Chaco y ciudades de Córdoba, Santa Fe y Tierra del Fuego.\nEl Presidente no anticipó cuáles serán las nuevas actividades exceptuadas ni hasta cuándo prorrogará la cuarentena. Tampoco había dado detalles el jefe de Gabinete, Santiago Cafiero, en la cumbre con empresarios y sindicalistas, que se hizo a la mañana, en la Casa Rosada.\n\n\nFernández hará los anuncios el fin de semana, dijo en la teleconferencia, sobre la base de informes que les pidió a los mandatarios acerca de qué actividades deberían retomarse. Eso sí, adelantó que no se reanudarán las clases y que seguirán suspendidos los vuelos de cabotaje y los viajes de media y larga distancia.\n'Queremos minimizar al máximo la circulación en transporte público, es el lugar ideal para contagiarse. Cuanta menos densidad de personas, mejor será', dijo el Presidente, escoltado por el gobernador de la provincia de Buenos Aires, Axel Kicillof , y el jefe de gobierno porteño, Horacio Rodríguez Larreta . En la sala, equipada con tres pantallas, también estaban los ministros Ginés González García (Salud) y Eduardo De Pedro (Interior); el secretario general de la Presidencia, Julio Vitobello , y el ministro de Salud de la Ciudad, Fernán Quiroz .\nEn una charla de más de cuatro horas, Fernández anunció el lanzamiento de un programa de asistencia financiera a las provincias de 120.000 millones de pesos y respaldó la propuesta de varios gobernadores para promover el uso de barbijos caseros en la vía pública .\nDespués de advertir que los barbijos profesionales deben quedar reservados para médicos y enfermeros, el Presidente coincidió en que la iniciativa que ya tomaron casi una decena de provincias podría contribuir a disminuir los contagios. El gobernador de Chaco, Jorge Capitanich, solicitó un protocolo unificado, y el Presidente prometió estudiarlo.\nEl foco principal de atención, dijo Fernández, estará en el cuidado de los mayores de 70 años, población con mayor riesgo. Para ellos se mantendrá el aislamiento obligatorio. Incluso, podría reforzarse el régimen a partir de una propuesta de Rodríguez Larreta, que contempla una red de asistencia especial y 'contención afectiva' para que las personas de esa edad no se vean obligadas a salir a la calle. 'En cualquier mecanismo, de ningún modo va a ser flexibilizado para los adultos mayores. Cuanto más los aislemos, mejor será', señaló el Presidente.\nLa propuesta, que será lanzada mañana por Rodríguez Larreta, incluye el traslado voluntario a lugares especiales de adultos mayores que vivan hacinados o en situaciones de vulnerabilidad, y la creación de una red de voluntarios para hacerles las compras. 'Tenemos que aislar a la franja más sensible. Son personas que necesitan medidas adicionales', expuso el jefe de gobierno ante los gobernadores.\nEl Presidente se metió también en la polémica por el uso público del sistema de salud de prestación privada. 'El sistema de salud hoy es el sistema de los argentinos. No quiere decir expropiar sanatorios, quiere decir coordinar la tarea del Estado con los privados', señaló.\nLas preocupaciones sanitarias compartieron minutos con las urgencias económicas. Casi todos los mandatarios hicieron un diagnóstico crudo de la situación en sus provincias, con la recaudación en caída libre y el crecimiento exponencial de las demandas sociales.\nIntervino entonces 'Wado' De Pedro, para dar detalles de un nuevo paquete de asistencia por 120.000 millones de pesos. Consiste en la distribución durante las próximas semanas de 60.000 millones de pesos de Aportes del Tesoro Nacional (ATN) y la apertura de una línea de crédito a tasa 'muy baja' por otros 60.000 millones de pesos, provenientes del Fondo Fiduciario de Desarrollo Provincial."
+}

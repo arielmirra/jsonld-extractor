@@ -1,0 +1,64 @@
+{
+  "id":"http://www.lanacion.com.ar/2351994",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Hor&#243;scopo de Acuario de hoy: mi&#233;rcoles 8 de Abril de 2020",
+  "url":"https://www.lanacion.com.ar/lifestyle/horoscopo-de-acuario-de-hoy-miercoles-8-de-abril-de-2020-nid2351994",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/03/3230503w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/03/3230503w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 01:03:00 a.m.",
+  "datePublished":"08/04/2020 01:03:00 a.m.",
+  "dateModified":"08/04/2020 01:03:26",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/lifestyle",
+  "articleSection":"Lifestyle",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Renata Dossi"
+  ],
+  "creator":[
+    "Renata Dossi"
+  ],
+  "keywords":[
+    "Horóscopo",
+    "Lifestyle",
+    "Signos",
+    "Astros",
+    "Predicciones",
+    "Astrología",
+    "Acuario",
+    "Notas servicios",
+    "Servicios Horóscopo"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\n\n\nAcuario se distingue por una fuerte y libre personalidad que lo lleva desconocer las convenciones. Las personas marcada por este signos suelen ser innovadores e idealistas. Ofrecen un punto de vista original y casi siempre contrario a las mentes conservadoras. ¿Son rebeldes? No precisamente, simplemente viven así.\nFechas: 20 de Enero al 19 de Febrero\nQué le espera a Acuario el miércoles 8 de Abril\nSeguramente se sentirá relajado, ya que se ha librado de viejas ataduras y dependencias que lo limitaban para tomar una propia determinación.\nAmor: Controle sus ansias de dominio, de lo contrario, podrían surgir discusiones familiares y terminar muy mal. Intente ser más paciente.\nRiqueza: Prepárese y enfóquese en muchos de los nuevos negocios que le ofrecieron hace poco, ya que le generarán demasiada abundancia monetaria y prosperidad.\nBienestar: Esquive los problemas que se interponen en su vida y le afectan negativamente. Procure liberarse de todas las personas que lo molestan y no lo dejan en paz.\nConsultá el horóscopo de todos los signos del zodiaco.\nOtras predicciones para hoy : Aries | Tauro | Géminis | Cáncer | Virgo | Libra | Escorpio | Sagitario | Capricornio | Piscis | Leo |"
+}

@@ -1,0 +1,57 @@
+{
+  "id":"http://www.lanacion.com.ar/2351926",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Escalonar el horario escolar, en estudio",
+  "url":"https://www.lanacion.com.ar/sociedad/escalonar-el-horario-escolar-en-estudio-nid2351926",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 02:04:00",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/sociedad",
+  "articleSection":"Sociedad",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Sociedad",
+    "GDA"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nLa posibilidad de escalonar los horarios de ingreso en la escuela, una vez se decida el retorno a la presencialidad, se analiza por estas horas en el Ministerio de Educación de la Nación, que ayer confirmó que se mantendrá la enseñanza de manera remota o virtual en las próximas semanas.\nAunque el próximo lunes vence esta segunda etapa de cuarentena para evitar contagios por el nuevo coronavirus, en ese ministerio se anticipó ayer que 'no es momento de volver físicamente a la escuela, pero sí de seguir educando a la distancia'. Así lo sostuvo el ministro Nicolás Trotta, al admitir que no se descartan cambios en el calendario escolar de este año. También deslizó que se estudia la posibilidad de que en esa reformulación se contemplen vacaciones. 'Tiene que haber vacaciones. La sociedad va a necesitar un respiro', amplió, al ser cuidadoso en hablar del futuro: 'No me quiero adelantar porque no sabemos cuándo vamos a volver a las clases, aunque los maestros siguen trabajando a la distancia mientras transitamos una pandemia impensada'."
+}

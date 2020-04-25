@@ -1,0 +1,55 @@
+{
+  "id":"http://www.lanacion.com.ar/2351901",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus: sombr&#237;o pron&#243;stico de la OPS para la regi&#243;n en las pr&#243;ximas semanas",
+  "url":"https://www.lanacion.com.ar/el-mundo/coronavirus-sombrio-pronostico-ops-region-proximas-nid2351901",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/44/3227144w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/44/3227144w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"07/04/2020 08:37:00 p.m.",
+  "datePublished":"07/04/2020 08:37:00 p.m.",
+  "dateModified":"07/04/2020 20:37:04",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/el-mundo",
+  "articleSection":"El-Mundo",
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Colombia",
+    "Brasil",
+    "Chile",
+    "México",
+    "Nicaragua",
+    "Ecuador",
+    "Daniel Ortega",
+    "Perú",
+    "Actualidad",
+    "Organización Mundial de la Salud",
+    "República Dominicana",
+    "Panamá",
+    "Coronavirus",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nWASHINGTON.- Las muertes por el nuevo coronavirus aumentarán en América Latina en las próximas tres a seis semanas , afirmó hoy la directora de la Organización Panamericana de la Salud (OPS), que subrayó que todo dependerá del cumplimiento de las medidas para evitar los contagios y de los recursos disponibles.\nCarissa Etienne, titular de la oficina regional de la Organización Mundial de la Salud (OMS), dijo que el impacto sanitario del nuevo coronavirus no será igual en todos los países latinoamericanos, pero muchos comenzarán a ver a fines de abril y principios de mayo un mayor número de infectados y de fallecidos por la enfermedad del nuevo coronavirus.\nY vaticinó que algunos incluso verán 'abrumados' sus servicios de salud .\n'Por supuesto, todo esto depende de c uánto cumplan los países con el distanciamiento social, si están dispuestos a continuar con esas medidas, si tienen suficientes trabajadores de la salud y suficientes camas de hospital, particularmente de unidades de cuidados intensivos, y si cuentan con suficientes respiradores y equipos de protección personal ', señaló Etienne en una conferencia de prensa por videoconferencia.\nEl nuevo coronavirus provocó más de 81.200 muertos y 1,4 millones de contagios en todo el mundo desde que se reportó el primer caso en China en diciembre.\nDesde el comienzo de la epidemia, América Latina suma 1373 fallecidos y 36.317 casos.\n' En solo siete días, hemos visto cómo se han más que duplicado los casos y muertes en nuestra región . La pandemia se está acelerando rápidamente', advirtió Etienne.\n'La situación empeorará antes de mejorar , y todos debemos estar preparados para que las próximas semanas sean aún más difíciles ', agregó.\nEtienne dijo que el impacto de la pandemia será 'devastador' donde falten trabajadores de la salud y llamó a mostrarles agradecimiento y solidaridad, y a no estigmatizarlos .\nAdemás, pidió a los países coordinación para garantizar el suministro de equipamiento de protección a los hospitales, y trabajar con el sector privado para encontrar 'soluciones innovadoras para impulsar la producción'.\n'Ahora no es el momento de acumular y acumular. Es un momento para aliviar las restricciones a la exportación , y adoptar regulaciones flexibles que permitan el acceso a los lugares que serán los más afectados en las próximas semanas', enfatizó.\nEtienne no identificó qué países latinoamericanos siguen más ajustadamente las recomendaciones de la OPS/OMS para enfrentar la amenaza del nuevo coronavirus. Pero expresó la 'preocupación' del organismo por la respuesta de Nicaragua.\n'Nos preocupa la falta de distanciamiento social, la convocatoria de reuniones masivas. Nos preocupan los exámenes, la trazabilidad de los contactos y la notificación de casos. También nos preocupa lo que vemos como una prevención y control de infecciones inadecuados', indicó.\nNicaragua es el único país de América Latina que no cerró sus fronteras, no tomó medidas de confinamiento de la población, mantiene abiertas las escuelas y promueve ferias, actividades recreativas y de turismo, algo duramente cuestionado por médicos, empresarios y opositores.\nEn este país centroamericano de 6,3 millones de habitantes se detectaron solo seis casos importados y un fallecido, pero no hay reporte oficial de pruebas realizadas.\nEtienne dijo que la OPS, 'en diversos momentos y a diversos niveles, tanto de manera informal como formal', planteó al gobierno de Daniel Ortega sus inquietudes respecto a la gestión del brote epidémico, declarado pandemia por la OMS el 11 de marzo.\n'La OPS sigue preparada para trabajar con las autoridades de Nicaragua para garantizar que realmente están respondiendo al COVID-19 de una manera que salvará vidas', dijo.\nRosario Murillo, vocera del gobierno y esposa de Ortega, usa referencias religiosas para hablar de la enfermedad y da 'gracias infinitas a Dios' por la recuperación de los contagiados.\nLa región latinoamericana y del Caribe alcanzó los 10.000 casos confirmados de Covid-19 el 27 de marzo, cinco días después duplicó esa cifra y tardó sólo cuatro días más para superar los 30.000 casos.\nHasta ahora Brasil registra un tercio de los contagios (11.130) y la mayor cantidad de muertos (486). Con 3646 casos, Ecuador le sigue en número de fallecidos (180).\n'Fuimos a la guerra sin armas' , dijo una enfermera de Guayaquil, convertida en rostro del embate del coronavirus en la región.\nPor cantidad de casos, Chile (4815 contagios y 37 muertos) aparece segundo. Detrás están Perú (2281, 83), México (2143, 94), Panamá (1988, 54) y República Dominicana (1828, 86), Colombia (1780, 46) y la Argentina (1628, 56).\nAgencia AFP"
+}

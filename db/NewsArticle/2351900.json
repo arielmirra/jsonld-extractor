@@ -1,0 +1,44 @@
+{
+  "id":"http://www.lanacion.com.ar/2351900",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus: la curva de decesos por Covid-19 se acelera en Suecia",
+  "url":"https://www.lanacion.com.ar/el-mundo/la-curva-de-decesos-por-covid-19-se-acelera-en-suecia-nid2351900",
+  "thumbnailUrl":"https://bucket1.glanacion.com/anexos/fotos/81/3230481w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket1.glanacion.com/anexos/fotos/81/3230481w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 02:03:20",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/el-mundo",
+  "articleSection":"El-Mundo",
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Actualidad",
+    "GDA",
+    "Coronavirus"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nESTOCOLMO.- Más de cien personas contagiadas del nuevo coronavirus murieron en Suecia en las últimas 24 horas, según el recuento publicado ayer por la Agencia de Salud sueca.\nEste país de 10,3 millones de habitantes, que adoptó medidas más flexibles para contener la progresión del virus, registra 7693 casos de infección y 591 fallecidos, una mortalidad mucho más alta de la que se observa en sus vecinos nórdicos.\nSin embargo, de las 114 nuevas muertes contabilizadas ayer, una parte proviene de cifras revisadas estos últimos días.\nLa semana pasada, Anders Tegnell, epidemiólogo de la Agencia de Salud pública, declaró que si bien Suecia había registrado una curva de contagios relativamente plana hasta ahora, esta comenzaba a acentuarse. Y esto en un momento en el que los servicios de salud cuentan con falta de equipamiento y de personal.\nEn el reino escandinavo, la población no está confinada como en otros países europeos para frenar la epidemia.\nEntre las medidas más estrictas adoptadas hasta ahora figuran la prohibición de las concentraciones de más de 50 personas y las visitas a las residencias de ancianos.\nLa manera en la que Suecia está gestionando la crisis sanitaria, menos aguda que en la mayoría de los países europeos, genera críticas tanto a nivel nacional como internacional, pero el gobierno sueco niega su supuesta pasividad.\nAgencias ANSA y DPA"
+}

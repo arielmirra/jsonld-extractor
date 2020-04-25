@@ -1,0 +1,57 @@
+{
+  "id":"http://www.lanacion.com.ar/2351928",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Carlos Verna critic&#243; a Alberto Fern&#225;ndez: Ahora nos cag&#243; un compa&#241;ero",
+  "url":"https://www.lanacion.com.ar/politica/carlos-verna-critico-al-presidente-ahora-nos-nid2351928",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/14/3230414w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/14/3230414w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"07/04/2020 08:57:00 p.m.",
+  "datePublished":"07/04/2020 08:57:00 p.m.",
+  "dateModified":"07/04/2020 21:06:28",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/politica",
+  "articleSection":"Política",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Gabriela Origlia "
+  ],
+  "creator":[
+    "Gabriela Origlia "
+  ],
+  "keywords":[
+    "Actualidad",
+    "Política"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nEl exgobernador de La Pampa Carlos Verna cruzó al presidente Alberto Fernández por la obra Portezuelo del Viento, que enfrenta a su provincia con la de Mendoza. A través de Twitter, Verna rechazó la decisión del Presidente de exceptuar los bonos para la megapresa de Malargüe del reperfilamiento ensayado por el gobierno nacional; esa aclaración figura en el decreto 346/2020.\n'El presidente @alferdez defaulteó la deuda de bonos de legislación nacional, excepto los de Portezuelo. Antes nos cagaba @mauriciomacri, ahora nos cagó un compañero', criticó Verna en Twitter.\n\n\nLa obra emplazada en Mendoza es motivo de conflicto con La Pampa desde hace tiempo; está valuada en casi US$ 900 millones y comprende la instalación de una central hidroeléctrica a construir sobre el río Grande, en el departamento de Malargüe. Comenzó a planificarse en 2006 y en el 2016 el Gobierno de Cambiemos decidió motorizarla vía contratos de obra pública tradicional. Y, después, por el esquema de participación público- privada (PPP). Nunca se avanzó.\nPortezuelo del Viento será de tal envergadura que tendrá un tamaño hasta cinco veces mayor al del dique Potrerillos, ubicado también en Mendoza.\nLa Pampa se queja porque sostiene que la construcción cercenará el acceso y la utilización sustentable de toda la cuenca del río Colorado, cuyo caudal depende de forma crítica del flujo que le aporta el Grande.\n'Si Mendoza maneja Portezuelo, va a secar el río Colorado', declaró el año pasado Verna. Hoy retomó las críticas. El ministro mendocino de Economía Enrique Vaquié le salió al cruce: 'Siempre fuimos claros y mostramos los estudios que le dan seguridad técnica a los beneficios que va a generar Portezuelo del Viento sobre toda la cuenca del río Colorado. Seguimos trabajando para que el megaproyecto se concrete'."
+}

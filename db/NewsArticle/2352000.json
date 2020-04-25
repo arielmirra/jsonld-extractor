@@ -1,0 +1,64 @@
+{
+  "id":"http://www.lanacion.com.ar/2352000",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Hor&#243;scopo de Leo de hoy: mi&#233;rcoles 8 de Abril de 2020",
+  "url":"https://www.lanacion.com.ar/lifestyle/horoscopo-de-leo-de-hoy-miercoles-8-de-abril-de-2020-nid2352000",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/09/3230509w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/09/3230509w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 01:04:00 a.m.",
+  "datePublished":"08/04/2020 01:04:00 a.m.",
+  "dateModified":"08/04/2020 01:03:48",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/lifestyle",
+  "articleSection":"Lifestyle",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Renata Dossi"
+  ],
+  "creator":[
+    "Renata Dossi"
+  ],
+  "keywords":[
+    "Horóscopo",
+    "Lifestyle",
+    "Signos",
+    "Astros",
+    "Predicciones",
+    "Astrología",
+    "Leo",
+    "Notas servicios",
+    "Servicios Horóscopo"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\n\n\nLeo es el signo de la fuerza, la confianza y la alegría de vivir. Las personas regidas por este elemento del zodiaco tienen cierta majestad, poder, iniciativa, nobleza y capacidad creadora. El león que lo representa es símbolo de fuerza, dominio y virilidad. Son protectores, en especial con los niños y los más débiles.\nFechas: 23 de Julio al 23 de Agosto\nQué le espera a Leo el miércoles 8 de Abril\nMientras usted se siga negando al triunfo en todos los sentidos, podrían retrasarse o no fluirán como esperaba esas metas que se ha propuesto.\nAmor: Se acerca una crisis con su alma gemela. Retornarán viejos resentimientos que ninguno de los dos ha conseguido superar con el transcurso del tiempo.\nRiqueza: Siga adelante sin ningún temor con todos los proyectos que tiene en su cabeza, ya que le aparecerán propuestas que lo conducirán al éxito rotundo.\nBienestar: Dedique parte de la tarde exclusivamente al cuidado de su salud. Inscríbase en alguna clase online de gimnasio o por las redes.\nConsultá el horóscopo de todos los signos del zodiaco.\nOtras predicciones para hoy : Aries | Tauro | Géminis | Cáncer | Virgo | Libra | Escorpio | Sagitario | Capricornio | Acuario | Piscis |"
+}

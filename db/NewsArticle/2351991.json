@@ -1,0 +1,44 @@
+{
+  "id":"http://www.lanacion.com.ar/2351991",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Roberto Debbag: La flexibilizaci&#243;n sola, sin aislamiento social y m&#225;s testeos, puede ser desfavorable",
+  "url":"https://www.lanacion.com.ar/economia/roberto-debbag-la-flexibilizacion-sola-sin-aislamiento-social-y-mas-testeos-puede-ser-desfavorable-nid2351991",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/15/3230515w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/15/3230515w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 01:02:00 a.m.",
+  "datePublished":"08/04/2020 01:02:00 a.m.",
+  "dateModified":"08/04/2020 03:31:58",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/economia",
+  "articleSection":"Economía",
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Comunidad de Negocios",
+    "Mesa Chica",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nTras la reciente recomendación del Gobierno en relación al uso de barbijos , el doctor Roberto Debbag , médico infectólogo del Hospital Garrahan , adhirió al consejo, sobre todo para protejerse durante el mayor brote pandémico , que se espera para dentro de dos semanas. El profesional advirtió también que hasta llegar al pico de contagios 'la flexibilixación sola, sin aislamiento social y más testeos, puede ser desfavorable'.\n'Las actividades tras la cuarentena deben volver con las medidas de distanciamiento social', precisó el médico al analizar cómo debería transitarse una posible flexibilización del aislamiento obligatorio. De todas formas, ahondó en la importancia de cumplir con la cuarentena de las personas de riesgo y generar mayor cantidad de testeos en pacientes con síntomas de infección para bloquearlos y cortar así la transmisión del virus.\nSin embargo, Debbag se mostró optimista en dos cuestiones fundamentales: en cuanto a los avances científicos en relación a posibles tratamientos y respecto de la cura, ya que destacó que el 98% de los pacientes positivos de Covid-19 salen airosos del virus.\n'La gran mayoría de las personas se curan y un porcentaje muy bajo son las que tienen una probabilidad de complicación y un desenlace fatal. Sin ninguna duda en el mundo hay datos positivos', señaló. Asimismo aclaró que otro punto esperanzador es la reciente aprobación del estudio de investigación con plasma de personas recuperadas.\nPor otro lado, destacó que, a diferencia de otros países, en la Argentina la 'curva se amesetó' y se logró contar con cinco semanas más para que el sistema de salud se prepare con mayores respiradores y testeos."
+}

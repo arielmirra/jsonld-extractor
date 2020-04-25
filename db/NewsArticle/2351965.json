@@ -1,0 +1,48 @@
+{
+  "id":"http://www.lanacion.com.ar/2351965",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"V&#237;ctor Fera, fundador de Maxiconsumo: El Presidente no necesita chupamedias",
+  "url":"https://www.lanacion.com.ar/economia/victor-fera-fundador-maxiconsumo-el-presidente-no-nid2351965",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/89/3230489w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/89/3230489w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"07/04/2020 11:22:00 p.m.",
+  "datePublished":"07/04/2020 11:22:00 p.m.",
+  "dateModified":"07/04/2020 23:22:16",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/economia",
+  "articleSection":"Economía",
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Alberto Fernández",
+    "Actualidad",
+    "Política",
+    "LN+",
+    "Trends",
+    "Daniel Arroyo",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\n\n\nVictor Fera, fundador de Maxiconsumo, habló con Luis Majul en Mirá lo que te digo, por la pantalla de LN+, y se refirió al escándalo de los sobreprecios. 'Yo le pedí al Presidente que actúe y que saque a la gente que tiene que sacar, y es lo que hizo. El Presidente no necesita chupamedias, necesita que la gente se lo diga', dijo Fera, enojado.\n'Yo estuve presente en la Mesa del Hambre y fui el primero que denunció el problema que había, no Cabot', arrancó diciendo el dueño de Marolio. 'Esta licitación la denuncié públicamente y dije que quería presos a todos. Le pedí al Presidente que actúe con firmeza por esto porque estábamos jugando con el hambre de la gente', continuó.\n'Ayer la llamé a Victoria Tolosa, al 'Chino' Navarro, y empezamos a trabajar para echar a los chorros del Estado', siguió Fera, en comunicación con Majul. 'Llamamos a Arroyo, y ahí empezamos a trabajar con el Presidente de la Nación para echar a los chorros, si es que los hay. Hay que investigar a las empresas. Soy un argentino comprometido con mi país. Hace 20 años que digo que hay más corrupción en la comida que en la obra pública', agregó.\nAdemás, el comerciante se refirió al período en el que le vendía mercadería al gobierno de Mauricio Macri. 'También les vendí mercadería, que me la pagaban a los cinco o seis meses para que no pueda licitar. La corrupción viene de hace muchos años. Hagamos historia y vayamos a investigar a todo el mundo', siguió Víctor Fera. 'Conozco a las empresas de nombre, que son las que vienen ganando licitaciones desde hace 15 años. Ganan con todos los gobiernos, se cansaron de ganar', finalizó."
+}

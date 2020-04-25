@@ -1,0 +1,46 @@
+{
+  "id":"http://www.lanacion.com.ar/2351986",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus. Andr&#233;s Oppenheimer: Alberto Fern&#225;ndez es un populista que reaccion&#243; a tiempo y bien",
+  "url":"https://www.lanacion.com.ar/economia/andres-oppenheimer-alberto-fernandez-es-populista-reacciono-nid2351986",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/83/2756183w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/83/2756183w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 01:06:00 a.m.",
+  "datePublished":"08/04/2020 01:06:00 a.m.",
+  "dateModified":"08/04/2020 01:42:24",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/economia",
+  "articleSection":"Economía",
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Actualidad",
+    "Comunidad de Negocios",
+    "LN+",
+    "Mesa Chica",
+    "Coronavirus"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nEl analista político Andrés Oppenheimer estuvo en Mesa Chica y allí evaluó la situación que vive el mundo ante el estallido del coronavirus. Ante la pregunta del periodista José Del Rio de por qué los populistas no se tomaron en serio la pandemia, el escritor citó los casos de Estados Unidos, China, Inglaterra y México y, al referirse a la Argentina, aclaró: ' Alberto Fernández es populista, pero en esta oportunidad reaccionó a tiempo y reaccionó bien'.\nEn primer lugar, sostuvo que Donald Trump 'está reescribiendo la historia' y opinó que el mandatario no reaccionó porque 'quería mantener el mito, o la realidad, de una economía pujante y una bolsa de valores que estaba en su nivel récord de todos los tiempos'. Luego, habló de México y atribuyó el accionar de Andrés Manuel López Obrador a que es 'un hombre muy terco y obstinado que cree en su realidad'. Y, por último, dijo que China vive en una 'dictadura de partido' y que, por eso, su sociedad se vio afectada por 'la censura'. En ese sentido, enfatizó: 'La libertad de prensa es el elemento más importante para evitar este tipo de pandemias en el futuro. Si en China hubiera habido una prensa libre, hubiéramos sabido de esto en noviembre o diciembre del año pasado'.\nAdemás de analizar las gestiones que se hicieron en estos países ante el coronavirus, el invitado advirtió sobre el riesgo que tiene esta enfermedad para las regiones más pobres y proyectó que el mundo cambiará después de esta crisis dado que se aceleraron los procesos hacia el teletrabajo, la telemedicina y la educación a distancia.\nDesde Estados Unidos, lugar en el que reside, Oppenheimer señaló: 'El presidente [Donald] Trump está reescribiendo la historia. Culpó a la Organización Mundial de la Salud (OMS) y a China y, como siempre, son medias verdades. Por su puesto que lo más probable es que China haya ocultado las primeras muertes del Covid-19 y que la OMS desoyó el aviso de Taiwán para no meterse en líos con China, y que eso causó un retraso'.\n'Trump quiere escudarse en eso para exculparse él mismo de su mes y medio, dos meses, de respuesta tardía ante este problema', observó. Así, recordó que el presidente había minimizado los riesgos de la pandemia y había dicho que su país lo tenía totalmente controlado. 'Quería mantener la bolsa de valores en un cifra récord y basar su campaña electoral en el supuesto excelente desempeño de la economía'.\nPor eso, según analizó el especialista, el mandatario norteamericano comenzó a tomar medidas y reconocer la problemática cuando la bolsa se derrumbó, a mediados de marzo. 'Está tratando de mostrarse como una víctima de la mala información de China y la OMS', observó.\nPara él, Latinoamérica puede ser una de las regiones más golpeadas por la pandemia. 'Estamos hablando de Italia, España, Estados Unidos y China, pero lo más grave es lo que va a pasar sobre todo en África, pero también en los lugares más pobres de América Latina y Asia', dijo, y profundizó: 'Casi 3000 millones de personas, el 40% de la humanidad, viven en lugares que carecen de facilidades básicas para lavarse las manos, que es la base para salir de esta catástrofe'.\nSegún destacó, la clave ahora está en prepararse para el mundo que se viene y los cambios que van a producirse, a partir de esto, en el universo laboral. El autor del libro ' Sálvese quien pueda ' dijo que la situación que se vive hoy 'va a acelerar muchísimo la tendencia a la automatización'. Y proyectó: 'Es importantísimo que pongamos esto en el centro de la agencia política, como personas, como familias y como países. El mundo que se viene después de esta crisis va a ser muy diferente al que existía'.\n'Nos estamos reinventando', observó Oppenheimer. Tal como proyectó, la nueva normalidad va a ser incorporar robots a los trabajos y que se potencie la educación a distancia. 'Un estudio de la Universidad de Oxford dice que el 47% de nuestros empleos va a desaparecen por la automatización en los próximos 10 años, pero después de esta crisis eso se va a acelerar muchísimo', pronosticó.\nEntonces, al hablar de los cambios en la educación, señaló: 'Te vas a suscribir a una universidad como te suscribís a una revista'. Y es optimista con estos cambios. 'La escuela tradicional ha sido una receta para la inequidad social. Ahora, con la teleeducación, los chicos podrán estudiar y hacer los deberes con sus maestras a través de clases virtuales, y eso cambia totalmente la ecuación. No es que los chicos van a dejar de ir a la escuela, pero ya no serán esclavos de un sistema que penalizaba a los pobres y favorecía a los ricos'."
+}

@@ -1,0 +1,58 @@
+{
+  "id":"http://www.lanacion.com.ar/2351918",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Un detenido con prisi&#243;n domiciliaria asesin&#243; a su esposa",
+  "url":"https://www.lanacion.com.ar/seguridad/un-detenido-con-prision-domiciliaria-asesino-a-su-esposa-nid2351918",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 02:04:21",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/seguridad",
+  "articleSection":"Seguridad",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Violencia de género",
+    "Femicidio",
+    "GDA"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nUna mujer fue asesinada a puñaladas delante de su hija de 7 años en su casa del partido bonaerense de Escobar, donde fue atacada por su esposo, quien se suicidó, según informaron fuentes policiales y judiciales.\nEl hecho ocurrió en una vivienda situada en Las Rosas e Inmigrantes, donde la víctima, identificada por la Justicia como María Yusco, de 45 años, residía junto a su marido, Jerónimo Cruz, de 60, y una hija de ambos.\nFuentes policiales y judiciales informaron a Télam que todo comenzó cuando un vecino del matrimonio escuchó gritos de pelea y llamó al 911, por lo que los efectivos se trasladaron hasta la casa, en una de cuyas habitaciones hallaron el cuerpo de Yusco y en otra sala fue encontrado malherido el hombre. De acuerdo con los voceros, en el lugar se hallaba ilesa la pequeña hija de ambos y un vecino, ambos testigos presenciales de lo ocurrido.\nSegún las fuentes, Yusco presentaba al menos cinco profundas heridas de arma blanca, más múltiples cortes, mientras que su esposo tenía una puñalada en el estómago, a raíz de lo cual fue trasladado al Hospital de Escobar, donde murió.\nUn vocero judicial explicó a Télam que sobre la base de los elementos recolectados en la investigación, se pudo determinar que el hombre atacó a su mujer con un cuchillo en una habitación y luego de cometer el femicidio se dirigió al dormitorio contiguo, donde se autolesionó con la misma arma.\nEl investigador añadió que no había denuncias previas por violencia de género de parte de la víctima contra su esposo, aunque este tenía antecedentes por trata de personas.\nPor esa causa, el presunto femicida había sido detenido en la provincia de Jujuy y alojado en el penal de Ezeiza, aunque actualmente gozaba de una prisión domiciliaria, detalló el informante.\nEn tanto, la hija de la mujer asesinada recibió contención psicológica de parte de expertos del área de Niñez y Adolescencia de Escobar y quedará al resguardo de otros familiares.\nLa causa quedó a cargo del fiscal Cristian Fabio, de la Unidad Funcional de Instrucción (UFI) descentralizada 4 de Escobar, quien se hizo presente en la escena del crimen junto al personal de Policía Científica."
+}

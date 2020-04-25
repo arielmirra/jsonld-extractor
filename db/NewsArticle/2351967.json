@@ -1,0 +1,58 @@
+{
+  "id":"http://www.lanacion.com.ar/2351967",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Un grupo de empresas habitu&#233;s en licitaciones y con algunas cr&#237;ticas",
+  "url":"https://www.lanacion.com.ar/economia/un-grupo-de-empresas-habitues-en-licitaciones-y-con-algunas-criticas-nid2351967",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/97/3228997w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/97/3228997w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 13:21:22",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/economia",
+  "articleSection":"Economía",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "María Julieta Rumi"
+  ],
+  "creator":[
+    "María Julieta Rumi"
+  ],
+  "keywords":[
+    "Comunidad de Negocios",
+    "Actualidad económica",
+    "GDA"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nLas empresas que salieron beneficiadas por la contratación directa que realizó el Ministerio de Desarrollo Social por la emergencia sanitaria aparecieron ayer en todos los diarios, pero hace años participan de licitaciones nacionales, así como también en la provincia de Buenos Aires y la Capital Federal. Y en algunos casos han sido objeto de polémicas por alimentos en mal estado o por sobreprecios .\nLa abogada en causas de corrupción y exdirectora de la Inspección General de Justicia (IGJ) Silvina Martínez dijo en diálogo con LA NACION que las firmas Sol Ganadera SRL, Copacabana SA, Teylem SA, Forain SA, Alimentos Generales SA y M.H. Accurso SRL aparecen en 'una gran cantidad de licitaciones de la ciudad de Buenos Aires, la provincia de Buenos Aires y la Nación', y algunas fueron denunciadas en su momento por el kirchnerismo, que luego las terminó contratando.\nMartínez hace referencia, por ejemplo, a la denuncia penal que presentó en octubre de 2017 el diputado del Frente para la Victoria (FPV) Rodolfo Tailhade contra el gobierno de María Eugenia Vidal por presuntos sobreprecios en la licitación de 150.000 cajas navideñas en 2016. Una de las cuatro adjudicatarias había sido la distribuidora Copacabana.\nOtros datos que resaltó Martínez es que Copacabana solo tiene tres empleados; Sol Ganadera y Alimentos Generales tienen la misma dirección, y Teylem y Forain pertenecen al mismo grupo empresario.\nAl respecto, el Grupo L, dueño de esas empresas, emitió un comunicado en el que informó que solo presentó una única oferta en cada una de las licitaciones: Teylem SA presentó propuestas para las licitaciones de aceite, harina y arroz, y Forain SA para las de fideos y lentejas.\n'El Ministerio nos adjudicó el 20% de las cantidades solicitadas en cada una de las licitaciones y los precios ofrecidos y aprobados por ellos están en algunos casos por encima del promedio de los precios testigo de la Sigen. En otros, en niveles parecidos, y en dos casos, por debajo de ese valor. Estamos absolutamente tranquilos respecto de las decisiones tomadas en este proceso licitatorio y los productos quedan a disposición para su entrega a requerimiento', afirmó el grupo.\nSin embargo, llama la atención el caso de Forain, porque la empresa se dedica a actividades de servicios administrativos y de apoyo y su principal actividad serían los servicios de limpieza general de edificios. 'Cambió su objeto social en 2011. No tiene objeto societario ni categoría en AFIP ni en ningún lado está habilitada para este rubro. Ha participado en licitaciones relacionadas con objetos de limpieza, colchones, pero la diferencia aquí es que eligen a un proveedor que ni siquiera tiene su objeto correcto', explicó Martínez, quien puntualizó que es la primera vez que la empresa aparece en una licitación nacional ofertando alimentos.\nTeylem, en cambio, sí figura y fue parte de una polémica en la ciudad de Buenos Aires por entregar yogures en mal estado en tres escuelas porteñas en 2012.\nPor caso, la única firma de las seis que fueron beneficiadas por la licitación de Desarrollo Social que se dedica a producir alimentos es M.H. Accurso. Aníbal Accurso, uno de sus directores, hizo su descargo en el sitio puntobiz.com.ar. 'Veo que se cuestionan los precios, pero para la última entrega que hicimos, que fue en abril del año pasado, recién terminamos de cobrar en febrero de 2020', indicó.\nEl empresario dijo haber salido muy mal parado de aquel último negocio: 'Teníamos deudas en dólares, y cuando cobramos fue imposible reponer la mercadería', contó, y aseguró que perdió mucho dinero.\nSegún las disposiciones que se conocieron en el Boletín Oficial, en esta compulsa a M.H. Accurso se le compraron 340.000 kilos de lentejas a un precio de $157,60 el paquete de 500 gramos. El precio total ascendió a $28.900.000. Igual que con los fideos, el arroz o el azúcar, estos precios exceden largamente los que se consiguen en comercios minoristas. El mismo producto, pero en su versión de 400 gramos, puede conseguirse por $85 el paquete.\n'Tiene que haber diferencias porque vas a cobrar de acá a un año si tenés suerte. Siempre pasa algo en el gobierno y las cosas se van trabando', justificó Accurso, quien calificó al negocio de las licitaciones como 'muy complicado' por la burocracia que demanda."
+}

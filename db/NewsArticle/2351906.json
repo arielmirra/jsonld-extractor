@@ -1,0 +1,45 @@
+{
+  "id":"http://www.lanacion.com.ar/2351906",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus: 461 respiradores",
+  "url":"https://www.lanacion.com.ar/opinion/columnistas/coronavirus-461-respiradores-nid2351906",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 02:02:47",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/opinion",
+  "articleSection":"Opinión",
+  "author":[
+    "Sergio Suppo"
+  ],
+  "creator":[
+    "Sergio Suppo"
+  ],
+  "keywords":[
+    "Alberto Fernández",
+    "GDA",
+    "Coronavirus",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nPrimero, fueron dirigentes opositores; luego, sonaron cacerolazos; más tarde, apareció Sergio Massa , el presidente de la Cámara de Diputados, para anunciar un recorte de las dietas por la emergencia del coronavirus ; después, la Corte Suprema comunicó que aplicaría un descuento sobre sus haberes. Massa no pudo avanzar. Fue desautorizado por la vicepresidenta Cristina Kirchner . Días después, su hijo, el diputado Máximo Kirchner , hacía saber que en lugar de un aporte de los funcionarios impulsa un proyecto para cobrar un impuesto a las grandes fortunas. La secuencia se completó entre el viernes y el lunes, con Alberto Fernández aceptando el rechazo de Cristina al recorte de salarios de los políticos y convalidando el impuesto a la riqueza. Madre, hijo y Presidente fue la secuencia.\nUna semana atrás, en este mismo espacio, un cálculo rápido permitió establecer que con un recorte de un mes del 20% de los salarios de los funcionarios públicos podrían comprarse 775 respiradores .\nHay otro cálculo posible sobre el dinero del Estado. El Ministerio de Desarrollo Social aceptó pagar al menos 300 millones de pesos de más respecto de los precios minoristas en una compra de alimentos por un total de 730 millones. El sobreprecio equivale a otros 461 respiradores."
+}

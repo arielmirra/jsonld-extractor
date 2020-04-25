@@ -1,0 +1,43 @@
+{
+  "id":"http://www.lanacion.com.ar/2351907",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus: &#191;Por qu&#233; tan serios?",
+  "url":"https://www.lanacion.com.ar/opinion/miradas/coronavirus-por-que-tan-serios-nid2351907",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/84/3230384w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/84/3230384w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 02:02:53",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/opinion",
+  "articleSection":"Opinión",
+  "author":[
+    "Violeta Gorodischer"
+  ],
+  "creator":[
+    "Violeta Gorodischer"
+  ],
+  "keywords":[
+    "La historia detrás de la foto",
+    "Coronavirus"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\n\n\nCundinamarca, Colombia.- El cruce de referencias culturales nunca fue tan distópico como en estos tiempos de pandemia global. '¿Por qué tan serios?': con su frase de cabecera, el Guasón, uno de los rostros más icónicos de la cultura pop contemporánea, nos interpela desde la campera de un recolector de frutillas del remoto municipio de Sibaté, Colombia . Como si supiera, con su humor negro y sombrío, que allí también se ha hecho presente un virus que barre todos los estratos y contagió a 1406 personas en cuestión de semanas. Como si anticipara que estos trabajadores, en días, podrían engrosar el número de afectados. Notable cómo las barreras físicas se levantan mientras las simbólicas se derrumban ante el avance de algo que nos iguala a todos. Una invasión silenciosa que nos homologa en nuestros puntos más vulnerables y se propaga, tal vez, más rápido que el mismo capitalismo."
+}

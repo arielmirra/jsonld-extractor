@@ -1,0 +1,47 @@
+{
+  "id":"http://www.lanacion.com.ar/2351992",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Que la pandemia no tape el bosque",
+  "url":"https://www.lanacion.com.ar/economia/que-pandemia-no-tape-bosque-nid2351992",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:29:00 a.m.",
+  "datePublished":"08/04/2020 12:29:00 a.m.",
+  "dateModified":"08/04/2020 08:50:28",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/economia",
+  "articleSection":"Economía",
+  "author":[
+    "José Del Rio"
+  ],
+  "creator":[
+    "José Del Rio"
+  ],
+  "keywords":[
+    "Actualidad",
+    "Comunidad de Negocios",
+    "LN+",
+    "Mesa Chica",
+    "Coronavirus",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nEscuchá la columna como podcast\n\n\nA continuación, sus principales conceptos:\n\n"
+}

@@ -1,0 +1,58 @@
+{
+  "id":"http://www.lanacion.com.ar/2351956",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Un mensaje destinado a bajar las expectativas de los sectores que reclaman una apertura",
+  "url":"https://www.lanacion.com.ar/politica/un-mensaje-destinado-a-bajar-las-expectativas-de-los-sectores-que-reclaman-una-apertura-nid2351956",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/75/3230475w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/75/3230475w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 04:17:47",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/politica",
+  "articleSection":"Política",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Jaime Rosemberg"
+  ],
+  "creator":[
+    "Jaime Rosemberg"
+  ],
+  "keywords":[
+    "Actualidad política",
+    "GDA",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nEl presidente Alberto Fernández lo escuchó, en las últimas horas, de boca de varios líderes internacionales a los que la pandemia del coronavirus los afectó sin piedad. 'Si no parás todo, a la larga las fábricas van a terminar cerrando, porque los operarios van a estar todos enfermos'.\nCon esos consejos y la imagen devastadora de potencias de Europa y los Estados Unidos repletas de contagiados y víctimas mortales, el Presidente instruyó al jefe de Gabinete, Santiago Cafiero , para que baje las expectativas de empresarios industriales , de las cámaras de la construcción y los líderes sindicales que ayer concurrieron al convite en la Casa Rosada con un nutrido listado de sectores que, según su visión, deberían exceptuarse de la cuarentena a partir del lunes que viene.\nMás allá de dar por hecho que sectores puntuales, como la construcción y algunas industrias, se sumarán a los bancos y reabrirán sus puertas, los invitados se fueron de la reunión con una sensación amarga. 'Más fuerte de lo esperado', dijo el titular de la UIA, Miguel Acevedo, para describir el desencanto del sector, apremiado por una crisis económica que ya venía de arrastre y que la pandemia terminó de derrumbar, casi totalmente en los casos de algunos rubros.\nDesde el Gobierno aseguran comprender los reclamos, pero ponen un tamiz muy concreto. 'Todo va a tener que pasar por la aprobación de Salud', afirman desde un despacho de Balcarce 50. Se refieren al ministro Ginés González García, pero también al comité de infectólogos y médicos en los que el Presidente deposita su máxima confianza, y que volverán a ser convocados desde aquí hasta que se tome la resolución final, probablemente el domingo por la tarde. 'Algunos se preocupan por sus empresas; otros, por la salud de la gente', se exaltó un leal al Presidente. 'Si de verdad van demasiado rápido, van a chocar. La cuarentena continúa, con mínimas aperturas', coincidieron muy cerca de Fernández.\nSerá clave, en la tarde del viernes, el informe que González García y su vice, Carla Vizzotti, le presenten al Presidente en Olivos. Allí quedará clara la real incidencia de la cuarentena de tres semanas completas en la curva de contagios, el fruto concreto del 'enorme esfuerzo' que el Presidente pide a la sociedad en cada discurso público.\nLa nueva comisión que alumbró la reunión en la Casa Rosada (Salud, Transporte, Trabajo y Producción) tendrá a su cargo la definición conjunta de los sectores que podrían volver a sus tareas en lo inmediato, pero también -y sobre todo- de quienes deberán esperar un tiempo más. 'Ya dijo Perón cuál era el sentido de formar comisiones', ironizaba un funcionario con mucho recorrido en distintas administraciones.\nEl análisis, afirman en Balcarce 50, no será solo sanitarista. 'Está, por ejemplo, el caso de las automotrices, que podrían reabrir, pero que hoy no le venden un auto a nadie. Se evalúa también qué sectores funcionarían', explican. 'Se van a elegir las actividades de acuerdo con la demanda que haya, y que no sean riesgosas', agregó otro funcionario, alarmado por las eventuales reacciones sociales negativas que podría traer aparejada una reapertura de fábricas en centros densamente poblados.\nMás allá de la definición sobre los sectores, el Gobierno apunta a evitar que un escenario de colectivos, trenes y subtes llenos vuelva a enojar al Presidente, como las imágenes de viernes pasado, repletas de jubilados pugnando por cobrar en los bancos reabiertos.\nDesde el Ministerio de Transporte, que encabeza Mario Meoni, ya se diseña un sistema de 'escalonamiento' para que los diferentes sectores y categorías entren en distintos horarios en sus puestos laborales para descomprimir las horas pico. La sensación de que la cuarentena puede estar 'aflojando' es otro de los obstáculos con los que el Gobierno deberá lidiar. 'Hay que comunicar bien que no es así', responden los funcionarios, que ya asumen como propio el discurso de 'continuidad' de las restricciones, sin fecha aún precisa de finalización."
+}

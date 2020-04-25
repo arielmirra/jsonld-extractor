@@ -1,0 +1,64 @@
+{
+  "id":"http://www.lanacion.com.ar/2351999",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Hor&#243;scopo de G&#233;minis de hoy: mi&#233;rcoles 8 de Abril de 2020",
+  "url":"https://www.lanacion.com.ar/lifestyle/horoscopo-de-geminis-de-hoy-miercoles-8-de-abril-de-2020-nid2351999",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/08/3230508w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/08/3230508w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 01:04:00 a.m.",
+  "datePublished":"08/04/2020 01:04:00 a.m.",
+  "dateModified":"08/04/2020 01:03:46",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/lifestyle",
+  "articleSection":"Lifestyle",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Renata Dossi"
+  ],
+  "creator":[
+    "Renata Dossi"
+  ],
+  "keywords":[
+    "Horóscopo",
+    "Lifestyle",
+    "Signos",
+    "Astros",
+    "Predicciones",
+    "Astrología",
+    "Géminis",
+    "Notas servicios",
+    "Servicios Horóscopo"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\n\n\nGéminis es el signo de los gemelos, un doble elemento que le imprime complejidad y dualidad a su carácter. En este elemento se agrupan personas dinámicas, emprendedoras, que requieren establecer una conexión intelectual con los demás. Su creatividad y su versatilidad son sus grandes virtudes.\nFechas: 21 de Mayo al 20 de Junio\nQué le espera a Géminis el miércoles 8 de Abril\nSepa que los logros futuros dependerán de su actual creatividad. Proyéctese para resolver sobre la marcha todas las situaciones nuevas que puedan surgir.\nAmor: No discuta por nada. Hágase tiempo para hablar profundamente con su alma gemela y así podrá llegar a tener un buen entendimiento en el amor.\nRiqueza: Dentro del mercado laboral empiece a buscar nuevas oportunidades económicas y póngalas en práctica cuanto antes. Deje de dudar y anímese a hacerlo.\nBienestar: Lo mejor será que se tome con paciencia las responsabilidades y trate de descansar lo necesario. De lo contrario, no terminará la semana con buen ánimo.\nConsultá el horóscopo de todos los signos del zodiaco.\nOtras predicciones para hoy : Aries | Tauro | Cáncer | Virgo | Libra | Escorpio | Sagitario | Capricornio | Acuario | Piscis | Leo |"
+}

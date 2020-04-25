@@ -1,0 +1,57 @@
+{
+  "id":"http://www.lanacion.com.ar/2351917",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Florencia Pennacchi: Tras 15 a&#241;os de b&#250;squeda, la familia espera el milagro de una pista",
+  "url":"https://www.lanacion.com.ar/seguridad/florencia-pennacchi-tras-15-anos-de-busqueda-la-familia-espera-el-milagro-de-una-pista-nid2351917",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/43/3230543w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/43/3230543w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 02:04:19",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/seguridad",
+  "articleSection":"Seguridad",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Gabriel Di Nicola"
+  ],
+  "creator":[
+    "Gabriel Di Nicola"
+  ],
+  "keywords":[
+    "Violencia de género",
+    "GDA"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nSe investigaron numerosas hipótesis. Sin embargo, 15 años después, el misterio de su desaparición no pudo ser resuelto. Nadie sabe qué pasó con Florencia Pennacchi, la joven de 24 años en ese momento, estudiante de Ciencias Económicas y empleada del Instituto de la Vivienda de la Ciudad (IVC), desde el 16 de marzo de 2005. Ese día, a las 12, habló con su hermano Pedro para consultar si alguien había preguntado por ella. Dos horas después se comunicó con su jefe para avisar que iba a ir al médico. Nada más. Su rastro se perdió tras esas dos llamadas. Quince años después, el expediente judicial, que tiene 15 cuerpos y 3000 fojas, está en reserva, a la espera de que surja alguna pista para avanzar en la pesquisa.\n'Su desaparición es un misterio. Se investigaron todas las pistas posibles y no se descartó ninguna hipótesis. Se hicieron operativos en Santa Cruz ante la posibilidad de que estuviera cautiva de una organización dedicada a la trata de mujeres con fines sexuales. Se buscó con equipos especializados en una quinta de General Rodríguez ante la información de que había sido asesinada y enterrada. Se trabajó sobre su posible salida del país por algún paso fronterizo ilegal, pero nunca surgió un dato relevante. Hasta se llegó a ofrecer una recompensa para quien aportara información privilegiada pero nada de eso sucedió', dijo a LA NACION un detective judicial que lleva 15 años buscando rastros de Pennacchi.\nLa investigación de la desaparición de la joven de 24 años está a cargo del fiscal en lo criminal y correccional porteño Marcelo Retes, un experimentado funcionario judicial. El caso Pennacchi es el único misterio sin resolver en su carrera.\nLa hipótesis que llevó a los investigadores judiciales, que contaron con la colaboración de detectives de la Policía Federal Argentina (PFA), a una quinta de General Rodríguez sostenía que Florencia había sido captada por una organización de prostitución vip y que había sido asesinada y enterrada.\n'Solo con un milagro vamos a saber qué pasó con Florencia. Se han agotado todo tipo de recursos en la causa, con las ONG y alguna campaña mediática y nada', sostuvo a LA NACION Pedro Pennacchi, el hermano de la joven desaparecida\nPedro y Florencia vivían juntos en un departamento de Palermo. Son oriundos de Neuquén. La noche anterior a su desaparición, la joven había organizado una cena con sus compañeras de trabajo.\nFueron los últimas que la vieron. Después de irse sus compañeras, la joven salió del departamento solo con su teléfono celular. En una mesa del living había dejado una bolsa plástica en la que guardaba sus documentos y su tarjeta de crédito.\n'Desde la fiscalía del doctor Retes, con la colaboración de la Procuraduría de Trata y Explotación de Personas (Protex), se profundizaron todas las medidas de investigación. Se analizaron todas las hipótesis. Se investigaron a eventuales sospechosos y se entrecruzaron numerosas líneas telefónicas. Se hicieron campañas para difundir la fotografía de Florencia. Todo lo que estuvo al alcance de la Justicia se hizo, pero, lamentablemente, todo fue infructuoso. Se adoptaron todas las medidas que pedimos como querellantes. A Florencia se la tragó la tierra. Es un gran dolor. Una frustración', afirmó Gabriel Becker, abogado de la familia Pennacchi.\nLos allegados de Florencia habían planificado un acto en la Plaza Houssay, en Recoleta, para recordar su caso, pero por las recomendaciones del Gobierno sobre el aislamiento preventivo (todavía no se había decretado la cuarentena obligatoria) para prevenir la propagación del coronavirus Covid-19, se decidió suspender esa convocatoria.\nNidia Aguilera, la madre de la joven, escribió una carta que fue difundida en redes sociales por medio de un video con la participación de Jazmín Stuart, en representación del colectivo de actrices argentinas.\n'Querida hija: hemos llegado a los 15 años de tu desaparición, un pestañear en el universo, demasiado tiempo para las personas que usan cronómetros. Todos hemos envejecido, yo más que nadie porque tus sueños truncos son los míos. Desde hace 15 años, esta pregunta: ¿qué paso aquel 16 de marzo a las 3 de la tarde? No te fuiste, te fueron... nadie abandona su vida de todos los días sin dejar rastros para que la encuentren, nadie se embarca en una aventura que deja un tendal de dolor a sus seres queridos. Buscamos, recurrimos a la Justicia, en la que creíamos. Fue en vano, los que te fueron, esas figuras oscuras no salen a la luz porque justamente son oscuras. Hablamos de la trata. Con el tiempo se fue confirmando esa sospecha, hemos visto la corrupción enquistada en los poderes que debían velar por nosotros, un Estado ausente, la Justicia ciega y la maldita policía cómplice', sostuvo Aguilera en la carta.\n'Hay muchas organizaciones sociales que no permiten el silencio de las víctimas: gracias Juan Carr y la Red Solidaria desde la primera hora, Agrupación Irene, Madres de Constitución y en especial a nuestro abogado Gabriel Becker, que mantiene la causa abierta.' agregó la mujer."
+}

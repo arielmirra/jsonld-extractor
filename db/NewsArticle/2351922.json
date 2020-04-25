@@ -1,0 +1,57 @@
+{
+  "id":"http://www.lanacion.com.ar/2351922",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"La d&#233;bil democracia h&#250;ngara",
+  "url":"https://www.lanacion.com.ar/editoriales/la-debil-democracia-hungara-nid2351922",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 02:05:07",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/editoriales",
+  "articleSection":"Editoriales",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Unión Europea",
+    "GDA"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nLa pandemia del coronavirus puede de pronto obligar a los gobiernos a tomar medidas de emergencia. Ellas, no obstante, deben ser siempre proporcionadas y contar con un plazo cierto y determinado, especialmente cuando puedan implicar restricciones de las libertades individuales o impacten en las instituciones centrales de la democracia. Es posible que quienes tienen un perfil de corte autoritario procuren aprovechar las circunstancias excepcionales para tratar de aumentar el poder que detentan. Esto es lo que precisamente parecería estar sucediendo en Hungría bajo el cuestionado gobierno del nacionalista Viktor Orban , lo que preocupa sobremanera a los propios países que integran la Unión Europea .\nDotado de una mayoría excepcional, con dos tercios del total de las bancas parlamentarias en sus manos, Orban ha sido ahora autorizado por el Poder Legislativo de su país a gobernar por decreto, asumiendo las facultades que constitucionalmente pertenecen al Parlamento de su país.\nComo desde su acceso al poder, en 2010, Orban ha estado concentrando sistemáticamente toda suerte de facultades en sus propias manos, lo que pueda suceder ahora en Hungría ante la emergencia sanitaria genera profundas desconfianzas en los líderes de la Unión Europea, que ya se refieren a ese país como a una democracia iliberal.\nEs así como han comenzado a mencionar la posibilidad de llevar a las autoridades de Budapest ante la Corte Europea de Justicia, denunciando violaciones de los valores fundamentales de esa organización y requiriendo que sean sancionadas con la pérdida del voto en los organismos colegiados de la Unión Europea. Hablamos de los valores centrales que conforman los cimientos mismos del bloque europeo. Por el momento, Polonia, que apoya a las actuales autoridades de Hungría, está impidiendo que ello se concrete. Pero hay cada vez más voces que se alzan en procura de poner límites a los excesos que se imputan al gobierno de Orban.\nNo es imposible que esos reclamos compliquen la situación de Hungría dentro de la Unión Europea y que, advertido previamente de esto, el país sea sancionado nada menos que con la pérdida del voto en algunos de los principales organismos comunitarios."
+}

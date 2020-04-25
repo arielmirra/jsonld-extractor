@@ -1,0 +1,44 @@
+{
+  "id":"http://www.lanacion.com.ar/2351914",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus: un ping&#252;ino rompi&#243; la cuarentena y pase&#243; por Miramar",
+  "url":"https://www.lanacion.com.ar/sociedad/coronavirus-pinguino-rompio-cuarentena-paseo-miramar-nid2351914",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/96/3230396w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/96/3230396w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"07/04/2020 09:02:00 p.m.",
+  "datePublished":"07/04/2020 09:02:00 p.m.",
+  "dateModified":"08/04/2020 12:54:17",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/sociedad",
+  "articleSection":"Sociedad",
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Sociedad",
+    "Trends",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nEl aislamiento obligatorio por la pandemia de coronavirus tiene al país entero detenido y las calles están, en buena medida, casi vacías. En ese contexto, muchos animales se apoderaron de las ciudades y Miramar no fue la excepción.\n\n\nEsta semana apareció en la calle 5 costanera y 33 de dicha ciudad, un visitante bastante particular: un pingüino . El video fue publicado por un diario local y el animal fue devuelto al mar por personal policial apenas fue descubierto.\n\n\nEn las imágenes, difundidas por FM Radio Magic Box , se puede ver cómo la policía acciona llevándose al animal hacia la orilla del mar. El tema es que, apenas se acerca al agua, el pingüino no muestra interés en volver a meterse.\nEl fenómeno no se limitó a Miramar. En la ciudad de Necochea , vecinos filmaron y difundieron el paseo de un carpincho por las calles de dicha localidad balnearia, 512 kilómetros al sur de la ciudad de Buenos Aires.\n\n\nMucho más al sur, en la localidad chubutense de Puerto Pirámides, la ausencia de turistas y la reclusión de los locales permitió a un grupo de guanacos pasearse libremente por la costa la semana pasada.\nAlgo similar ocurrió en Europa , donde, desde que comenzó la cuarentena obligatoria por la pandemia, muchas personas en las redes compartieron videos que mostraban la presencia de osos, ciervos, jabalíes, coyotes y hasta cisnes en distintas partes del continente.\n\n"
+}

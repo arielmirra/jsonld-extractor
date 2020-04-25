@@ -1,0 +1,46 @@
+{
+  "id":"http://www.lanacion.com.ar/2351985",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus: el Gobierno incluy&#243; la actividad notarial como servicio esencial durante la cuarentena",
+  "url":"https://www.lanacion.com.ar/politica/coronavirus-el-gobierno-incluyo-actividad-notarial-como-nid2351985",
+  "thumbnailUrl":"https://bucket1.glanacion.com/anexos/fotos/12/3208412w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket1.glanacion.com/anexos/fotos/12/3208412w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"07/04/2020 11:38:00 p.m.",
+  "datePublished":"07/04/2020 11:38:00 p.m.",
+  "dateModified":"07/04/2020 23:39:39",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/politica",
+  "articleSection":"Política",
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Boletín Oficial",
+    "Actualidad",
+    "Política",
+    "Coronavirus",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nEl Gobierno resolvió incluir entre los servicios 'esenciales' que se mantienen durante el aislamiento social derivado de la pandemia de coronavirus a la ' actividad notarial ', para los casos en que esté 'limitada exclusivamente a posibilitar el cumplimiento de las actividades' que establece esa normativa.\nEn la decisión administrativa 467/2020 publicada en el Boletín Oficial , el jefe de Gabinete, Santiago Cafiero, consignó que se 'incorpora' al listado de actividades y servicios declarados esenciales en la emergencia a la 'actividad notarial, cuando la misma se encuentre limitada exclusivamente a posibilitar el cumplimiento de las actividades y servicios de que da cuenta la precitada normativa u otra que pudiera en el futuro ampliar el listado de actividades y servicios esenciales'.\nEl Poder Ejecutivo tomó esta decisión debido a que 'la realidad de la implementación del aislamiento social, preventivo y obligatorio ha demostrado la necesidad de incorporar otras actividades y servicios con carácter de esenciales con el fin de mitigar los efectos ocasionados por las medidas adoptadas'. Por eso, se dispuso otorgarle a los actos notariales la 'intervención de las personas indispensables para ello, evitando todo tipo de reuniones'.\nAdemás, se estableció que 'todo requerimiento de servicio notarial tendiente a evitar el traslado o circulación de personas consideradas de riesgo por la normativa vigente, efectuado por los titulares de un beneficio de la Anses para el cobro de jubilaciones, pensiones, Asignación Universal por Hijo, Asignación Universal por Embarazo, Ingreso Familiar de Emergencia o beneficio similar que se dictare en el futuro, será otorgado en forma gratuita'.\n'Durante la vigencia del aislamiento social, preventivo y obligatorio, los Colegios Profesionales deberán dar estricto cumplimiento a las normas, debiendo permanecer cerrados, sin actividad presencial alguna ni atención al público, y sólo podrán establecer guardias excepcionales, mínimas y restringidas al solo y único fin de posibilitar la formalización y legalización de los documentos de los que da cuenta esta decisión administrativa', indicó la resolución.\nDe esta manera, 'las personas alcanzadas por esta decisión deberán tramitar el Certificado Único Habilitante para Circulación-COVID 19 o el que corresponda en la jurisdicción de que se trate, de acuerdo a la normativa vigente o la que se dicte en el futuro', concluye el documento.\nLa administración de Alberto Fernández estableció el aislamiento social desde el 20 hasta el 31 de marzo de 2020, y prorrogó la medida hasta el 12 de abril."
+}

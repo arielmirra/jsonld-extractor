@@ -1,0 +1,58 @@
+{
+  "id":"http://www.lanacion.com.ar/2351958",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"El complejo tr&#225;nsito hacia cierta normalidad",
+  "url":"https://www.lanacion.com.ar/politica/el-complejo-transito-hacia-cierta-normalidad-nid2351958",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/94/3230494w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/94/3230494w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 04:24:36",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/politica",
+  "articleSection":"Política",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Joaquín Morales Solá"
+  ],
+  "creator":[
+    "Joaquín Morales Solá"
+  ],
+  "keywords":[
+    "Política",
+    "GDA",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nHenry Kissinger ha escrito en los últimos días sobre el 'anacronismo del regreso a las ciudades amuralladas'. El fenómeno se produce bruscamente, luego de que la humanidad conoció el período más intenso de libre circulación mundial de personas, bienes y servicios. Las fronteras, tal como se las conoció antes de la globalización, habían casi dejado de existir.\nAhora se han vuelto a cerrar, a veces dentro de los estados provinciales de un mismo país. La cruel pandemia del coronavirus ha producido no solo esa regresión, sino también muchas más. ¿Seguirá el Estado, cuando todo haya pasado, interviniendo en la vida personal de los ciudadanos como lo hace ahora? En algunos países con tecnologías muy desarrolladas (los nórdicos, por ejemplo) se está detectando la ubicación de las personas por el celular que usan. El método sirve para que se respete la cuarentena , pero es una incursión insoportable en la vida privada de las personas. En esos países existe, además, una cultura de democracia y libertad de la que carecen los menos desarrollados. Otra derivación de la crisis sanitaria es la desesperación de los Estados para hacerse de recursos de los que carecen por la violenta e imprevista parálisis de la economía. Algunos tienen espaldas más grandes que otros. Los más atrasados son precisamente los que toman los atajos menos convenientes.\nEn ese contexto, debe analizarse lo que sucede en la Argentina. El país venía, a diferencia de la mayoría de las naciones, con dos años de recesión a sus espaldas. El golpe del coronavirus fue una herida hecha sobre otra herida. Al igual que las demás naciones, la Argentina tampoco sabe cómo saldrá de la hemiplejia económica actual ni mucho menos cuándo. La pandemia ha implantado una opción brutal e inhumana: o se cuida la vida de las personas o se reactiva la economía. La vida será siempre el primer valor a tener en cuenta, pero el debate existe aquí y en el mundo. El excelente periodista científico Javier Sampedro, del diario español El País , escribió recientemente una columna sobre ese debate con un título ingenioso y sugestivo: 'La bolsa o la vida'. Una de las ideas recientes del cristinismo de pura cepa es la creación de un impuesto nuevo a las grandes fortunas. Según parece, Alberto Fernández logró convencer a los autores de la iniciativa (Máximo Kirchner y -cómo no- Carlos Heller) para que exceptuaran de ese nuevo gravamen a los que se incorporaron en tiempos de Mauricio Macri al blanqueo de dinero no declarado. Varios constitucionalistas habían advertido que un impuesto sobre el dinero que se blanqueó sería inconstitucional, porque violaría el derecho a la propiedad. Los que blanquearon ya pagaron los gravámenes que el Estado les impuso en su momento y aceptaron pagar todos los impuestos en adelante. Un nuevo impuesto sería un repentino cambio en las reglas del juego.\nLas grandes fortunas, que por lo general son propietarias de poderosas empresas, tendrán una función que cumplir cuando vuelva la normalidad. La primera de ellas será concretar inversiones. La Argentina no ha tenido inversiones importantes en los últimos años, salvo las que hicieron las petroleras en Vaca Muerta durante la gestión de Macri. Pero ahora hay ahí un problema nuevo: el precio del petróleo bajó a niveles que hacen inviables las inversiones en Vaca Muerta, donde se necesitan más recursos que en la exploración y explotación de petróleo y gas convencionales. Si bien comenzó un proceso de reconciliación entre Arabia Saudita y Rusia (la pelea entre ellos había impulsado también hacia la baja el precio del petróleo), sigue la monumental recesión de la economía mundial que también desvaloriza el precio del petróleo. ¿Por qué no intentar, entonces, un acuerdo con las grandes fortunas para que inviertan en la economía argentina cuando haya pasado la calamidad? Esas potenciales inversiones serán mucho más provechosas y permanentes en el tiempo que un impuesto nuevo, que, por el contrario, solo ahuyentará a los inversores. La inversión es la necesidad más desesperada de la economía argentina desde hace demasiados años.\nUna polémica novedosa se instaló con la decisión del Gobierno de habilitar a gobernadores e intendentes para que controlen los precios. Hay subas de precios, sin duda, que no se justifican. Pero su supervisión es una facultad del Poder Ejecutivo nacional. Delegarla puede terminar en el trabajo correcto de funcionarios honestos y en el de algunos que se harán ricos (o lo intentarán). El control de precios ha hecho históricamente ricos a muchos exfuncionarios. Los precios justos solo necesitan de la competencia y de la transparente acción del Estado nacional para evitar monopolios, oligopolios y cartelizaciones. La arbitrariedad de los intendentes fue evidente en estos días con el público enfrentamiento entre el intendente de La Matanza, Fernando Espinoza, y Alfredo Coto, el dueño de la única cadena nacional de supermercados. El resto de los supermercados pertenecen a cadenas internacionales. Espinoza argumentó razones bromatológicas para clausurar el supermercado, pero fue el propio Coto y su esposa quienes pusieron sus cuerpos frente a la protesta de los empleados de ese centro comercial. El matrimonio Coto no habría estado ahí si tuviera la conciencia cargada de culpas. La sucursal de Ramos Mejía de Coto nació con un enfrentamiento con Espinoza por los permisos y habilitaciones. Ahora sigue con inspecciones a deshora por parte de personas sin identificación. ¿Esos serán los intendentes que controlarán los precios?\nLa primera constatación de la crisis del coronavirus es que el Estado no debe dejarse embaucar, sobre todo cuando se trata de los precios de alimentos que necesitan los que nada tienen. El escándalo que sucedió en el Ministerio de Desarrollo Social aparta de cualquier sospecha a Daniel Arroyo, el funcionario que más conoce la realidad social del país y que más pergaminos de honestidad tiene. Pero algo debe funcionar mal en la estructura burocrática de su ministerio para que otra vez se haya recurrido a intermediarios en lugar de abastecerse directamente con los productores. Algunos de esos intermediarios, que supuestamente compiten entre ellos, tiene oficinas en el mismo lugar y los mismos teléfonos. No se 'plantaron' frente a los precios los verdaderos empresarios y productores, sino meros intermediarios. A su vez, algunos funcionarios burocráticos de ese ministerio vienen ocupando cargos claves, aunque no conocidos, desde hace más de diez años.\nSolo el temor a represalias explica que el Gobierno no haya expuesto la culpa del jefe del sindicato bancario, Sergio Palazzo, en el escándalo sanitario que ocurrió el viernes pasado, cuando miles de jubilados se agolparon en las puertas de los bancos. Violaron todas las normas dispuestas para evitar el contagio del coronavirus. La verdad es que el 19 de marzo, un día antes de que el Presidente ordenara la cuarentena, el sindicato bancario entregó una notificación a sus afiliados, con la firma de Palazzo, en la que ordenaba que no habría atención al público. Salvo una dotación mínima para las operaciones electrónicas, el sindicato decidió que 'no hay que presentarse al trabajo'. Palazzo se manifestaba en el documento solidario 'por la sociedad toda y por nosotros mismos'. Prevaleció el 'nosotros mismos', cuando pudo implementarse un sistema que cuidara la salud de los empleados bancarios sin cerrar los bancos durante casi 15 días. La primera apertura bancaria, el viernes pasado, provocó el estallido de necesidad de muchísimos jubilados y rompió violentamente la cuarentena.\nEsas son las cosas en las que el Estado es más necesario que nunca. A las que se les deben añadir, sin duda, la salud pública, la educación y la seguridad. El principal aporte de la clase política es establecer cuántos recursos necesitan esas funciones indelegables del Estado, y cuántos recursos se van en empleos innecesarios en la Nación, en las provincias y en los municipios, que aumentaron exponencialmente desde 2005. Hablar del Estado sin ponerles nombre a las cosas es perder el tiempo."
+}

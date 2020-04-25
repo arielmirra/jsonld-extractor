@@ -1,0 +1,64 @@
+{
+  "id":"http://www.lanacion.com.ar/2351996",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Hor&#243;scopo de Capricornio de hoy: mi&#233;rcoles 8 de Abril de 2020",
+  "url":"https://www.lanacion.com.ar/lifestyle/horoscopo-de-capricornio-de-hoy-miercoles-8-de-abril-de-2020-nid2351996",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/05/3230505w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/05/3230505w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 01:04:00 a.m.",
+  "datePublished":"08/04/2020 01:04:00 a.m.",
+  "dateModified":"08/04/2020 01:03:39",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/lifestyle",
+  "articleSection":"Lifestyle",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Renata Dossi"
+  ],
+  "creator":[
+    "Renata Dossi"
+  ],
+  "keywords":[
+    "Horóscopo",
+    "Lifestyle",
+    "Signos",
+    "Astros",
+    "Predicciones",
+    "Astrología",
+    "Capricornio",
+    "Notas servicios",
+    "Servicios Horóscopo"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\n\n\nCapricornio tiene a la cabra como símbolo, método y destino. Los nacidos bajo el influjo de este signo ejercen una constancia y empeño a prueba de todo. Logra lo que se propone, gracias a planificación muy cuidadosa. De mentalidad reflexiva, se sienten mucho más seguros en la madurez de la vida.\nFechas: 22 de Diciembre al 19 de Enero\nQué le espera a Capricornio el miércoles 8 de Abril\nSe acerca una etapa donde podrá generar una transformación total en su vida. Recuerde que los cambios siempre nos conducen a un nuevo aprendizaje.\nAmor: Transitará un momento de transformación afectiva tanto interna como externa. Esté preparado, ya que podría afectarlo negativamente en las relaciones.\nRiqueza: Período donde sus pares le reconocerán todos méritos y les ofrecerán su más amplia colaboración. Si tiene un proyecto en mente, expóngalo ante ellos.\nBienestar: Disminuya el nivel de adrenalina, ya que su cuerpo le pasará factura en cualquier momento. Trate de ser más paciente y verá que se sentirá mejor.\nConsultá el horóscopo de todos los signos del zodiaco.\nOtras predicciones para hoy : Aries | Tauro | Géminis | Cáncer | Virgo | Libra | Escorpio | Sagitario | Acuario | Piscis | Leo |"
+}

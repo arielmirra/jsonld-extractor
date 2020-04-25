@@ -1,0 +1,57 @@
+{
+  "id":"http://www.lanacion.com.ar/2351987",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"A meses de sus disculpas p&#250;blicas, Leticia Br&#233;dice acus&#243; a su novio de abusador y ladr&#243;n",
+  "url":"https://www.lanacion.com.ar/espectaculos/personajes/a-meses-sus-disculpas-publicas-leticia-bredice-nid2351987",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/95/3230495w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/95/3230495w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 01:06:00 a.m.",
+  "datePublished":"08/04/2020 01:06:00 a.m.",
+  "dateModified":"08/04/2020 01:40:40",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/espectaculos",
+  "articleSection":"Espectáculos",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Leticia Brédice",
+    "Espectáculos"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nLas redes sociales se convirtieron en una herramienta útil y efectiva para denunciar o evidenciar algún tipo de maltrato. El fácil acceso, sin embargo, a veces puede convertirlas en una tentación. En octubre del año pasado, luego de acusar en Instagram a su novio , Federico Parrilla, de haber sido violento con ella, Leticia Brédice se vio obligada a ensayar unas extrañas disculpas públicas: ' Yo denuncié violencia y me equivoqué. Eso por estar mamada '.\nComo parte de su descargo, y ante la repercusión que despertaron sus palabras en sus seguidores y en los medios, la actriz tuvo que explicar en varias ocasiones qué fue lo que ocurrió. En una entrevista concedida a Los ángeles de la mañana , indicó: 'La verdad que no me acuerdo, lo que sí me acuerdo es que quería [hacerle] una maldad. Perdón que me ría, no hay que banalizar'.\nEn PH, Podemos Hablar , fue más locuaz : 'Nunca nos peleamos, pero me parece que uno en el amor siempre tiene ciertas ataduras y contestaciones. Creo que todos tenemos este tipo de escenas, lo que pasó es que yo me dormí', comenzó. Y aseguró: 'Me dijo que me iba a cortar y yo le dije que ya iba a ver, que si hacía una historia me miraba. Traté de poner todo lo que era feo y lo que iba a caer mal. Pero la verdad es que en este momento en donde tantas mujeres necesitan denunciar un abuso o una situación de violencia, esto terminó siendo algo infantil'.\nCuando todo parecía haberse calmado, este martes Brédice volvió a inquietar a sus seguidores de Instagram al subir una serie de historias en las que volvía a denunciar a su pareja de ser violento y de haberle robado.\n'Y vos, ladrón. Mi camioneta. Dale, pibe. Tratás mal, cortás el teléfono. Mala gente, es de mi hijo', escribió en una de ellas, sobre una fotografía de su novio. En otra, agregó: 'Basta de abusadores, maltratadores. No violencia física. Esto es violencia. Mentiras'.\nPor último, compartió una tercera imagen en la que se podía ver parte de una conversación que habría tenido con Parrilla, en la que él le pide que no lo descalifique.\n\n\n\n\n\n"
+}

@@ -1,0 +1,45 @@
+{
+  "id":"http://www.lanacion.com.ar/2351921",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"Coronavirus: Higiene y alimentos, en tiempos de pandemia",
+  "url":"https://www.lanacion.com.ar/editoriales/higiene-y-alimentos-en-tiempos-de-pandemia-nid2351921",
+  "thumbnailUrl":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket2.glanacion.com/anexos/fotos/04/2782004w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:00:00 a.m.",
+  "datePublished":"08/04/2020 12:00:00 a.m.",
+  "dateModified":"08/04/2020 02:05:06",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/editoriales",
+  "articleSection":"Editoriales",
+  "author":[
+    "Redacción LA NACION"
+  ],
+  "creator":[
+    "Redacción LA NACION"
+  ],
+  "keywords":[
+    "Solidarios",
+    "GDA",
+    "Coronavirus",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nLa impensada y difícil situación que instala la pandemia del coronavirus agrava aún más la situación del 35,5% de la población que el Indec identifica como pobres, dentro de la cual se encuentra un 8% de indigentes, según las recientes cifras difundidas para el último semestre de 2019. Un guarismo que es mayor para el Observatorio de la Deuda Social de la Universidad Católica, que midió un nivel de pobeza del 40,8% hacia fines del año pasado.\nQuienes demandan alimentos del Estado y de otras organizaciones son ahora 11 millones cuando hace dos semanas eran ocho millones y, lamentablemente, debemos prepararnos para que estos números continúen trepando aceleradamente cuando la crisis sanitaria profundice inevitablemente la pobreza estructural que hace años nos atraviesa, sepultando las ilusiones de una reactivación inmediata, para sumar nuevos pobres.\nNumerosas iniciativas de la sociedad civil confirman que se pueden hacer las cosas bien, de manera transparente y eficiente, sin caer en tramposos sobreprecios, como los que en las últimas horas pusieron en evidencia la falta de vergüenza de algunos funcionarios a la hora de tomar decisiones con fondos del Estado.\nCon el eslogan 'Ciudadanía es cuidarnos entre todos', la ONG Conciencia ha puesto en marcha 'Convoluntariado', una campaña de donación de bolsones de alimentos y artículos de limpieza a referentes barriales para promover que las familias de los barrios de todo el país que habitualmente atienden puedan cocinar en sus casas y eviten así concurrir a los comedores comunitarios. Por cada 750 pesos donados, se cubre la necesidad de alimentos y artículos de limpieza de una familia de seis integrantes por una semana.\n'De esta salimos todos juntos', se afirma desde la Red de Bancos de Alimentos, que, en alianza con la aplicación de Mercado Libre , proponen sumar fondos para sostener el plan de alimentación e higiene en más de 3400 comedores y organizaciones comunitarias del país, a los que asisten más de 490.000 personas.\n'No es atacar un virus, es salvar personas', reflexionan desde Cáritas con una campaña para comprar kits de higiene de 500 pesos para las familias más necesitadas, que ya lleva entregados más de 3000.\nPor su parte, el Instituto para el Desarrollo Empresario Argentino (IDEA) invita tanto a personas como a empresas a contribuir con el armado de un millón de cajas de productos alimenticios y de higiene, de un costo de 1000 pesos cada una, para atender a cuatro millones de personas; un proyecto ambicioso que cuenta con la colaboración logística y de auditoría de empresas socias de la institución. Con la auditoría de prestigiosas firmas, la iniciativa se denomina #SeamosUno y participan el Centro de Investigación y Acción Social (CIAS), Cáritas, Banco de Alimentos, la Alianza Cristiana de Iglesias Evangélicas de la República Argentina (Aciera), el Consejo de Pastores evangelistas de la ciudad de Buenos Aires y la Asociación de Mutuales Israelitas Argentinas (AMIA), quienes a su vez convocan a asociaciones, uniones y cámaras de empresas a responder unidos ante el acuciante momento que viven tantos argentinos.\nLa solidaridad se organiza velozmente para atender las crecientes necesidades de muchísimos conciudadanos. Argentina en Acción conecta, de manera simple y directa, a quienes quieren ayudar con quienes necesitan ayuda: distintas causas con un solo objetivo.\nInmersos en este tsunami de imprevisibles consecuencias, el sacerdote jesuita Rodrigo Zarazaga, director del CIAS, reflexionaba sobre la angustia que se acrecienta en los hogares de los que no comieron hoy y no saben si van a comer mañana. 'El conurbano bonaerense y la ciudad de Buenos Aires contienen el 35% de la población total y aproximadamente la mitad de los pobres del país. Concentran entre ambos más de 1300 villas y asentamientos que enfrentan hoy grandes dificultades alimentarias y sanitarias', repasa con preocupación.\nFrente a una situación en la que la paz social se encuentra en serio riesgo, el jesuita no duda en llamarnos la atención respecto de que seremos juzgados por 'nuestra responsabilidad en la hora más difícil, por lo que hicimos por nuestros hermanos y hermanas más vulnerables. Podemos solo mirar a la responsabilidad del Estado o, por el contrario, entender que el país es una construcción colectiva y asumir que todas las dirigencias tenemos que aportar. No es momento para eludir responsabilidades'.\nEstamos a un clic de sumar nuestro aporte a alguna de las muchas iniciativas solidarias que minuto a minuto van surgiendo en un intento generoso de acompañar a quienes más lo necesitan. Todo lo que damos nos vuelve multiplicado. Y nada debe distraernos. La mejor ayuda es siempre la que se organiza."
+}

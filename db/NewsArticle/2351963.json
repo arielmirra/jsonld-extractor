@@ -1,0 +1,60 @@
+{
+  "id":"http://www.lanacion.com.ar/2351963",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"El Sub 20 olvidado: Nigeria 1999, las diez vacunas y el paso en falso del ciclo Pekerman",
+  "url":"https://www.lanacion.com.ar/deportes/futbol/el-sub-20-olvidado-nigeria-diez-vacunas-nid2351963",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/67/3230467w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/67/3230467w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:01:00 a.m.",
+  "datePublished":"08/04/2020 12:01:00 a.m.",
+  "dateModified":"08/04/2020 07:51:02",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/deportes",
+  "articleSection":"Deportes",
+  "isAccessibleForFree":false,
+  "hasPart":{
+    "@type":"WebPageElement",
+    "isAccessibleForFree":"False",
+    "cssSelector":".nota"
+  },
+  "isPartOf":{
+    "@type":[
+      "CreativeWork",
+      "Product"
+    ],
+    "name":"Acceso Digital Monthly Test",
+    "productID":"lanacion.com.ar:acceso_digital"
+  },
+  "author":[
+    "Ariel Ruya"
+  ],
+  "creator":[
+    "Ariel Ruya"
+  ],
+  "keywords":[
+    "Mundial Sub 20",
+    "Selección Sub 20",
+    "Historias del deporte",
+    "José Pekerman",
+    "Deportes"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\nVerano de 1999, en el predio que la AFA tiene en Ezeiza. José Pekerman reunió al plantel que se preparaba para el Mundial Sub 20 de Nigeria . Tenía algo muy importante que decir. Era un doble campeón mundial, en Qatar 1995 y en Malasia 1997. Pero defender el prestigio era lo de menos: el que estaba parado, mirando a cada joven a los ojos, era un padre postizo, un docente. No había pizarrón: ni tácticas, ni estrategias. Era otro el asunto: la vida. 'Vamos a tener que superar otros obstáculos en el Mundial, no solo a nuestros rivales. Les pido que se aferren unos a otros y, por favor, no tengan miedo. Nosotros vamos a estar más juntos que nunca'. Cólera, malaria, meningitis, inseguridad, militares en la calle. Otra suerte de pandemia, en tiempos de coronavirus: así fue el Mundial que los chicos argentinos no quieren recordar.\nEl Rolfi Montenegro llevaba la camiseta número 10. Gambeteaba por las tardes y no pegaba un ojo por las noches. 'Así fue. Antes de que empiece el Mundial, José nos juntó a todos, nos dio una charla para hablarnos un poco de lo que era la realidad de ese país. No hablamos de fútbol. Llegamos a Nigeria, estuvimos una noche en la capital y medio que estábamos encerrados, no nos dejaron salir del hotel. Me acuerdo que fue justo mi cumpleaños -cumplió el reciente 28 de marzo, hoy tiene 41 años- y no me pudieron llamar, se hizo un poco duro ese primer momento, con mucha angustia', le cuenta a LA NACION , mientras descubre las páginas de esta historia.\nEl consultorio médico, aquella mañana, no dio abasto: había que darse 10 inyecciones para evitar contratiempos. Los brazos y glúteos quedaron en observación. Algunas líneas de fiebre supervisaron la escena. 'Fue raro. Especial. Lo primero que recuerdo es que antes de viajar nos dieron esas diez inyecciones a cada uno, todos juntos, el mismo día. Por un tema de prevención de enfermedades. Es la primera imagen que tengo de ese viaje', aporta Montenegro, una de las figuras del equipo que quedó eliminado en los octavos de final, luego de caer frente a México por 4 a 1. De algún modo, fue un alivio.\n\n\nEl Juvenil había sido campeón del Sudamericano de ese mismo año. Costanzo, Saja, Gabriel Milito, Cambiasso, Galletti, Farías y Pocho Insúa, entre otros, integraban el plantel, más allá de ilustres figuras negadas por los clubes para la cita mundial. La historia de siempre. Sobraba talento, sobraba la angustia. España fue el campeón. Años más tarde, el genial Xavi, el antiguo crack de Barcelona y hoy entrenador, recordaba: 'Estuvimos a punto de volvernos, pero nos convencieron de que podíamos hacer algo grande. No había luz. Nos metíamos en la cama con buzos para que no nos picaran los mosquitos. ¡Y había 40 grados! Eran tremendamente pobres, hasta el punto de que, cuando tirábamos las botellas de agua vacías al suelo en los entrenamientos, saltaban a buscarlas para venderlas'.\n'Y en la piscina había cocodrilos'. Al parecer, Xavi no exageraba. Lo rubrica Montenegro: 'Un día de rehabilitación fuimos a una pileta y vimos unos lagartos enormes, no sé si eran cocodrilos. era algo normal para ellos. No había que tocarlos, rodeaban la pileta. Siempre tratábamos de no salir de las habitaciones. Lo mejor era el pan con manteca de los desayunos, para que te des una idea'. Los chicos tenían los folletos del hotel de donde se iban a concentrar en la primera etapa -integraron el Grupo B con Ghana, Croacia y Kazajstán- en Kaduna, pero algo salió mal. El hotel no existía. 'Al final fuimos a un campamento del ejército, con casitas. Fue una odisea. El hotel. eran unas casitas, con habitaciones para dos, con tele, un par de camas y un living. No se podía consumir el agua, nos lavábamos los dientes con agua mineral y el agua de la ducha no salía', cuenta Montenegro.\n\n\nIgnacio Turín fue el enviado especial de LA NACION. Así lo recuerda: 'Cuando llegamos a Lagos -es la ciudad más poblada del país-, nos dio un shock fuerte, era como una gran villa de emergencia esa ciudad, nos golpeó demasiado. Nosotros -junto con otros periodistas- íbamos a ir a un hotel, pero nos asustamos y hablamos con el cuerpo técnico de José para ver si podríamos vivir en el mismo lugar que el plantel, que era un cuartel militar. Teníamos el beneficio de contar con la seguridad y, además, a una cocinera argentina, que tenía dos hijas: ellas cocinaban para todos', describe.\nEl recuerdo no se borra con el tiempo. 'En ese regimiento, cada uno tenía su habitación. Cada vez que salíamos a la calle, nos acompañaba la policía. Siempre con la credencial puesta, pero nos daba un poco de miedo salir. Sí, teníamos miedo, pero nos fuimos acostumbrando. Recuerdo las largas filas para que la gente consiguiera nafta, había un enorme desabastecimiento. A su vez, se había creado un mercado negro de venta de combustible', advierte.\nDías antes de la inauguración del Mundial de Francia '98, Joseph Blatter ganó las elecciones presidenciales de la FIFA con el elocuente apoyo de los países africanos. Esa fue la base que mantuvo en pie la elección de Nigeria como sede del Mundial, que en 1995 no aprobó la inspección final de la FIFA y fue reemplazado por Qatar. Los problemas sanitarios, la inestabilidad política y la inseguridad descartaron a Nigeria. Años después, mucho no había cambiado.\n\n\nEl combo de la sociedad era fatídico: hambre, enfermedades, suciedad, tanques en las calles. Los jugadores se aplicaban repelente antes de cada entrenamiento. Todas las delegaciones tenían un cocinero para evitar consumir alimentos mal cocidos o en mal estado. 'Y la comunicación era escasa. Había dos líneas para comunicarse, una para nosotros y otra, para los periodistas. Las llamadas eran caras, había horarios especiales. Comíamos unas pizzas, pollo, no mucho más. de ese viaje volví con seis kilos menos. Había calor seco, transpirabas y no te dabas cuenta, después del mediodía no se podía salir de la habitación', señala Montenegro.\nEl seleccionado terminó como uno de los mejores terceros durante la primera etapa, que se desarrolló en Kaduna. Más tarde, se trasladó a Ibadán, una ciudad más grande. El Rolfi describe pequeñas historias del día a día, mientras, corrían detrás de un sueño demasiado lejano. 'Para que te des una idea: una plaza estaba dividida en negocios, un lavadero, una gomería, había puestos de lo que se te ocurriera y la gente le tenía miedo a la policía. Una vez, vivimos un momento duro en un entrenamiento: apareció el ejército y sacó a la gente que estaba mirándonos, la golpiza fue tremenda. Fue un momento tan duro que José decidió parar el entrenamiento. A nosotros no nos molestaban, hasta gritaban los goles. Hubo una humareda de tierra, todos corrían y le pegaban a la gente. Era una dictadura, la gente apedreaba a los micros, se vivían cosas raras', dice.\nHugo Tocalli miró alrededor y graficó el escenario, más allá de la pelota. 'La temperatura es muy alta, los mosquitos son una verdadera plaga y existen algunos problemas por la escasez del agua. Nos tenemos que bañar con baldes por la poca agua que hay', contó el antiguo ayudante de Pekerman. Los planteles iban custodiados por efectivos del ejército. Las líneas telefónicas en los hoteles y en las salas de prensa eran limitadas. Los precios de las comunicaciones eran sorprendentes: una conversación de tres minutos a la Argentina costaba unos 20 dólares. Otros tiempos, más allá del retraso tecnológico.\nUna epidemia de cólera causó 20 muertos una semana antes de la final, en Kano, enorme ciudad del norte, una de las ocho sedes del Mundial. Los argentinos ya se habían retirado. Ahora, Montenegro recuerda esa página de su historia rodeado de los afectos, en el encierro que impone la cuarentena. Está con Melina, su mujer, Tiziana (16 años), Chiara (13) y Valentín (11). 'Todos acá, en familia. Esperando que todo esto pase. Trato de ayudar a los nenes y haciendo ejercicios físicos', sostiene.\n'En la primera charla tomamos conciencia de dónde estábamos y lo que íbamos a atravesar. Después, tratamos de enfocarnos en el Mundial. No fue una grata experiencia. No lo disfrutamos, la pasamos mal', recuerda Rolfi. El Mundial olvidado."
+}

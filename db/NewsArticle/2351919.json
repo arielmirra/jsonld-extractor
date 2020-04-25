@@ -1,0 +1,48 @@
+{
+  "id":"http://www.lanacion.com.ar/2351919",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"La crisis de la crisis",
+  "url":"https://www.lanacion.com.ar/economia/la-crisis-crisis-nid2351919",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/08/3230408w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/08/3230408w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"07/04/2020 09:46:00 p.m.",
+  "datePublished":"07/04/2020 09:46:00 p.m.",
+  "dateModified":"07/04/2020 21:46:43",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/economia",
+  "articleSection":"Economía",
+  "author":[
+    "Francisco Olivera"
+  ],
+  "creator":[
+    "Francisco Olivera"
+  ],
+  "keywords":[
+    "Alberto Fernández",
+    "Actualidad",
+    "Política",
+    "LN+",
+    "Terapia de noticias",
+    "Daniel Arroyo",
+    "Coronavirus en la Argentina"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\n\n\nA continuación, la desgrabación de sus principales conceptos:\n\n"
+}

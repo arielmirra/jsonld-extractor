@@ -1,0 +1,45 @@
+{
+  "id":"http://www.lanacion.com.ar/2351964",
+  "@context":"http://schema.org",
+  "@type":"NewsArticle",
+  "headline":"El f&#250;tbol, chivo expiatorio: Inglaterra pide donaciones a los jugadores y no a otros",
+  "url":"https://www.lanacion.com.ar/deportes/futbol/el-futbol-chivo-expiatorio-inglaterra-pide-donaciones-nid2351964",
+  "thumbnailUrl":"https://bucket3.glanacion.com/anexos/fotos/69/3230469w960.jpg",
+  "image":{
+    "@context":"http://schema.org",
+    "@type":"ImageObject",
+    "url":"https://bucket3.glanacion.com/anexos/fotos/69/3230469w960.jpg",
+    "height":540,
+    "width":960
+  },
+  "dateCreated":"08/04/2020 12:01:00 a.m.",
+  "datePublished":"08/04/2020 12:01:00 a.m.",
+  "dateModified":"08/04/2020 00:02:15",
+  "mainEntityOfPage":"https://www.lanacion.com.ar/deportes",
+  "articleSection":"Deportes",
+  "author":[
+    "Ezequiel Fernández Moores"
+  ],
+  "creator":[
+    "Ezequiel Fernández Moores"
+  ],
+  "keywords":[
+    "Premier League",
+    "Deportes",
+    "La columna de Ezequiel Fernández Moores",
+    "Coronavirus"
+  ],
+  "publisher":{
+    "@type":"Organization",
+    "name":"LA NACION",
+    "url":"https://www.lanacion.com.ar/",
+    "logo":{
+      "@context":"http://schema.org",
+      "@type":"ImageObject",
+      "url":"https://static.lanacion.com.ar/v1/ln/imgs/layout/logos/logo-ln-amp.png",
+      "height":41,
+      "width":391
+    }
+  },
+  "articleBody":"\n'A mí me gustaba el fútbol cuando lo jugaban los líricos y los tuberculosos. Pero ahora se ha convertido en un refugio de millonarios'. Quinquela Martín, pintor mítico de La Boca, lo dijo en 1967. Y Dante Panzeri lo citó en 1974, en Burguesía y gansterismo en el deporte . Es un libro que describe al fútbol como 'un gigante atrofiado e hipertrofiado'. Y al jugador, como a un 'recreador de multitudes de una actividad no productora de servicios esenciales', pero de alta demanda. Por eso, Panzeri reconocía que el arte de entretener fuera mucho más rentable que el arte de curar. Pero lo consideraba 'absolutamente aberrante' y confiaba en una 'rebelión de las masas' que algún día se hartara del 'saqueo' que hacía el deporte, 'ayudado por una prensa adocenada y cómplice'. Fallecido en 1978, Panzeri admitiría que no había habido tal rebelión. Pero difícilmente se habría prestado a utilizar a los jugadores millonarios como chivo expiatorio. A señalarlos porque los médicos ni siquiera tienen hoy barbijos para atender a las víctimas de la pandemia.\nEl debate estalló estos días en Inglaterra, el país del fútbol más millonario del mundo y cuyo primer ministro, Boris Johnson , lucha contra el coronavirus en una unidad de terapia intensiva. Su ministro de Salud, Matt Hancock, contrastó la indefinición de los jugadores sobre el recorte de sus salarios con el sacrificio de los médicos del Servicio Nacional de Salud (NHS). 'Vergüenza, señor Hancock', le replicó Barbara Ellen. Su reclamo, le dijo la periodista, 'apesta a prejuicios de clase profundamente arragaidos, que toma como blanco fácil a jugadores supuestamente «codiciosos, arrogantes y desclasados»'. Más duro aún, Simon Hattenstone apuntó contra la política de la última década del Partido Conservador, de recortes y privatizaciones que dañaron a la salud pública, y recordó que el propio Boris Johnson bloqueó inicialmente en 2017 un aumento mínimo a los trabajadores del NHS. Sus salarios medios de entre 30.000 y 80.000 libras anuales serán siempre incomparables con la media de 7 millones de libras que paga a sus estrellas el campeón Manchester City .\nAntes de que Hancock les apuntara, los jugadores ya debatían cuánto debían rebajar su salario. La Premier League les pidió 30%. El sindicato aclaró que el descuento no podía ser igual para todos y pidió a los clubes que mostraran sus cuentas y garantizaran que ese dinero no terminaría siendo utilizado para fichar refuerzos. Fue escandaloso que justamente Liverpool y Tottenham , los dos últimos finalistas de la Champions, el torneo más millonario del mundo, se acogieran a un programa de ayudas del gobierno para pagar los salarios de empleados del club. Jaqueados por sus propios hinchas, por su propia historia, y porque 'nunca caminarás solo', los patrones estadounidenses de Liverpool tuvieron que retroceder y pedir disculpas. Tottenham no lo hizo. Su dueño es Joe Lewis , millonario offshore, terrateniente de la Patagonia.\nMientras otras ligas ya acordaron rebajas solidarias, la Premier, con su tienda vacía, ofreció el último fin de semana una 'lucha indecorosa' de 'ambiciones individuales' que tuvo a la riqueza 'como única lengua aceptable'. La 'incapacidad para funcionar como un colectivo'. El 'hedor de un deporte -escribió Jonathan Liew en The Guardian - que ha corroído sus propias obligaciones'. ¿Pero acaso la nueva Inglaterra no exhibía orgullosa el poder global de su Premier League? Por supuesto que están las donaciones. La Premier donó en total unos 200 millones de euros (algo así como un 5% de su facturación anual). El oligarca ruso Roman Abramovich , patrón de Chelsea, cedió a personal del NHS las instalaciones de su Stamford Bridge Hotel. Y muchos planteles acordaron resignar salarios para que cobren los empleados del club. Hay jugadores realmente vinculados con sus orígenes más profundos. Y que están lejos de superar los mil millones de dólares , barrera que, según informó Forbes días atrás, ya cruzó Cristiano Ronaldo . Sería como suponer que Carlos Tevez representa hoy al futbolista medio en la Argentina.\nTiene razón Carlo Ancelotti , hoy DT de Everton, cuando dice que si 'esto es como una guerra después vendrá la posguerra'. Llevará un tiempo retomar el discurso habitual sobre la vida 'sacrificada' del héroe deportivo. Los primeros goles, está claro, le ganarán como siempre a la salud pública. ¿Pero por qué Hancock, el ministro de Salud que apunta contra los jugadores millonarios, no les pide a ex primeros ministros como David Cameron y Theresa May algo de los dinerales que cobran por sus conferencias globales? Se lo pregunta el colega Alistair Campbell. Y sigue: ¿por qué no pedirle públicamente dinero también a JK Rowling, a Lewis Hamilton, al 007 Daniel Craig, a Adele, a banqueros y fondos de inversión financistas de campañas, abogados y anunciantes multimillonarios? 'El futbolista como blanco fácil', se lamenta Gary Lineker. Es de noche. La BBC informa sobre el estado de Boris Johnson. La imagen muestra a Dominic Raab, el ministro a cargo, boxeador cuando estudiaba en Oxford, cinturón negro de karate, abanderado de recortes hasta semanas atrás. En la pantalla aparece un médico que llora. Dice que no alcanzan las camas. Que faltan equipos protectores. Ya llegará alguien que termine echándole la culpa de todo al NHS. Nos dirá que será mejor privatizarlo."
+}
