@@ -30,14 +30,14 @@ object Database {
     }
 
     def getId(json: JValue): String = {
-        val id = json.\("id").toString.split("/").dropRight(1).last
-        println(id)
-        id
+        val url = (json \ "id").values.toString
+        if (url.last == '/') url.split("/").dropRight(1).last
+        else url.split("/").last
     }
 
     def save(items: Seq[JValue], path: String, format: String): Unit = {
         items.foreach(item => {
-            writeFileContent(new File(path + getId(item) + format), prettyRender(item))
+            if (item != null) writeFileContent(new File(path + getId(item) + format), prettyRender(item))
         })
     }
 

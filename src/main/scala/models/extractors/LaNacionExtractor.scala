@@ -1,7 +1,8 @@
 package models.extractors
 
 import net.liftweb.json.JsonAST.JValue
-import net.liftweb.json.{parse, prettyRender}
+import net.liftweb.json.parse
+import org.jsoup.HttpStatusException
 import utils.http
 
 case class LaNacionExtractor() extends Extractor {
@@ -9,7 +10,15 @@ case class LaNacionExtractor() extends Extractor {
     val articleSelector = "#cuerpo"
 
     override def extract(url: String): JValue = {
-        val jsonLD = http.getElementContent(url, jsonLdSelector)
+        var jsonLD = ""
+        try {
+            jsonLD = http.getElementContent(url, jsonLdSelector)
+        } catch {
+            case e: HttpStatusException =>
+                println(s"error: ${e.getStatusCode}")
+                return null
+        }
+
         val article = http.getElementTexts(url, articleSelector)
 
         val auxJson = Extractor.putId(parse(jsonLD), url)
